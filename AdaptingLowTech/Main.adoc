@@ -1,0 +1,1191 @@
+= Getting Started with AAC: Access to low tech symbol based resources when pointing is difficult
+Katharine Buckley
+v1.2 2016-10-01
+:toc: right
+:toclevels: 3
+:page-layout: docs
+:sectlinks:
+:sectanchors:
+:imagesdir: Media/images
+:doctype: book
+:keywords: AAC, Low-tech, Pointing, Direct-Access
+:copyright: CC-BY-SA 3.0
+:hide-uri-scheme:
+//:front-cover-image: image:front-cover.jpg[Front Cover,1050,1600]
+
+
+[preface]
+== Foreword
+The aim of this resource is explore access to low tech symbol based AAC when accessing standard resources is difficult physically or visually. It is aimed at people who are familiar with low tech AAC, but want to find out more about how to adjust and adapt the resources to meet individual needs.
+
+For a more general all round introduction to low tech symbol based AAC, you could see another resource in this AAC Information Series, _Getting Started with AAC: Using low tech symbol based systems with children_.
+
+While this resource is all about access to symbol based resources, it is important to also provide individuals with an alphabet chart, to enable them to explore and develop their use of letters. You can find lots more information about how to design and adapt alphabet charts in the resource, _Getting Started with AAC: Designing and using alphabet charts_.
+
+Please note that this resource is not suggesting that low tech is ‘best’, or that low tech is a prerequisite to a more high tech communication aid. It is simply about valuing the role of paper based communication systems, and sharing lots of ideas and strategies to help develop and support them. You may well find that many of the ideas and strategies are useful when it comes to other forms of communication too.
+
+=== Acknowledgements
+This resource was developed through grant funding from the Department for Education National Prospectus Grants Programme 2013-2015. This project involved a consortium of ACE Centre, Communication Matters and 1Voice.
+
+Thank you to the people who allowed us to share their stories within this resource. We also would like to thank Ruth McMorran and Marion Stanton of Communication Matters and Deborah Pugh for carefully reviewing the resources and their thoughtful comments.
+
+(c) Crown copyright 2015
+
+The Picture Communication Symbols (c) 1981-2015 Dynavox Mayer-Johnson are used under contractual agreement. All rights reserved worldwide. SymbolStix Symbols (c) SymbolStix 2015 LLC
+
+Widgit Symbols (c) Widgit Software 2002-2015 http://widgit.com
+
+Any enquiries regarding the use and re-use of this information resource should be sent to enquiries@acecentre.org.uk
+
+== Chapter 1 - Introduction to Low Tech AAC
+
+.In this chapter:
+****
+* Remind ourselves what communication is all about
+* Consider the nature of low tech AAC
+****
+
+=== Communication
+
+Communication involves more than just speech. We all use gesture, body language, tone of voice, eye pointing, and so on, to support our communication. A well timed roll of the eyes can sometimes communicate a lot more than a few choice words!!! Augmentative and Alternative Communication simply adds some extra tools into this list of existing skills, supplementing and enhancing skills that are already present.
+
+=== Low Tech AAC
+
+AAC stands for Augmentative and Alternative Communication. AAC includes strategies (e.g. signing, gesture, etc.) and equipment (e.g. a symbol chart, an alphabet chart, a simple talking button, a more complex computer based voice output communication aid, etc.) that support or replace speech.
+
+The reason that it is Augmentative and Alternative Communication, rather than just Alternative Communication (two ‘A’s’ in AAC, rather than one) is to emphasise that AAC is not just for people who cannot speak at all and need an alternative. AAC is also for people who have speech, but whose speech is not sufficient or clear enough for everyone to understand them all of the time. In other words, AAC can augment or support someone’s speech as well as provide an alternative to speech where there is none.
+
+Low tech AAC is AAC that uses some sort of simple equipment that doesn’t involve a battery. In a way it is defined by what it it is not, which is light or high tech AAC. It is often, although not always, made using paper. Examples of low tech AAC include objects of reference, symbol charts and books, alphabet charts, E-tran frames, etc.
+
+Objects of reference in a nursery classroom.
+
+[sidebar]
+.Gallery 1.1 Examples of low tech AAC
+--
+image::OoR1-thumb.jpg[title="Objects of reference in a nursery classroom.", link="Media/images/OoR1.jpg"]
+image::object2-thumb.jpg[title="An object of reference used alongside a symbol to identify the sensory room in a school.",link="Media/images/object2.jpg"]
+image::Photos-thumb.jpg[title="Objects of reference in a nursery classroom.", link="Media/images/Photos.jpg"]
+image::comchart-thumb.jpg[title="An object of reference used alongside a symbol to identify the sensory room in a school.",link="Media/images/comchart.jpg"]
+image::SDC10217-thumb.jpg[title="Objects of reference in a nursery classroom.", link="Media/images/SDC10217.jpg"]
+image::combook-thumb.jpg[title="An object of reference used alongside a symbol to identify the sensory room in a school.",link="Media/images/combook.jpg"]
+image::etranonstand-thumb.jpg[title="An object of reference used alongside a symbol to identify the sensory room in a school.",link="Media/images/etranonstand.jpg"]
+image::eyepointingcombook-thumb.jpg[title="Objects of reference in a nursery classroom.", link="Media/images/eyepointingcombook.jpg"]
+image::alphachartuse-thumb.jpg[title="An object of reference used alongside a symbol to identify the sensory room in a school.",link="Media/images/alphachartuse.jpg"]
+image::tiagoandk-thumb.jpg[title="Objects of reference in a nursery classroom.", link="Media/images/tiagoandk.jpg"]
+image::Activity_AudScan-thumb.jpg[title="An object of reference used alongside a symbol to identify the sensory room in a school.",link="Media/images/Activity_AudScan.jpg"]
+image::aud1-thumb.jpg[title="An object of reference used alongside a symbol to identify the sensory room in a school.",link="Media/images/aud1.jpg"]
+--
+
+A better term for low tech AAC might be ‘no tech’! Low tech AAC comes in many shapes and forms. However, broadly speaking you will find low tech AAC based around objects of reference, symbols, whole words and letters. The focus of this resource is on access to symbol based low tech AAC. In other words, low tech AAC that is aimed at people whose literacy levels are not sufficient to enable them to rely upon the printed word to support their face-to-face communication.
+
+Light tech AAC (or basic high tech AAC) is AAC that uses simple battery powered equipment. To find out more about what’s available, see SpeechBubble (http://speechbubble.org.uk).
+
+High tech AAC is AAC that uses more cox§mplex equipment such as computers, tablets and iPads / iPods. High tech AAC options tend to make use of synthesised speech. To find out more about what’s available, see SpeechBubble (http://speechbubble.org.uk).
+
+While this resource is focused firmly on access to low tech symbol based resources, you may well find that some of the terminology and strategies are useful when considering access to light and high tech AAC as well.
+
+=== Adapting Low Tech AAC
+
+Most of the time symbol based charts and communication books look fairly similar, and are designed to be used by someone who points to symbols to communicate alongside or instead of their speech.
+
+_But what happens if someone can’t simply point to a symbol?_ What if pointing is difficult, or they struggle to see the symbol? This resource is all about how to support access to low tech symbol based AAC when pointing is not easy. For information about supporting access to alphabet charts / text based low tech AAC, see the _Getting Started with AAC: Designing and using alphabet charts resource_.
+
+Of course, by definition, communication involves at least two people! Sometimes the adjustments and adaptations that need to be made to facilitate access are also to do with the needs of regular communication partners, i.e. the people with whom an individual is communicating! For example, if a key communication partner in their life has a visual impairment, you may need to increase the size of font used to enable that person to see what the individual is selecting.
+
+== Chapter 2: Direct Touch
+
+.In this chapter:
+****
+* Consider factors that might influence the design of a communication chart or book to facilitate direct touch
+* Find out about tools and strategies to support direct touch
+* Briefly consider the exchange method
+****
+
+The term direct touch describes the way someone points to symbols on a chart or page using a bit of their body. It is also known as direct selection and direct access. People most often point using a finger, but sometimes use a fist, elbow, toe, or whatever works best for them. They may also use a pointing tool to facilitate direct touch. You can never generalise when it comes to AAC(!), but on the whole, if someone can access a chart directly, this tends to be the preferred way of selecting letters (the selection method).
+
+=== Chart Design to Support Direct Touch
+
+When designing a chart or book to meet the needs of someone who uses direct access, you need to take into account their physical and visual skills. This section looks at some of the questions you might ask when considering chart design. As a general rule, try and involve the individual who will be using the chart in its design as much as is possible.
+
+_How are they going to access the chart?_ It could be with a finger, a hand, a fist, an elbow, or some other part of their body altogether. This may affect the size of the chart, the size of the cells in the chart, and / or the amount of space between the items.
+
+This child is using three fingers to clearly indicate their chosen symbol. You can see from this photograph that, while the chart they are using is working well, they would not yet be able to manage any more items on the page, as it would not be clear to a communication partner what was being selected.
+
+image::Jl8UFlB-thumb.jpg[title="Chart Design", alt="Chart Design", width="300", link="Media/images/Jl8UFlB.jpg"]
+
+The use of space is really important in chart design. Here are two versions of the same balloons chart, one with larger symbols, and the other with slightly smaller symbols with more space between them. The changes are subtle, but can make all the difference. Increasing the amount of space between cells can also help make a chart feel less cluttered visually.
+
+A ‘standard’ symbol chart.
+
+[sidebar]
+.Gallery 2.1 Using space to support direct touch
+--
+image::Balloons_8_PCS_copy_2-thumb.jpg[title="A ‘standard’ symbol chart",link="Media/images/Balloons_8_PCS_copy_2.jpg"]
+image::Balloons_bigger_gaps_copy_2-thumb.jpg[title="The same chart, now with increased amounts of space between cells.", link="Media/images/Balloons_bigger_gaps_copy_2.jpg"]
+--
+
+How someone accesses the chart might also affect the shape of the chart itself. While charts are often designed as a rectangular grid, chart design software is now flexible enough to be creative with shapes when needed. For example, here’s a chart that has been designed for someone who likes to rest their hand in the centre of the chart and then make small movements towards each cell.
+
+The hand resting on the chart.
+
+[sidebar]
+.Gallery 2.2 Use of shape to support direct touch
+--
+image::fist_point_1-thumb.jpg[title="The hand resting on the chart",link="Media/images/fist_point_1.jpg"]
+image::fist-point-2-thumb.jpg[title="Selecting the 'help' symbol",link="Media/images/fist-point-2.jpg"]
+--
+
+_How far can someone reach?_ Is it easier to access items in certain areas? If so, you will need to take this into account with your chart design and in its positioning. For example, if someone is able to access symbols everywhere on a page but finds it a little easier to touch symbols on the left hand side of a chart, you might ensure that the most useful words / symbols are on the left, and the ones that are used less often are placed on the right. Alternatively, if someone finds it easier to select symbols with their right hand, you might want to place the chart or communication book on the right hand side of their wheelchair tray.
+
+_How many different areas can someone point to on a page?_ As a general rule, the more vocabulary that is on a single page the better as it reduces the page turns that are required, which can help keep communication flowing. It also gives the communication partner easy access to more vocabulary to use when modelling use of the chart (see _Getting Started with AAC: Using low tech symbol based systems with children_ for more information about communication partner skills).
+
+However, this will need to be balanced against the physical and visual skills of the person accessing the chart. If you cannot place enough vocabulary on a single page to meet their language needs, you will need to design a system that incorporates page turns and provides ways of moving easily between pages.
+
+Alternatively, you might want to think about using <<_chapter_5_encoding,encoding>> to increase the amount of information on a page, or look at another access method such as <<eye-pointing, Eye Pointing>>, <<coded-access, Coded Access>>, <<listener-mediated-scanning, Listener Mediated Scanning>> or <<combination-access, Combination Access>>.
+
+_How well can the individual see?_ This will impact on the symbols chosen, the size of the materials presented, the amount of material on a page, the use of colour, and how / where the chart is positioned. See <<_chapter_3_visual_difficulties>> for more information.
+
+=== Tools and Strategies to Support Direct Touch
+
+Conventional symbol charts are designed to be accessed using an index finger. However, pointing to letters in this way can be difficult for some. This section considers tools and strategies that can make direct access more successful.
+
+==== Learning to Point
+
+Sometimes an individual may need help to learn that one particular finger is in charge of ‘pointing’. Where possible, a one finger point is beneficial as it helps the communication partner to see what is being chosen.
+
+As a temporary teaching tool, a sticker or some nail varnish on the fingernail of the pointing finger can help to signal to the individual (and their communication partner) what to pay attention to. Alternatively, for someone who is happy to wear a glove, you could try cutting off the end of the glove’s pointing finger.
+
+When learning new skills, it can be a good idea to try to avoid the pressure of attempting to communicate something really important. Instead, you could practise pointing with a playbased communication chart around a game like Simon Says. There is a great reaction to whatever is pointed to, but if there are any mistakes or uncertainties, this will not result in someone being given a snack that they dislike or going on an outing that they didn’t want to go on. Try and feedback to the individual where you think they are pointing to, to further reinforce their learning.
+
+image::wWhd2Yl-thumb.jpg[title="Simon Says Chart", alt="Simon Says Chart", width="300", link="Media/images/wWhd2Yl.jpg"]
+
+==== Writing Slope / Wedge
+
+Charts and books are often presented flat on a table or on a wheelchair tray. However, some people find that angling the chart slightly by placing it on a writing slope or wedge can make a big difference to their ease of access. The ideal slope is normally between 30 and 45 degrees.
+
+This is a junior writing slope produced by Posturite - see http://posturite.co.uk.
+
+image::fVYxjNb-thumb.jpg[title="Writing Chart", alt="Writing Chart", width="300", link="Media/images/fVYxjNb.jpg"]
+
+==== Non-Slip Material
+
+If a chart or book is slipping around on a tray or table, this can make it more difficult to access. Sometimes fixing it in place with a sticky material like Blu Tack or Velcro™ can make an enormous difference. Some people find using non-slip materials like Dycem or Tenura underneath a chart can help too.
+
+A magnetic writing slope can help with both the angle and the slipping issues by presenting material at an adjustable angle, and allowing it to be fixed in place with a magnet.
+
+==== Keyguard
+
+A <<keyguard, keyguard>> is a cover that fits over a keyboard or computer screen and contains holes through which keys or areas of the screen can be selected. It allows an individual to rest their hand on the cover and make selections through the holes. For some individuals it can reduce accidental selections. It can also help someone with a tremor to target an area more precisely.
+
+Although keyguards are most commonly used with computer keyboards or touchscreen devices, it is possible to make a keyguard for a symbol chart or for use with pages within a book. A keyguard could be made from Perspex®, wood, or even cardboard. The downside is that there are few options commercially available.
+
+This is an example of a keyguard for a low tech communication chart that has been developed by Logan Technologies (http://logan-technologies.co.uk/). They may also be able to design a keyguard to fit your own customised symbol chart.
+
+image::gLfhgLM-thumb.jpg[title="Keyguard", alt="Keyguard", width="300", link="Media/images/gLfhgLM.jpg"]
+
+If ACE Centre becomes aware of other options for customised keyguards for low tech resources in the UK, they have undertaken to share the information on their website - http://acecentre.org.uk.
+
+==== Pointing Tools
+
+Pointing tools are often designed to help people with disabilities type or make onscreen selections more accurately, but they can also help some people point more accurately to a low tech chart. They come in many different shapes and sizes. They are known by different names, including ‘typing aid’, ‘keyboard aid’, ‘touch enabling device’, ‘dibber’, ‘universal cuff’, ‘accessible stylus’ and more. Not everyone likes to wear them, however, and some find it inconvenient to have another piece of equipment involved in communicating.
+
+[sidebar]
+.Gallery 2.3 Examples of pointing tools
+--
+image::Slip-on-Typing-aid-thumb.jpg[title="This is an example of a typing aid.",link="Media/images/Slip-on-Typing-aid.jpg"]
+image::AliMed-typing-aid-thumb.jpg[title="This is a typing aid that is available in the UK from AliMed (see www.amazon,co.uk).",link="Media/images/AliMed-typing-aid.jpg"]
+image::tbar-thumb.png[title="This T-bar stylus is available from www.dadinashed.com. It has been designed to facilitate access to a tablet screen, but can also be used as a pointing tool to low tech AAC.  ",link="Media/images/tbar.png"]
+--
+Occasionally people choose to use a stick mounted to a headband to point to symbols. This one is available from http://dadinashed.com.
+
+image::xfpAOEc-thumb.png[title="Laser Pointer", alt="Laser Pointer", width="300", link="Media/images/xfpAOEc.png"]
+
+==== Laser Pointer
+
+Another way of ‘pointing’ to a chart is to use a <<laser-pointer, Laser Pointer>>. These tend to be designed to help presenters indicate key points on their PowerPoint presentations. However, some people choose to use them to point to symbols on a chart.
+
+The easiest way to do this is to attach a small laser pointer to a pair of glasses. The person gently moves their head to direct the laser beam onto the symbols on a chart. However, the laser pointer could be handheld, or attached to the body in another way.
+
+To avoid damage to eyes, make sure you choose an ‘eye-safe’ laser.
+
+You can view a video of someone using a laser pointer to access an alphabet chart with whole words here http://youtube.com/watch?v=AooDQOzdOyE#t=24.
+
+==== Pick Up and Show
+
+Pick up and show involves someone picking up a symbol and showing it to someone. Just occasionally, someone may find it easier to grab a symbol that is Velcroed™ to a page and pull it off than they do to point to a specific symbol on a page. Pick up and show materials can look similar to PECS® (see <<_exchange, Exchange>>) materials, but are they used quite differently in that there is no requirement to exchange the symbol. The individual merely shows the symbol to the communication partner.
+
+To keep track of symbols, and to assist with motor learning, it is helpful to ensure that the symbols are always put back in the same place. The easiest way to do this is to print two copies of a communication chart. One copy is cut up into the individual symbols, and these are laminated. The other copy is laminated without being cut up. The individual symbols are then Velcroed™ onto their corresponding symbol on the laminated communication chart.
+
+In this example, you can see that the symbol ‘like’ has been picked up. The corresponding ‘like’ symbol on the laminate sheet is just visible.
+
+image::hLQncx3-thumb.jpg[title="Pick Up and Show", alt="Pick Up and Show", width="300", link="Media/images/hLQncx3.jpg"]
+
+As pick up and show resources are developed into a communication book, there can be some issues around managing the materials. It is easy to lose symbols in this system, for example, and communication books can quickly become bulky. See the section on <<_exchange, Exchange>> for more discussion around such issues.
+
+==== Help with Page Turning
+
+When using a few communication charts or a full communication book, some people who are able to direct access need a bit of extra help to turn the pages. One strategy is to make use of your communication partner, and have an agreed way of indicating to them that you would like them to turn the page – perhaps a special symbol on the page, a gesture, etc. However, some people find putting spacers between each page makes it easier to turn the pages themselves (e.g. self-adhesive foam squares or craft glue dots). Others find that sticking lolly sticks (available in packs from craft shops so you don’t need to eat too many ice lollies – unless you want to!) to the back of each page helps them to flick the pages over. Laminating the pages can also help make them sturdier and easier to turn, although do bear in mind that gloss laminate can make the pages harder to see, so try to use matt pouches if possible. There are some great ideas here http://atclassroom.blogspot.co.uk/2010/07/pagefluffing.html
+
+=== Exchange
+
+Exchange is a slightly different form of direct access. Exchange is a method of using low tech AAC which requires the person to hand over a symbol to their communication partner. Typically the symbols will be laminated with Velcro™ on the back, and presented either on a board or within a book. It is particularly useful for individuals who are not able to understand that pointing to symbols can be communicative. Symbols can be pulled out and arranged on a sentence strip.
+
+The most well known form of exchange is PECS® (Picture Exchange Communication System). PECS® is a communication system that has been designed to support people who have autism or who are on the autistic spectrum and need to learn the purpose of communication. It is a six stage process that is widely used in the UK.
+
+You can find out much more about PECS® at http://pecsunitedkingdom.com/.
+
+This is an example of a PECS® style communication book.
+
+image::F6LL5bs-thumb.jpg[title="PECS style Communication", alt="PECS style Communication", width="300", link="Media/images/F6LL5bs.jpg"]
+
+While PECS®, and other exchange systems, can be hugely beneficial for some, there are some [[practical-disadvantages]]practical disadvantages to such systems.
+
+By placing Velcro™ on the back of each symbol, it is inevitable that the communication book becomes thicker and heavier. It can also be easy to lose symbols, particularly when out and about. Unless each symbol has an identified place on the page, this approach to low tech communication can mean that the symbols move around both on a page and between pages in a communication book. This can make it harder to find a symbol, particularly for someone with a visual difficulty, and reduces opportunities for motor learning.
+
+As a general rule, the process of picking up the symbol takes more time than simply pointing to it. This can make the communication process slower, particularly if someone finds the act of picking up a symbol physically tricky. It can be further slowed by the additional time taken to construct a sentence and then replace each symbol in the book.
+
+Given these limitations, it is worth thinking carefully before introducing an exchange based communication system. For some, the process of exchange is essential to their becoming a successful communicator. For others, exchange may be a part of their journey towards being able to use a pointing based communication system in the future. For a discussion around moving on from PECS®, have a look at Gresswell and Moore’s article in the Communication Matters journal in April 2006 http://communicationmatters.org.uk/page/cmj-2006.
+
+== Chapter 3: Visual Difficulties
+
+.In this chapter:
+****
+* Be introduced to visual difficulties that can impact upon the use of AAC
+* Consider tools and strategies that can support visual access for some
+* Look at tactile symbols
+****
+
+Visual difficulties can involve problems with the mechanics of seeing (acuity), but also with the processing of visual information.
+
+Visual difficulties can have a big impact on someone’s ability to make use of a symbol based chart or communication book. Symbols and symbol charts can be busy and detailed, and visual skills play a hugely important part in learning what they mean and how to use them.
+
+Reports from relevant professionals can be an invaluable source of information. A child in school may have support from an advisory teacher for vision impairment, for example. Do seek their advice on how best to present information. Visual difficulties are often poorly understood. <<cortical-visual-impairment, Cortical Visual Impairment>> can be particularly challenging to understand, as visual skills can fluctuate and change / develop over time. It’s important to document what you think someone is seeing and their visual behaviours to help you, and others, build up a clearer picture of the impact of any visual difficulties. In practice, chart design for someone with a visual difficulty is likely to involve a bit of trial and error along the way!
+
+Christine Roman-Lantzy’s book Cortical Visual Impairment: An Approach to Assessment and Intervention may be a useful resource for anyone seeking to understand more about visual difficulties.
+
+Do bear in mind that some individuals may have undiagnosed colour blindness, particularly since screening for this is no longer standard in the UK. Although predominantly affecting boys, occasionally girls can be affected. If a person is found to be colour blind, this information can be used to adjust the colours used within a communication chart so that it is as visually accessible as possible. See http://colourblindawareness.org for more information.
+
+Finally, it is worth remembering that just because someone wears glasses, does not mean that they don’t have additional visual processing difficulties, so do ask questions. Also bear in mind that someone may have glasses, but choose not to wear them! In such cases it’s worth seeking to understand what that person can see without their glasses on, and then adapting the symbol and font size accordingly.
+
+There are lots of factors that can be varied to accommodate visual difficulties, including size of symbols / text, use of spacing on a page, type of symbol used, use of colour (both within symbols and on the page), shape and positioning of the chart. Ultimately, if visual access to symbols is too difficult, then an alternative strategy such as <<auditory-scanning, auditory scanning>> may be considered.
+
+=== Tools and Strategies to Support Visual Access
+
+==== Laminate
+
+Communication charts and book pages are often laminated to make them more robust and easier to use. In situations where there is lots of overhead lighting, it’s well worth making use of matt laminate rather than gloss laminate pouches, as the latter reflect the overhead lighting which can cause quite a significant visual distortion.
+
+An alternative is to print the chart or pages on so-called ‘indestructible’, tear-proof or waterproof paper.
+
+==== Clarity of Photographs
+
+Photographs often have a role to play in a symbol based communication system. Photographs of people, specific places, specific toys and games, etc. can be easier to recognise than a more generic symbol, for example.
+
+If photographs are being used, it is important to consider how clear they are as a badly taken photograph can actually be far harder to learn and use than a clearly drawn symbol. For example, it is much easier to recognise an object or a person from a photograph if the picture is taken against a clear / plain background as opposed to a ‘busy’ background. This is especially important when using photographs on a communication chart, as they can end up being really quite small.
+
+This simple example highlights the difference in clarity between two photographs of the same game, one taken on a plain background, the other against a ‘busy’ toy shelf.
+
+This photograph is taken with the game against a cluttered
+toy shelf. The game itself is rather lost amongst all the
+other toys.
+
+[sidebar]
+.Gallery 3.1 An illustration of the importance of taking clear photographs
+--
+image::photo-busy-thumb.png[title="This photograph is taken with the game against a cluttered toy shelf. The game itself is rather lost amongst all the other toys.",link="Media/images/photo-busy.png"]
+image::photo-plain-thumb.jpg[title="This photograph is taken with the game placed on a plainer background. The game stands out much more clearly in this photograph.",link="Media/images/photo-plain.jpg"]
+--
+
+==== Colour or Black and White Symbols
+
+Most symbol libraries are in full colour, although the Makaton® library is exclusively black and white. Some resource-making software will enable you to use a black and white version of a symbol. This can make the symbol cleaner, and some individuals may prefer this. For some, the colour in a symbol can be visually distracting, and they may focus on the colour, rather than the picture as a whole. Someone on the autistic spectrum, for example, might have a strong preference for, or dislike of, a specific colour that might get in the way of them using the symbol communicatively.
+
+However, for some, colour is hugely useful in helping them to identify the picture. In the example below, the fact that the juice in the glass and the circular fruit next to it are coloured ‘orange’ may make it easier for someone to understand that the symbol is representing orange juice. The example below shows the colour version of a number of PCS symbols alongside their black and white counterparts.
+
+image::jAwM4Mz-thumb.jpg[title="Colour and Black and White Symbols", alt="Colour and Black and White Symbols", width="300", link="Media/images/jAwM4Mz.jpg"]
+
+==== Use of Colour on a Page
+
+Visual accessibility can be increased by using a high level of contrast between the background and foreground colours within a symbol cell and /or on the page itself. Commonly used high contrast combinations include yellow and black, and yellow and blue.
+
+In the example below, the black page background may help the yellow cells containing the symbols to stand out.
+
+image::gZNXVts-thumb.jpg[title="Colour on a Page", alt="Colour on a Page", width="300", link="Media/images/gZNXVts.jpg"]
+
+Background colour can also help someone with visual difficulties (or indeed anyone really) navigate through a busy communication book, as they can look out for the ‘blue chat page’, or the ‘yellow people page’, for example.
+
+In this communication book, the core vocabulary on the
+left is always on a pale yellow page background. The topic
+vocabulary is on the right. This example ‘meals page’ has a
+bright yellow background.
+
+[sidebar]
+.Gallery 3.2 Background colour to help navigation
+--
+image::Page-1-thumb.jpg[title="In this communication book, the core vocabulary on the left is always on a pale yellow page background. The topic vocabulary is on the right. This example 'meals page' has a bright yellow background.",link="Media/images/Page-1.jpg"]
+image::page-2-thumb.jpg[title="This example 'washing page' has a bright green background.",link="Media/images/page-2.jpg"]
+--
+
+==== Special Symbols to Support Visual Difficulties
+
+There are some symbols that have been specially designed to be easier to see.
+
+Widgit have produced a set of clearer symbols called VI Symbols, although they now aim to implement these principles in all new symbols produced. Taken from their website, here are some examples of how the symbol versions differ:
+
+image::wPRH3cV-thumb.jpg[title="VI Symbols", alt="VI Symbols", width="300", link="Media/images/wPRH3cV.jpg"]
+
+See http://widgit.com/products/vi/index.htm for more information.
+
+PCS have also produced a set of symbols called PCS High Contrast that were designed by Linda Burkhart and Gayle Porter. These symbols are designed to be used against a black background. Here are some examples of how they differ from the standard PCS symbols. The standard symbol is on the left, and its high contrast version is shown on the right.
+
+image::qQ0re6q-thumb.jpg[title="PCS High Contrast Symbols", alt="PCS High Contrast Symbols", width="300", link="Media/images/qQ0re6q.jpg"]
+
+See http://mayer-johnson.com/pcs-classic-high-contrast for more information.
+
+==== Chart Design
+
+Alongside the choice of symbols and the use of colour, you will want to give careful consideration to the layout of the chart, including how many symbols are shown at any one time, the size of these symbols and any accompanying text, and the use of space between cells (see <<_chart_design_to_support_direct_touch>>).
+
+==== Positioning
+
+Here, it is very important to understand how someone sees things. To enable you to position materials so that visual access is optimised, you will need to think about the distance between the person and where the materials are being presented. You may also want to consider where in their visual field they see best, and present the low tech resources accordingly. Once you have determined which position is best to facilitate optimum visual access, this could be documented in <<_chapter_11_communication_passports_drawing_it_all_together, Communication Passports>>.
+
+==== Consistency
+
+Keeping the location of symbols on a page consistent is very important, whatever the access method. It gives people the opportunity to build up the motor patterning needed to access materials using automaticity (a bit like how, when driving a car, you can change gear without having to consciously think through all the steps). Where visual difficulties are concerned, consistency of positioning is also invaluable as it means that someone does not have to visually search for an item on a familiar chart.
+
+It is helpful to be consistent across different charts. For example, if ‘more’ appears on lots of charts, then ideally it should be in the same place on each chart. Similarly, it is important not to fall into the trap of testing by regularly swapping symbols around on an individual chart. Imagine how annoying (and difficult) it would be if every time you came to type on your computer keyboard, someone had swapped the letters around!
+
+==== Pick Up and Show
+
+Pick up and show was discussed above in <<_chapter_2_direct_touch>>. However, it is also a strategy that can be used to support visual access to symbols, particularly when the picking up is done by the communication partner. This can help those who have difficulties managing the visual complexity of a whole page of symbols, as they are only having to look at one symbol at a time. It can also help someone with visual field issues, as the symbol can be held in the place where it is easiest for the individual to see.
+
+With this in mind, pick up and show can be used to support <<listener-mediated-scanning, Listener Mediated Scanning>>. Individual symbols, or even strips of symbols, can be picked up and shown to an individual as the communication partner scans through the options.
+
+Pick up and show can also have a real role to play in modelling for someone with a visual difficulty, or when symbols are being used to support understanding. The communication partner can pick up an individual symbol and show it to someone as they are talking, rather than simply pointing to a symbol on a page that may be harder for someone with a visual difficulty to see.
+
+image::hLQncx3-thumb.jpg[title="Pick Up and Show", alt="Pick Up and Show", width="300", link="Media/images/hLQncx3.jpg"]
+
+Do bear in mind some of the <<practical-disadvantages, practical disadvantages of using systems based around Velcro>>  that were discussed above.
+
+=== Tangible Symbols
+
+For an individual with a very significant visual impairment, you may want to consider <<tangible-symbols, Tangible Symbols>>. The term tangible symbol is sometimes used as an alternative to the term <<objects-of-reference, Objects of reference>>. In this sense it describes the fact that an object is tangible, i.e. something you can touch, and that it symbolises or stands for something else.
+
+Objects of reference are objects or things that are used to represent concepts (e.g. a plastic cup could be used to represent the concept of having a drink). Here are some examples of objects of reference:
+
+Here, a small teddy bear is being used as an object of
+reference to represent the nursery classroom.
+
+[sidebar]
+.Gallery 3.3 Examples of objects of reference
+--
+image::object-1-thump.png[title="Here, a small teddy bear is being used as an object of  reference to represent the nursery classroom.",link="Media/images/object-1.jpg"]
+image::object2-thumb.jpg[title="Here, a colourful sensory toy is being used as an object of reference to represent the sensory room.",link="Media/images/object2.jpg"]
+--
+
+Objects of reference may be used to help someone remember something, to help them understand something, or to help them anticipate something that is going to happen. They can be used as a timetable to indicate what activity is coming first and what activity will happen next. An object of reference may also be used by an individual to express themselves.
+
+Objects of reference were initially developed to be used with people with complex visual impairment, but are now used more widely with people with learning disabilities who do not necessarily have any visual difficulties.
+
+CALL Scotland has produced an informative resource about objects of reference. Although aimed at schools, it’s a useful guide for anyone interested http://acecent.re/1DPC07x. The Brighton and Hove Learning Disability Partnership Board have also produced a helpful resource about objects of reference: http://acecent.re/1aDiIX7
+
+While the term tangible symbols is sometimes used as an alternative to the term objects of reference, it can also be used to describe much more abstract symbols. For example, you might make a communication chart about days of the week, with different textures and shapes used to convey each day. In this context, tangible symbols are also known as tactile symbols. By their very nature, such symbols are often homemade as in the personalised example below:
+
+image::FuB3fil-thumb.jpg[title="Homemade Tangible Symbols", alt="Homemade Tangible Symbols", width="300", link="Media/images/FuB3fil.jpg"]
+
+Another way of creating custom tangible symbols is to make use of a <<zyfuse-heater, Zyfuse Heater>> (see http://zychem-ltd.co.uk). In conjunction with special paper, this printer is designed to create tactile diagrams. The black ink swells to create a diagram that can be felt using the hands. However, we have encountered it being used to print symbols that can be felt in the same way.
+
+The Tactile Library website (http://tactilelibrary.com) is a free library of diagrams used in the education of people who are blind and partially sighted. The website contains links to other tactile graphic image libraries.
+
+Although tangible symbols are often homemade, there is a range of Tactile Symbol Cues, produced in America, that is commercially available. See http://adaptivedesign.org or http://acecent.re/1IRp7gv for more information. This is their symbol for ‘no’. The bright red ‘X ‘is raised off the card.
+
+image::ueVUQDP-thumb.jpg[title="Homemade No Symbol", alt="Homemade No Symbols", width="300", link="Media/images/ueVUQDP.jpg"]
+
+See http://acecent.re/1G3Xdx0 for a really interesting discussion around creating a custom range of tactile symbols for individuals with cortical visual impairment. You can also read more about tactile symbols here http://library.tsbvi.edu/Browse/Category/15 .
+
+Note that there are also tactile alphabets available. See the RNIB website for more information https://www.rnib.org.uk/ braille-and-moon-tactile-codes. Logan Technologies sell a braille label maker with both six key braille and qwerty input (http://logan-technologies.co.uk/braille-label-maker). It is worth bearing such tactile alphabets in mind, as early exposure to the alphabet is essential to support literacy development.
+
+== Chapter 4: Eye Pointing
+
+.In this chapter:
+****
+* Be introduced to eye pointing for communication
+* Consider E-tran frames and alternatives
+* Consider the number and placement of options when using eye pointing for communication
+* Think about how a selection is made on an E-tran frame
+* Reflect on the communication partner skills that are needed to support eye pointing
+****
+
+For individuals who are not able to point directly to symbols, but who have reasonable control of their eye movements, eye pointing can be an access option to explore.
+
+Eye pointing can simply involve a communication partner holding up two objects or symbols for the individual to look at and make a selection from. However, it can also be developed into a full and rich communication system.
+
+Learning to look at an item and look back at the communication partner involves lots of different skills. Indeed, trying to pin down exactly what is involved in eye pointing in communication and setting out a classification scale is the subject of ongoing and interesting  <<cite-sarjent-2013, research>>  by a team of researchers at UCL and Great Ormond Street Hospital.
+
+Using eye pointing for communication is not necessarily something that everyone will be able to do immediately, and it is not an access method that is suitable for everyone. In order to build skills in eye pointing, you should start by using it within fun games or activities and responding to where you think the communicator is looking. By keeping it firmly within the realms of fun, you can use no-fail activities to keep things light, and avoid the frustration that can alienate an individual from learning to use this skill. This is very similar to the strategy described in the <<_learning_to_point>> section above. Such play can provide an opportunity within which to ‘teach’ eye pointing skills in a fun and motivating way.
+
+If using eye pointing to purposefully communicate messages is proving too difficult for an individual for whatever reason, it may be worth thinking about another access method, such as <<_chapter_7_listener_mediated_scanning, Listener mediated scanning>>.
+
+=== E-tran Frames and Alternatives
+
+==== E-tran Frame
+
+One way of presenting information when communicating through eye gaze is to use an E-tran frame. An E-tran (or eyetransfer) frame is a Per5.2spex® rectangle with a central window removed. The idea is that the communication partner holds the frame between themselves and the communicator, making eye contact through the central window.
+
+The central window can make it easier for the communication partner to see and follow the communicator’s eye movements. Symbols (or photographs, real objects or letters) are placed around the E-tran frame, often held on by Blu-Tack or similar.
+
+A mirror image of what is shown on the E-tran frame tends to be placed on the communication partner’s side to make it easier for them to follow what is being communicated. Alternatively, as in the example below, you can simply write on the back of the symbol as this will be visible through the frame.
+
+The E-tran frame is held so that the child and the
+communication partner make eye contact through the
+window.
+
+[sidebar]
+.Gallery 4.1 An E-tran frame
+--
+image::IMG_1493-thumb.jpg[title="The E-tran frame is held sothat the child and the communication partner make eye contact throught the window.",link="Media/images/IMG_1493.jpg"]
+image::IMG_0074-thumb.jpg[title="The child sees the symbols on the E-tran frame",link="Media/images/IMG_0074.jpg"]
+image::IMG_0082-thumb.jpg[title="The communication partner sees the mirror image of what the child sees. It can be helpful to write the labels of the symbols on the back to make it easier to work out what the child is looking at.",link="Media/images/IMG_0082.jpg"]
+image::SAM_1968-thumb.jpg[title="An E-tran frame in use.",link="Media/images/SAM_1968.jpg"]
+--
+Here is a demonstration of an E-tran frame in action.
+
+.Video 4.1 Eye pointing to symbols on an E-tran frame
+video::cuwgD8YZD3k[youtube, width=300, height=180]
+
+Angus looks around the frame then eye points to the ‘more’ symbol. He then looks around again and eye points to the ‘like’ symbol.
+
+As well as being held, E-tran frames may also be placed on a stand. This gives a ‘handsfree’ option and can really work for some. However, to facilitate reading the eye pointing, the communication partner may need to double check that they are still able to make eye contact through the central ‘window’. If the frame is too low, it can be harder to read someone’s eye movements.
+
+image::uH30NtH-thumb.jpg[title="E-tran Frames", alt="E-tran Frames", width="300", link="Media/images/uH30NtH.jpg"]
+
+It is possible to buy a blank E-tran frame (e.g. from http:// liberator.co.uk or http://cec-ltd.co.uk). Alternatively, some glass suppliers may cut a Perspex® rectangle to your specification (make sure you ask them to round the corners!). Some online companies also offer a cut to size option for Perspex® or acrylic sheets.
+
+The strength of an E-tran frame is that you can place symbols flexibly. However, this can also be a disadvantage, as symbols can end up being put in a different place on the frame each time it is used. When symbols are regularly being presented, it is worth deciding where on the frame you will place them and then noting this on the back of the symbol. This will reduce the amount of searching for the symbol that an individual must do. Motor planning is an important part of learning, and this is really helped by consistency in presentation.
+
+This communication book has been developed to store symbols that are presented on an E-tran frame. The choice of symbols has been informed by the <<PODD, PODD>> approach.
+
+This is the ‘I want to tell you something page’. The symbols
+are taken out of the book and displayed on an E-tran frame
+for use by an individual.
+
+[sidebar]
+.Gallery 4.2 A communication book where the symbols are presented on an E-tran frame
+--
+image::TellYou_ETran-thumb.jpg[title="This is the 'I want to tell you something page'. The symbols are taken out of the book and displayed on an E-tran frame for use by an individual.",link="Media/images/TellYou_ETran.jpg"]
+image::DoSthg_ETran-thumb.jpg[title="The 'I want to do something page'.",link="Media/images/DoSthg_ETran.jpg"]
+image::SThgWrong_ETran-thumb.jpg[title="The 'Something's wrong page".,link="Media/images/SThgWrong_ETran.jpg"]
+--
+
+
+A cheap and easy alternative to an E-tran frame is to use a piece of A3 or A4 laminate run through the laminator empty. In this instance, gloss laminate works a bit better than matt as it is more transparent.
+
+These symbols have been laminated in a glossy laminate
+pouch.
+
+[sidebar]
+.Gallery 4.3 Using laminate as an alternative to an E-tran frame
+--
+image::IMG_0069-thumb.jpg[title="these symbols have been laminated in a glossy laminate pouch.",link="Media/images/IMG_0069.jpg"]
+image::IMG_0088-1-thumb.jpg[title="The symbols are labelled on the reverse to help the communication partner. Angus is eye pointing to the 'like'symbol.".,link="Media/images/IMG_0088-1.jpg"]
+--
+
+Alternatively, you could create something that looks a little more like an E-tran frame using a combination of paper and laminate - but note that, in this case, matt laminate works best. Less cutting is involved as you don’t need to cut around each individual symbol, but it does give you less of a ‘window’ on the communicator’s eyes. Here’s an example of a template page set out in this way:
+
+image::NszPDlq-thumb.jpg[title="Template for E-tran frame", alt="Template for E-tran Frame", width="300", link="Media/images/NszPDlq.jpg"]
+
+A collection of laminated sheets can be kept together, forming the basis of a communication book. These laminated sheets can be kept in a file or held together using rings, and then the page can be removed and shown to the individual. The advantage of this system is that the communication partner does not have to add and remove symbols from an E-tran frame each time there is a change of activity or topic of conversation. In addition, the symbols stay in the same place each time they are presented which can help with learning.
+
+==== Easel File
+
+An easel file / binder is another way of presenting material for eye pointing communicators. The file ensures that material is presented at a good angle, but can be used handsfree which some people find easier. As with the laminated sheets of symbols, it can also speed communication as there is no need to attach or re-attach symbols to a frame whenever there is a new topic of conversation or activity. Easel files are available from some of the large office stationery suppliers (e.g. Viking Direct, Staples, etc.).
+
+Alternatively, alongside the <<Look2Talk, Look2Talk>> guide, ACE Centre produces a more robust easel file that can be purchased as a standalone item – see http://acecentre.org.uk.
+
+image::NDlMXcL-thumb.jpg[title="Easel File", alt="Easel File", width="300", link="Media/images/NDlMXcL.jpg"]
+
+=== Setting up an Eye Pointing System
+
+==== Number of Items
+One of the first considerations when setting up an eye pointing system is how many items to present at any one time. This is a real balancing act between language and communication needs, and eye pointing ability. If there are too many options, it can be difficult for the communication partner to interpret the direction of gaze.
+
+When symbols are presented on an E-tran frame or similar, people tend to limit the number of symbols (or groups of symbols) presented in order to limit the number of different eye pointing movements that will be required to make selections. The number presented will vary, depending upon the individual’s eye pointing skills, visual ability and their language needs, but people tend to present between 2 and 8 options at any one time.
+
+[sidebar]
+.Gallery 4.4 Examples of symbol based eye pointing layouts
+--
+image::uH30NtH-thumb.jpg[title="Eye pointing to two photographs on an E-tran frame.",link="Media/images/uH30NtH.jpg"]
+image::SAM_1968-thumb-1.jpg[title="Eye pointing to four symbols on an E-tran frame.".,link="Media/images/SAM_1968-1.jpg"]
+image::IMG_0069-thumb-1.jpg[title="A laminate sheet set up for eye pointing with six symbols.",link="Media/images/IMG_0069-1.jpg"]
+image::IMG_0468-thumb.jpg[title="A page from an eye pointing communication book offering six symbols.".,link="Media/images/IMG_0468.jpg"]
+image::etran-8-thumb.jpg[title="An E-tran frame set up for eye pointing with eight symbols.",link="Media/images/etran-8.jpg"]
+--
+
+==== Layouts
+
+When placing symbols on an E-tran frame or similar, people tend to arrange them in a landscape layout, making use of the corners of the E-tran frame, page or laminate sheet. This layout means that the individual can make selections by looking to the corners. However, some people prefer to place symbols differently. By placing four symbols in a cross, you can make selections using up / down and left / right movements for example. Others may prefer more of a zig zag shape.
+
+It’s all about working together to find out what is easiest for the individual you are communicating with. There is a lot to be said for trial and error here!
+
+[sidebar]
+.Gallery 4.5 Exploring different layouts on an E-tran frame
+--
+image::IMG_0074-thumb-1.jpg[title="Here the symbols are placed in the four corners.",link="Media/images/IMG_0074-1.jpg"]
+image::gallery45.2-thumb.png[title="The individual must therefore move their eyes to the upper right, upper left, lower right and lower left to communicate.".,link="Media/images/gallery45.2.png"]
+image::IMG_0068-thumb.jpg[title="Here the symbols are placed in a cross formation.",link="Media/images/IMG_0068.jpg"]
+image::gallery45.1-thumb.png[title="The individual now must use their eyes to look up, down, left and right to communicate.".,link="Media/images/IMG_0468.png"]
+--
+
+==== Making a Selection Using Eye Pointing
+
+One of the challenges of using eye pointing is differentiating between a ‘searching’ look and a ‘choosing’ look. In other words, how does the communication partner know whether someone is just searching for the symbol they want, or actually looking at the option they want?
+
+One strategy that can work well on an E-tran frame or similar is the, ‘Look back at me’ strategy. Here, the communication partner encourages the communicator to search through the various options, then to look purposefully at the desired option when they have found it (briefly holding their gaze on it), and finally looking back at the communication partner to confirm that they have made that choice.
+
+Here is another video demonstration of an E-tran frame in action. Watch how Angus looks around at all the symbols before fixing his gaze on ‘more’. He then makes eye contact with the communication partner to confirm that he has made a selection. He then looks around again before fixing his gaze on ‘like’, and confirming his selection by making eye contact again.
+
+
+.Video 4.2 Angus demonstrates the ‘Look back at me’ strategy
+video::Z4awt8U_olU[youtube, width=300, height=180]
+
+Angus looks around then fixes his gaze on a symbol. He then makes eye contact to confirm he has selected a symbol.
+
+Others prefer a strategy of looking around, making eye contact with the communication partner to signal that they are ready to make a choice, and then fixing their gaze on the target symbol.
+
+Whichever strategy is chosen, it is important to make sure that all who work with the individual know and understand it. It can be useful to document how an individual makes a selection in a <<_chapter_11_communication_passports_drawing_it_all_together, Communication Passport>>.
+
+_What if I Want to Present More Options at a Time?_ Obviously, using such a small number of symbols (in the examples above, just 2 to 8 are shown at any one time) has significant implications for the amount of information that can be communicated without having to move between different pages / sheets or the communication partner having to quickly set up more symbols on an E-tran frame.
+
+If a larger number of symbols are needed, one way of offering them without multiple page turns / E-tran frame swap arounds is to make use of <<_chapter_5_encoding,encoding>>. Encoding enables you to select from more symbols while still using the same number of eye pointing movements.
+
+Encoding means that by eye pointing to just six different areas on a page, Tamsin (shown in the photograph below chatting with her brother) is able select from thirty-six symbols at a time. This vastly increases the amount of language that is easily accessible to her, and speeds up communication by reducing the number of page turns involved in any one sentence.
+
+Encoding is explained in detail in <<_chapter_5_encoding,Chapter 5>>, but essentially Tamsin first eye points to one of the six blocks that contains her target symbol. She then clarifies which of the six symbols within the block she would like by eye pointing to the coloured dot that matches the border colour of her target symbol.
+
+image::WWcp7RJ-thumb.jpg[title="Eye Pointing", alt="Eye Pointing", width="300", link="Media/images/WWcp7RJ.jpg"]
+
+Another way of presenting more options on an eye pointing array is to use an EyeLink approach.
+
+An EyeLink chart is traditionally based around letters, and is designed to be held up between two people. The transparent laminate means that the communication partner can see which letter the individual is eye pointing. Whereas an E-tran frame or similar is held in position between the individual and their communication partner, with an EyeLink approach the transparent sheet is constantly being moved. The communication partner moves the sheet in the direction that the individual is eye pointing to so that they both end up looking at the same letter.
+
+You can view an instructional video of this access method here https://vimeo.com/53036535.
+
+
+[sidebar]
+.Gallery 4.6 Eye pointing directly to items on a laminate sheet (an EyeLink alphabet chart)
+--
+image::perspex-board-thumb.jpg[title="This side is in alphabetical order.",link="Media/images/perspex-board.jpg"]
+image::eye-gaze-alphabet-mirror-image-copy-thumb.jpg[title="This side shows the mirror image.".,link="Media/images/eye-gaze-alphabet-mirror-image-copy.jpg"]
+image::Screen-Shot-2016-01-25-at-17.22.06-thumb.jpg[title="The chart is held between the individual and their communication partner.",link="Media/images/Screen-Shot-2016-01-25-at-17.22.06.jpg"]
+--
+
+
+These are photographs of Lisa’s personal <<EyeLink, Eyelink>> alphabet chart. The next short video gives a demonstration of how you could use this sort of vocabulary.
+
+.Video 4.3 Lisa demonstrates her EyeLink chart
+video::bqSXC4lHboI[youtube, width=300, height=180]
+
+As Lisa looks towards a letter, her PA moves the chart so that they are both look at the same letter. Lisa is an expert user and consequently the communication moves quickly.
+
+Here is Lisa using her EyeLink chart to introduce herself. She does not need to select every letter as her PA is able to guess what she is saying. If the PA guesses incorrectly, Lisa simply shakes her head and carries on spelling the word.
+
+Although an EyeLink approach tends to be used with letters, there is no reason why symbols could not be presented in this way. If you are working with a very confident eye pointer, it may be something worth exploring.
+
+=== Communication Partner Skills for Eye Pointing
+
+When someone is communicating using eye pointing, make sure you give them feedback on where you think they are looking as you respond.
+
+It can be helpful to make a statement (e.g. “I think you are looking here [tap the symbol] – you’re telling me ‘like’” or simply “You are looking at ‘like’”) rather than asking questions every time (e.g. “Are you looking at ‘like’?”). The individual can still respond to the statement and make it clear that you are wrong, but using a statement rather than a question takes away the feeling of someone ‘double checking’ or questioning every utterance you make.
+
+==== Chatting not Testing
+
+There is something about communication using eye pointing that can lead to feelings of anxiety in the communication partner. They will often check, double check and even triple check that they have correctly understood the selection. The problem with this is that it slows communication down and can lead to frustration. Can you imagine how irritating you would find it if someone asked if they had understood you correctly multiple times after every single sentence you uttered?! Many of us would quickly give up speaking under those circumstances, and the same is true of communicating through eye gaze. Try and lift the pressure a little.
+
+Another way testing can be introduced into normal day-to-day conversation using eye pointing is by ‘swapping’. Communication partners are often tempted to move symbols around to see if the individual can still find them. This is a bit like someone coming along and moving all the keys around on your computer keyboard and then asking you to show them what you can do! Try and keep the location of symbols as consistent as possible to enable individuals to build confidence in their communication system.
+
+==== Modelling
+
+Modelling, or pointing to symbols while you talk, is a vital communication partner skill. It is how individuals learn both what symbols mean and how to use them. You will find an indepth discussion of modelling and communication partner skills more generally in the _Getting Started with AAC: Using low tech symbol based systems with children_ resource.
+
+When modelling communication through eye pointing to symbols, it can be helpful to demonstrate to an individual how you are reading their eyes, perhaps even giving them some experience of reading your own eye movements to help them understand what is involved.
+
+However, on a day-to-day basis, simply pointing with a finger to the symbols should be sufficient. This video shows Clare pointing to symbols in Jake’s eye pointing communication book while they play with bubbles.
+
+If you are using an eye pointing communication book that has some sort of index page, it is worth taking the time to start at the beginning of the book so that you are modelling how to find the symbols as well as how to use them.
+
+.Video 4.4 Clare models using an eye pointing book
+video::7BrdTSjDi2U[youtube, width=300, height=180]
+
+Clare points to symbols whilst playing bubbles with Jake
+
+== Chapter 5: Encoding
+
+.In this chapter:
+****
+* Find out about encoding and why you might use it
+* Consider different ways of encoding symbols
+* Consider communication partner skills that can support encoding
+****
+Encoding expands the amount of vocabulary available on one page by grouping vocabulary items together. The person communicating first indicates the group that they want, and then identifies the individual item within that group. This has the advantage of expanding the amount of vocabulary available on one page. The downside is that it requires two selections to communicate one item. Encoding is often supported by colour, but you can also use numbers or even textures, shapes and position.
+
+Here is a set of symbols that have been encoded using colours. The chart has been designed to be used by someone who is able to select from six different locations, but finds six symbols on a page too limiting for their communication. Encoding means that using six target areas, the communicator can actually say thirty-six different things without turning a page. The page is divided into six blocks of six symbols. Within each block, the symbols have different coloured borders. There are six coloured dots around the edge of the page which match these coloured borders.
+
+image::SoWv41O-thumb.jpg[title="Colour Coded Chart", alt="Colour Coded Chart", width="300", link="Media/images/SoWv41O.jpg"]
+
+To communicate the symbol ‘noisy’, for example, the person would first select the block of six symbols containing the symbols ‘animal’, ‘pet’, ‘wild’, ‘sweet’, ‘scary’ and ‘noisy’. To clarify which of those six symbols they wished to communicate, they would then select the pink dot, as the symbol ‘noisy’ is surrounded by a pink border.
+
+Similarly, to communicate the symbol ‘want’, the communicator would first select the block of six symbols containing the symbols ‘different’, ‘no, not’, ‘want’, ‘like’, ‘have’ and ‘question’. To clarify which of those six symbols they wished to communicate, they would then select the blue dot in the top right hand corner as the symbol ‘want’ is surrounded by a blue border.
+
+The video example may make this clearer!
+
+.Video 5.1 Colour encoding
+video::8NqGTDLW-tk[youtube, width=300, height=180]
+
+How colour encoding works. In the demonstration, a finger point is used to clarify what is being pointed at with the fist.
+
+This video shows Tiago using an alphabet chart with colour encoding. He is using eye pointing. He first looks at the block that contains his target letter. He then clarifies which letter he would like by looking at the coloured dot that matches the letter colour.
+
+.Video 5.2 Tiago uses colour encoding with his alphabet chart
+video::07tqVhPo-Pw&[youtube, width=300, height=180]
+
+Colour encoding in action. Here it is used with an alphabet chart, but the principles are the same whether it is letters, numbers or symbols that are encoded. In the video, filmed from the perspective of the communication partner, we see the mirror image of the alphabet chart that Tiago is eye pointing to.
+
+If using colour encoding with symbols, it is probably best to avoid using colour to mark the grammatical feature of the symbol (as with the <<Fitzgerald-key, Fitzgerald key>> for example) as otherwise it can become very confusing.
+
+Colour encoding is sometimes done using dots, as in the examples above, or sometimes using thick coloured borders around the blocks, as in the example below.
+
+image::SoWv41O-thumb.jpg[title="Colour Coded Chart", alt="Colour Coded Chart", width="300", link="Media/images/SoWv41O.jpg"]
+
+If, for any reason, a communicator does not want, or is unable, to use colour to support encoding, another strategy is to use numbers. This was really helpful, for example, when working with a teenage boy who felt that colour encoding looked a bit ‘babyish’.
+
+Here is the same chart, but this time encoded using numbers.
+
+image::nF49ntI-thumb.jpg[title="Number Encoded Chart", alt="Number Encoded Chart", width="300", link="Media/images/nF49ntI.jpg"]
+
+To communicate the symbol ‘stroke’, for example, the person would first select the block of six symbols containing the symbols ‘stroke’, ‘hold’, ‘feed’, ‘soft’, ‘rough’ and ‘smooth’. To clarify which of these six symbols they wished to communicate, they would then select the number ‘1’, as the symbol ‘stroke’ is marked with the number ‘1’.
+
+Similarly, to communicate the symbol ‘guinea pig’, they would first select the block of six symbols containing the symbols ‘cat’, ‘dog’, ‘fish’, ‘guinea pig’, ‘rabbit’ and ‘hamster’. To clarify which of these six symbols they wished to communicate, they would then select the number ‘4’ in the bottom left hand corner as the symbol ‘guinea pig’ is marked with the number ‘4’.
+
+Again, a video may make this clearer.
+
+
+.Video 5.3 Numerical encoding
+video::Fbl5h41nspE[youtube, width=300, height=180]
+
+How numerical encoding works (and don’t worry - the guinea pig had been fed!).
+
+Common ways of setting up encoding include, but are not limited to, four or six groups of two symbols, four groups of four symbols, six groups of six symbols, and nine groups of nine symbols on a page.
+
+=== Getting Started with Encoding
+
+Encoding and coding can feel a bit complicated, both for the communicator and for the communication partner. It is often best to start small, perhaps using just two colours or numbers, within a fun and motivating game / activity. Once someone is confidently communicating using two colours, you can then introduce a greater range.
+
+Here is an example of an introductory encoded page for singing Old MacDonald. To direct someone to sing that Old MacDonald had a cow, you would first select the group containing the items ‘cow’ and ‘pig’. You would then clarify that you wanted ‘cow’ by selecting the blue dot, as ‘cow’ has a blue border.
+
+image::6FqmCKm-thumb.jpg[title="Old MacDonald Chart", alt="Old MacDonald Chart", width="300", link="Media/images/6FqmCKm.jpg"]
+
+=== Communication Partner Skills
+As with all communication systems, the communication partner will need to model the encoding lots of times before there is any expectation of the individual making use of the strategy themselves [see _Getting Started with AAC: Using low tech symbol based systems with children_ for lots more information about communication partner skills].
+
+The communication partner should also talk about what they are selecting and why. For example, “different has a blue border so I need to find the blue dot”. Modelling or pointing talking with encoding or coding can feel strange. However, it is important to demonstrate both how to use the vocabulary and how to select it. Modelling encoding will help someone learn how it all works.
+
+In this video you will see Tamsin using her encoded communication book to share information. Her mother models both how the encoding works and how to use the vocabulary in order to help Tamsin learn how to expand her story.
+
+.Video 5.4 Tamsin using her encoded communication book
+video::rv7mN6fA1KA[youtube, width=300, height=180]
+
+Tamsin shares information using her encoded communication book. She moves around the pages in her book to collect the vocabulary she needs. She starts on her ‘top page’ and asks to go to her ‘family page’. She then goes back to her ‘top page’ and chooses to go to her ‘positions page’. Tamsin’s Mum then models how she could expand her story.
+
+Practice really does make perfect when it comes to modelling. Keep at it and it will soon feel a bit more natural.
+
+== Chapter 6: Coded Access
+
+.In this chapter
+****
+* Be introduced to coded access
+* Consider different ways of coding symbols
+****
+
+Like encoding, <<coded-access, Coded access>> is another way of increasing the amount of vocabulary that is available on a page beyond what someone is able to access directly.
+
+Coded access describes an access method where symbols are effectively given a grid reference that the individual then communicates. It requires two separate charts to communicate. One chart contains the symbols, the other allows the communicator to indicate the location of the symbol you wish to communicate. It’s a bit like using a map – you look up the location of a road in your street atlas and it tells you the grid reference on the page.
+
+Coded access is not straightforward, and it is essential that the system is well documented - perhaps in a <<_chapter_11_communication_passports_drawing_it_all_together, Communication passport>>.
+
+In this simplified example, the first chart contains the target symbols and the second chart is used by the individual to communicate the location of the target symbol. The second chart contains colours so that the correct column can be identified, and numbers so the correct row can be identified.
+
+image::ZKvTEKi-thumb.jpg[title="Chart with Target Symbols", alt="Chart with Target Symbols", width="300", link="Media/images/ZKvTEKi.jpg"]
+
+image::E1rsz65-thumb.jpg[title="Chart with Colours", alt="Chart with Colours", width="300", link="Media/images/E1rsz65.jpg"]
+
+To communicate ‘fast’, the communicator would therefore select ‘green’ and ‘4’, as ‘fast’ is in the green column and the fourth row. Similarly, to communicate ‘uh oh’, they would select ‘blue’ and ‘three’ as ‘uh oh’ is in the blue column and the third row.
+
+.Video 6.1 A demonstration of coded access
+video::VuqZdrEHO0s[youtube, width=300, height=180]
+
+The colours are used to indicate the column or y-axis of the target symbol, and the numbers are used to indicate the row or x-axis.
+
+Coded charts can be set up in many different ways, taking into account an individual’s access abilities. The code can be as simple or as complex as is needed to suit the individual and their communication partners.
+
+In this more complex example, the first chart contains the target symbols and the second chart is used by the individual to indicate the code. This chart uses a three step code to identify the target symbols. The individual first indicates the quadrant that contains the target symbol by pointing to the corresponding colour, and then identifies the row number of the target and its column colour.
+
+image::vFxthJj-thumb.jpg[title="Complex Target Symbols Chart", alt="Complex Target Symbols Chart", width="300", link="Media/images/vFxthJj.jpg"]
+
+image::QYVoHyG-thumb.jpg[title="Colour Coded Chart", alt="Colour Coded Chart", width="300", link="Media/images/QYVoHyG.jpg"]
+
+To communicate, ‘different’, the individual would therefore first point to ‘green’ on their chart, as ‘different’ is in the green quadrant. They would then select ‘2’ and ‘red’ from their chart, as ‘different’ is in the second row and the red column. Using just eight locations on their own chart, someone is able to access and use vocabulary on a chart containing sixty-four symbols.
+
+[[double-encoded-example]]Again, in the following example, the first chart contains the target symbols and the second chart is accessed by the individual to indicate the code. The chart shown is similar to the previous chart, but here the quadrants are not coloured. In this design, to select a symbol, the individual would first indicate the quadrant containing the target symbol by either eye pointing or fist pointing to the target (in effect therefore, this is an example of <<_chapter_8_combination_access, Combination Access>>. They would then use the second chart to specify which symbol they would like to select from within that quadrant.
+
+image::vFxthJj-thumb.jpg[title="Combination Access Target Symbol Chart", alt="Combination Access Target Symbol Chart", width="300", link="Media/images/vFxthJj.jpg"]
+
+image::QYVoHyG-thumb.jpg[title="Colour Coded Chart", alt="Colour Coded Chart", width="300", link="Media/images/QYVoHyG.jpg"]
+
+To communicate the symbol ‘hungry’, the person would point to the bottom right quadrant on the main chart. They would then select the number ‘4’ and ‘red’ from their chart, as ‘hungry’ is in the fourth row and the red column.
+
+The chart that is used to communicate the location of the symbol or the code can itself be accessed in a variety of ways. For example, someone might point directly to the code, eye point to the codes on an E-tran frame (or similar), or access the codes through listener mediated scanning.
+
+== Chapter 7: Listener Mediated Scanning
+
+.In this chapter
+****
+* Be introduced to the three types of listener mediated scanning
+* Consider how to make a selection within a listener mediated scan system and how a communication partner should deliver the options
+* Look at different ways of organising information
+* Look at special considerations for purely auditory systems
+* Reflect on the communication parter skills that are needed to support listener mediated scanning
+****
+
+Listener mediated scanning is the term used to describe the access method whereby a communication partner delivers the options that are available by pointing to symbols or speaking aloud the words, or by a combination of both, and the communicator indicates when the communication partner has reached the desired option. Listener mediated scanning is also known as partner assisted scanning.
+
+There are three different types of listener mediated scanning:
+
+* Visual scanning - the communication partner simply points to symbols on offer.
+* Auditory scanning - the communication partner simply speaks aloud options without pointing to any symbols.
+* Visual and Auditory scanning - the communication partner both points to the symbols on offer and speaks aloud their label.
+
+For individuals who are able to see symbols, listener mediated scanning will usually involve both visual and auditory scanning, as in this simple example. However, as both parties gain confidence, it may progress to purely visual scanning over time.
+
+.Video 7.1 Demonstration of listener mediated scanning
+video::NY2D59MpxBw[youtube, width=300, height=180]
+
+Visual and auditory scanning of a simple bubbles symbol chart.
+
+For individuals whose visual difficulties mean that they are unable to see symbols, purely auditory scanning may be the preferred access method. However, sometimes there is still a role for a combination of visual and auditory scanning. For example, with cortical visual impairment, visual skills can develop over time and you may want to point to symbols alongside the auditory input to help stimulate visual development. You may also want to use the <<_pick_up_and_show, Pick up & show>> strategy of bringing each symbol or group of symbols into the optimum place for the individual to see them.
+
+Listener mediated scanning may be someone’s primary access method to a low tech communication chart or book. Alternatively, it may be used by someone who uses direct access some of the time, and listener mediated scanning when they are fatigued or ill.
+
+Sometimes people will use a combination of direct access and listener mediated scanning. For example, they may point or eye point to the area on the page, and then the communication partner will scan through the options. This is known as <<_chapter_8_combination_access,Combination access>>.
+
+=== Making a Selection
+
+Listener mediated scanning is at its most clear when an individual is capable of communicating both ‘yes’ and ‘no’. However, so long as the individual has a way of communicating ‘yes’, then listener mediated scanning is viable.
+There are two ways of making selections:
+
+1. The individual waits until they see and / or hear the desired option and then indicates ‘yes that’s the one I want’ by an agreed movement or vocalisation, or even by activating a single message voice output communication aid that says “yes” or similar.
+
+or
+
+2. The individual communicates ‘no’ after each option offered (by an agreed movement or vocalisation, or even by activating a second single message voice output device) until they see and / or hear the desired option and then indicates ‘yes that’s the one I want’.
+
+The advantage of the first method is that it is quicker and less effortful for the individual using the system to communicate. Effectively they can sit back and relax until the desired option is seen and /or heard. However, it can mean that a desired option is missed, particularly by a listener / communication partner who is not experienced and rushes through the options or misses the agreed affirmative signal.
+
+The advantage of the second option is that it can be more reliable as the communication partner / listener does not move onto the next option until they have established that the individual does not want the option offered. The disadvantage is that this can make the whole process much slower and more effortful for the individual.
+
+In practice, where an individual does have a reliable way of indicating ‘yes’ and ‘no’, people often choose to get started using the second method, moving to the first method as both the individual and the communication partner gain confidence in the access method.
+
+When getting started, you might describe what the individual is doing and why you are interpreting it as yes. For example, “You are smiling to say ‘yes, that’s the one I want’”.
+
+In this example, Ruben communicates ‘yes’ when he hears the option he wants by raising his arms and smiling. He has a large communication book full of words and phrases that he can choose from. You can see more of this here.
+
+.Video 7.2 Ruben chats to his Mum
+video::Wnpa_Hrs6-I[youtube, width=300, height=180]
+
+Ruben lifts his arms and smiles when he hears the option he wants. The monkey noises in the background are courtesy of a sibling playing in the same room!
+
+In this example, Eva is learning to use a simple one message voice output communication aid to say “yes” when she hears the option that she wants. She accesses this by means of a switch which is attached to her wheelchair. She is at the early stages of learning how this works, and the switch position is still being established. Eva and her communication partner will be working on pressing the switch with the side of her head, rather than catching it with her eye.
+
+.Video 7.3 Eva learns to use auditory scanning with a single message voice output communication aid
+video::3TymPyE48U8[youtube, width=300, height=180]
+
+Eva is learning to use auditory scanning within a structured activity. She needs to press the switch with the side of her head to activate the message ‘yes’ when she hears the option she wants to select.
+
+The method by which an individual indicates acceptance of an option should be clearly documented on the chart / book and in the <<_chapter_11_communication_passports_drawing_it_all_together, Communication passport>> if present.
+
+=== Going Through the Options
+
+If you are using auditory scanning or combined auditory and visual scanning, speak aloud all the options first so that the individual knows what’s coming and can think about their response. Then read aloud each option slowly and carefully, pausing for long enough after each option to give the individual time to respond. You may need to go through the list more than once to give the individual time to think through what they want to say.
+
+If you are using visual scanning, again make sure that you pause for long enough after each option to give the individual enough time to respond. Again, you may need to go through the list more than once to give the individual time to think through what they want to say.
+
+As you both become more experienced, you may not need to go through all the options first as these will be known already. You will also become more experienced at gauging the amount of time you need to pause after delivering each option. This information can then be included in the instructions and in any <<_chapter_11_communication_passports_drawing_it_all_together, Communication passport>>.
+
+Because of the key role that the communication partner plays in this access method, it is especially important to try and ensure that the individual has the opportunity to communicate with a consistent set of communication partners, particularly at the beginning when everyone involved is working to build confidence in the system.
+
+If you are using auditory scanning or combined auditory and visual scanning, try and read through the options using a neutral voice. Keep expression to a minimum, and use as low a volume as is appropriate to the individual and setting. When a choice is made, then say the chosen option in a more animated way. In other words, use a more social voice. You can hear the different voices in this video. Katharine reads aloud the options in a calm and quiet voice, but once a selection has been made, she reads it aloud it in a much more animated voice.
+
+==== Smart Partner
+
+The joy of a low tech scanning system (i.e. one that is delivered by a communication partner rather than a computer) is that you are so much cleverer than a computer! If you are reading through a list and there is a sudden noisy distraction, you know to pause and allow time for that to pass. If the individual is tired that day, you know to read through the options more slowly. You may also be able to spot a ‘yes’ response that is being initiated, even if it’s not quite on target due to fatigue or illness. Of course, you also benefit from not needing to be charged!!!
+
+But sometimes partners aren’t so smart! With scanning systems it is incredibly important to ensure that all communication partners understand how to use the system and use it consistently. It is also important to ensure that all communication partners use the system in the same way. Written instructions are essential. Given the complexities, a short video may also be useful for new communication partners. A <<_chapter_11_communication_passports_drawing_it_all_together, Communication passport>> can be very helpful too.
+
+=== Organising Information
+
+The simplest way of scanning through options is to offer each option in turn. However, this can be time consuming, particularly when you are offering lots of options. To speed up the process of communication, you may want to divide the information into some sort of groups.
+
+This communication chart has been grouped by highlighting rows of symbols. The idea is that you offer each row in turn before offering the individual options along the chosen row.
+
+image::ZKvTEKi-thumb.jpg[title="Chart of grouped symbols", alt="Chart of grouped symbols", width="300", link="Media/images/ZKvTEKi.jpg"]
+
+By grouping the symbols, you can communicate options along the bottom row much more quickly than if you simply offered each symbol in turn. Without grouping, you would need to scan through 19 options to get to the symbol ‘slow’. By grouping, you first scan through 4 rows, and then 4 options to get to the symbol ‘slow’. This is a total of 8 options. Grouping really does increase the speed with which symbols can be selected, and therefore the pace of the conversation.
+
+.Video 7.4 Listener mediated scanning of a symbol chart grouped by rows
+video::VuqZdrEHO0s[youtube, width=300, height=180]
+
+A demonstration of the train play chart shown above.
+
+As with <<_chapter_6_coded_access, Coded access>>, there are lots of different ways of grouping information. You might do it by quadrants, rows, or columns - whatever works best for the individual.
+
+Once you have started grouping information, it is essential that instructions are clearly written on the chart or accompanying the communication book and in a <<_chapter_11_communication_passports_drawing_it_all_together, Communication passport>> if present. It would be very confusing for an individual if options were offered inconsistently. In the example above, if one communication partner offered the information in columns while the others offered it in rows, this could cause real confusion. Such confusion and lack of consistency can be a real contributor towards individuals rejecting such systems.
+
+No matter how efficiently you group information, some symbols are always going to be quicker to select than others. Bear this in mind when designing a communication chart or book that is to be accessed by listener mediated scanning, and try to put the important messages, or those that will be communicated most frequently, near the beginning of the groups.
+
+Careful organisation can really speed up communication. So if, for example, we were designing an alphabet based communication chart that was to be accessed by listener mediated scanning, we would make sure that letters like ‘e’, ‘t’ and ‘a’, which are used in lots of words, were near the beginning of a group, and letters like ‘z’ and ‘q’ which are not used very often, were near the end of a group. The same principle can be applied to symbols.
+
+=== Getting Started with Auditory Scanning - Special Considerations
+
+There is lots of information about getting started in the _Getting Started with AAC: Using low tech symbol based systems with children_ resource. Systems that are set up based purely on auditory scanning with no symbols at all, tend to look and feel a bit different, but you may well find ideas and strategies here that you can adapt.
+
+If you are communicating with someone who needs AAC but is unable to see and / or point to symbols, auditory scanning is probably something that you do lots of times every day in an ad hoc way. This is great, but the danger with an ad hoc system is that the options presented may differ, or the same options may be presented in a different order. This can lead to insecurity, as the individual does not know that the option they want will always be presented. It also means that they have to listen extra carefully, as they don’t know where the option they want will come in the list – will it be the first item, the second, the last? Will it come at all?!
+
+Writing down the options brings security. It means that the communicator and the communication partner know that something important is not going to be forgotten. It also means that the individual can begin to make use of their long term memory to learn the options on offer, rather than always having to rely on their short term memory. They don’t have to listen quite so carefully, which takes the pressure off a bit, and this familiarity will also help on those occasions when you are in a distracting environment.
+
+The best way to get started with auditory scanning is therefore to have a notebook and pen, and start writing down the options required in different situations. As with all AAC, try to keep things fun, particularly in the beginning. Auditory scanning is hard work. Getting started with auditory scanning needs to feel fun, rewarding and highly motivating.
+
+When writing down the options, try and avoid questions and instead write from the perspective of the individual:
+
+Rather than: Do you want a drink?
+
+Try: I want a drink
+
+The individual may respond ‘yes’ to the question ‘Do you want a drink?’. However, this may not be what they had wanted to say. By offering the individual a series of statements, you are offering them a voice so that they can choose what they would like to say.
+
+Start by choosing one activity, and think about the different options available.
+
+For example:
+
+Toys – I want…
+
+* Vibrating cushion
+* Bells
+* Squishy ball
+* A different toy
+* Stop playing with toys
+
+This doesn’t just have to be about choice making though. You could think of an activity and write down the ways an individual could engage with it.
+For example:
+
+Playing with play dough...
+
+* Roll the play dough
+* Use an animal cutter
+* Make an ice cream
+* Make a pizza
+* Something different [useful as you may not have all the options on the list and this gives the individual a way asking for a different option]
+* Stop playing with play dough
+
+.Video 7.5 Ruben and his Mum
+video::2bFip35_Kto[youtube, width=300, height=180]
+
+Ruben has a full communication book that is based on auditory scanning. He is able to make all sorts of choices with his book, but can also say so much more. He raises his arms and smiles when he hears the statement that he wants to make. Here they are mid-conversation...
+
+Here Ruben and his mum are using auditory scanning to share a very precious moment. This clip is an important reminder that communication is about so much more than just making choices. You can read lots more about this in the _Getting Started with AAC: Using low tech symbol based systems with children_ resource.
+
+The lists and activities can be organised into a full and rich <<_chapter_10_next_steps_developing_a_communication_book,Communication book>>.
+
+
+[sidebar]
+.Gallery 7.1 Asking to listen to a Robbie Williams CD using an example auditory scan communication book
+--
+image::aud-1b-thumb.jpg[title="The person first chooses “I want something” from the list of options on the top page. The communication partner turns to page 11.",link="Media/images/aud-1b.jpg"]
+image::aud-3-thumb.jpg[title="On page 11, the individual chooses 'Music' from the list of options. The communication partner turns to page 11B.".,link="Media/images/aud-3.jpg"]
+image::aud-4-thumb.jpg[title="On page 11B the individual chooses 'Robbie Williams' from the list of options.",link="Media/images/aud-4.jpg"]
+--
+
+[sidebar]
+.Gallery 7.2 A demonstration of how Ruben said “I love you”. Note that this is not his personal communication book, but it is very similar.
+--
+image::aud1-thumb.jpg[title="Ruben first chose ‘Quick chat’ from the list of options on the top page.",link="Media/images/aud1.jpg"]
+image::aud-2-thumb.jpg[title="He then chose 'I love you' from the Quick chat page.".,link="Media/images/aud-2.jpg"]
+--
+Here are some pages from an auditory scan communication book based on the PODD approach that demonstrate how Ruben was able to communicate “I love you”.
+
+This set of pictures shows how you could use the same book to ask to listen to a Robbie Williams CD.
+
+=== Communication Partner Skills for Listener Mediated Scanning
+
+With listener mediated scanning, it is important that the communication partner uses the same access method when modelling or point talking at least some of the time. This means that they should use the same process of scanning through the options to arrive at their selection. This helps to reinforce the process by which symbols are selected, and also helps the individual to learn the routes to the different symbols within their communication chart or book.
+
+There is no getting away from the fact that using listener mediated scanning yourself when chatting feels very odd indeed, particularly when it’s purely auditory scanning and there are no symbols for you to point to. However, there is no better way to help someone become fluent in their language. Its also a very good reminder of the challenges the individual is facing in trying to use this system to communicate! A great way to get started is to practise with a friend.
+
+Here’s an example of how you might model a simple auditory scan book:
+
+“I want to ask you something. Let’s look in your book. Here are my options: Food, Drink, Toys, Chat... Yes! I’ll turn to the Chat page. Here are my options: Hello, How are you?, Did you have a good weekend? Yes! Did you have a good weekend?”
+
+You could also set up a situation with another individual. For example:
+“I’m feeling thirsty. I’ll ask Nana if she will get me a drink. Let’s look in the book. Here are my options: Food, Drink… Yes! I’ll turn to the Drink page. Here are my options: Water, orange squash, apple juice… Yes! Apple juice. I would like some apple juice. Nana, please could you get me some apple juice?”
+
+If the individual has a full communication book, try and start from the beginning of the book when modelling. This will help the individual learn how to find their way around their book. If they have a way of gaining attention or of indicating that they want to communicate using their book, you could start with that too.
+
+Here is a video of Karen demonstrating how you could model using an auditory scan communication book. The book has been designed based on the principles of <<PODD,PODD>>.
+
+.Video 7.6 Karen demonstrates how you can model using an auditory scanning communication book
+video::P_uJbNwYVbA[youtube, width=300, height=180]
+
+Rather than just announcing, “ we’re going for a walk”, Karen uses the child’s communication book to communicate this. It takes much longer and of course it isn’t something you could do every time you speak to the child, but it is a powerful way of showing them both how their book works, and how much you value it.
+
+Modelling a scanning book helps individuals to see that you value their system and helps them to learn what is in their book and how to find it.
+
+You can find out lots more about communication partner skills in the _Getting Started with AAC: Using low tech symbol based systems with children_ resource.
+
+== Chapter 8: Combination Access
+
+.In this chapter
+****
+* A brief introduction to combination access
+****
+
+Combination access means using more than one access method within a system. Some people combine access methods within one system. For example, an individual might eye point or point with their hand to a group of symbols, and then use listener mediated scanning to select the specific symbol. For another example, as shown <<double-encoded-example,above>>, an individual might eye point or point with their hand to a group of symbols and then use a code to select a specific symbol.
+
+The following chart has been designed to facilitate a combination of access methods. The individual directly selects one of four areas on the page, and the communication partner then scans through the options within the selected area.
+
+image::cQBgXIJ-thumb.jpg[title="Combination Access Chart", alt="Combination Access Chart", width="300", link="Media/images/cQBgXIJ.jpg"]
+
+.Video 8.1 Combination access to a symbol chart
+video::oQlhMZyS7a0[youtube, width=300, height=180]
+
+Here, someone is able to point to one of four areas on the page using their fist. The communication partner then scans through the options within the selected area.
+
+Some people also use a combination of different access methods over the course of a day or in different environments. For example, someone might point directly to a communication book during the day, but switch to listener mediated scanning when they are fatigued or unwell. This is entirely legitimate but needs to be well documented. It may also affect the design of the resources. You will need to ensure that the resources can either accommodate both access methods, or, if you are using separate ones, that all the resources are as consistent as possible. Information about this should be well documented, ideally in a <<_chapter_11_communication_passports_drawing_it_all_together, Communication passport>>.
+
+== Chapter 9: Facilitated Communication
+
+.In this chapter
+****
+* Be introduced to Facilitated Communication
+* Find out how to learn more about it
+****
+
+“<<facilitated-communication,Facilitated-communication-(FC)>> or Facilitated Communication Training (FCT) as described by Rosemary Crossley, who is credited with being the originator, is a technique in which physical, communication, and emotional support is provided by a facilitator to an individual with a communication disorder (communicator). With assistance, the communicator points to symbols such as letters, pictures and/or objects.” American Speech-Language Hearing Association (ASHA). The assistance often consists of providing backward resistance for the communicator to push against creating a steadying effect so that they can accurately point to their target.
+
+For more information about Facilitated Communication see http://candleaac.com/a_brief_guide_to_fct.htm.
+
+Because of the physical input of another person into the construction of the message, there have been anxieties concerning the integrity of this access method. The International Society for Augmentative and Alternative Communication (ISAAC) released a position statement in July 2014 stating that they do not support FC as a valid form of AAC or a valid access method. This position statement was produced after a committee of researchers carried out a literature review of research that examined who was actually composing the message, and the discussions of the committee were confined to this aspect of FC/FCT.
+
+CandLE is a national AAC organisation that has a lot of expertise in this area. CandLE has developed an alternative approach called Motor Planning Training (MPT). No claims are made in relation to authorship, which are the grounds upon which ISAAC dismissed the FC/FCT approach. You can find out more at http://candleaac.com.
+
+== Chapter 10: Next Steps - Developing a Communication Book
+
+.In this chapter:
+****
+* Think about how to develop a communication book
+* Find out about commercially available resources that can help
+****
+
+Once you have established a suitable access method and begun to develop some resources, the next step is to develop a communication book – a book full of the symbols / statements that an individual needs to communicate.
+
+Think carefully about the vocabulary within the book. Communication is about so much more than just making choices, and a communication book needs to reflect this. You can find out much more about vocabulary selection within the _Getting Started with AAC: Using low tech symbol based systems with children_ resource.
+
+To facilitate learning, make sure that the vocabulary stays in the same place or position on a page as much as possible. If ‘more’ appears on lots of pages, for example, try to make sure that it is in the same place on the page / position in the list each time.
+
+Be ambitious! Even very young children have a lot to say, and a good communication book will need to contain many, many pages to accommodate all the words that they need, and the words that you need to use to extend their language.
+
+In addition to the vocabulary, you will also need to think about the style, layout and organisation of the book.
+
+Your local Speech and Language Therapist may well be able to support you in developing a book.
+
+Remember that there is no such thing as a finished communication book! They are always a work in progress and should develop and change over time.
+
+Make sure someone has a way of asking for their communication book if they can’t physically get it themselves. A communication book symbol on a wheelchair tray or arm can work well. Some enjoy using a single message voice output device to say something like, “I’ve got something to say, please get out my communication book”. But do remember that it is unrealistic to expect an individual to take the lead from the beginning. You will need to encourage their use of their communication book by example, by getting the book out yourself and using it as much as possible to support your communication with them.
+
+=== Style and Layout
+
+Sometimes people make books in A5 files, others go for A4. For <<_chapter_4_eye_pointing, eye pointing>> and <<_pick_up_and_show>>, an <<_easel_file>> may be useful. You can also use Filofaxes (though printing and hole punching pages can be quite fiddly as the pages are not always a ‘standard’ size) or slip printed pages into photo pocket albums. If being used alongside <<_e_tran_frame>>, a communication book may be more about effective storage, as in the earlier example.
+
+Try and involve the individual in choosing their book. If their favourite colour is purple, then something as simple as choosing a purple file can make all the difference to how it is valued. Individuals may want to personalise their books with stickers, pictures of TV characters / celebrities / sports stars, etc. They need to feel a real sense of ownership of, and pride in, their book.
+
+=== Organisation
+
+When you put together a communication book, it needs to be easy for everyone to find things in it.
+
+Communication books are often organised by topics - e.g. people, food, activities, toys, etc. However, the <<PODD,PODD>> approach uses the type of thing being talked about as a starting point - e.g. ‘something’s wrong’, or ‘I want to go somewhere’, or ‘I’m asking a question’, etc.
+
+It is not always necessary to start at the index page and go to a topic page and back again. You can also design a communication book that has links to encourage quick and easy movement between pages too. This is particularly important where access is not so straightforward. For example, on a ‘Clothes page’, you could put a link to a ‘Colours page’ so that the communicator can indicate or request to quickly turn to the ‘Colours page’, without first going from the ‘Clothes page’ to the index page and then to the ‘Colours page’. This is very much how the <<PODD,PODD>> approach works.
+
+A good index page is essential. You could support this index page with symbols, and perhaps even put matching symbols on the tabs. This can really help someone to understand where their vocabulary is located and how to find it. Tabs and dividers are invaluable to support moving through the pages, otherwise you can end up having to flick through a lot of pages. As you can see in the video, Tamsin’s mum relies on the tabs to help her move to the correct section of the book as quickly as possible. Page numbering can help too.
+
+Some people find it useful to print pages with different background colours as it helps them to know that they are aiming for a ‘green’ page, for example. Printing solid pages of colour can be quite costly in terms of printer ink, of course, and a cheaper option may be to use coloured paper. However, if you go down this route, make sure you have plenty of coloured paper available for ‘re-prints’ and that the symbols are still intelligible.
+
+With any communication book it is important to model how to move / navigate through the book. To do this, talk about what page you are turning to, and why, while pointing to the appropriate symbol on the index page.
+
+=== Resource Making Software
+
+The easiest way to make a symbol based communication book is to use specially designed software. There are a number of different software products available in the UK.
+
+Examples of specially designed chart making software in the UK includes:
+
+* Boardmaker Plus! V6 or Boardmaker Studio - available from, e.g., http://toby-churchill.com
+* Communicate in Print 2 - available from, e.g., http://widgit.com
+* Matrix Maker Plus - available from, e.g., http://inclusive.co.uk
+
+Alternatively, if you already have software for voice output communication or symbol recording (e.g. The Grid 2, Mind Express, Communicator, Symwriter, etc.), or are intending to purchase such software, you may be able to use this to develop and print charts.
+
+Sometimes you can access chart making software through your local Speech and Language Therapy service or through a child’s educational environment. There are also a few counties that offer access to such software through their library service. You could contact your local library service to find out if this is available in your area. Some charities / nonprofit organisations also offer access to software.
+
+=== Published Resources
+
+Communication charts and books are often developed in an ad hoc way, but there are some resources that can help:
+
+Developing and Supporting a Communication Book is a resource produced by ACE Centre to support families and practitioners when they are developing a low tech communication book. It suggests a core vocabulary that is developed over five stages, and provides advice on how to support its use. This publication can be useful in terms of providing ideas for content, but it does not address how to adapt the materials to support alternative access methods. It is available to purchase from ACE Centre http://acecentre.org.uk/developing-and-using-a-communicationbook.
+
+[[Look2Talk]] *Look2Talk* is a resource developed by ACE Centre to support families and practitioners in developing a low tech communication book for people who communicate using eye pointing. It shares a similar approach to the Developing and Supporting a Communication book resource, but is optimised for eye pointing. It provides detailed guidance on how to set up, support and develop the use of eye pointing communication. At its heart is an emphasis on the importance of giving access to core vocabulary to enrich the expressive language of those communicating through eye pointing. It is available to purchase from ACE Centre http://acecentre.org.uk/look2talk-complete.
+
+image::VQjK6JN-thumb.jpg[title="Look2Talk", alt="Look2Talk", width="300", link="Media/images/VQjK6JN.jpg"]
+
+Although not designed with this in mind, Look2Talk is also used as a resource to help develop an encoded communication book for people who are able to point to larger target areas on a page.
+
+[[PODD]]*PODD* (Pragmatic Organisation Dynamic Display)* is a complete communication system that was developed by Australian Speech Pathologist, Gayle Porter. The software needed to print out the various levels of Direct Access PODD books is available to purchase in the UK from http:// inclusive.co.uk. Templates range from books with 9 cells per page up to those with 90 cells per page, with many options in between.
+
+
+[sidebar]
+.Gallery 10.1 Examples of PODD books
+--
+image::PODD-1-thumb.jpg[title="A simple one page opening PODD communication book known as, ‘9 per page Expanded Functions’.",link="Media/images/PODD-1.jpg"]
+image::16PODD-copy-1-thumb.jpg[title="A slightly more complex one page opening PODD communication book known, as '16 per Expanded Functions'.".,link="Media/images/16PODD-copy-1.jpg"]
+image::2PagePODD-copy-thumb.jpg[title="A two page opening PODD communication book known as, '70 Expanded Key Word Two Page Opening'.",link="Media/images/2PagePODD-copy.jpg"]
+image::podd-scan-jpg-thumb.jpg[title="This PODD book (12 per page Expanded Functions) has been modified using the supplied instructions to enable listener mediated scanning. The communication partner offers each column in turn, then offers the individual symbols within the selected column from top to bottom.".,link="Media/images/podd-scan-jpg.jpg"]
+image::encoded-podd-thumb.jpg[title="An example page from a highly customised PODD-style book that was devised for someone  who was familiar with eye pointing using four colour encoding, but was keen to use some of the PODD approach in their communication.",link="Media/images/encoded-podd.jpg"]
+image::IMG_0458-thumb.jpg[title="A customised PODD-style book for auditory listener mediated scanning. Such templates are not currently commercially available.".,link="Media/images/IMG_0458.jpg"]
+--
+
+While there is always a need to personalise a communication book, a PODD book aims to provide the vast majority of the vocabulary you could need in a carefully structured format to encourage rich communication. The PODD resource comes with a detailed book that is full of ideas and information about supporting both PODD books and low tech communication more generally. You can find some great videos of PODD in action on YouTube!
+
+The Direct Access PODD templates are designed for direct pointing with a whole hand, finger or tool. Some of the templates can be modified to accommodate pick up and show or listener mediated scanning access methods (using columnrow scanning).
+
+There has been talk for some time of the impending release of Alternative Access PODD with templates for eye pointing, listener mediated scanning, coded access and combination access. However, at the time of writing these are not commercially available. This means that you would need to undertake the adaptation yourself, although there is guidance on how to go about modifying pages within the main PODD manual. There is also a lot of information about using, adapting and supporting PODD within the handouts section of Linda Burkhart’s website - http://lburkhart.com. For those who are already familiar with PODD, this handout from Spectronics may be of interest http://acecent.re/1JPxaYI as it talks about adaptations to PODD.
+
+Courses on PODD are available in the UK, and are a great way of learning more about this way of communicating. Contact Rosemary Clark for more information - podd@woodlands.surrey.sch.uk.
+
+== Chapter 11: Communication Passports - Drawing it All Together
+
+.In this chapter
+****
+* All about communication passports
+****
+
+Communication passports are a way of drawing together and sharing information about how a person communicates. A communication passport can give information about both a person’s understanding and how they express themselves. They are a really helpful tool to have alongside any form of AAC, but are particularly important where people are using alternative access methods such as eye pointing, encoding, listener mediated scanning, etc.
+
+A communication passport is often a printed document. However, some people also find it helpful to have a video passport alongside the printed version as it can sometimes be much easier to show someone’s ‘yes’ and ‘no’ response, and how it might vary with fatigue, for example, rather than attempt to describe it in words. You may also find communication passports made as a powerpoint presentation. If someone uses a high tech communication aid, it may be worth keeping a copy of the communication passport on the device itself.
+
+When developing a communication passport, it’s essential to involve the person in its development as much as possible. The individual needs to have ownership of their communication passport, particularly if it is written in ‘their’ voice. Person-centred planning approaches have a useful role to play here.
+
+This is an example of a communication passport. It belongs to Tiago. It is printed and laminated, and attached to his
+
+[sidebar]
+.Gallery 11.1 An example of a communication passport
+
+--
+image::Tiago_1_thumb.jpg[title="This communication passport belongs to Tiago.",link="Media/images/Tiago_1.jpg"]
+image::Tiago_2_thumb.jpg[title="",link="Media/images/Tiago_2.jpg"]
+image::Tiago_3_thumb.jpg[title="",link="Media/images/Tiago_3.jpg"]
+image::Tiago_4_thumb.jpg[title="",link="Media/images/Tiago_4.jpg"]
+image::Tiago_5_thumb.jpg[title="",link="Media/images/Tiago_5.jpg"]
+image::Tiago_6_thumb.jpg[title="",link="Media/images/Tiago_6.jpg"]
+--
+
+
+wheelchair, alongside one of his encoded eye pointing alphabet charts.
+
+There are lots of great resources available to help produce a communication passport. See http://communicationpassports.org.uk for more information.
+
+== Chapter 12: Further Sources of Help and Reading
+include::../shared/Resources.adoc[]
+
+
+== Chapter 13: References
+
+Arwood, Kaulitz & Brown (2009) Visual Thinking Strategies for Individuals with Autistic Spectrum Disorders. The Language of Pictures. Autism Asperger Publishing Co.
+
+Bauby, J-D. (2008) The Diving Bell and the Butterfly. Harper Perrenial.
+Beukelman, D. & Mirenda, P. (2012) Augmentative and Alternative Communication: Management of Severe Communication Disorders in Children and Adults (Fourth Revised Edition). Brookes Publishing Co.
+
+Downing, J. (2005) Teaching Communication Skills to Students with Severe Disabilities (Second Edition). Paul H. Brookes.
+
+Hampson, J. (2006). Partner Assisted Communication Systems: Let me show you how I communicate. Communication Matters Journal, 20(2), pp. 2-5.
+
+Latham, C. (2006) Developing and Using a Communication Book. ACE Centre Advisory Trust.
+
+Latham, C. & Buckley, K. (2008) Look2Talk. ACE Centre Advisory Trust.
+
+Ockelford A, 1994. Objects of Reference. London: RNIB
+
+Pistorius, M. (2011) Ghost Boy. Simon & Schuster Ltd.
+
+Porter, G. (2007) Pragmatic Organisation Dynamic Display (PODD) Communication Books: Direct access templates. Melbourne: Cerebral Palsy Education Centre.
+
+Stanton, M. (2014) Can I tell you about Cerebral-Palsy? A guide for friends, family and professionals. Jessica Kingsley.
+
+Roman-Lantzy, C. (2007) Cortical Visual Impairment: An Approach to Assessment and Intervention. AFB Press.
+
+[[cite-sarjent-2013]]Sarjent, J., Clarke, M., Price, K., Griffiths, T., & Swettenham, J. (2013) Use of eye-pointing by chidlren with cerebral palsy: what are we looking at? International Journal of Language and Communication Disorders 48(5) pp. 477-485.
+
+http://www.adaptivedesign.org [accessed 17/11/2015]
+
+http://www.asha.org/policy/TR1994-00139.htm [Accessed 02/12/2013]
+
+http://atclassroom.blogspot.co.uk/2010/07/pagefluffing.html [Accessed 17/04/2015]
+
+http://bridgeschool.org/transition/multimodal/ partner_assist_scan.php [Accessed 17/04/2015]
+
+http://www.callscotland.org.uk/Common-Assets/quickguides/ QG-1408113957.pdf [accessed 5/11/2015]
+
+http://www.candleaac.com/a_brief_guide_to_fct.htm [accessed 5/11/2015]
+
+http://www.colourblindawareness.org [accessed 9/11/2015]
+
+http://communicationmatters.org.uk/page/cmj-2006. [accessed 9/11/2015]
+
+https://isaac-online.org/english/members-only/positionstatement-on-facilitated-communication/ [Accessed 17/04/2015]
+
+http://library.tsbvi.edu/Browse/Category/15 [Accessed 3/12/2015]
+
+http://lburkhart.com/hand_ALS_for_Aud_Scanners.pdf [Accessed 17/04/2015]
+
+http://lburkhart.com/hand_design_auditory_syst.pdf [Accessed 17/04/2015]
+
+http://lburkhart.com/hand_partner_assist.pdf [Accessed 17/04/2015]
+
+http://lighthouse.org/accessibility/design/accessible-printdesign/effective-color-contrast [accessed 10/4/2015]
+
+http://media.wix.com/ugd/534455_75d0f08b6b014d1887b0f7251cd988a0.pdf [accessed 17/11/2015]
+
+http://www.myeasybee.com/blog/podd-intro/ [Accessed 17/04/2015]
+
+http://pathstoliteracy.org/blog/augmentative-andalternative-communication-aac-systems-students-cvimultiple- disabilities [accessed 17/11/2015]
+
+http://pecs-unitedkingdom.com [accessed 9/11/2015]
+
+http://praacticalaac.org/strategy/communication-boardscolorful-considerations/ [Accessed 11/11/13]
+
+https://rnib.org.uk/braille-and-moon-tactile-codes [accessed 17/11/2015]
+
+http://specialed.us/autism/assist/asst10.htm [Accessed 08/12/2014]
+
+http://spectronics.com.au/downloads/conference/2012/hub/Conference%20Presentations/Gayle%20Porter/PODD%20Templates%20for%20Alternative%20Access%20(D1_BL2)/PODD%20Templates%20for%20Alternative%20Access.pdf [Accessed 17/04/2015]
+
+http://youtube.com/watch?v=AooDQOzdOyE#t=24. [accessed 5/11/2015]
+
+== Chapter 14: Glossary
+include::../shared/Glossary.adoc[]
