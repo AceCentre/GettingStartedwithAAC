@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html>
+    <head>
+
+    <meta charset="utf-8" />
+    <title>Getting Started with AAC</title>
+    
+
+    <base href="/">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+    <link rel="stylesheet" href="assets/css/fonts.css" type="text/css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.2.0/css/bootstrap.css" type="text/css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.css" type="text/css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.2.0/css/bootstrap-theme.css" type="text/css" />
+    <link rel="stylesheet" href="assets/css/style.css" type="text/css" />
+    <link rel="stylesheet" href="assets/css/responsive.css" type="text/css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.5.4/bootstrap-select.min.css" type="text/css" />
+    <link rel="stylesheet" href="assets/css/draganddrop.css" type="text/css" />
+    <style>
+      ul,	li{ list-style:none; }
+    </style>
+
+
+    <!-- JS (load angular, ui-router, and our custom js file) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    
+    <!-- DIRECTIVES -->
+
+    <script type="text/javascript">
+      $(document).ready(function () {
+
+        $("#nav a.menu_res").click(function (e) {
+            e.preventDefault();
+
+            if($("#nav").find('.activemenu').length > 0){
+                $(".nav_inner").css("left","-200px");
+                $(this).removeClass("activemenu");
+            } else {
+                $(".nav_inner").css("left","0");
+                $(this).addClass("activemenu");
+            }
+            $(".nav_inner").addClass("done");
+            $("body").addClass("bigsize");
+
+        });
+    });
+    </script>
+</head>
+
+    <!-- apply our angular app to our site -->
+    <body id="appBody">
+        <div id="header">
+    <div class="container">     
+        <div class="logo">
+            <a href="/"><img src="assets/images/logo-1.png" width="200px" alt=""></a>
+        </div>
+        <div id="nav">
+            <a class="menu_res"><span></span><span></span><span></span></a>
+            <div class="nav_inner clearfix">
+                <ul>
+                    
+                    
+                    
+                        
+                        
+                        <li class=""><a href="/">About</a></li>
+                        
+                    
+                    
+                    
+                        
+                        
+                        <li class=""><a href="/book1/">Book 1</a></li>
+                        
+                    
+                    
+                    
+                        
+                        
+                        <li class=""><a href="/book2/">Book 2</a></li>
+                        
+                    
+                    
+                    
+                        
+                        
+                        <li class=""><a href="/book3/">Book 3</a></li>
+                        
+                    
+                    
+                    
+                        
+                        
+                        <li class=" active"><a href="/credits/">Credits</a></li>
+                        
+                    
+                    
+                    
+                    
+                    
+                    
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+        <div id="content">
+            <div class="container">
+                <div class="row">
+                    <div class="col-2 col-md-2 col-sm-2 col-xs-2"></div>
+                    <div class="col-8 col-md-8 col-sm-8 col-xs-8">
+                        <div class="rightbar">
+                            <div class="top_c">
+                                <p>This resource was developed through grant funding from the Department for Education National Prospectus Grants Programme 2013-2015. This project involved a consortium of ACE Centre, Communication Matters and 1Voice.</p>
+
+<p>Thank you to the people who allowed us to share their stories within this resource. We also would like to thank Ruth McMorran and Marion Stanton of Communication Matters and Deborah Pugh for carefully reviewing the resources and their thoughtful comments.</p>
+
+<p>(c) Crown copyright 2015</p>
+
+<p>The Picture Communication Symbols (c) 1981-2015 Dynavox Mayer-Johnson are used under contractual agreement. All rights reserved worldwide. SymbolStix Symbols (c) SymbolStix 2015 LLC</p>
+
+<p>Widgit Symbols (c) Widgit Software 2002-2015 widgit.com</p>
+
+<p>Any enquiries regarding the use and re-use of this information resource should be sent to enquiries@acecentre.org.uk</p>
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-2 col-md-2 col-sm-2 col-xs-2"></div>
+                    <div class="ace_logo"><a href="#"><img src="/assets/images/logo-2.png" alt=""></a></div>
+                </div>
+            </div>
+        </div>
+        <div id="footer">
+    <div class="container">
+        <div class="f_links">
+            <ul class="clearfix">
+                <li><a href="http://aacinfo.email/privacy">Privacy Policy</a></li>
+            </ul>
+        </div>
+        <div class="social">
+            <ul class="clearfix">
+                <li><a href="http://aacinfo.email/app/components/home/home.html#"><span class="fa fa-facebook"></span></a></li>
+                <li><a href="http://aacinfo.email/app/components/home/home.html#"><span class="fa fa-twitter"></span></a></li>
+            </ul>
+        </div>
+        <p></p>
+    </div>
+</div>
+    </body>
+</html>
