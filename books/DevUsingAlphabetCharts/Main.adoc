@@ -1,0 +1,991 @@
+= Getting Started with AAC: Designing and using alphabet charts
+Katharine Buckley
+v1.1, 2016-01-01
+:toc: right
+:toclevels: 3
+:page-layout: docs
+:sectlinks:
+:sectanchors:
+:imagesdir: Media/images
+:doctype: book
+:keywords: AAC, Low-tech, Pointing, Direct-Access
+:copyright: CC-BY-SA 3.0
+:hide-uri-scheme:
+//:front-cover-image: image:front-cover.jpg[Front Cover,1050,1600]
+
+[preface]
+== Foreword
+The aim of this resource is help you design and use alphabet charts with people who can’t rely on speech, enabling them to communicate to the best of their ability.  Through communication we can express ourselves, learn, have fun, and be active members of society
+
+Please note that this resource is not suggesting that low tech is ‘best’, or that low tech is a prerequisite to a more high tech communication aid.  It is simply about valuing the role of paper based communication systems, and sharing lots of ideas and strategies to help develop and support them.  You may well find that many of the ideas and strategies are useful when it comes to other forms of communication too.
+
+=== Acknowledgements
+
+This resource was developed through grant funding from the Department for Education National Prospectus Grants Programme 2013-2015.  This project involved a consortium of The ACE Centre, Communication Matters and One Voice.
+Thank you to the people who allowed us to share their stories within this resource.  We also would like to thank Ruth McMorran and Marion Stanton of Communication Matters and Deborah Pugh for carefully reviewing the resources and their thoughtful comments.
+
+The Picture Communication Symbols (c) 1981-2015 Dynavox Mayer-Johnson are used under contractual agreement.  All rights reserved worldwide.
+Any enquiries regarding the use and re-use of this information resource should be sent to enquiries@acecentre.org.uk
+
+== Chapter 1: Introduction to Alphabet Charts
+
+
+.In this resource:
+****
+* Think about why alphabet charts may be used
+* Meet people who make use of alphabet charts to support their face-to-face communication
+* Consider how to design resources to meet different needs
+* Reflect on supporting the use of alphabet charts
+* Find out about freely available resources and further sources of help
+****
+
+Alphabet charts can be a powerful way to support face-to-face communication for individuals who are unable to rely upon speech to communicate in all situations, all of the time.
+
+Alphabet charts are one form of <<aac, Augmentative and Alternative Communication (or AAC)>>. Specifically, they are a type of <<low-tech-communication, low tech>> AAC.
+
+The term _Augmentative and Alternative Communication_ includes both strategies and equipment that supports or replaces speech.  It might involve using your body, e.g. <<signing, signing>>, facial expression, gesture, or using equipment, e.g. an <<alphabet-chart, alphabet chart>>, a <<symbol-chart, symbol chart>>, a simple <<talking-button, talking button>>, a more complex <<voice-output-communication-aid, voice output communication aid>>, etc.
+
+The reason it is _Augmentative and Alternative Communication_ rather than just Alternative Communication (two ‘A’s’ instead of 1) is to emphasise that _AAC_ is not just for people who cannot speak at all, and need an alternative. AAC is also for people who have speech but whose speech is not sufficient or clear enough for everyone to understand them all of the time. In other words, AAC can augment or support someone’s speech as well as provide an alternative to speech where there is none.
+
+_AAC_ is often subdivided into _low tech_ and <<high-tech-communication, high tech>> sub-categories. High tech _AAC_ is _AAC_ that involves equipment that has a battery or a screen.  _Low tech_ _AAC_ is essentially everything else!
+
+This resource is all about using _text based low tech AAC_ <<text-based-low-tech-aac, text based low tech AAC>>, or _alphabet charts_.  It takes a close look at how to get started, and how to support those who are unable to spell what they want to say. To find out more about low tech _AAC_ that is designed around pictures and symbols, see _Getting Started with AAC: Using low tech symbol based systems with children._
+
+While some people choose to rely predominantly upon an _alphabet chart_ to support their face-to-face communication, typically someone will use an _alphabet chart_ alongside a host of other communication strategies, including gesture, _signing_, vocalisation and sometimes high tech _AAC_. We all communicate in different ways with different people and in different situations.
+
+Beth conveys this message powerfully in this video she produced some years ago.
+
+
+.*Movie 1.1* Beth
+video::ieeREOclfPE[youtube, width=300, height=180]
+
+
+Using an _alphabet chart_ is complementary to other forms of _AAC_.  It is in no sense a ‘prerequisite’ to using a voice output communication aid.  However, if someone does have a very sophisticated communication aid that they rely on most of the time, it is still important to maintain other ways of communicating, and an _alphabet chart_ can be an essential back up.  Sophisticated communication aids are much more prone to running out of battery and going wrong occasionally than paper-based tools.  There are also situations where they can be impractical, for example, in the middle of the night, or whilst bathing.
+
+While _alphabet charts_ are an obvious tool for those who are literate, they are also highly recommended to be used alongside a symbol based communication book for those at the very earliest stages of literacy.  _Alphabet Charts_ can be a great way to support early exploration of speech sounds and spelling, particularly for those who find holding a pencil more difficult.  If you are interested in finding out more about this, Karen Erickson and David Koppenhaver at the Center for Literacy and Disability Studies in North Carolina have done a lot of work in this area - see http://med.unc.edu/ahs/clds.
+
+==== Meet some individuals who use alphabet charts
+===== Anjali
+
+image::j4Zjf5V-thumb.jpg[title="Anjali", alt="Anjali", width="300", link="Media/images/j4Zjf5V.jpg"]
+
+Anjali is sixteen years old.  She has cerebral palsy, autism and epilepsy.  She is able to verbalise a range of sounds, but cannot speak any recognisable words.  The fact that speech is difficult, however, doesn’t mean that her literacy skills aren’t good.  Indeed, Anjali can read and spell well, and she uses an alphabetically organised _alphabet chart_ to support her communication.
+
+
+.*Movie 1.2* Anjali
+video::Xmuxm_JqGaE[youtube, width=300, height=180]
+Anjali chats to Suzanne with the help of her alphabet
+
+Anjali uses her chart with everyone!!! She is very proficient at pointing to letters and loves to ask questions such, “which supermarket do you shop at?” Anjali is also exploring whether a _voice output communication aid_ might be useful to her, alongside this chart.
+
+===== Tiago
+
+Tiago is eight years old. He has cerebral palsy and finds it difficult to use his hands. He can communicate using speech with people who know him very well, but even then things sometimes go a bit wrong. He uses an _alphabet chart_ that has been specially adapted for use with eye movements. Copies are all round his house so that one can be reached quickly in the event of a problem. There are copies tucked down the side of the sofa, in the bathroom, in the kitchen, in his bedroom - all over the place! There’s also a copy of the _alphabet chart_
+permanently attached to his wheelchair.
+
+Tiago uses his eye movements to select letters from the special _alphabet chart_. The chart is an <<_encoded_layout>>.
+
+Tiago also has a sophisticated computer to support his communication that he controls using eye movements. He is a great reader and speller, and can use an onscreen keyboard to spell out and then speak what he wants to say. However,
+there are times when computers just aren’t up to the job. Recently he was travelling in the back of the car with his stepsister, and she just couldn’t work out what he was saying. Frustration all round! The computer was in the boot, but couldn’t be used in the back seat of the car anyway. Luckily,
+Mum was in the front seat and had an _alphabet chart_ to hand - she passed it back to them, and the problem was easily resolved.
+
+.*Movie 1.3* Tiago using his encoded alphabet chart
+video::07tqVhPo-Pw[youtube, width=300, height=180]
+First, Tiago looks at the block that contains the target letter then he clarifies which letter he wants by looking at the matching colour.
+
+[sidebar]
+.Gallery 1.1 Tiago
+--
+image::T_and_I_using_chart_thumb.jpg[title="Here are Tiago and Katharine having a chat.", link="Media/images/T_and_I_using_chart.jpg"]
+image::T_chart_thumb.jpg[title="This is what Katharine sees. She can clearly read his eye movements through the transparent window. She sees the mirror image of his letter layout.",link="Media/images/T_chart.jpg"]
+image::T_chart_his_side_thumb.jpg[title="And this is what Tiago sees. His chart is arranged in alphabetical order to help him find the letters.", link="Media/images/T_chart_his_side.jpg"]
+image::wheelchair_thumb.jpg[title="The chart is so important that a copy is attached to Tiago's wheelchair, making it available whenever he is out and about. Being made of laminate, it is light and easily transportable.",link="Media/images/wheelchair.jpg"]
+--
+
+
+===== Ethan
+
+Ethan is twelve years old and attends a special school.  ￼
+
+image::I3Zsw41-thumb.jpg[title="Ethan", alt="Ethan", width="300", link="Media/images/j4Zjf5V.jpg"]
+
+Ethan looks up to communicate ‘yes’, and looks to his right to communicate ‘no’. He has a complex communication book based around symbols. Ethan accesses his communication book using <<_listener_mediated_scanning>>. In other words, his communication partner offers him options, and Ethan communicates ‘yes’ when he sees and hears the one he wants. He loves to use his communication book to share a good joke!
+
+Ethan is exploring voice output communication options that he might access using <<eye-gaze, eye gaze>> or a <<switch, switch>>, but for now his communication book is working best for him.
+
+Alongside his communication book, Ethan has an _alphabet chart_ that he uses to explore letter sounds. This gives him experience of selecting letters and combining them. He is learning to use the chart to spell his name, a great early literacy skill.
+
+.*Movie 1.4* Ethan and alli explore writing together
+video::pmjfuDU4XIk[youtube, width=300, height=180]
+Ethan and Alli explore writing together
+
+Ethan is learning how to spell his name.  He makes a great start at picking out some of the sounds that are found in his name.  Alli then provides a little mores support to enable him to write his name accurately.
+
+== Chapter 2: Using an Alphabet Chart
+
+.In this chapter
+****
+* How to use an alphabet chart if pointing directly to letters is difficult
+* Consider alternative <<access-methods, access methods>>, including:
+* eye pointing to letters
+* listener mediated scanning
+* combination access
+* facilitated communication
+****
+
+The term <<direct-touch, direct touch>> or <<direct-selection, direct selection>> describes the way someone points to letters or words on a chart using a bit of their body. People most often point using a finger, but sometimes use a fist, elbow, toe, or whatever works best for them. They may also use a <<pointing-tool, pointing tool>> to facilitate direct touch. You can never generalise when it comes to _AAC_(!), but typically, if someone can access a chart directly, this tends to be the preferred way of selecting letters (the <<selection-method, selection method>>).
+
+When pointing is difficult, there are different options that can be considered. One option is to consider ways to support direct access. Another option is to look at alternative access methods, including <<eye-pointing, eye pointing>> to letters, <<listener-mediated-scanning, listener mediated scanning>> (sometimes called <<partner-assisted-scanning, partner assisted scanning>>), and <<combination-access, combination access>>.
+
+=== Direct Touch
+
+Conventional _alphabet charts_ are designed to be accessed using an index finger. The letters are neatly laid out in alphabetical or qwerty order, and the individual points to letters to spell out words and phrases.
+
+Pointing to letters in this way can be difficult for some, however, and this section considers tools and strategies that can make direct access more successful.
+
+==== Learning to Point
+
+Where possible, a one-finger point is beneficial, as it helps the <<communication-partner, communication partner>> to follow what is being spelled out.
+
+Sometimes an individual may need help to learn that one particular finger is in charge of ‘pointing’. As a temporary teaching tool, a sticker or some nail varnish on the fingernail of the pointing finger can help to signal to the individual (and _communication partner_) what to pay attention to. Alternatively, for people who are happy to wear a glove, you could try cutting off the end of the glove’s pointing finger.
+
+[sidebar]
+.Gallery 2.1 Examples of conventional alphabet charts.
+--
+image::abc-anjali-thumb.jpg[title="This 'abc' alphabet chart is similar to the one used by Anjali.", link="Media/images/abc-anjali.jpg"]
+image::abc-thumb.jpg[title="Another example of an 'abc'alphabet chart.",link="Media/images/alphabetical-layout_alphabet.jpg"]
+image::alpha-chart-use-thumb.jpg[title="Another example of an 'abc'alphabet chart.", link="Media/images/alpha-chart-use.jpg"]
+image::qwerty-thumb.jpg[title="A simple 'qwerty' layout alphabet chart.",link="Media/images/qwerty.jpg"]
+--
+
+
+
+When learning new skills, it can be good to try to avoid the pressure of attempting to communicate something really important. Instead, you could practise pointing to letters within a game such as I spy or something similar. Try to feedback to the person about where you think they are pointing to, to further reinforce their learning.
+
+===== Placement
+
+A person’s visual and physical skills should influence where the chart itself is placed in relation to that individual. Simply placing the _alphabet chart_ in an area that is easier to reach can make a difference. For example, if someone uses only their right hand to access a chart, it may be helpful to place the chart slightly to their right. Small changes can sometimes make a big difference.
+
+===== Keyboard Layout
+
+Visual and physical skills should also inform where the letters themselves are placed on a chart.
+
+<<_chapter_3_arranging_letters_on_an_alphabet_chart>> includes a range of suggested keyboard layouts to facilitate access. You may find that one of the suggested arrangements is suitable for the person you are supporting.
+
+Alternatively, you may want to design your own layout based around the individual’s skills. For example, if they find it much easier to point to the right hand side of the page, then you might want to put letters that are used more frequently to the right, and letters like ‘z’ and ‘qu’ to the left. <<_chapter_4_chart_design>>  discusses key issues to consider when planning a keyboard layout.
+
+===== Size and Use of Space
+
+Try using different sizes of _alphabet charts_. For some people a smaller chart may be easier to use, whilst for others a larger chart may be required. You may also want to experiment with how much space there is between each letter on the _alphabet chart_.
+
+===== Writing Slope / Wedge
+
+Charts are often presented flat on a table or on a wheelchair tray. However, some people find that angling the chart slightly by placing it on a <<writing-slope, writing slope>> or wedge can make a big difference to their ease of access. The ideal slope is normally between 30 and 45 degrees.
+
+This is a junior _writing slope_ produced by Posturite - see http://posturite.co.uk.
+
+image::fVYxjNb-thumb.jpg[title="Writing Slope", alt="Writing Slope", width="300", link="Media/images/fVYxjNb.jpg"]
+
+===== Non-Slip Material
+
+If a chart is slipping around on a tray or table, this can make it more difficult to access. Sometimes fixing it in place with a sticky material like Blu-Tack or Velcro can make an enormous difference. Some people find using non-slip materials like Dycem or Tenura underneath a chart can help too.
+
+A magnetic _writing slope_ can help with both the angle and the slipping issue, by presenting material at an adjustable angle and allowing it to be fixed in place with a magnet.
+
+===== Keyguard
+
+A <<keyguard, keyguard>> is a cover that fits over a keyboard or computer screen and contains holes through which keys or areas of the screen can be selected. It allows an individual to rest their hand on the cover and make selections through the holes. For some individuals it can reduce accidental selections. It can also help someone with a tremor to target an area more precisely.
+
+[sidebar]
+.Gallery 2.2 Examples of commercially alphabet charts with keyguards.
+--
+image::FAB-ABC-thumb.jpg[title="A FAB^TM ABC layout keyboard.", link="Media/images/FAB-ABC.jpg"]
+image::FAB-QWERTY-thumb.jpg[title="A FAB^TM QWERTY layout keyboard.",link="Media/images/FAB-QWERTY.jpg"]
+image::candle_board_thumb.jpg[title="The CandLE letterboard.", link="Media/images/candle_board.jpg"]
+--
+
+Although _keyguards_ are most commonly used with computer keyboards or touchscreen devices, it is possible to make a _keyguard_ for an _alphabet chart_.
+
+A _keyguard_ could be made from Perspex®, wood or even cardboard. There are a couple of commercially available options. FAB™ – see http://fab.uk.com/ - is available in both QWERTY and ABC layouts, and in a range of sizes.
+
+Another commercially available QWERTY chart with _keyguard_ is an A5 wooden letterboard sold in the UK by CandLE http://candleaac.com/products_software.htm.
+
+Logan Technologies (http://logan-technologies.co.uk/) may be able to design a _keyguard_ to fit your own customised _alphabet chart_.
+
+===== Pointing Tools
+
+_Pointing tools_ are often designed to help people with disabilities type more accurately, but they can also help some people point more accurately to an _alphabet chart_. They come in many different shapes and sizes. They are known by different names, including ‘typing aid’, ‘keyboard aid’, ‘touch enabling device’, ‘dibber’, ‘universal cuff’, ‘accessible stylus’ and more. Not everyone likes to wear them, however, and some find it inconvenient to have another piece of equipment involved in communicating.
+
+[sidebar]
+.Gallery 2.3 Examples of pointing tools
+--
+image::Slip-on-Typing-aid-thumb.jpg[title="This is an example of a typing aid.", link="Media/images/Slip-on-Typing-aid.jpg"]
+image::AliMed-typing-aid-thumb.jpg[title="This is a typing aid that is available in the UK from AliMed (see http://amazon.co.uk).",link="Media/images/AliMed-typing-aid.jpg"]
+image::tbar-thumb.png[title="This is an accessible T-bar stylus manufactured by a UK company called Dad in a Shed http://dadinashed.com.", link="Media/images/tbar.png"]
+--
+Occasionally people choose to use a stick mounted to a headband to point to letters. This headpointer is made by a company called Dad in a Shed http://dadinashed.com.
+
+image::DZkbbbz-thumb.png[name="headpointer", alt="headpointer", width=300, link="Media/images/DZkbbbz.png"]
+
+===== Laser Pointer
+
+Another way of ‘pointing’ to a chart is to use a <<laser-pointer, laser pointer>>. These tend to be designed to help presenters indicate key points on their PowerPoint presentations. However, some people choose to use them to point to letters on an _alphabet chart_.
+
+The easiest way to do this is to attach a small _laser pointer_ to a pair of glasses. The person gently moves their head to direct the laser beam onto letters or words on a chart. However, they could be handheld, or attached to the body in another way.
+
+To avoid damage to eyes, make sure you choose an ‘eye-safe’ laser. You can view a video of someone using a _laser pointer_ to access an _alphabet chart_ with whole words here https://youtube.com/watch?v=AooDQOzdOyE.
+
+==== Eye-pointing
+
+When pointing directly to letters is difficult, another option is to point to letters with your eyes. Although people can feel a bit worried about it, and feel scared that they won’t be able to ‘read’ someone’s eye movements, it’s often easier than you think. It can also be surprisingly quick.
+
+_Eye pointing_ to letters is probably most often done using an E-tran frame with <<encoding, encoding>> as it minimises the number of different eye movements that the _communication partner_ has to interpret. There are different ways of _encoding_, and you can read more about these here <<_encoded_layout>>. The examples in this section make use of colour _encoding_.
+
+However, there is another way of _eye pointing_ to letters that is perhaps less well known and used, but can be highly successful for some. This is a strategy where you eye point directly to letters arranged on a transparent sheet known as an <<eyelink, Eyelink>> communication chart.
+
+===== EyeLink Communication Chart
+
+This is a photograph of a personalised _EyeLink_ communication chart.
+
+[sidebar]
+.Gallery 2.4 An example of an EyeLink chart
+--
+image::Screen-Shot-2016-01-25-at-17.22.06-thumb.jpg[title="Lisa uses a personalised EyeLink chart to communicate.", link="Media/images/Screen-Shot-2016-01-25-at-17.22.06.jpg"]
+image::perspex-board-thumb.jpg[title="This side is in alphabetical order.",link="Media/images/perspex-board.jpg"]
+image::eye-gaze-alphabet-mirror-image-copy-thumb.jpg[title="The other side shows the mirror image to make communition easier.", link="Media/images/eye-gaze-alphabet-mirror-image-copy.jpg"]
+--
+The _EyeLink_ chart is designed to be held between two people. Because the chart is transparent, the _communication partner_ can see which letter the individual is _eye pointing_ to.
+
+An _EyeLink_ communication chart can be made by placing individually cut up letters into a glossy laminate pocket and running it through a laminator. Alternatively, the alphabet could be printed onto an acetate sheet. For a more robust chart, you could have the letters printed onto transparent plastic, or even attach letters onto a Perspex® board.
+
+To use the chart, the _communication partner_ holds it between themselves and the individual. Typically, the ‘correct’ layout of letters faces the communicator, and the _communication partner_ sees the mirror image. This does not have to be the case, however. In the video of Lisa using her own _EyeLink_ style chart below, we see that she does things the other way round. Here it is Lisa who uses the mirror image while her PA sees the ‘correct’ (alphabetically arranged) layout. This may help unfamiliar _communication partners_ use this method of communication.
+
+To use an _EyeLink_ chart, the individual looks at the letter they wish to select. The _communication partner_ moves the chart in response to where the individual is looking, until they end up both looking at the same letter. The _communication partner_ speaks aloud the letter and the individual can indicate if a mistake has been made. You can view an instructional video of this _access method_ at https://vimeo.com/53036535.
+
+In this video of Lisa and her PA, she explains how she uses the _EyeLink_ chart. Lisa’s PA is able to predict many of the words she is saying after the first letter or two. If she makes a mistake, Lisa simply shakes her head and carries on spelling the word.
+
+.*Movie 2.1* Using an Eyelink style communication chart
+
+video::78qCTjL30R8[youtube, width=300, height=180]
+
+Lisa explains how she uses her chart to communicate.
+
+This method tends to be used with an <<_abc_alphabetical_layout>> but there is no reason why a <<_qwerty_layout>>, or even a <<_frequency_layout>>, could not be used if preferred.
+
+The busy display can make it hard for unfamiliar _communication partners_ to use. However, for those who are able to use their eyes clearly and purposefully, there is no doubt that this can be a quick and effective way of accessing the alphabet. It is also a strategy that some individuals actively prefer to use.
+
+[[e-tran-frames]]
+===== E-Tran Frames and Other Similar Options
+
+In order to help make _eye pointing_ easier to read, an <<e-tran-frame, E-tran frame>> (or <<eye-transfer-frame, eye transfer frame>>) can be used.  An _E-tran frame_ is a perspex rectangle with a central window removed.  The idea is that the _communication partner_ holds the frame between themselves and the communicator, making eye contact through the central window.  The central window can make it easier for the _communication partner_ to read the communicator’s eye movements.  A mirror image of what is shown on the _E-tran frame_ tends to be placed on the _communication partner’s_ side to make it easier for them to follow what is being communicated.
+
+The Frenchay _E-tran frame_ is a well known commercially available _E-tran frame_.  It is available from a number of suppliers e.g. http://www.liberator.co.uk.
+
+Another commercially available encoded alphabetical _E-tran frame_ is available from http://www.cec-ltd.co.uk.
+
+You could purchase a blank _E-tran frame_ (e.g. from http://www.liberator.co.uk) and attach your own letters.  Alternatively you could approach a glass supplier and see if they would cut some Perspex to size for you (don’t forget to ask them to round the corners!).  Some online companies also offer a cut-to-size option for perspex or acrylic sheets.
+
+[sidebar]
+.Gallery 2.5 The Frenchay E-tran frame
+--
+image::Frenchay-etran-thumb.jpg[title="This shows the commercially available Frenchay E-tran frame in action. The man is the communication partner, and is holding the frame so that the lady can eye point to letters.", link="Media/images/Frenchay-etran.jpg"]
+image::mirror-image-of-frenchay-thumb.jpg[title="This is the mirror image that is seen by the communication partner (the man in the previous picture).",link="Media/images/mirror-image-of-frenchay.jpg"]
+--
+If you’ve got access to a laminator, a cheap way of producing an _E-tran frame_ is to make use of a piece of _gloss_ laminate. It’s not as robust as a Perspex® frame, but it can work well. Simply pop the letters (ideally with the mirror image on the back) into the laminate pouch and run it through the laminator. Although we often recommend _matt_ laminate, for this purpose, gloss laminate works a bit better as it is more transparent. Gloss laminate is what <<_tiago>> chooses to use.
+
+Alternatively, you could create something that looks a little more like an _E-tran frame_ using a combination of paper and laminate. In this case, _matt_ laminate works best.
+
+[sidebar]
+.Gallery 2.6 Alternative laminate and paper E-tran
+--
+image::alph-etran-laminate-thumb.jpg[title="This side is used by the person who is eye pointing to the letters.", link="Media/images/alph-etran-laminate.jpg"]
+image::alpha-etran-mirror-thumb.jpg[title="This side is the mirror image, and allows the communication partner to follow what is being said.",link="Media/images/alpha-etran-mirror.jpg"]
+--
+Less cutting is required, as you don’t need to cut round each block of letters and the dots, but it does give you less of a ‘window’ on the individual’s eyes.
+
+The Speakbook is a freely available communication book that offers access to whole words and useful phrases alongside an encoded _alphabet chart_. It is designed to be held like an Etran frame. You can read more about it at http://speakbook.org.
+
+image::upKi6eG-thumb.jpg[name="speakbook", alt="speakbook", width="300", link="Media/images/upKi6eG.jpg"]
+
+Another way of presenting an _alphabet chart_ for _eye pointing_ is to display it in an easel file / binder. Although it can be harder to read, some people manage _eye pointing_ to paper that is held upright by the file very successfully. Easel files are available from some of the large office stationery suppliers (e.g. Viking Direct, Staples, etc.) Alternatively, alongside their Look2Talk Guide, ACE Centre produces a more robust easel file that can be purchased as a standalone item – see http://acecentre.org.uk.
+
+image::e44HHCX-thumb.png[name="A5 Chart", alt="A5 Chart", width="300", link="Media/images/e44HHCX.png"]
+
+While the assumption is often that ‘bigger is better’, some people prefer to use a chart that is more discrete. Some of <<_tiago>>'s charts, for example, are A5 size - and charts can be made smaller still.
+
+Below is an example of a very small encoded chart. The arrows show the eye movements involved in communicating the letters to be selected.
+
+It is probably fair to say that if the chart is very small, the person using their eyes is going to have to work extra hard to ensure their _eye pointing_ is clear, and may need to exaggerate their eye movements when communicating with people who are less familiar with communicating with them.
+
+[sidebar]
+.Gallery 2.7 Bigger isn't always better
+--
+image::sm-etran-thumb.jpg[title="This tiny alphabet chart is designed to be accessed by eye pointing. The pen is included to give a sense of scale.", link="Media/images/sm-etran.jpg"]
+image::sm-etran-in-use-thumb.jpg[title="This picture shows how small the chart is in relation to someone's face.",link="Media/images/sm-etran-in-use.jpg"]
+image::Encoded-alphabet-chart-arrows-thumb.jpg[title="The arrows show the eye movements involved in communicating the letters to be selected. With an unfamiliar communication partner, these may need to be quite exaggerated. However, with someone familiar, the movements can be quite subtle.",link="Media/images/Encoded-alphabet-chart-arrows.jpg"]
+--
+The examples above have tended to show six blocks of letters arranged in a landscape layout. However, some people find it easier to eye point to different layouts. Letters could be arranged in the shape of a cross for example, so that the communicator uses up / down and left / right eye movements (this is how the second selection is made with Vocal Eyes described below in <<_encoding_using_position>>, or they could be placed in more of a ‘zig zag’ configuration. It’s all about working together to find out what is easiest for the individual you are communicating with.
+
+===== Selecting Letters on an E-tran Frame
+
+One of the challenges of using _eye pointing_ with an _E-tran frame_ or similar is differentiating between a ‘searching’ look and a ‘choosing’ look. In other words, how does the _communication partner_ know whether the communicator is still searching for the right letter, or actually looking at the letter they want?
+
+One strategy that can work is the, ‘Look back at me’ strategy. Here, the _communication partner_ encourages the communicator to look through the various letters, then look purposefully at the desired letter when they find it (briefly holding their gaze on it), and finally looking back at the _communication partner_ to confirm that a choice has been made.
+
+.*Movie 2.2* Selecting letters on an E-tran frame
+video::Ww55-H7Ruz8[youtube, width=300, height=180]
+Angus demonstrates the 'Look back at me' strategy by spelling out his name.
+
+Others prefer a strategy of looking around, making eye contact with the _communication partner_ to signal that they are ready to make a choice, and then fixing their gaze on the target letter.
+
+Tiago has become so familiar with communicating using his eyes that he simply holds his gaze on the target very briefly to communicate his choice.
+
+.*Movie 2.3* Tiago
+video::TWVb0flgDJg[youtube, width=300, height=180]
+Another clip of Tiago and Katharine chatting using his laminated alphabetical E-tran frame. Tiago fixes his eyes on a target to make a selection. If Katharine doesn’t pick up on this quickly enough, he smiles or nods to reinforce his selection.
+
+Whichever strategy is chosen, the important thing is to make sure that all who work with the individual know and understand it.
+
+===== Tips for Communication Partners
+
+In the early stages, a _communication partner_ may need to double check whether they have correctly ‘read’ the _eye pointing_. Beware of falling into the trap of asking someone to indicate ‘yes’ or ‘no’ to every letter they have selected all of the time, however, as it is really frustrating to be asked to ‘repeat’ yourself, and can slow communication down. Often it is quicker to rely upon the communicator to let you know when you’ve got it wrong - for example by pulling a face, or looking away completely. Rather than asking questions, try making statements. For example, instead of asking, “Are you looking at ‘e’?”, try stating, “You are looking at ‘e’.” The individual can still respond to the statement and make it clear that you are wrong, but the statement form stops the communicator from feeling that you are ‘double checking’ or questioning their every utterance.
+
+A pen and paper can be an incredibly useful piece of equipment for a struggling _communication partner_! If you are engaged in a long conversation using an _eye pointing_ _alphabet chart_, it is easy to lose your way, or forget where you have got to within a word. If you write down the letters as they are spelled out, this can really help you keep track of things.
+
+===== Learning Eye Pointing
+
+Learning to make a selection using _eye pointing_ involves lots of different skills, and is not necessarily something that everyone will be able to do immediately. You can still get started with _eye pointing_ by using it within fun games or play activities, particularly with a child, and responding to where you think the person is looking. This can provide an opportunity within which to ‘teach’ _eye pointing_ skills in a fun and motivating way.
+
+If using eye-pointing to purposefully communicate messages is proving too difficult for an individual for whatever reason, it may be worth thinking about another _access method_, such as <<_listener_mediated_scanning>>.
+
+==== Listener Mediated Scanning
+
+_Listener mediated scanning_ is the term used to describe the _access method_ whereby a _communication partner_ delivers the options that are available. They might do this by pointing to letters (<<visual-scanning, visual scanning>>), speaking aloud the letters (<<auditory-scanning, auditory scanning>>), or both (<<visual-and-auditory-scanning, visual and auditory scanning>>). The individual indicates ‘yes’ when the _communication partner_ has reached the desired option. _Listener mediated scanning_ is also known as _partner assisted scanning_.
+
+_Listener mediated scanning_ may be someone’s primary access method to an _alphabet chart_. Alternatively it may be used by someone who uses direct access some of the time, and _listener mediated scanning_ when they are fatigued / ill.
+
+===== How it Works
+
+The simplest way of scanning through the alphabet is to offer each letter in turn. However, this can be time consuming. For example, to get to the letter ‘t’, you have to first speak aloud and / or point to, nineteen other letters. To speed up the process of communication, you may want to divide the alphabet into groups in some way. Grouping really does increase the speed at which letters can be accessed.
+
+This ABC keyboard has been organised so that the vowels appear at the beginning of each row of letters. This can be a very neat way of dividing up the alphabet.
+
+image::0EWaRXs-thumb.png[name="ABC Keyboard", alt="ABC Keyboard", width="300", link="Media/images/0EWaRXs.png"]
+
+In this example, the _communication partner_ would read aloud and / or point to each vowel in turn. This makes it much quicker than working through the whole alphabet letter-byletter. If the individual wanted the letter ‘G’, they would indicate “yes” once they heard and / or saw the letter ‘E’. The _communication partner_ would then say / point to the letters 24 in that row until the individual indicated “yes” i.e. ‘E’, ‘F’, ‘G’ – “yes”.
+
+.*Movie 2.4* Auditory and _visual scanning_ using an ABC _alphabet chart_.
+
+video::lMf2rsusOVY[youtube, width=300, height=180]
+
+The chart is offered row-by-row, then once a row has been selected, letter-by-letter within the chosen row.
+
+Others choose to divide up the alphabet differently. For example, some people divide the alphabet in half, offering ‘A’ or ‘N’ as a start. In this example, if someone wanted to say the letter ‘R’, they would indicate “yes” once they heard the letter ‘N’ offered. The _communication partner_ would then say / point to the letters from ‘N’. Once they got to the letter ‘R’, the individual would indicate “yes” i.e. ‘N’, ‘O’, ‘P’, ‘Q’, ‘R’ – “yes”.
+
+.*Movie 2.5* Auditory scanning without a chart
+
+video::olBN9NdyeXk[youtube, width=300, height=180]
+
+The alphabet is divided in half to speed access to the letters. The communication partner first offers ‘A’ or ‘N’, then the letters following either ‘A’ or ‘N’, depending upon the choice.
+
+<<frequency-alphabet-charts,Frequency alphabet charts>> can also be a valuable tool to support listener mediated scanning. Indeed, Jean-Dominique Bauby ‘dictated’ his famous memoir, _The Diving Bell and the Butterfly_, using listener mediated scanning with an alphabet chart that was organised according to the frequency of use of letters in the French alphabet.
+
+This English frequency alphabet chart has been designed to be used with listener mediated scanning. The communication partner first establishes the row and then the individual letter or number that is desired. The most frequently used letters are close to the top left hand corner so that they can be selected the most quickly using this method.
+
+image::35U7zRo-thumb.png[name="frequency chart", alt="frequency chart", width="300", link="Media/images/35U7zRo.png"]
+
+If someone wanted to communicate the letter ‘S’, for example, the _communication partner_ would offer ‘space’, ‘e’, ‘a’ – “yes”. The _communication partner_ would then offer the letters within the chosen row ‘a’, ‘s’ – “yes”. Alternatively, they could simply offer the chart row by row, and then speak aloud the letters within the chosen row. The video should make this a little clearer!
+
+.*Movie 2.6* Auditory and _visual scanning_ using a frequency layout.
+
+video::VzBTdU_E6ls[youtube, width=300, height=180]
+
+In this example, the _communication partner_ is offering each row in turn without speaking aloud the first letter. This is down to personal choice. The main thing is to ensure that, once a strategy has been agreed, this information is shared so that everyone does the same thing!
+
+===== Making a Selection
+_Listener mediated scanning_ is easiest to use when an individual is able to communicate both ‘yes’ and ‘no’. However, so long as the individual has a way of communicating ‘yes’, then _listener mediated scanning_ is viable.
+
+There are two ways of making selections:
+
+ 1. The individual waits until they see and / or hear the desired option and then indicates ‘yes that’s the one I want’ by an agreed movement or vocalisation.
+
+_or_
+
+ 2. The individual communicates ‘no’ after each option offered (by an agreed movement or vocalisation) until they see and / or hear the desired option and then indicates ‘yes that’s the one I want’ by an agreed movement or vocalisation.
+
+The advantage of the first method is that it is quicker and less effortful for the individual using the system to communicate. Effectively they can sit back and relax until the desired option is seen and / or heard. However, it can mean that a desired option is missed, particularly by a listener / _communication partner_ who is not experienced and rushes through the options or misses the agreed affirmative signal.
+
+The advantage of the second method is that it can be more reliable as the _communication partner_ / listener does not move onto the next option until they have established that the individual does not want the option offered. The disadvantage is that this can make the whole process much slower and more effortful for the individual.
+
+In practise, where an individual does have a reliable way of indicating ‘yes’ and ‘no’, people often choose to get started using the second method, moving to the first method as both the individual and the _communication partner_ gain confidence in this _access method_.
+
+The method by which an individual indicates acceptance of an option should be clearly documented on the alphabet chart and in the <<_chapter_6_communication_passports_drawing_it_all_together,communication passport>> if present.
+
+===== Delivering the List
+
+If you are using _auditory scanning_ or combined auditory and _visual scanning_, try to read through the options using a neutral voice. Keep expression to a minimum, and use as low a volume as is appropriate to the individual and setting. When the individual has spelled out a word, you can then say that aloud in a more natural / social voice. If you listen again to the three videos in this section, you should hear the difference in tone.
+
+When speaking aloud the letters, remember to pause long enough between each letter to give the individual time to respond. It can be helpful to document how long to leave between each letter to ensure that the chart is delivered in a consistent way by all _communication partners_.
+
+===== Smart Partner
+
+The joy of a _low tech_ scanning system (i.e. one that is operated by a person rather than a computer) is that you are so much cleverer than a computer! If you are reading through letters and there is a sudden noisy distraction, you know to pause and allow time for that to pass. If the individual is tired that day, you know to read through the options more slowly. You may also be able to spot a ‘yes’ response that is being initiated, even if it is not quite on target due to fatigue or illness.
+
+But sometimes partners aren’t so smart! With scanning systems it is incredibly important to ensure that individual partners understand how to use the system and use it consistently. It is also important to ensure that all _communication partners_ use the system in the same way. Written instructions are essential. Given the complexities, a short video may also be useful for new _communication partners_. A  <<_chapter_6_communication_passports_drawing_it_all_together, _communication passport_>> can be very helpful too.
+
+It is also important to establish whether the individual is happy for you to guess what they are spelling out.
+
+You can see a video about a gentleman who has <<motor-neurone-disease, _Motor Neurone Disease_>> (known as <<als, _ALS_ >> in America) who uses an _alphabet chart_ with _partner assisted scanning_ here http://youtube.com/watch?v=pLb6-Oi3uR0
+
+==== Combination Access
+
+_Combination access_ means using more than one _access method_ within a system.
+
+In the example below, someone might point to a group of letters, then rely upon _listener mediated scanning_ to identify the precise letter within that group.
+￼
+
+image::GX0yoTl-thumb.jpg[name="Combination Access", alt="combination access", width="300", link="Media/images/GX0yoTl.jpg"]
+
+.*Movie 2.7* A demonstration of _combination access_
+video::TLsfGWs3Fhc[youtube, width=300, height=180]
+
+In this example, the individual eye points to one of the four blocks. The _communication partner_ then uses _listener mediated scanning_ to offer the letters within that block.
+
+It is also important to remember that _access methods_ are not set in stone.
+
+Some people use a combination of different _access methods_ depending upon mood / energy levels / well-being. For example, someone might point directly to an _alphabet chart_ during the day, but move to _listener mediated scanning_ in the evening when they are fatigued.
+
+==== Facilitated Communication
+
+<<facilitated-communication, *“Facilitated communication (FC)*>>  or _Facilitated Communication_ Training (FCT) as described by Rosemary Crossley who is credited with being the originator, is a technique in which physical, communication, and emotional support is provided by a facilitator to an individual with a communication disorder (communicator). With assistance, the communicator points to symbols such as letters, pictures and/or objects.”  American Speech-Language Hearing Association (ASHA). The assistance often consists of providing backward resistance for the communicator to push against creating a steadying effect so that they can accurately point to their target.
+
+For more information about _Facilitated Communication_ see http://www.candleaac.com/a_brief_guide_to_fct.htm.
+
+Because of the physical input of another person into the construction of the message, there have been anxieties around the integrity of this _access method_.  ISAAC (The International Society for _Augmentative and Alternative Communication_) released a position statement in July 2014 that states that they do not support FC as a valid form of _AAC_ or a valid _access method_. This position statement was produced after a committee of researchers carried out a literature review of research that examined authorship and the discussions of the committee were confined to this aspect of FC/FCT.
+
+CandLE is a national _AAC_ organisation that has a lot of expertise in this area.  CandLE has developed an alternative approach called Motor Planning Training (MPT).  No claims are made in relation to authorship, which are the grounds upon which ISAAC dismissed the FC/FCT approach.  You can find out more at http://www.candleaac.com.
+
+== Chapter 3: Arranging Letters on an Alphabet Chart
+
+.In this chapter:
+****
+How to arrange letters on an alphabet chart, and why you might consider each option:
+
+* QWERTY
+* ABC
+* Frequency
+* Encoding
+****
+
+_Alphabet charts_ can be laid out in different ways. There are advantages and disadvantages to each method, and some suit different _access methods_ better than others. At the end of the day, the choice will come down to personal preference and what seems to work best for an individual and their _communication partner_(s). You may also want to think about how an individual uses the alphabet when writing and accessing a computer. Sometimes there are good reasons for having different layouts across different tools, but it’s often a good idea to be as consistent as possible.
+
+==== QWERTY layout￼
+
+Many people are now familiar with a QWERTY keyboard, as this is the arrangement of letters that you find on computers and typewriters. For those who know the layout well, or who will be using a standard computer keyboard regularly, this may be the best option to go for as they may already know the location of the letters and consequently won’t have to ‘hunt around’ for them.
+
+This is an example of an _alphabet chart_ made using a QWERTY layout. It has been designed to be accessed directly.
+
+image::G6paEeQ-thumb.jpg[name="qwerty", alt="qwerty", width="300", link="Media/images/G6paEeQ.jpg"]
+
+QWERTY layouts can work well for people accessing charts by _direct touch_ but for those using alternative _access methods_ such as _eye pointing_ and _listener mediated scanning_, it may be worth thinking about a different layout.
+
+However, even for those accessing by _direct touch_, it may be worth thinking carefully about why a QWERTY layout is being used. The QWERTY keyboard layout was devised in the late 1800s for use on a manual typewriter to reduce the jams that could occur when typing neighbouring letters consecutively. In other words, it is not a layout that was designed to speed up letter selection. Also, it is worth noting that the QWERTY layout was designed to be used with ten fingers. For someone using one finger or some sort of _pointing tool_, the QWERTY layout will necessitate a lot of movement around the keyboard, and if movement is difficult or fatiguing, this may not be ideal. For someone who is not familiar with the QWERTY layout, or who finds the process of selecting letters slow or laborious, it may be worth considering an alternative layout.
+
+===== In Summary - QWERTY
+****
+*Why consider QWERTY?*
+
+QWERTY is a keyboard layout that is familiar for people who have used computer keyboards, or may become familiar to a child who is going to be using a computer keyboard
+
+*What _access methods_ does it support?*
+
+QWERTY is best suited to access by direct touch
+
+*What are the disadvantages?*
+
+For someone who is not familiar with a computer keyboard, it may take extra time to learn where to find the letters.
+
+The QWERTY layout was not designed to meet the needs of someone who is pointing with one finger / body part, or who is using an alternative _access method_.
+****
+
+==== ABC / Alphabetical Layout
+
+Most people learn letters in alphabetical order, so providing an ABC keyboard arrangement should tap into that familiarity. However, for someone used to using a QWERTY keyboard, it can be difficult to make the transition.
+
+This is an example of a simple ABC layout _alphabet chart_:
+
+image::n0PCUcO-thumb.jpg[name="alphabetical layout", alt="alphabetical layout", width="300", link="Media/images/n0PCUcO.jpg"]
+
+￼Arranging letters in alphabetical order has the advantage of minimising the time needed to learn where the letters are, as the layout should feel familiar. As with the QWERTY layout, however, a potential disadvantage is the ABC layout has not been designed to meet the needs of someone spelling using one finger / body part. This means that someone may be making more movements around the chart than if they were using a <<frequency-alphabet-charts,frequency layout>>.
+
+Due to people’s familiarity with alphabetical order, an ABC keyboard can work particularly well for someone using <<_listener_mediated_scanning>> as the individual doesn’t have to watch or listen quite so intently.
+
+===== In Summary - ABC
+****
+*Why consider ABC?*
+
+ABC is a keyboard layout that should feel familiar to everyone as it taps into our knowledge of the alphabet. This can help both the person using the chart and the communication partner.
+
+*What _access methods_ does it support?*
+
+ABC can work well with direct access and listener mediated scanning.
+
+*What are the disadvantages?*
+
+The ABC layout can be confusing for someone who is highly familiar with a QWERTY keyboard.
+
+Like the QWERTY layout, the ABC layout has not been optimised to meet the needs of someone who is pointing with one finger / body part, or who is using an alternative _access method_.
+****
+[[frequency-alphabet-charts]]
+==== Frequency Layout
+
+Frequency layout describes an approach where letters are arranged so that the most frequently used letters in a word (e.g. ‘e’ and ‘t’) can be accessed more quickly or easily than letters that are used infrequently (such as ‘q’ and ‘z’). Unlike QWERTY and ABC, there is no, one ‘standard’ frequency layout. Instead, there are a variety of frequency layouts that have been designed and suggested.
+
+The design of a frequency layout will be affected by the _access method_ being used. A frequency layout for someone using _direct touch_ will look very different from a frequency layout for someone using _listener mediated scanning_. If letters are being read aloud to an individual, a frequency layout would ensure that the most frequently used letters were at the beginning of the list. However, if the letters are being selected by an individual directly using a single finger or a _pointing tool_, it may be better to place the most frequently used letters in the centre of the page to minimise movement.
+
+If someone is using an onscreen keyboard arranged according to frequency of use to write on a computer, you may want to copy this layout for their communication chart. Otherwise, it could be confusing to learn and use two similar but subtly different keyboard layouts.
+
+The FITALY keyboard is one example of a frequency layout designed for one finger _direct selection_. See http://fitaly.com/fitaly/ofkey.htm for more information. This layout has been designed to minimise the amount of movement required when spelling words using a single finger. The most frequently used letters are towards the centre of the chart, whilst less frequently used letters are around the edges. Although invented and patented by Jean Ichbiah for use with a computer or handheld device, the keyboard layout could also work well as a _low tech_ _alphabet chart_.
+
+image::avIkNm4-thumb.png[name="frequency layout", alt="frequency layout", width="300", link="Media/images/avIkNm4.png"]
+
+The chart below is an example of a frequency layout that has been optimised for use with _listener mediated scanning_. The _communication partner_ first establishes the row and then the individual letter or number that is desired. The most frequently used letters are close to the top left hand corner so that they can be selected the most quickly using this method.
+
+image::35U7zRo-thumb.png[name="frequency layout 2", alt="frequency layout 2", width="300", link="Media/images/35U7zRo.png"]
+
+As described in Chapter 2, if someone wanted to communicate the letter ‘s’, for example, the _communication partner_ would offer ‘space’, ‘e’, ‘a’ – “yes”. The _communication partner_ would then offer ‘a’, ‘s’ – “yes”. This can be seen in action <<e-tran-frames,here>>.
+
+===== In Summary - Frequency
+****
+*Why consider a frequency layout?*
+
+A frequency layout has been designed to speed up communication.
+
+*What _access methods_ does it support?*
+
+A frequency layout can work well with direct access and listener mediated scanning, so long as the chart has been designed with the particular method in mind.
+
+*What are the disadvantages?*
+
+There is no standard frequency layout keyboard, so you will need to design your own or copy one of the examples in this section.
+
+A frequency layout has to be learned by an individual and their communication partners as it is probably not something they will have encountered previously.
+
+There are a variety of means of grouping letters often used to either make physical access easier or to speed up the process of using spelling to form messages.
+****
+
+==== Encoded Layout
+
+There are a variety of means of grouping letters often used to either make physical access easier or to speed up the process of using spelling to form messages.
+
+===== Encoding (using colour)
+
+_Encoding_ is a way of helping someone to use direct access where they aren’t able to point to the 26 individual letters of the alphabet on an _alphabet chart_. _Encoding_ groups letters together, reducing the number of target areas on a page. This means that someone who is pointing using a fist for example, simply needs to indicate a group of letters, rather than trying to isolate an individual letter. They then clarify which letter they wish to communicate using a second movement.
+
+This is an example of an _alphabet chart_ that has been encoded using colour for an individual using _direct touch_ e.g. pointing with their fist.
+
+image::Qq5mxet-thumb.png[name="frequency layout", alt="frequency layout", width="300", link="Media/images/Qq5mxet.png"]
+
+To select the letter ‘b’, you would first select the block containing the characters ‘a’,‘b’, ‘c’, ‘1’, ‘2’ and ‘3’. Then, to clarify that it was the letter ‘b’ you were targeting (rather than a, c, 1, 2 or 3), you would then select the gold dot because ‘b’ is coloured gold in this example. Similarly, to select the number ‘8’, you would first select the block containing the characters ‘g’, ‘h’, ‘i’, ‘7’, ‘8’ and ‘9’. Then, to clarify that it was the number ‘8’ you wanted, you would then select the black dot because ‘8’ is coloured black in this example. With just six movements, you are able to select from thirty-six different characters.
+
+.*Movie 3.1* Colour _Encoding_ - with direct access
+
+video::Nnh13Cajn_w[youtube, width=300, height=180]
+
+This video demonstrates how the colour encoded chart works.
+
+Some people prefer to use a thick border rather than dots, but the principle is exactly the same. Note that this example also makes use of upper case rather than lower case letters, which again is a matter of personal preference.
+
+image::UqWWmLM-thumb.png[name="colour encoding", alt="colour encoding", width="300", link="Media/images/UqWWmLM.png"]
+
+Although used with direct _access methods_, _encoding_ is most commonly associated with <<_eye_pointing>>.
+
+===== Encoding (using numbers)
+
+_Encoding_ is often associated with the use of colour. However, for those who are colour blind, or who simply do not like using colour in this way, it is possible to encode in other ways.
+
+This example shows how you might design an encoded _alphabet chart_ using numbers. To avoid confusion, it is probably best not to have numerals alongside the letters on the chart itself.
+
+image::Q3TjtJh-thumb.jpg[name="number encoding", alt="number encoding", width="300", link="Media/images/Q3TjtJh.jpg"]
+
+.*Movie 3.2* Numerical _Encoding_ - with direct access
+
+video::eDCa4sy8NM0[youtube, width=300, height=180]
+
+===== Encoding (using position)
+
+Jason Becker uses a specially designed encoded _alphabet chart_ to support his communication.  His _alphabet chart_ is similar to the examples above, but just uses position rather than number or colours.  He accesses this chart using eye movements.  You can see him in action here: http://jasonbeckerguitar.com/eye_communication.html
+
+image::tg6CI2v-thumb.png[name="Vocal eyes", alt="vocal eyes", width="300", link="Media/images/tg6CI2v.png"]
+
+Jason first looks to the block that contains his target letter. He then uses and up, down, left or right eye movement to clarify which of the four letters he is communicating.
+
+You can http://jasonbecker.com/VocalEyesCommunicate.pdf[download the Vocal Eyes alphabet chart free of charge from this website].
+
+===== In Summary - Encoding
+****
+*Why consider encoding?*
+Encoding can open up direct access to someone who is not able to refine their movements enough to point to 26 discrete letters.
+
+Encoding can make it easier to read eye pointing.
+
+*What access methods does it support?*
+
+Direct access and eye pointing.
+
+*What are the disadvantages?*
+
+Encoding takes time to learn, both for the individual and their communication partner(s).
+
+Each letter requires two selections / movements.
+****
+
+==== Coded Layout
+
+Coded layouts effectively make use of a grid reference system. Letters and words / phrases are given a grid reference that the individual communicates. It requires two separate charts to communicate. One chart contains your letters (and words / phrases), the other allows you to communicate the location of the letter / word / phrase you wish to communicate. It’s a bit like using a map – you look up the location of a road in your street atlas and it tells you the grid reference on the page.
+
+_Coded access_ is not straightforward, and it is essential that the system is well documented, perhaps in a <<_chapter_6_communication_passports_drawing_it_all_together,communication passport>>.
+
+In this example, the first chart shows the letters on offer. The second smaller chart is accessed by the individual to indicate the code, thus identifying the target letter.
+
+To communicate the letter ‘P’, the individual would first select the number 3, as ‘P’ is in the third row. They would then select the colour blue as ‘P’ is in the blue column. This example set up might be used by someone who is able to indicate small targets accurately, but would find the range of movement required to access a full _alphabet chart_ too difficult.
+
+[sidebar]
+.Gallery 3.1 One Example of a Coded Layout
+--
+image::coded-abc-1-thumb.jpg[title="This is the first chart. it shows the letters on offer.", link="Media/images/coded-abc-1.jpg"]
+image::coded-abc-2-thumb.jpg[title="This second, much smaller, chart is accessed by the individual to indicate the code that corresponds to the target letter on the first chart.",link="Media/images/coded-abc-2.jpg"]
+--
+Coded charts can be set up and accessed in lots of different ways.
+
+.*Movie 3.3* a demonstration of _coded access_
+
+video::pl1EQHvRQcc[youtube, width=300, height=180]
+
+This video demonstrates how the two example charts can be used to communicate a message.
+
+_Coded access_ tends to be used when direct access is difficult. Someone might find it easier to point to a small set of codes rather than a full _alphabet chart_, either because they find it hard to refine a point sufficiently to point to 26 separate letters plus additional words / phrases, or because they are unable to move their hand around a full chart and need a smaller set of options. The codes can also be presented on an _E-tran frame_ and accessed using _eye pointing_, or presented using _listener mediated scanning_.
+
+_Coded access_ charts tend to be highly customised to the needs of a particular individual, and they can be very complex. The downside of such charts is that often the individual themselves can use it extremely well, but unfamiliar _communication partners_ can feel lost or scared by it. Someone who is confident with a complex coded chart may also require a more straightforward communication chart to deal with such situations.
+
+Although _coded access_ tends to involve the use of two charts (one containing the target letters, the other containing the codes), this example shows how it is possible to combine them all onto one chart. This chart was developed by a Speech and Language Therapist called Susan Stayte for a young man with excellent _eye pointing_ skills who wanted to be able to communicate a lot of things very quickly.
+
+The chart is shown here to raise awareness of the possibilities of chart design for people who are literate and want fast access to complex language. The alphabet is accessed using standard <<_encoded_layout>>. The individual first looks at the group of six letters, then clarifies their choice by looking to the corresponding coloured border. However, the key words are accessed using a code. The individual first looks at the block containing their target word, and then communicates the numerical code associated with that word.
+
+[sidebar]
+.Gallery 3.2 A complex coded and encoded chart developed by Susan Stayle
+--
+image::coded-etran-1-thumb.jpg[title="This chart is designed to be accessed using eye pointing. Eye contact is made through the 'window' of the laminate E-tran frame. The alphabet is communicated using standard colour encoding. However, the key words are accessed using a code. The individual first looks to the block containing their target word. They then eye point to the 'coordinates' that identify the location of their target word.", link="Media/images/coded-etran-1.jpg"]
+image::coded-etran-mirror-thumb.jpg[title="This is the mirror image of the chart that is seen by the communication partner.",link="Media/images/coded-etran-mirror.jpg"]
+--
+===== In Summary - Coded Access
+****
+*Why consider coded access?*
+
+Coded access can help when pointing to all the letters on an alphabet chart is difficult.
+
+*What _access methods_ does it support?*
+
+Coded access can be used with direct access, eye pointing, or listener mediated scanning.
+
+*What are the disadvantages?*
+
+There are two charts to position.
+
+Coded access can feel confusing initially, and takes time for an individual and their communication partner(s) to learn.
+****
+
+== Chapter 4: Chart design
+
+.In this chapter:
+****
+* Consider design issues like size, colour and font
+* Consider the role of words and phrases on an alphabet chart
+* Explore personalising a chart for an individual
+****
+
+There is no such thing as a one size fits all _alphabet chart_. This chapter explores issues you may want to consider when designing an _alphabet chart_ to meet the needs of an individual.
+
+==== Design Issues
+
+When designing and using a communication chart, you will need to take someone’s physical and visual skills into account, both in terms of design and placement of the chart. There are a number of things you may want to bear in mind:
+
+===== Upper or Lower Case
+
+You may want to give someone the choice of what case (upper or lower) they would prefer to have their _alphabet chart_ produced in. Note that younger children in the UK are often more familiar with lower case letters, and may find a chart made using lower case letters more accessible. Having said that, exposure to both cases is an important part of literacy development.
+
+===== Size, Colour and Font
+
+When making an _alphabet chart_, you will need to consider how big to make it, and what size and style of font to use. This decision will be affected by someone’s visual skills. They need to be able to see what is written clearly and easily.
+
+The decision about size may also be affected by someone’s physical skills, particularly if they are accessing the chart by _direct touch_. For someone with a limited range of movement, a little chart may be easier. For someone with less refined movements, a larger chart may be easier.
+
+In addition to the overall size of the chart, you may want to think about how much space to leave between letters and individual words. The amount of space between items can affect how well someone can see what is written, and also the accuracy with which they can point to items.
+
+It is worth checking whether any vision assessments have been carried out as the information within such a report can be very helpful when personalising a chart. A child in school may have support from an advisory teacher for vision impairment (e.g. QTVI, Qualified Teacher of learners with Visual Impairment) – ask their advice on how best to present information. If someone wears glasses but doesn’t always remember, or choose, to wear them, you may want to consider designing the chart so that the font is easily visible to them, even when without their glasses. In practice, chart design for someone with a visual difficulty is likely to involve a bit of trial and error along the way!
+
+Sometimes a chart can be made easier to see by experimenting with the use of colour. Visual accessibility can be increased by using a high level of contrast between the background and foreground colours. Commonly used high contrast combinations include yellow and black, and yellow and blue. Think about contrast, but also glare. For example, a large expanse of bright yellow background might generate a lot of glare that could make it difficult for an individual to use the chart.
+
+In the example below, the black page background may help the yellow cells containing the yellow letters to stand out.
+
+image::s3tU5uo-thumb.png[name="High contrast charts", alt="high contrast charts", width="300", link="Media/images/s3tU5uo.png"]
+
+It is often advisable to avoid gloss laminate, which can reflect overhead lighting and cause distortion and glare - and rely instead on matt laminate. Alternatively you could print the chart on so-called ‘indestructible’, tear-proof or waterproof printer paper.
+
+In addition to the person’s own visual skills, you may also want to consider the visual skills of any key _communication partners_, as they need to be able to see and easily read what is spelled out.
+
+===== Placement
+
+Visual and physical skills can also affect both where letters are placed on a chart, and where the chart itself is placed in relation to the individual. For example, if someone finds it easier to reach or see letters in one area than another, you may want to put high frequency or commonly used letters in the easier to reach area, and lower frequency letters like ‘q’ and ‘z’ in the harder to reach area. For another example, if someone is just using their right hand to access a chart, it may be helpful to place the chart slightly to the right.
+
+The following chart was designed to be used by someone who is unable to move their eyes up and down, and can only look straight ahead. It is accessed by <<_listener_mediated_scanning>>. The letters of the alphabet are presented in horizontal rows, one row at a time. The yellow on black helped this particular individual to perceive the letters more clearly.
+
+[sidebar]
+.Gallery 4.1 An example of a customised alphabet chart
+--
+image::horizontal-1-thumb.jpg[title="The individual is presented with a strip of letters. If the strip contains their target letter, they indicate 'yes'. The communication partner then offers each letter in turn.", link="Media/images/horizontal-1.jpg"]
+image::horizontal-2-thumb.jpg[title="",link="Media/images/horizontal-2.jpg"]
+image::horizontal-3-thumb.jpg[title="",link="Media/images/horizontal-3.jpg"]
+image::horizontal-4-thumb.jpg[title="",link="Media/images/horizontal-4.jpg"]
+image::horizontal-5-thumb.jpg[title="",link="Media/images/horizontal-5.jpg"]
+image::abc-standard-thumb.jpg[title="This is the original chart that was too difficult to see.",link="Media/images/abc-standard.jpg"]
+--
+==== Tactile Charts
+
+For people who have a significant visual impairment, but are able to point directly to letters, _alphabet charts_ can also be constructed using either alphabet based tactile codes like Moon or Braille.
+
+Braille is a tactile alphabet system that is made up of raised dots. You can find out more on the RNIB website – http://rnib.org.uk.
+
+Moon is a system of raised curves and lines, with one shape corresponding to each letter. More than half of the shapes resemble the print equivalent of the letter. Moon is much less widely known and supported. You can find out more at http://moonliteracy.org.uk.
+
+When constructing a tactile _alphabet chart_, it is important to show the corresponding print letter alongside the raised letter to assist the _communication partner_ in interpreting the message.
+
+An _alphabet chart_ could be constructed using braille keyboard stickers. These stickers are available from www.a2i.co.uk (http://acecent.re/1EURCGg). Alternatively, you could produce braille letters using the 6dot™ Braille Label Maker™ which is available from Logan Technologies http://logantechnologies. co.uk/braille-label-maker
+
+[sidebar]
+.Gallery 4.2 An example of an alphabet chart made using braille keyboard stickers
+--
+image::Braille-chart-thumb.jpg[title="This shows the full chart.",link="Media/images/Braille-chart.jpg"]
+image::Braille-chart-zoom-thumb.jpg[title="It is easier to see the raised braille dots on this zoomed in photograph of an area of the chart.",link="Media/images/Braille-chart-zoom.jpg"]
+--
+==== Words and Phrases, Punctuation and Numbers
+
+===== Words and Phrases
+
+In addition to letters on an _alphabet chart_, you may want to consider providing easy access to commonly spoken words and phrases. This may be to support someone who is able to read well, but finds spelling what they want to say more tricky. Young children may be developing their reading skills nicely, and find that they need the support of whole words and phrases, or even symbols, alongside an _alphabet chart_ while they are learning to write and spell.
+
+Whole words and phrases are not just for those who are not confident spellers, however. Someone who can spell well may still find it quicker to point to words and phrases that are commonly spoken rather than having to spell them letter-byletter each time.
+
+When creating a chart or book based around whole words alongside an _alphabet chart_, many of the considerations in the symbol based _AAC_ resource around design, content and support will be relevant. You may want to consult the Getting Started with _AAC_: Using _low tech_ symbol based systems with children resource.
+
+For some, just a few words or phrases will be enough. However, for individuals who are able to point to small targets fairly accurately, you may want to consider providing a large number of words and phrases alongside the _alphabet chart_.
+
+See http://en.wikipedia.org/wiki/Most_common_words_in_English for one example of a list of commonly used words in English. It’s amazing how often we use the same words in our speech. It could be a great help to the individual not to have to spell each one out every time. We can also be quite repetitive in the phrases we use in our conversation. For example, “How are you?”, “How was your day?”, etc! Again, it can be helpful to have these written down so that you simply have to point to the phrase rather than spelling it out each time.
+
+Alongside, or indeed instead of, commonly spoken words or phrases, you may want to include useful problem solving phrases like “mistake”, “start over”, “I don’t understand”, “you decide please”, “It’s not here”, “can you add a phrase for me”, etc.
+
+Some individuals may benefit from the inclusion of consonant blends on their _alphabet chart_. This can be particularly useful for those who find selecting letters slow as it means that two or more are selected at one time. The most obvious one to include is ‘QU’ as the letter ‘Q’ rarely occurs in isolation in English. However, other blends to consider alongside the alphabet include ‘SH’, ‘CH’, ‘TH’, and common word endings like ‘-ING’ and ‘-ED’.
+
+[sidebar]
+.Gallery 4.3 Examples of alphabet charts incorporating whole words
+--
+image::qwerty-with-words-thumb.jpg[title="This is an example of a QWERTY alphabet chart presented with an extensive list of words. Most of the words are high frequency, but the bottom two rows contain some personalised phrases, names and interests. This particular chart has been designed for use by somone who is comfortable with spelling and reading, but likes the convenience of being able to point to commonly used words.",link="Media/images/qwerty-with-words.jpg"]
+image::coded-etran-1-thumb-1.jpg[title="You can find a fuller discussion around this chart in the coded access section. This chart was designed for a young man who communicates by eye pointing. He is a confident speller but likes the quick access to whole words that this chart provides.",link="Media/images/coded-etran-1-1.jpg"]
+--
+
+A ‘space’ or ‘word end’ option can be invaluable to make word endings clear. Some people also find punctuation useful, particularly full stops and question marks.
+
+===== Punctuation
+
+Some people like to have punctuation on their _alphabet chart_ to further clarify their message. Full stops are a particularly useful way of indicating that a message is complete. Without them there is a risk that the _communication partner_ will think a message is finished when there is actually more to say.
+
+Other punctuation can be useful too. Use of an exclamation mark can change the perspective on the message, although some prefer to clarify this using body language or vocalisation. Similarly, some people find a question mark to be helpful. Again, it’s really down to the individual.
+
+===== Numbers
+
+As in some of the examples above, some people find the inclusion of numbers on an _alphabet chart_ useful. If you can afford the space on the chart, it does save someone from having to spell out the numerals. Useful characters alongside numbers that you might want include are ‘£’, ‘:’ for when talking about time, and ‘%’.
+
+Alternatively, some people find it helpful to have a separate numbers chart, alongside their _alphabet chart_, or even printed on the reverse.
+
+==== Personalising a Chart
+
+Personalising an _alphabet chart_ can increase motivation to use it. It can also provide a great talking point! Google images can provide a wealth of resources to support this. You could include the logo of a favourite sports team, or you could add pictures of characters from a favourite TV show, photographs of family or friends, or anything that is of particular interest. You may be able to download wallpapers of favourite teams, pop groups etc. from the internet and place these behind the chart too.
+
+Sometimes simply making the chart using someone’s favourite colours can add interest and appeal.
+
+[sidebar]
+.Gallery 4.4 Some examples of personalised charts
+--
+image::stfc-thumb.jpg[title="A chart designed for a fan of Swindon town football club",link="Media/images/stfc.jpg"]
+image::QWERTY-personalised-thumb.jpg[title="A chart that was designed for a child who loves farm animals.",link="Media/images/QWERTY-personalised.jpg"]
+image::qwerty-a4-blue-thumb.jpg[title="A chart made with someone's favourite colour.",link="Media/images/qwerty-a4-blue.jpg"]
+image::abc-a4-pink-thumb.jpg[title="Another chart made using a favourite colour.",link="Media/images/abc-a4-pink.jpg"]
+--
+== Chapter 5: Communication Partner skills
+
+.In this chapter
+****
+* How to be a good communication partner
+* The importance of pen and paper
+* Guessing
+****
+
+When we talk about a _communication partner_ we mean ‘you’! A _communication partner_ is a person with whom the person who uses _AAC_ communicates.
+
+Communication is a two way process, and requires skills from both parties – hence the importance of _communication partner_ skills.
+
+Communication does go wrong sometimes, even when speech is involved! Don’t panic – just acknowledge the problem and see if you can work round it.
+
+==== Good Communication Partner Skills
+
+If you can, choose a quiet place to talk with as few background distractions as possible. Try to face the person you are talking to, as this will help you read their body language and facial expressions. Note though that sometimes people with a visual difficulty will find it easier if you stand on one side or another.
+
+As the _communication partner_, try to give the person using _AAC_ time to construct their message. Conversation can quickly become very confused if you rush in to fill the silence with another question or observation, as it can become unclear which question or observation the person using _AAC_ is then responding to. It can feel strange at first, but try to relax during the silence. Let the person using AAC finish what they are saying before rushing onto the next part of the conversation.
+
+Keep your own language simple, but don’t fall into the trap of only asking questions that someone can answer ‘yes’ or ‘no’ to as this makes for a rather boring conversation for both parties! Try to just introduce one topic of conversation at a time.
+
+Misunderstandings can happen in all conversations, but do tend to occur more frequently in conversations involving _AAC_. Don’t worry about it. If one or both of you seems confused say so, and try to get to the bottom of it. If you are really lost, you could try using the following questions to help get things back on track:
+1. Who are we talking about?
+2. What situation are we talking about?
+3. Is it something that happened in the present, the past or
+has yet to take place?
+
+Alternatively, you could ask to start again and have another go at understanding the message. If that doesn’t work, do acknowledge the problem rather than pretending it hasn’t happened. You could always offer to come back to it another time.
+
+Module Four of the freely available online learning resources on http://aacscotland.org.uk provides more detailed information about being a good _communication partner_, and offers some excellent downloadable resources.
+
+==== Pen and Paper
+
+When a person frequently uses a _low tech_ _alphabet chart_ to communicate it can be helpful for the _communication partner_ to have a notebook and pen. This can help them to keep track of a long or complex message being spelled out.
+
+==== Guessing
+
+Some individuals find it very helpful if their _communication partner_ attempts to guess a word before they have finished spelling it out. _Communication partners_ can be very good at it and surprisingly accurate, particularly when context is known. For example, if you are discussing holiday destinations and someone starts spelling a word with ‘F’, you may quickly guess that they are planning a holiday to France. This can significantly speed up a conversation.
+
+However, other individuals dislike someone guessing their message. They may find it intrusive or annoying.
+
+It is therefore helpful to establish whether or not guessing is permitted in advance. Some individuals may choose to record their preferences in a <<_chapter_6_communication_passports_drawing_it_all_together,communication passport>>. Others may choose to have instructions to the _communication partner_ written directly onto their _alphabet chart_, as shown in the following example.
+
+image::sU5y6XD-thumb.png[name="Alphabet Chart with Instructions", alt="alphabet chart with instructions", width="300", link="Media/images/sU5y6XD.png"]
+
+== Chapter 6: Communication Passports - Drawing it all Together
+
+.In this chapter
+****
+* All about communication passports
+****
+
+_Communication passports_ are a way of drawing together and sharing information about how a person communicates. A _communication passport_ can give information both about a person’s understanding and how they express themselves. They are a really helpful tool to have alongside any form of _AAC_.
+
+A _communication passport_ is often a printed document. However, some people also find it helpful to have a video passport alongside the printed version. It is sometimes much easier to show someone’s ‘yes’ and ‘no’ response, and how it might vary with fatigue, for example, rather than trying to describe it in words. You may also find _communication passports_ made as a powerpoint presentation. If someone uses a _high tech communication_ aid, it may be worth keeping a copy of the _communication passport_ on the device itself.
+
+When developing a _communication passport_, it is essential to involve the person in its development as much as possible. The individual needs to have ownership of their _communication passport_, particularly if it is written in ‘their’ voice. Person-centred planning approaches has a useful role to play here.
+
+This is Tiago’s _communication passport_. It is printed and laminated, and attached to his wheelchair. It is kept alongside one of his encoded _eye pointing_ _alphabet charts_.
+
+[sidebar]
+.Gallery 6.1 An example of a communication passport
+--
+image::Tiago_1_thumb.jpg[title="This communication passport belongs to Tiago.",link="Media/images/Tiago_1.jpg"]
+image::Tiago_2_thumb.jpg[title="",link="Media/images/Tiago_2.jpg"]
+image::Tiago_3_thumb.jpg[title="",link="Media/images/Tiago_3.jpg"]
+image::Tiago_4_thumb.jpg[title="",link="Media/images/Tiago_4.jpg"]
+image::Tiago_5_thumb.jpg[title="",link="Media/images/Tiago_5.jpg"]
+image::Tiago_6_thumb.jpg[title="",link="Media/images/Tiago_6.jpg"]
+--
+
+There are lots of great resources available to help produce a _communication passport_. See http://communicationpassports.org.uk for more information.
+
+== Chapter 7: Sourcing and Making Alphabet Charts
+
+.In this chapter
+****
+* Information about alphabet charts that are available free of charge
+* Software that can help with alphabet chart design
+****
+
+=== Alphabet charts noted in this book
+
+
+
+=== Freely Available Alphabet Charts
+
+There are a wide range of simple _alphabet charts_ available to download from the internet.
+
+You will find many of the _alphabet charts_ shown within this resource available to download  above
+
+_AAC_ Scotland also offer some alphabet and qwerty boards for download – see http://aacscotland.org.uk/Right-to-Speak/Communication-Boards/
+
+CandLE offer a number of QWERTY keyboards on their website. The dot at the bottom is to help people with perserveration to bring themselves back to a point before going to the next selection. This provides support for motor planning. http://contactcandle.co.uk/files/grey_spelling_board_qwerty.pdf and
+http://www.contactcandle.co.uk/files/grey_spelling_board_qwerty_capitals.pdf
+
+Speakbook have developed a freely available resource that is intended to be accessed via _eye pointing_. It uses an encoded keyboard layout, and also provides access to useful words and phrases. This can be downloaded here http://speakbook.org/downloads/
+
+Spectronics have upper and lower case alphabetical and qwerty keyboards available for free download on their website http://spectronics.com.au - see http://acecent.re/1Esuuwo. These are designed for _direct selection_.
+
+As discussed above, Jason Becker has developed a system based on _encoding_ that has been designed to be accessed via _eye pointing_. You can download a pdf of his vocaleyes chart here http://jasonbeckerguitar.com/eye_communication.html
+
+==== Making an Alphabet  Chart
+
+Sometimes you will need to be able to make and customise your own _alphabet chart_, as none of the off-the-shelf solutions will do.
+
+The simplest way of doing this is to make a table within word processing software. However, if you have access to specially designed resource making software, you may find this offers a bit more flexibility. Some also include templates of _alphabet charts_. Examples of such software in the UK includes:
+
+* Boardmaker Plus! V6 or Boardmaker Studio e.g. available from http://toby-churchill.com
+* Communicate in Print 2 e.g. available from http:// widgit.com
+* Matrix Maker Plus e.g. available from http://inclusive.co.uk Sometimes you can access such software through your local Speech and Language Therapy service or through a child’s educational environment. There are also a few counties that offer access to such software through their library service. You could contact your local library service to find out if this is available in your area. Some charities / non-profit organisations also offer access to software.
+
+== Chapter 8: Further Sources of Help and Reading
+include::../shared/Resources.adoc[]
+
+== Chapter 9: References
+
+Bauby, J-D. (2008) The Diving Bell and the butterfly. Harper Perrenial.
+
+Beukelman, D. & Mirenda, P. (2012) _Augmentative and Alternative Communication_: Management of Severe Communication Disorders in Children and Adults (Fourth Revised Edition). Brookes Publishing Co.
+
+Downing, J. (2005) Teaching Communication Skills to Students with Severe Disabilities (Second Edition). Paul H. Brookes.
+
+Light, J. & McNaughton, D. (2013) Putting People First: Re- Thinking the Role of Technology. In _Augmentative and Alternative Communication_ Intervention. December 2013, Vol. 29, No. 4 , Pages 299-309.
+
+Pistorius, M. (2011) Ghost Boy. Simon & Schuster Ltd.
+
+Stanton, M. (2014) Can I tell you about Cerebral-Palsy? A guide for friends, family and professionals. Jessica Kingsley.
+
+http://aacscotland.org.uk/Online-Learning-Modules/ [accessed 5/11/2015]
+
+http://alsmndalliance.org/wp-content/uploads/2010/12/008-Study-of-3-Low-Tech-Communication-Methods-for-People-with-Only-Eye-Movement-A-Roman.pdf [accessed 10/12/2015]
+
+http://candleaac.com/a_brief_guide_to_fct.htm [accessed 5/11/2015]
+
+http://communicationpassports.org.uk/Home/ [accessed 5/11/2015]
+
+http://en.wikipedia.org/wiki/QWERTY#History_and_purposes [accessed 11/11/2013]
+
+http://en.wikipedia.org/wiki/Most_common_words_in_English [accessed 11/11/13]
+
+http://jasonbeckerguitar.com/eye_communication.html [accessed 11/05/15]
+
+http://asha.org/policy/TR1994-00139.htm [Accessed 02/12/2013]
+
+http://communicationmatters.org.uk/sites/default/files/downloads/focuson/Speaking_with_someone_who_uses_AAC_A4.pdf [accessed on 17/04/2015]
+
+http://fitaly.com [accessed 11/05/15]
+
+https://isaac-online.org/english/members-only/positionstatement-on-facilitated-communication/ [Accessed 17/04/2015]
+
+http://lighthouse.org/accessibility/design/accessible-printdesign/effective-color-contrast [accessed 10/4/2015]
+
+http://moonliteracy.org.uk [accessed 5/11/2015]
+
+http://rnib.org.uk/braille-and-moon-tactile-codes [accessed 5/11/2015]
+
+https://vimeo.com/53036535 [accessed 10/12/2015]
+
+https://youtube.com/watch?v=AooDQOzdOyE [accessed 5/11/2015]
+
+http://youtube.com/watch?v=pLb6-Oi3uR0 [accessed 5/11/2015]
+
+== Glossary
+
+include::../shared/Glossary.adoc[]

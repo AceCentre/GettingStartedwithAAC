@@ -1,0 +1,2665 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge"><![endif]-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="generator" content="Asciidoctor 1.5.5">
+<meta name="keywords" content="AAC, Low-tech, Pointing, Direct-Access">
+<meta name="author" content="Katharine Buckley">
+<meta name="copyright" content="CC-BY-SA 3.0">
+<title>Getting Started with AAC: Designing and using alphabet charts</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic%7CNoto+Serif:400,400italic,700,700italic%7CDroid+Sans+Mono:400,700">
+<style>
+/* Asciidoctor default stylesheet | MIT License | http://asciidoctor.org */
+/* Remove comment around @import statement below when using as a custom stylesheet */
+/*@import "https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic%7CNoto+Serif:400,400italic,700,700italic%7CDroid+Sans+Mono:400,700";*/
+article,aside,details,figcaption,figure,footer,header,hgroup,main,nav,section,summary{display:block}
+audio,canvas,video{display:inline-block}
+audio:not([controls]){display:none;height:0}
+[hidden],template{display:none}
+script{display:none!important}
+html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}
+a{background:transparent}
+a:focus{outline:thin dotted}
+a:active,a:hover{outline:0}
+h1{font-size:2em;margin:.67em 0}
+abbr[title]{border-bottom:1px dotted}
+b,strong{font-weight:bold}
+dfn{font-style:italic}
+hr{-moz-box-sizing:content-box;box-sizing:content-box;height:0}
+mark{background:#ff0;color:#000}
+code,kbd,pre,samp{font-family:monospace;font-size:1em}
+pre{white-space:pre-wrap}
+q{quotes:"\201C" "\201D" "\2018" "\2019"}
+small{font-size:80%}
+sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}
+sup{top:-.5em}
+sub{bottom:-.25em}
+img{border:0}
+svg:not(:root){overflow:hidden}
+figure{margin:0}
+fieldset{border:1px solid silver;margin:0 2px;padding:.35em .625em .75em}
+legend{border:0;padding:0}
+button,input,select,textarea{font-family:inherit;font-size:100%;margin:0}
+button,input{line-height:normal}
+button,select{text-transform:none}
+button,html input[type="button"],input[type="reset"],input[type="submit"]{-webkit-appearance:button;cursor:pointer}
+button[disabled],html input[disabled]{cursor:default}
+input[type="checkbox"],input[type="radio"]{box-sizing:border-box;padding:0}
+input[type="search"]{-webkit-appearance:textfield;-moz-box-sizing:content-box;-webkit-box-sizing:content-box;box-sizing:content-box}
+input[type="search"]::-webkit-search-cancel-button,input[type="search"]::-webkit-search-decoration{-webkit-appearance:none}
+button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}
+textarea{overflow:auto;vertical-align:top}
+table{border-collapse:collapse;border-spacing:0}
+*,*:before,*:after{-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box}
+html,body{font-size:100%}
+body{background:#fff;color:rgba(0,0,0,.8);padding:0;margin:0;font-family:"Noto Serif","DejaVu Serif",serif;font-weight:400;font-style:normal;line-height:1;position:relative;cursor:auto;tab-size:4;-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased}
+a:hover{cursor:pointer}
+img,object,embed{max-width:100%;height:auto}
+object,embed{height:100%}
+img{-ms-interpolation-mode:bicubic}
+.left{float:left!important}
+.right{float:right!important}
+.text-left{text-align:left!important}
+.text-right{text-align:right!important}
+.text-center{text-align:center!important}
+.text-justify{text-align:justify!important}
+.hide{display:none}
+img,object,svg{display:inline-block;vertical-align:middle}
+textarea{height:auto;min-height:50px}
+select{width:100%}
+.center{margin-left:auto;margin-right:auto}
+.spread{width:100%}
+p.lead,.paragraph.lead>p,#preamble>.sectionbody>.paragraph:first-of-type p{font-size:1.21875em;line-height:1.6}
+.subheader,.admonitionblock td.content>.title,.audioblock>.title,.exampleblock>.title,.imageblock>.title,.listingblock>.title,.literalblock>.title,.stemblock>.title,.openblock>.title,.paragraph>.title,.quoteblock>.title,table.tableblock>.title,.verseblock>.title,.videoblock>.title,.dlist>.title,.olist>.title,.ulist>.title,.qlist>.title,.hdlist>.title{line-height:1.45;color:#7a2518;font-weight:400;margin-top:0;margin-bottom:.25em}
+div,dl,dt,dd,ul,ol,li,h1,h2,h3,#toctitle,.sidebarblock>.content>.title,h4,h5,h6,pre,form,p,blockquote,th,td{margin:0;padding:0;direction:ltr}
+a{color:#2156a5;text-decoration:underline;line-height:inherit}
+a:hover,a:focus{color:#1d4b8f}
+a img{border:none}
+p{font-family:inherit;font-weight:400;font-size:1em;line-height:1.6;margin-bottom:1.25em;text-rendering:optimizeLegibility}
+p aside{font-size:.875em;line-height:1.35;font-style:italic}
+h1,h2,h3,#toctitle,.sidebarblock>.content>.title,h4,h5,h6{font-family:"Open Sans","DejaVu Sans",sans-serif;font-weight:300;font-style:normal;color:#ba3925;text-rendering:optimizeLegibility;margin-top:1em;margin-bottom:.5em;line-height:1.0125em}
+h1 small,h2 small,h3 small,#toctitle small,.sidebarblock>.content>.title small,h4 small,h5 small,h6 small{font-size:60%;color:#e99b8f;line-height:0}
+h1{font-size:2.125em}
+h2{font-size:1.6875em}
+h3,#toctitle,.sidebarblock>.content>.title{font-size:1.375em}
+h4,h5{font-size:1.125em}
+h6{font-size:1em}
+hr{border:solid #ddddd8;border-width:1px 0 0;clear:both;margin:1.25em 0 1.1875em;height:0}
+em,i{font-style:italic;line-height:inherit}
+strong,b{font-weight:bold;line-height:inherit}
+small{font-size:60%;line-height:inherit}
+code{font-family:"Droid Sans Mono","DejaVu Sans Mono",monospace;font-weight:400;color:rgba(0,0,0,.9)}
+ul,ol,dl{font-size:1em;line-height:1.6;margin-bottom:1.25em;list-style-position:outside;font-family:inherit}
+ul,ol,ul.no-bullet,ol.no-bullet{margin-left:1.5em}
+ul li ul,ul li ol{margin-left:1.25em;margin-bottom:0;font-size:1em}
+ul.square li ul,ul.circle li ul,ul.disc li ul{list-style:inherit}
+ul.square{list-style-type:square}
+ul.circle{list-style-type:circle}
+ul.disc{list-style-type:disc}
+ul.no-bullet{list-style:none}
+ol li ul,ol li ol{margin-left:1.25em;margin-bottom:0}
+dl dt{margin-bottom:.3125em;font-weight:bold}
+dl dd{margin-bottom:1.25em}
+abbr,acronym{text-transform:uppercase;font-size:90%;color:rgba(0,0,0,.8);border-bottom:1px dotted #ddd;cursor:help}
+abbr{text-transform:none}
+blockquote{margin:0 0 1.25em;padding:.5625em 1.25em 0 1.1875em;border-left:1px solid #ddd}
+blockquote cite{display:block;font-size:.9375em;color:rgba(0,0,0,.6)}
+blockquote cite:before{content:"\2014 \0020"}
+blockquote cite a,blockquote cite a:visited{color:rgba(0,0,0,.6)}
+blockquote,blockquote p{line-height:1.6;color:rgba(0,0,0,.85)}
+@media only screen and (min-width:768px){h1,h2,h3,#toctitle,.sidebarblock>.content>.title,h4,h5,h6{line-height:1.2}
+h1{font-size:2.75em}
+h2{font-size:2.3125em}
+h3,#toctitle,.sidebarblock>.content>.title{font-size:1.6875em}
+h4{font-size:1.4375em}}
+table{background:#fff;margin-bottom:1.25em;border:solid 1px #dedede}
+table thead,table tfoot{background:#f7f8f7;font-weight:bold}
+table thead tr th,table thead tr td,table tfoot tr th,table tfoot tr td{padding:.5em .625em .625em;font-size:inherit;color:rgba(0,0,0,.8);text-align:left}
+table tr th,table tr td{padding:.5625em .625em;font-size:inherit;color:rgba(0,0,0,.8)}
+table tr.even,table tr.alt,table tr:nth-of-type(even){background:#f8f8f7}
+table thead tr th,table tfoot tr th,table tbody tr td,table tr td,table tfoot tr td{display:table-cell;line-height:1.6}
+h1,h2,h3,#toctitle,.sidebarblock>.content>.title,h4,h5,h6{line-height:1.2;word-spacing:-.05em}
+h1 strong,h2 strong,h3 strong,#toctitle strong,.sidebarblock>.content>.title strong,h4 strong,h5 strong,h6 strong{font-weight:400}
+.clearfix:before,.clearfix:after,.float-group:before,.float-group:after{content:" ";display:table}
+.clearfix:after,.float-group:after{clear:both}
+*:not(pre)>code{font-size:.9375em;font-style:normal!important;letter-spacing:0;padding:.1em .5ex;word-spacing:-.15em;background-color:#f7f7f8;-webkit-border-radius:4px;border-radius:4px;line-height:1.45;text-rendering:optimizeSpeed;word-wrap:break-word}
+*:not(pre)>code.nobreak{word-wrap:normal}
+*:not(pre)>code.nowrap{white-space:nowrap}
+pre,pre>code{line-height:1.45;color:rgba(0,0,0,.9);font-family:"Droid Sans Mono","DejaVu Sans Mono",monospace;font-weight:400;text-rendering:optimizeSpeed}
+em em{font-style:normal}
+strong strong{font-weight:400}
+.keyseq{color:rgba(51,51,51,.8)}
+kbd{font-family:"Droid Sans Mono","DejaVu Sans Mono",monospace;display:inline-block;color:rgba(0,0,0,.8);font-size:.65em;line-height:1.45;background-color:#f7f7f7;border:1px solid #ccc;-webkit-border-radius:3px;border-radius:3px;-webkit-box-shadow:0 1px 0 rgba(0,0,0,.2),0 0 0 .1em white inset;box-shadow:0 1px 0 rgba(0,0,0,.2),0 0 0 .1em #fff inset;margin:0 .15em;padding:.2em .5em;vertical-align:middle;position:relative;top:-.1em;white-space:nowrap}
+.keyseq kbd:first-child{margin-left:0}
+.keyseq kbd:last-child{margin-right:0}
+.menuseq,.menu{color:rgba(0,0,0,.8)}
+b.button:before,b.button:after{position:relative;top:-1px;font-weight:400}
+b.button:before{content:"[";padding:0 3px 0 2px}
+b.button:after{content:"]";padding:0 2px 0 3px}
+p a>code:hover{color:rgba(0,0,0,.9)}
+#header,#content,#footnotes,#footer{width:100%;margin-left:auto;margin-right:auto;margin-top:0;margin-bottom:0;max-width:62.5em;*zoom:1;position:relative;padding-left:.9375em;padding-right:.9375em}
+#header:before,#header:after,#content:before,#content:after,#footnotes:before,#footnotes:after,#footer:before,#footer:after{content:" ";display:table}
+#header:after,#content:after,#footnotes:after,#footer:after{clear:both}
+#content{margin-top:1.25em}
+#content:before{content:none}
+#header>h1:first-child{color:rgba(0,0,0,.85);margin-top:2.25rem;margin-bottom:0}
+#header>h1:first-child+#toc{margin-top:8px;border-top:1px solid #ddddd8}
+#header>h1:only-child,body.toc2 #header>h1:nth-last-child(2){border-bottom:1px solid #ddddd8;padding-bottom:8px}
+#header .details{border-bottom:1px solid #ddddd8;line-height:1.45;padding-top:.25em;padding-bottom:.25em;padding-left:.25em;color:rgba(0,0,0,.6);display:-ms-flexbox;display:-webkit-flex;display:flex;-ms-flex-flow:row wrap;-webkit-flex-flow:row wrap;flex-flow:row wrap}
+#header .details span:first-child{margin-left:-.125em}
+#header .details span.email a{color:rgba(0,0,0,.85)}
+#header .details br{display:none}
+#header .details br+span:before{content:"\00a0\2013\00a0"}
+#header .details br+span.author:before{content:"\00a0\22c5\00a0";color:rgba(0,0,0,.85)}
+#header .details br+span#revremark:before{content:"\00a0|\00a0"}
+#header #revnumber{text-transform:capitalize}
+#header #revnumber:after{content:"\00a0"}
+#content>h1:first-child:not([class]){color:rgba(0,0,0,.85);border-bottom:1px solid #ddddd8;padding-bottom:8px;margin-top:0;padding-top:1rem;margin-bottom:1.25rem}
+#toc{border-bottom:1px solid #efefed;padding-bottom:.5em}
+#toc>ul{margin-left:.125em}
+#toc ul.sectlevel0>li>a{font-style:italic}
+#toc ul.sectlevel0 ul.sectlevel1{margin:.5em 0}
+#toc ul{font-family:"Open Sans","DejaVu Sans",sans-serif;list-style-type:none}
+#toc li{line-height:1.3334;margin-top:.3334em}
+#toc a{text-decoration:none}
+#toc a:active{text-decoration:underline}
+#toctitle{color:#7a2518;font-size:1.2em}
+@media only screen and (min-width:768px){#toctitle{font-size:1.375em}
+body.toc2{padding-left:15em;padding-right:0}
+#toc.toc2{margin-top:0!important;background-color:#f8f8f7;position:fixed;width:15em;left:0;top:0;border-right:1px solid #efefed;border-top-width:0!important;border-bottom-width:0!important;z-index:1000;padding:1.25em 1em;height:100%;overflow:auto}
+#toc.toc2 #toctitle{margin-top:0;margin-bottom:.8rem;font-size:1.2em}
+#toc.toc2>ul{font-size:.9em;margin-bottom:0}
+#toc.toc2 ul ul{margin-left:0;padding-left:1em}
+#toc.toc2 ul.sectlevel0 ul.sectlevel1{padding-left:0;margin-top:.5em;margin-bottom:.5em}
+body.toc2.toc-right{padding-left:0;padding-right:15em}
+body.toc2.toc-right #toc.toc2{border-right-width:0;border-left:1px solid #efefed;left:auto;right:0}}
+@media only screen and (min-width:1280px){body.toc2{padding-left:20em;padding-right:0}
+#toc.toc2{width:20em}
+#toc.toc2 #toctitle{font-size:1.375em}
+#toc.toc2>ul{font-size:.95em}
+#toc.toc2 ul ul{padding-left:1.25em}
+body.toc2.toc-right{padding-left:0;padding-right:20em}}
+#content #toc{border-style:solid;border-width:1px;border-color:#e0e0dc;margin-bottom:1.25em;padding:1.25em;background:#f8f8f7;-webkit-border-radius:4px;border-radius:4px}
+#content #toc>:first-child{margin-top:0}
+#content #toc>:last-child{margin-bottom:0}
+#footer{max-width:100%;background-color:rgba(0,0,0,.8);padding:1.25em}
+#footer-text{color:rgba(255,255,255,.8);line-height:1.44}
+.sect1{padding-bottom:.625em}
+@media only screen and (min-width:768px){.sect1{padding-bottom:1.25em}}
+.sect1+.sect1{border-top:1px solid #efefed}
+#content h1>a.anchor,h2>a.anchor,h3>a.anchor,#toctitle>a.anchor,.sidebarblock>.content>.title>a.anchor,h4>a.anchor,h5>a.anchor,h6>a.anchor{position:absolute;z-index:1001;width:1.5ex;margin-left:-1.5ex;display:block;text-decoration:none!important;visibility:hidden;text-align:center;font-weight:400}
+#content h1>a.anchor:before,h2>a.anchor:before,h3>a.anchor:before,#toctitle>a.anchor:before,.sidebarblock>.content>.title>a.anchor:before,h4>a.anchor:before,h5>a.anchor:before,h6>a.anchor:before{content:"\00A7";font-size:.85em;display:block;padding-top:.1em}
+#content h1:hover>a.anchor,#content h1>a.anchor:hover,h2:hover>a.anchor,h2>a.anchor:hover,h3:hover>a.anchor,#toctitle:hover>a.anchor,.sidebarblock>.content>.title:hover>a.anchor,h3>a.anchor:hover,#toctitle>a.anchor:hover,.sidebarblock>.content>.title>a.anchor:hover,h4:hover>a.anchor,h4>a.anchor:hover,h5:hover>a.anchor,h5>a.anchor:hover,h6:hover>a.anchor,h6>a.anchor:hover{visibility:visible}
+#content h1>a.link,h2>a.link,h3>a.link,#toctitle>a.link,.sidebarblock>.content>.title>a.link,h4>a.link,h5>a.link,h6>a.link{color:#ba3925;text-decoration:none}
+#content h1>a.link:hover,h2>a.link:hover,h3>a.link:hover,#toctitle>a.link:hover,.sidebarblock>.content>.title>a.link:hover,h4>a.link:hover,h5>a.link:hover,h6>a.link:hover{color:#a53221}
+.audioblock,.imageblock,.literalblock,.listingblock,.stemblock,.videoblock{margin-bottom:1.25em}
+.admonitionblock td.content>.title,.audioblock>.title,.exampleblock>.title,.imageblock>.title,.listingblock>.title,.literalblock>.title,.stemblock>.title,.openblock>.title,.paragraph>.title,.quoteblock>.title,table.tableblock>.title,.verseblock>.title,.videoblock>.title,.dlist>.title,.olist>.title,.ulist>.title,.qlist>.title,.hdlist>.title{text-rendering:optimizeLegibility;text-align:left;font-family:"Noto Serif","DejaVu Serif",serif;font-size:1rem;font-style:italic}
+table.tableblock>caption.title{white-space:nowrap;overflow:visible;max-width:0}
+.paragraph.lead>p,#preamble>.sectionbody>.paragraph:first-of-type p{color:rgba(0,0,0,.85)}
+table.tableblock #preamble>.sectionbody>.paragraph:first-of-type p{font-size:inherit}
+.admonitionblock>table{border-collapse:separate;border:0;background:none;width:100%}
+.admonitionblock>table td.icon{text-align:center;width:80px}
+.admonitionblock>table td.icon img{max-width:none}
+.admonitionblock>table td.icon .title{font-weight:bold;font-family:"Open Sans","DejaVu Sans",sans-serif;text-transform:uppercase}
+.admonitionblock>table td.content{padding-left:1.125em;padding-right:1.25em;border-left:1px solid #ddddd8;color:rgba(0,0,0,.6)}
+.admonitionblock>table td.content>:last-child>:last-child{margin-bottom:0}
+.exampleblock>.content{border-style:solid;border-width:1px;border-color:#e6e6e6;margin-bottom:1.25em;padding:1.25em;background:#fff;-webkit-border-radius:4px;border-radius:4px}
+.exampleblock>.content>:first-child{margin-top:0}
+.exampleblock>.content>:last-child{margin-bottom:0}
+.sidebarblock{border-style:solid;border-width:1px;border-color:#e0e0dc;margin-bottom:1.25em;padding:1.25em;background:#f8f8f7;-webkit-border-radius:4px;border-radius:4px}
+.sidebarblock>:first-child{margin-top:0}
+.sidebarblock>:last-child{margin-bottom:0}
+.sidebarblock>.content>.title{color:#7a2518;margin-top:0;text-align:center}
+.exampleblock>.content>:last-child>:last-child,.exampleblock>.content .olist>ol>li:last-child>:last-child,.exampleblock>.content .ulist>ul>li:last-child>:last-child,.exampleblock>.content .qlist>ol>li:last-child>:last-child,.sidebarblock>.content>:last-child>:last-child,.sidebarblock>.content .olist>ol>li:last-child>:last-child,.sidebarblock>.content .ulist>ul>li:last-child>:last-child,.sidebarblock>.content .qlist>ol>li:last-child>:last-child{margin-bottom:0}
+.literalblock pre,.listingblock pre:not(.highlight),.listingblock pre[class="highlight"],.listingblock pre[class^="highlight "],.listingblock pre.CodeRay,.listingblock pre.prettyprint{background:#f7f7f8}
+.sidebarblock .literalblock pre,.sidebarblock .listingblock pre:not(.highlight),.sidebarblock .listingblock pre[class="highlight"],.sidebarblock .listingblock pre[class^="highlight "],.sidebarblock .listingblock pre.CodeRay,.sidebarblock .listingblock pre.prettyprint{background:#f2f1f1}
+.literalblock pre,.literalblock pre[class],.listingblock pre,.listingblock pre[class]{-webkit-border-radius:4px;border-radius:4px;word-wrap:break-word;padding:1em;font-size:.8125em}
+.literalblock pre.nowrap,.literalblock pre[class].nowrap,.listingblock pre.nowrap,.listingblock pre[class].nowrap{overflow-x:auto;white-space:pre;word-wrap:normal}
+@media only screen and (min-width:768px){.literalblock pre,.literalblock pre[class],.listingblock pre,.listingblock pre[class]{font-size:.90625em}}
+@media only screen and (min-width:1280px){.literalblock pre,.literalblock pre[class],.listingblock pre,.listingblock pre[class]{font-size:1em}}
+.literalblock.output pre{color:#f7f7f8;background-color:rgba(0,0,0,.9)}
+.listingblock pre.highlightjs{padding:0}
+.listingblock pre.highlightjs>code{padding:1em;-webkit-border-radius:4px;border-radius:4px}
+.listingblock pre.prettyprint{border-width:0}
+.listingblock>.content{position:relative}
+.listingblock code[data-lang]:before{display:none;content:attr(data-lang);position:absolute;font-size:.75em;top:.425rem;right:.5rem;line-height:1;text-transform:uppercase;color:#999}
+.listingblock:hover code[data-lang]:before{display:block}
+.listingblock.terminal pre .command:before{content:attr(data-prompt);padding-right:.5em;color:#999}
+.listingblock.terminal pre .command:not([data-prompt]):before{content:"$"}
+table.pyhltable{border-collapse:separate;border:0;margin-bottom:0;background:none}
+table.pyhltable td{vertical-align:top;padding-top:0;padding-bottom:0;line-height:1.45}
+table.pyhltable td.code{padding-left:.75em;padding-right:0}
+pre.pygments .lineno,table.pyhltable td:not(.code){color:#999;padding-left:0;padding-right:.5em;border-right:1px solid #ddddd8}
+pre.pygments .lineno{display:inline-block;margin-right:.25em}
+table.pyhltable .linenodiv{background:none!important;padding-right:0!important}
+.quoteblock{margin:0 1em 1.25em 1.5em;display:table}
+.quoteblock>.title{margin-left:-1.5em;margin-bottom:.75em}
+.quoteblock blockquote,.quoteblock blockquote p{color:rgba(0,0,0,.85);font-size:1.15rem;line-height:1.75;word-spacing:.1em;letter-spacing:0;font-style:italic;text-align:justify}
+.quoteblock blockquote{margin:0;padding:0;border:0}
+.quoteblock blockquote:before{content:"\201c";float:left;font-size:2.75em;font-weight:bold;line-height:.6em;margin-left:-.6em;color:#7a2518;text-shadow:0 1px 2px rgba(0,0,0,.1)}
+.quoteblock blockquote>.paragraph:last-child p{margin-bottom:0}
+.quoteblock .attribution{margin-top:.5em;margin-right:.5ex;text-align:right}
+.quoteblock .quoteblock{margin-left:0;margin-right:0;padding:.5em 0;border-left:3px solid rgba(0,0,0,.6)}
+.quoteblock .quoteblock blockquote{padding:0 0 0 .75em}
+.quoteblock .quoteblock blockquote:before{display:none}
+.verseblock{margin:0 1em 1.25em 1em}
+.verseblock pre{font-family:"Open Sans","DejaVu Sans",sans;font-size:1.15rem;color:rgba(0,0,0,.85);font-weight:300;text-rendering:optimizeLegibility}
+.verseblock pre strong{font-weight:400}
+.verseblock .attribution{margin-top:1.25rem;margin-left:.5ex}
+.quoteblock .attribution,.verseblock .attribution{font-size:.9375em;line-height:1.45;font-style:italic}
+.quoteblock .attribution br,.verseblock .attribution br{display:none}
+.quoteblock .attribution cite,.verseblock .attribution cite{display:block;letter-spacing:-.025em;color:rgba(0,0,0,.6)}
+.quoteblock.abstract{margin:0 0 1.25em 0;display:block}
+.quoteblock.abstract blockquote,.quoteblock.abstract blockquote p{text-align:left;word-spacing:0}
+.quoteblock.abstract blockquote:before,.quoteblock.abstract blockquote p:first-of-type:before{display:none}
+table.tableblock{max-width:100%;border-collapse:separate}
+table.tableblock td>.paragraph:last-child p>p:last-child,table.tableblock th>p:last-child,table.tableblock td>p:last-child{margin-bottom:0}
+table.tableblock,th.tableblock,td.tableblock{border:0 solid #dedede}
+table.grid-all th.tableblock,table.grid-all td.tableblock{border-width:0 1px 1px 0}
+table.grid-all tfoot>tr>th.tableblock,table.grid-all tfoot>tr>td.tableblock{border-width:1px 1px 0 0}
+table.grid-cols th.tableblock,table.grid-cols td.tableblock{border-width:0 1px 0 0}
+table.grid-all *>tr>.tableblock:last-child,table.grid-cols *>tr>.tableblock:last-child{border-right-width:0}
+table.grid-rows th.tableblock,table.grid-rows td.tableblock{border-width:0 0 1px 0}
+table.grid-all tbody>tr:last-child>th.tableblock,table.grid-all tbody>tr:last-child>td.tableblock,table.grid-all thead:last-child>tr>th.tableblock,table.grid-rows tbody>tr:last-child>th.tableblock,table.grid-rows tbody>tr:last-child>td.tableblock,table.grid-rows thead:last-child>tr>th.tableblock{border-bottom-width:0}
+table.grid-rows tfoot>tr>th.tableblock,table.grid-rows tfoot>tr>td.tableblock{border-width:1px 0 0 0}
+table.frame-all{border-width:1px}
+table.frame-sides{border-width:0 1px}
+table.frame-topbot{border-width:1px 0}
+th.halign-left,td.halign-left{text-align:left}
+th.halign-right,td.halign-right{text-align:right}
+th.halign-center,td.halign-center{text-align:center}
+th.valign-top,td.valign-top{vertical-align:top}
+th.valign-bottom,td.valign-bottom{vertical-align:bottom}
+th.valign-middle,td.valign-middle{vertical-align:middle}
+table thead th,table tfoot th{font-weight:bold}
+tbody tr th{display:table-cell;line-height:1.6;background:#f7f8f7}
+tbody tr th,tbody tr th p,tfoot tr th,tfoot tr th p{color:rgba(0,0,0,.8);font-weight:bold}
+p.tableblock>code:only-child{background:none;padding:0}
+p.tableblock{font-size:1em}
+td>div.verse{white-space:pre}
+ol{margin-left:1.75em}
+ul li ol{margin-left:1.5em}
+dl dd{margin-left:1.125em}
+dl dd:last-child,dl dd:last-child>:last-child{margin-bottom:0}
+ol>li p,ul>li p,ul dd,ol dd,.olist .olist,.ulist .ulist,.ulist .olist,.olist .ulist{margin-bottom:.625em}
+ul.unstyled,ol.unnumbered,ul.checklist,ul.none{list-style-type:none}
+ul.unstyled,ol.unnumbered,ul.checklist{margin-left:.625em}
+ul.checklist li>p:first-child>.fa-square-o:first-child,ul.checklist li>p:first-child>.fa-check-square-o:first-child{width:1em;font-size:.85em}
+ul.checklist li>p:first-child>input[type="checkbox"]:first-child{width:1em;position:relative;top:1px}
+ul.inline{margin:0 auto .625em auto;margin-left:-1.375em;margin-right:0;padding:0;list-style:none;overflow:hidden}
+ul.inline>li{list-style:none;float:left;margin-left:1.375em;display:block}
+ul.inline>li>*{display:block}
+.unstyled dl dt{font-weight:400;font-style:normal}
+ol.arabic{list-style-type:decimal}
+ol.decimal{list-style-type:decimal-leading-zero}
+ol.loweralpha{list-style-type:lower-alpha}
+ol.upperalpha{list-style-type:upper-alpha}
+ol.lowerroman{list-style-type:lower-roman}
+ol.upperroman{list-style-type:upper-roman}
+ol.lowergreek{list-style-type:lower-greek}
+.hdlist>table,.colist>table{border:0;background:none}
+.hdlist>table>tbody>tr,.colist>table>tbody>tr{background:none}
+td.hdlist1,td.hdlist2{vertical-align:top;padding:0 .625em}
+td.hdlist1{font-weight:bold;padding-bottom:1.25em}
+.literalblock+.colist,.listingblock+.colist{margin-top:-.5em}
+.colist>table tr>td:first-of-type{padding:0 .75em;line-height:1}
+.colist>table tr>td:last-of-type{padding:.25em 0}
+.thumb,.th{line-height:0;display:inline-block;border:solid 4px #fff;-webkit-box-shadow:0 0 0 1px #ddd;box-shadow:0 0 0 1px #ddd}
+.imageblock.left,.imageblock[style*="float: left"]{margin:.25em .625em 1.25em 0}
+.imageblock.right,.imageblock[style*="float: right"]{margin:.25em 0 1.25em .625em}
+.imageblock>.title{margin-bottom:0}
+.imageblock.thumb,.imageblock.th{border-width:6px}
+.imageblock.thumb>.title,.imageblock.th>.title{padding:0 .125em}
+.image.left,.image.right{margin-top:.25em;margin-bottom:.25em;display:inline-block;line-height:0}
+.image.left{margin-right:.625em}
+.image.right{margin-left:.625em}
+a.image{text-decoration:none;display:inline-block}
+a.image object{pointer-events:none}
+sup.footnote,sup.footnoteref{font-size:.875em;position:static;vertical-align:super}
+sup.footnote a,sup.footnoteref a{text-decoration:none}
+sup.footnote a:active,sup.footnoteref a:active{text-decoration:underline}
+#footnotes{padding-top:.75em;padding-bottom:.75em;margin-bottom:.625em}
+#footnotes hr{width:20%;min-width:6.25em;margin:-.25em 0 .75em 0;border-width:1px 0 0 0}
+#footnotes .footnote{padding:0 .375em 0 .225em;line-height:1.3334;font-size:.875em;margin-left:1.2em;text-indent:-1.05em;margin-bottom:.2em}
+#footnotes .footnote a:first-of-type{font-weight:bold;text-decoration:none}
+#footnotes .footnote:last-of-type{margin-bottom:0}
+#content #footnotes{margin-top:-.625em;margin-bottom:0;padding:.75em 0}
+.gist .file-data>table{border:0;background:#fff;width:100%;margin-bottom:0}
+.gist .file-data>table td.line-data{width:99%}
+div.unbreakable{page-break-inside:avoid}
+.big{font-size:larger}
+.small{font-size:smaller}
+.underline{text-decoration:underline}
+.overline{text-decoration:overline}
+.line-through{text-decoration:line-through}
+.aqua{color:#00bfbf}
+.aqua-background{background-color:#00fafa}
+.black{color:#000}
+.black-background{background-color:#000}
+.blue{color:#0000bf}
+.blue-background{background-color:#0000fa}
+.fuchsia{color:#bf00bf}
+.fuchsia-background{background-color:#fa00fa}
+.gray{color:#606060}
+.gray-background{background-color:#7d7d7d}
+.green{color:#006000}
+.green-background{background-color:#007d00}
+.lime{color:#00bf00}
+.lime-background{background-color:#00fa00}
+.maroon{color:#600000}
+.maroon-background{background-color:#7d0000}
+.navy{color:#000060}
+.navy-background{background-color:#00007d}
+.olive{color:#606000}
+.olive-background{background-color:#7d7d00}
+.purple{color:#600060}
+.purple-background{background-color:#7d007d}
+.red{color:#bf0000}
+.red-background{background-color:#fa0000}
+.silver{color:#909090}
+.silver-background{background-color:#bcbcbc}
+.teal{color:#006060}
+.teal-background{background-color:#007d7d}
+.white{color:#bfbfbf}
+.white-background{background-color:#fafafa}
+.yellow{color:#bfbf00}
+.yellow-background{background-color:#fafa00}
+span.icon>.fa{cursor:default}
+.admonitionblock td.icon [class^="fa icon-"]{font-size:2.5em;text-shadow:1px 1px 2px rgba(0,0,0,.5);cursor:default}
+.admonitionblock td.icon .icon-note:before{content:"\f05a";color:#19407c}
+.admonitionblock td.icon .icon-tip:before{content:"\f0eb";text-shadow:1px 1px 2px rgba(155,155,0,.8);color:#111}
+.admonitionblock td.icon .icon-warning:before{content:"\f071";color:#bf6900}
+.admonitionblock td.icon .icon-caution:before{content:"\f06d";color:#bf3400}
+.admonitionblock td.icon .icon-important:before{content:"\f06a";color:#bf0000}
+.conum[data-value]{display:inline-block;color:#fff!important;background-color:rgba(0,0,0,.8);-webkit-border-radius:100px;border-radius:100px;text-align:center;font-size:.75em;width:1.67em;height:1.67em;line-height:1.67em;font-family:"Open Sans","DejaVu Sans",sans-serif;font-style:normal;font-weight:bold}
+.conum[data-value] *{color:#fff!important}
+.conum[data-value]+b{display:none}
+.conum[data-value]:after{content:attr(data-value)}
+pre .conum[data-value]{position:relative;top:-.125em}
+b.conum *{color:inherit!important}
+.conum:not([data-value]):empty{display:none}
+dt,th.tableblock,td.content,div.footnote{text-rendering:optimizeLegibility}
+h1,h2,p,td.content,span.alt{letter-spacing:-.01em}
+p strong,td.content strong,div.footnote strong{letter-spacing:-.005em}
+p,blockquote,dt,td.content,span.alt{font-size:1.0625rem}
+p{margin-bottom:1.25rem}
+.sidebarblock p,.sidebarblock dt,.sidebarblock td.content,p.tableblock{font-size:1em}
+.exampleblock>.content{background-color:#fffef7;border-color:#e0e0dc;-webkit-box-shadow:0 1px 4px #e0e0dc;box-shadow:0 1px 4px #e0e0dc}
+.print-only{display:none!important}
+@media print{@page{margin:1.25cm .75cm}
+*{-webkit-box-shadow:none!important;box-shadow:none!important;text-shadow:none!important}
+a{color:inherit!important;text-decoration:underline!important}
+a.bare,a[href^="#"],a[href^="mailto:"]{text-decoration:none!important}
+a[href^="http:"]:not(.bare):after,a[href^="https:"]:not(.bare):after{content:"(" attr(href) ")";display:inline-block;font-size:.875em;padding-left:.25em}
+abbr[title]:after{content:" (" attr(title) ")"}
+pre,blockquote,tr,img,object,svg{page-break-inside:avoid}
+thead{display:table-header-group}
+svg{max-width:100%}
+p,blockquote,dt,td.content{font-size:1em;orphans:3;widows:3}
+h2,h3,#toctitle,.sidebarblock>.content>.title{page-break-after:avoid}
+#toc,.sidebarblock,.exampleblock>.content{background:none!important}
+#toc{border-bottom:1px solid #ddddd8!important;padding-bottom:0!important}
+.sect1{padding-bottom:0!important}
+.sect1+.sect1{border:0!important}
+#header>h1:first-child{margin-top:1.25rem}
+body.book #header{text-align:center}
+body.book #header>h1:first-child{border:0!important;margin:2.5em 0 1em 0}
+body.book #header .details{border:0!important;display:block;padding:0!important}
+body.book #header .details span:first-child{margin-left:0!important}
+body.book #header .details br{display:block}
+body.book #header .details br+span:before{content:none!important}
+body.book #toc{border:0!important;text-align:left!important;padding:0!important;margin:0!important}
+body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-break-before:always}
+.listingblock code[data-lang]:before{display:block}
+#footer{background:none!important;padding:0 .9375em}
+#footer-text{color:rgba(0,0,0,.6)!important;font-size:.9em}
+.hide-on-print{display:none!important}
+.print-only{display:block!important}
+.hide-for-print{display:none!important}
+.show-for-print{display:inherit!important}}
+</style>
+</head>
+<body class="book toc2 toc-right">
+<div id="header">
+<h1>Getting Started with AAC: Designing and using alphabet charts</h1>
+<div class="details">
+<span id="author" class="author">Katharine Buckley</span><br>
+<span id="revnumber">version 1.1,</span>
+<span id="revdate">2016-01-01</span>
+</div>
+<div id="toc" class="toc2">
+<div id="toctitle">Table of Contents</div>
+<ul class="sectlevel1">
+<li><a href="#_foreword">Foreword</a>
+<ul class="sectlevel2">
+<li><a href="#_acknowledgements">Acknowledgements</a></li>
+</ul>
+</li>
+<li><a href="#_chapter_1_introduction_to_alphabet_charts">Chapter 1: Introduction to Alphabet Charts</a>
+<ul class="sectlevel3">
+<li><a href="#_meet_some_individuals_who_use_alphabet_charts">Meet some individuals who use alphabet charts</a></li>
+</ul>
+</li>
+<li><a href="#_chapter_2_using_an_alphabet_chart">Chapter 2: Using an Alphabet Chart</a>
+<ul class="sectlevel2">
+<li><a href="#_direct_touch">Direct Touch</a>
+<ul class="sectlevel3">
+<li><a href="#_learning_to_point">Learning to Point</a></li>
+<li><a href="#_eye_pointing">Eye-pointing</a></li>
+<li><a href="#_listener_mediated_scanning">Listener Mediated Scanning</a></li>
+<li><a href="#_combination_access">Combination Access</a></li>
+<li><a href="#_facilitated_communication">Facilitated Communication</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#_chapter_3_arranging_letters_on_an_alphabet_chart">Chapter 3: Arranging Letters on an Alphabet Chart</a>
+<ul class="sectlevel3">
+<li><a href="#_qwerty_layout">QWERTY layout￼</a></li>
+<li><a href="#_abc_alphabetical_layout">ABC / Alphabetical Layout</a></li>
+<li><a href="#frequency-alphabet-charts">Frequency Layout</a></li>
+<li><a href="#_encoded_layout">Encoded Layout</a></li>
+<li><a href="#_coded_layout">Coded Layout</a></li>
+</ul>
+</li>
+<li><a href="#_chapter_4_chart_design">Chapter 4: Chart design</a>
+<ul class="sectlevel3">
+<li><a href="#_design_issues">Design Issues</a></li>
+<li><a href="#_tactile_charts">Tactile Charts</a></li>
+<li><a href="#_words_and_phrases_punctuation_and_numbers">Words and Phrases, Punctuation and Numbers</a></li>
+<li><a href="#_personalising_a_chart">Personalising a Chart</a></li>
+</ul>
+</li>
+<li><a href="#_chapter_5_communication_partner_skills">Chapter 5: Communication Partner skills</a>
+<ul class="sectlevel3">
+<li><a href="#_good_communication_partner_skills">Good Communication Partner Skills</a></li>
+<li><a href="#_pen_and_paper">Pen and Paper</a></li>
+<li><a href="#_guessing">Guessing</a></li>
+</ul>
+</li>
+<li><a href="#_chapter_6_communication_passports_drawing_it_all_together">Chapter 6: Communication Passports - Drawing it all Together</a></li>
+<li><a href="#_chapter_7_sourcing_and_making_alphabet_charts">Chapter 7: Sourcing and Making Alphabet Charts</a>
+<ul class="sectlevel2">
+<li><a href="#_alphabet_charts_noted_in_this_book">Alphabet charts noted in this book</a></li>
+<li><a href="#_freely_available_alphabet_charts">Freely Available Alphabet Charts</a>
+<ul class="sectlevel3">
+<li><a href="#_making_an_alphabet_chart">Making an Alphabet  Chart</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#_chapter_8_further_sources_of_help_and_reading">Chapter 8: Further Sources of Help and Reading</a>
+<ul class="sectlevel2">
+<li><a href="#_resources">Resources</a></li>
+<li><a href="#_books">Books</a></li>
+<li><a href="#_organisations">Organisations</a></li>
+</ul>
+</li>
+<li><a href="#_chapter_9_references">Chapter 9: References</a></li>
+<li><a href="#_glossary">Glossary</a></li>
+</ul>
+</div>
+</div>
+<div id="content">
+<div class="sect1">
+<h2 id="_foreword"><a class="anchor" href="#_foreword"></a><a class="link" href="#_foreword">Foreword</a></h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>The aim of this resource is help you design and use alphabet charts with people who can’t rely on speech, enabling them to communicate to the best of their ability.  Through communication we can express ourselves, learn, have fun, and be active members of society</p>
+</div>
+<div class="paragraph">
+<p>Please note that this resource is not suggesting that low tech is ‘best’, or that low tech is a prerequisite to a more high tech communication aid.  It is simply about valuing the role of paper based communication systems, and sharing lots of ideas and strategies to help develop and support them.  You may well find that many of the ideas and strategies are useful when it comes to other forms of communication too.</p>
+</div>
+<div class="sect2">
+<h3 id="_acknowledgements"><a class="anchor" href="#_acknowledgements"></a><a class="link" href="#_acknowledgements">Acknowledgements</a></h3>
+<div class="paragraph">
+<p>This resource was developed through grant funding from the Department for Education National Prospectus Grants Programme 2013-2015.  This project involved a consortium of The ACE Centre, Communication Matters and One Voice.
+Thank you to the people who allowed us to share their stories within this resource.  We also would like to thank Ruth McMorran and Marion Stanton of Communication Matters and Deborah Pugh for carefully reviewing the resources and their thoughtful comments.</p>
+</div>
+<div class="paragraph">
+<p>The Picture Communication Symbols (c) 1981-2015 Dynavox Mayer-Johnson are used under contractual agreement.  All rights reserved worldwide.
+Any enquiries regarding the use and re-use of this information resource should be sent to <a href="mailto:enquiries@acecentre.org.uk">enquiries@acecentre.org.uk</a></p>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_chapter_1_introduction_to_alphabet_charts"><a class="anchor" href="#_chapter_1_introduction_to_alphabet_charts"></a><a class="link" href="#_chapter_1_introduction_to_alphabet_charts">Chapter 1: Introduction to Alphabet Charts</a></h2>
+<div class="sectionbody">
+<div class="sidebarblock">
+<div class="content">
+<div class="title">In this resource:</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Think about why alphabet charts may be used</p>
+</li>
+<li>
+<p>Meet people who make use of alphabet charts to support their face-to-face communication</p>
+</li>
+<li>
+<p>Consider how to design resources to meet different needs</p>
+</li>
+<li>
+<p>Reflect on supporting the use of alphabet charts</p>
+</li>
+<li>
+<p>Find out about freely available resources and further sources of help</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="paragraph">
+<p>Alphabet charts can be a powerful way to support face-to-face communication for individuals who are unable to rely upon speech to communicate in all situations, all of the time.</p>
+</div>
+<div class="paragraph">
+<p>Alphabet charts are one form of <a href="#aac">Augmentative and Alternative Communication (or AAC)</a>. Specifically, they are a type of <a href="#low-tech-communication">low tech</a> AAC.</p>
+</div>
+<div class="paragraph">
+<p>The term <em>Augmentative and Alternative Communication</em> includes both strategies and equipment that supports or replaces speech.  It might involve using your body, e.g. <a href="#signing">signing</a>, facial expression, gesture, or using equipment, e.g. an <a href="#alphabet-chart">alphabet chart</a>, a <a href="#symbol-chart">symbol chart</a>, a simple <a href="#talking-button">talking button</a>, a more complex <a href="#voice-output-communication-aid">voice output communication aid</a>, etc.</p>
+</div>
+<div class="paragraph">
+<p>The reason it is <em>Augmentative and Alternative Communication</em> rather than just Alternative Communication (two ‘A’s’ instead of 1) is to emphasise that <em>AAC</em> is not just for people who cannot speak at all, and need an alternative. AAC is also for people who have speech but whose speech is not sufficient or clear enough for everyone to understand them all of the time. In other words, AAC can augment or support someone’s speech as well as provide an alternative to speech where there is none.</p>
+</div>
+<div class="paragraph">
+<p><em>AAC</em> is often subdivided into <em>low tech</em> and <a href="#high-tech-communication">high tech</a> sub-categories. High tech <em>AAC</em> is <em>AAC</em> that involves equipment that has a battery or a screen.  <em>Low tech</em> <em>AAC</em> is essentially everything else!</p>
+</div>
+<div class="paragraph">
+<p>This resource is all about using <em>text based low tech AAC</em> <a href="#text-based-low-tech-aac">text based low tech AAC</a>, or <em>alphabet charts</em>.  It takes a close look at how to get started, and how to support those who are unable to spell what they want to say. To find out more about low tech <em>AAC</em> that is designed around pictures and symbols, see <em>Getting Started with AAC: Using low tech symbol based systems with children.</em></p>
+</div>
+<div class="paragraph">
+<p>While some people choose to rely predominantly upon an <em>alphabet chart</em> to support their face-to-face communication, typically someone will use an <em>alphabet chart</em> alongside a host of other communication strategies, including gesture, <em>signing</em>, vocalisation and sometimes high tech <em>AAC</em>. We all communicate in different ways with different people and in different situations.</p>
+</div>
+<div class="paragraph">
+<p>Beth conveys this message powerfully in this video she produced some years ago.</p>
+</div>
+<div class="videoblock">
+<div class="title"><strong>Movie 1.1</strong> Beth</div>
+<div class="content">
+<iframe width="300" height="180" src="https://www.youtube.com/embed/ieeREOclfPE?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+</div>
+<div class="paragraph">
+<p>Using an <em>alphabet chart</em> is complementary to other forms of <em>AAC</em>.  It is in no sense a ‘prerequisite’ to using a voice output communication aid.  However, if someone does have a very sophisticated communication aid that they rely on most of the time, it is still important to maintain other ways of communicating, and an <em>alphabet chart</em> can be an essential back up.  Sophisticated communication aids are much more prone to running out of battery and going wrong occasionally than paper-based tools.  There are also situations where they can be impractical, for example, in the middle of the night, or whilst bathing.</p>
+</div>
+<div class="paragraph">
+<p>While <em>alphabet charts</em> are an obvious tool for those who are literate, they are also highly recommended to be used alongside a symbol based communication book for those at the very earliest stages of literacy.  <em>Alphabet Charts</em> can be a great way to support early exploration of speech sounds and spelling, particularly for those who find holding a pencil more difficult.  If you are interested in finding out more about this, Karen Erickson and David Koppenhaver at the Center for Literacy and Disability Studies in North Carolina have done a lot of work in this area - see <a href="http://med.unc.edu/ahs/clds" class="bare">med.unc.edu/ahs/clds</a>.</p>
+</div>
+<div class="sect3">
+<h4 id="_meet_some_individuals_who_use_alphabet_charts"><a class="anchor" href="#_meet_some_individuals_who_use_alphabet_charts"></a><a class="link" href="#_meet_some_individuals_who_use_alphabet_charts">Meet some individuals who use alphabet charts</a></h4>
+<div class="sect4">
+<h5 id="_anjali"><a class="anchor" href="#_anjali"></a><a class="link" href="#_anjali">Anjali</a></h5>
+<div class="imageblock">
+<div class="content">
+<a class="image" href="Media/images/j4Zjf5V.jpg"><img src="Media/images/j4Zjf5V-thumb.jpg" alt="Anjali" width="300"></a>
+</div>
+<div class="title">Figure 1. Anjali</div>
+</div>
+<div class="paragraph">
+<p>Anjali is sixteen years old.  She has cerebral palsy, autism and epilepsy.  She is able to verbalise a range of sounds, but cannot speak any recognisable words.  The fact that speech is difficult, however, doesn’t mean that her literacy skills aren’t good.  Indeed, Anjali can read and spell well, and she uses an alphabetically organised <em>alphabet chart</em> to support her communication.</p>
+</div>
+<div class="videoblock">
+<div class="title"><strong>Movie 1.2</strong> Anjali</div>
+<div class="content">
+<iframe width="300" height="180" src="https://www.youtube.com/embed/Xmuxm_JqGaE?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+</div>
+<div class="paragraph">
+<p>Anjali chats to Suzanne with the help of her alphabet</p>
+</div>
+<div class="paragraph">
+<p>Anjali uses her chart with everyone!!! She is very proficient at pointing to letters and loves to ask questions such, “which supermarket do you shop at?” Anjali is also exploring whether a <em>voice output communication aid</em> might be useful to her, alongside this chart.</p>
+</div>
+</div>
+<div class="sect4">
+<h5 id="_tiago"><a class="anchor" href="#_tiago"></a><a class="link" href="#_tiago">Tiago</a></h5>
+<div class="paragraph">
+<p>Tiago is eight years old. He has cerebral palsy and finds it difficult to use his hands. He can communicate using speech with people who know him very well, but even then things sometimes go a bit wrong. He uses an <em>alphabet chart</em> that has been specially adapted for use with eye movements. Copies are all round his house so that one can be reached quickly in the event of a problem. There are copies tucked down the side of the sofa, in the bathroom, in the kitchen, in his bedroom - all over the place! There’s also a copy of the <em>alphabet chart</em>
+permanently attached to his wheelchair.</p>
+</div>
+<div class="paragraph">
+<p>Tiago uses his eye movements to select letters from the special <em>alphabet chart</em>. The chart is an <a href="#_encoded_layout">Encoded Layout</a>.</p>
+</div>
+<div class="paragraph">
+<p>Tiago also has a sophisticated computer to support his communication that he controls using eye movements. He is a great reader and speller, and can use an onscreen keyboard to spell out and then speak what he wants to say. However,
+there are times when computers just aren’t up to the job. Recently he was travelling in the back of the car with his stepsister, and she just couldn’t work out what he was saying. Frustration all round! The computer was in the boot, but couldn’t be used in the back seat of the car anyway. Luckily,
+Mum was in the front seat and had an <em>alphabet chart</em> to hand - she passed it back to them, and the problem was easily resolved.</p>
+</div>
+<div class="videoblock">
+<div class="title"><strong>Movie 1.3</strong> Tiago using his encoded alphabet chart</div>
+<div class="content">
+<iframe width="300" height="180" src="https://www.youtube.com/embed/07tqVhPo-Pw?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+</div>
+<div class="paragraph">
+<p>First, Tiago looks at the block that contains the target letter then he clarifies which letter he wants by looking at the matching colour.</p>
+</div>
+<div class="sidebarblock">
+<div class="content">
+<div class="title">Gallery 1.1 Tiago</div>
+<div class="imageblock">
+<div class="content">
+<a class="image" href="Media/images/T_and_I_using_chart.jpg"><img src="Media/images/T_and_I_using_chart_thumb.jpg" alt="T and I using chart thumb"></a>
+</div>
+<div class="title">Figure 2. Here are Tiago and Katharine having a chat.</div>
+</div>
+<div class="imageblock">
+<div class="content">
+<a class="image" href="Media/images/T_chart.jpg"><img src="Media/images/T_chart_thumb.jpg" alt="T chart thumb"></a>
+</div>
+<div class="title">Figure 3. This is what Katharine sees. She can clearly read his eye movements through the transparent window. She sees the mirror image of his letter layout.</div>
+</div>
+<div class="imageblock">
+<div class="content">
+<a class="image" href="Media/images/T_chart_his_side.jpg"><img src="Media/images/T_chart_his_side_thumb.jpg" alt="T chart his side thumb"></a>
+</div>
+<div class="title">Figure 4. And this is what Tiago sees. His chart is arranged in alphabetical order to help him find the letters.</div>
+</div>
+<div class="imageblock">
+<div class="content">
+<a class="image" href="Media/images/wheelchair.jpg"><img src="Media/images/wheelchair_thumb.jpg" alt="wheelchair thumb"></a>
+</div>
+<div class="title">Figure 5. The chart is so important that a copy is attached to Tiago&#8217;s wheelchair, making it available whenever he is out and about. Being made of laminate, it is light and easily transportable.</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sect4">
+<h5 id="_ethan"><a class="anchor" href="#_ethan"></a><a class="link" href="#_ethan">Ethan</a></h5>
+<div class="paragraph">
+<p>Ethan is twelve years old and attends a special school.  ￼</p>
+</div>
+<div class="imageblock">
+<div class="content">
+<a class="image" href="Media/images/j4Zjf5V.jpg"><img src="Media/images/I3Zsw41-thumb.jpg" alt="Ethan" width="300"></a>
+</div>
+<div class="title">Figure 6. Ethan</div>
+</div>
+<div class="paragraph">
+<p>Ethan looks up to communicate ‘yes’, and looks to his right to communicate ‘no’. He has a complex communication book based around symbols. Ethan accesses his communication book using <a href="#_listener_mediated_scanning">Listener Mediated Scanning</a>. In other words, his communication partner offers him options, and Ethan communicates ‘yes’ when he sees and hears the one he wants. He loves to use his communication book to share a good joke!</p>
+</div>
+<div class="paragraph">
+<p>Ethan is exploring voice output communication options that he might access using <a href="#eye-gaze">eye gaze</a> or a <a href="#switch">switch</a>, but for now his communication book is working best for him.</p>
+</div>
+<div class="paragraph">
+<p>Alongside his communication book, Ethan has an <em>alphabet chart</em> that he uses to explore letter sounds. This gives him experience of selecting letters and combining them. He is learning to use the chart to spell his name, a great early literacy skill.</p>
+</div>
+<div class="videoblock">
+<div class="title"><strong>Movie 1.4</strong> Ethan and alli explore writing together</div>
+<div class="content">
+<iframe width="300" height="180" src="https://www.youtube.com/embed/pmjfuDU4XIk?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+</div>
+<div class="paragraph">
+<p>Ethan and Alli explore writing together</p>
+</div>
+<div class="paragraph">
+<p>Ethan is learning how to spell his name.  He makes a great start at picking out some of the sounds that are found in his name.  Alli then provides a little mores support to enable him to write his name accurately.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_chapter_2_using_an_alphabet_chart"><a class="anchor" href="#_chapter_2_using_an_alphabet_chart"></a><a class="link" href="#_chapter_2_using_an_alphabet_chart">Chapter 2: Using an Alphabet Chart</a></h2>
+<div class="sectionbody">
+<div class="sidebarblock">
+<div class="content">
+<div class="title">In this chapter</div>
+<div class="ulist">
+<ul>
+<li>
+<p>How to use an alphabet chart if pointing directly to letters is difficult</p>
+</li>
+<li>
+<p>Consider alternative <a href="#access-methods">access methods</a>, including:</p>
+</li>
+<li>
+<p>eye pointing to letters</p>
+</li>
+<li>
+<p>listener mediated scanning</p>
+</li>
+<li>
+<p>combination access</p>
+</li>
+<li>
+<p>facilitated communication</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="paragraph">
+<p>The term <a href="#direct-touch">direct touch</a> or <a href="#direct-selection">direct selection</a> describes the way someone points to letters or words on a chart using a bit of their body. People most often point using a finger, but sometimes use a fist, elbow, toe, or whatever works best for them. They may also use a <a href="#pointing-tool">pointing tool</a> to facilitate direct touch. You can never generalise when it comes to <em>AAC</em>(!), but typically, if someone can access a chart directly, this tends to be the preferred way of selecting letters (the <a href="#selection-method">selection method</a>).</p>
+</div>
+<div class="paragraph">
+<p>When pointing is difficult, there are different options that can be considered. One option is to consider ways to support direct access. Another option is to look at alternative access methods, including <a href="#eye-pointing">eye pointing</a> to letters, <a href="#listener-mediated-scanning">listener mediated scanning</a> (sometimes called <a href="#partner-assisted-scanning">partner assisted scanning</a>), and <a href="#combination-access">combination access</a>.</p>
+</div>
+<div class="sect2">
+<h3 id="_direct_touch"><a class="anchor" href="#_direct_touch"></a><a class="link" href="#_direct_touch">Direct Touch</a></h3>
+<div class="paragraph">
+<p>Conventional <em>alphabet charts</em> are designed to be accessed using an index finger. The letters are neatly laid out in alphabetical or qwerty order, and the individual points to letters to spell out words and phrases.</p>
+</div>
+<div class="paragraph">
+<p>Pointing to letters in this way can be difficult for some, however, and this section considers tools and strategies that can make direct access more successful.</p>
+</div>
+<div class="sect3">
+<h4 id="_learning_to_point"><a class="anchor" href="#_learning_to_point"></a><a class="link" href="#_learning_to_point">Learning to Point</a></h4>
+<div class="paragraph">
+<p>Where possible, a one-finger point is beneficial, as it helps the <a href="#communication-partner">communication partner</a> to follow what is being spelled out.</p>
+</div>
+<div class="paragraph">
+<p>Sometimes an individual may need help to learn that one particular finger is in charge of ‘pointing’. As a temporary teaching tool, a sticker or some nail varnish on the fingernail of the pointing finger can help to signal to the individual (and <em>communication partner</em>) what to pay attention to. Alternatively, for people who are happy to wear a glove, you could try cutting off the end of the glove’s pointing finger.</p>
+</div>
+<div class="sidebarblock">
+<div class="content">
+<div class="title">Gallery 2.1 Examples of conventional alphabet charts.</div>
+<div class="imageblock">
+<div class="content">
+<a class="image" href="Media/images/abc-anjali.jpg"><img src="Media/images/abc-anjali-thumb.jpg" alt="abc anjali thumb"></a>
+</div>
+<div class="title">Figure 7. This 'abc' alphabet chart is similar to the one used by Anjali.</div>
+</div>
+<div class="imageblock">
+<div class="content">
+<a class="image" href="Media/images/alphabetical-layout_alphabet.jpg"><img src="Media/images/abc-thumb.jpg" alt="abc thumb"></a>
+</div>
+<div class="title">Figure 8. Another example of an 'abc&#8217;alphabet chart.</div>
+</div>
+<div class="imageblock">
+<div class="content">
+<a class="image" href="Media/images/alpha-chart-use.jpg"><img src="Media/images/alpha-chart-use-thumb.jpg" alt="alpha chart use thumb"></a>
+</div>
+<div class="title">Figure 9. Another example of an 'abc&#8217;alphabet chart.</div>
+</div>
+<div class="imageblock">
+<div class="content">
+<a class="image" href="Media/images/qwerty.jpg"><img src="Media/images/qwerty-thumb.jpg" alt="qwerty thumb"></a>
+</div>
+<div class="title">Figure 10. A simple 'qwerty' layout alphabet chart.</div>
+</div>
+</div>
+</div>
+<div class="paragraph">
+<p>When learning new skills, it can be good to try to avoid the pressure of attempting to communicate something really important. Instead, you could practise pointing to letters within a game such as I spy or something similar. Try to feedback to the person about where you think they are pointing to, to further reinforce their learning.</p>
+</div>
+<div class="sect4">
+<h5 id="_placement"><a class="anchor" href="#_placement"></a><a class="link" href="#_placement">Placement</a></h5>
+<div class="paragraph">
+<p>A person’s visual and physical skills should influence where the chart itself is placed in relation to that individual. Simply placing the <em>alphabet chart</em> in an area that is easier to reach can make a difference. For example, if someone uses only their right hand to access a chart, it may be helpful to place the chart slightly to their right. Small changes can sometimes make a big difference.</p>
+</div>
+</div>
+<div class="sect4">
+<h5 id="_keyboard_layout"><a class="anchor" href="#_keyboard_layout"></a><a class="link" href="#_keyboard_layout">Keyboard Layout</a></h5>
+<div class="paragraph">
+<p>Visual and physical skills should also inform where the letters themselves are placed on a chart.</p>
+</div>
+<div class="paragraph">
+<p><a href="#_chapter_3_arranging_letters_on_an_alphabet_chart">Chapter 3: Arranging Letters on an Alphabet Chart</a> includes a range of suggested keyboard layouts to facilitate access. You may find that one of the suggested arrangements is suitable for the person you are supporting.</p>
+</div>
+<div class="paragraph">
+<p>Alternatively, you may want to design your own layout based around the individual’s skills. For example, if they find it much easier to point to the right hand side of the page, then you might want to put letters that are used more frequently to the right, and letters like ‘z’ and ‘qu’ to the left. <a href="#_chapter_4_chart_design">Chapter 4: Chart design</a>  discusses key issues to consider when planning a keyboard layout.</p>
+</div>
+</div>
+<div class="sect4">
+<h5 id="_size_and_use_of_space"><a class="anchor" href="#_size_and_use_of_space"></a><a class="link" href="#_size_and_use_of_space">Size and Use of Space</a></h5>
+<div class="paragraph">
+<p>Try using different sizes of <em>alphabet charts</em>. For some people a smaller chart may be easier to use, whilst for others a larger chart may be required. You may also want to experiment with how much space there is between each letter on the <em>alphabet chart</em>.</p>
+</div>
+</div>
+<div class="sect4">
+<h5 id="_writing_slope_wedge"><a class="anchor" href="#_writing_slope_wedge"></a><a class="link" href="#_writing_slope_wedge">Writing Slope / Wedge</a></h5>
+<div class="paragraph">
+<p>Charts are often presented flat on a table or on a wheelchair tray. However, some people find that angling the chart slightly by placing it on a <a href="#writing-slope">writing slope</a> or wedge can make a big difference to their ease of access. The ideal slope is normally between 30 and 45 degrees.</p>
+</div>
+<div class="paragraph">
+<p>This is a junior <em>writing slope</em> produced by Posturite - see <a href="http://posturite.co.uk" class="bare">posturite.co.uk</a>.</p>
+</div>
+<div class="imageblock">
+<div class="content">
+<a class="image" href="Media/images/fVYxjNb.jpg"><img src="Media/images/fVYxjNb-thumb.jpg" alt="Writing Slope" width="300"></a>
+</div>
+<div class="title">Figure 11. Writing Slope</div>
+</div>
+</div>
+<div class="sect4">
+<h5 id="_non_slip_material"><a class="anchor" href="#_non_slip_material"></a><a class="link" href="#_non_slip_material">Non-Slip Material</a></h5>
+<div class="paragraph">
+<p>If a chart is slipping around on a tray or table, this can make it more difficult to access. Sometimes fixing it in place with a sticky material like Blu-Tack or Velcro can make an enormous difference. Some people find using non-slip materials like Dycem or Tenura underneath a chart can help too.</p>
+</div>
+<div class="paragraph">
+<p>A magnetic <em>writing slope</em> can help with both the angle and the slipping issue, by presenting material at an adjustable angle and allowing it to be fixed in place with a magnet.</p>
+</div>
+</div>
+<div class="sect4">
+<h5 id="_keyguard"><a class="anchor" href="#_keyguard"></a><a class="link" href="#_keyguard">Keyguard</a></h5>
+<div class="paragraph">
+<p>A <a href="#keyguard">keyguard</a> is a cover that fits over a keyboard or computer screen and contains holes through which keys or areas of the screen can be selected. It allows an individual to rest their hand on the cover and make selections through the holes. For some individuals it can reduce accidental selections. It can also help someone with a tremor to target an area more precisely.</p>
+</div>
+<div class="sidebarblock">
+<div class="content">
+<div class="title">Gallery 2.2 Examples of commercially alphabet charts with keyguards.</div>
+<div class="imageblock">
+<div class="content">
+<a class="image" href="Media/images/FAB-ABC.jpg"><img src="Media/images/FAB-ABC-thumb.jpg" alt="FAB ABC thumb"></a>
+</div>
+<div class="title">Figure 12. A FAB^TM ABC layout keyboard.</div>
+</div>
+<div class="imageblock">
+<div class="content">
+<a class="image" href="Media/images/FAB-QWERTY.jpg"><img src="Media/images/FAB-QWERTY-thumb.jpg" alt="FAB QWERTY thumb"></a>
+</div>
+<div class="title">Figure 13. A FAB^TM QWERTY layout keyboard.</div>
+</div>
+<div class="imageblock">
+<div class="content">
+<a class="image" href="Media/images/candle_board.jpg"><img src="Media/images/candle_board_thumb.jpg" alt="candle board thumb"></a>
+</div>
+<div class="title">Figure 14. The CandLE letterboard.</div>
+</div>
+</div>
+</div>
+<div class="paragraph">
+<p>Although <em>keyguards</em> are most commonly used with computer keyboards or touchscreen devices, it is possible to make a <em>keyguard</em> for an <em>alphabet chart</em>.</p>
+</div>
+<div class="paragraph">
+<p>A <em>keyguard</em> could be made from Perspex®, wood or even cardboard. There are a couple of commercially available options. FAB™ – see <a href="http://fab.uk.com/" class="bare">fab.uk.com/</a> - is available in both QWERTY and ABC layouts, and in a range of sizes.</p>
+</div>
+<div class="paragraph">
+<p>Another commercially available QWERTY chart with <em>keyguard</em> is an A5 wooden letterboard sold in the UK by CandLE <a href="http://candleaac.com/products_software.htm" class="bare">candleaac.com/products_software.htm</a>.</p>
+</div>
+<div class="paragraph">
+<p>Logan Technologies (<a href="http://logan-technologies.co.uk/" class="bare">logan-technologies.co.uk/</a>) may be able to design a <em>keyguard</em> to fit your own customised <em>alphabet chart</em>.</p>
+</div>
+</div>
+<div class="sect4">
+<h5 id="_pointing_tools"><a class="anchor" href="#_pointing_tools"></a><a class="link" href="#_pointing_tools">Pointing Tools</a></h5>
+<div class="paragraph">
+<p><em>Pointing tools</em> are often designed to help people with disabilities type more accurately, but they can also help some people point more accurately to an <em>alphabet chart</em>. They come in many different shapes and sizes. They are known by different names, including ‘typing aid’, ‘keyboard aid’, ‘touch enabling device’, ‘dibber’, ‘universal cuff’, ‘accessible stylus’ and more. Not everyone likes to wear them, however, and some find it inconvenient to have another piece of equipment involved in communicating.</p>
+</div>
+<div class="sidebarblock">
+<div class="content">
+<div class="title">Gallery 2.3 Examples of pointing tools</div>
+<div class="imageblock">
+<div class="content">
+<a class="image" href="Media/images/Slip-on-Typing-aid.jpg"><img src="Media/images/Slip-on-Typing-aid-thumb.jpg" alt="Slip on Typing aid thumb"></a>
+</div>
+<div class="title">Figure 15. This is an example of a typing aid.</div>
+</div>
+<div class="imageblock">
+<div class="content">
+<a class="image" href="Media/images/AliMed-typing-aid.jpg"><img src="Media/images/AliMed-typing-aid-thumb.jpg" alt="AliMed typing aid thumb"></a>
+</div>
+<div class="title">Figure 16. This is a typing aid that is available in the UK from AliMed (see <a href="http://amazon.co.uk" class="bare">amazon.co.uk</a>).</div>
+</div>
+<div class="imageblock">
+<div class="content">
+<a class="image" href="Media/images/tbar.png"><img src="Media/images/tbar-thumb.png" alt="tbar thumb"></a>
+</div>
+<div class="title">Figure 17. This is an accessible T-bar stylus manufactured by a UK company called Dad in a Shed <a href="http://dadinashed.com" class="bare">dadinashed.com</a>.</div>
+</div>
+</div>
+</div>
+<div class="paragraph">
+<p>Occasionally people choose to use a stick mounted to a headband to point to letters. This headpointer is made by a company called Dad in a Shed <a href="http://dadinashed.com" class="bare">dadinashed.com</a>.</p>
+</div>
+<div class="imageblock">
+<div class="content">
+<a class="image" href="Media/images/DZkbbbz.png"><img src="Media/images/DZkbbbz-thumb.png" alt="headpointer" width="300"></a>
+</div>
+</div>
+</div>
+<div class="sect4">
+<h5 id="_laser_pointer"><a class="anchor" href="#_laser_pointer"></a><a class="link" href="#_laser_pointer">Laser Pointer</a></h5>
+<div class="paragraph">
+<p>Another way of ‘pointing’ to a chart is to use a <a href="#laser-pointer">laser pointer</a>. These tend to be designed to help presenters indicate key points on their PowerPoint presentations. However, some people choose to use them to point to letters on an <em>alphabet chart</em>.</p>
+</div>
+<div class="paragraph">
+<p>The easiest way to do this is to attach a small <em>laser pointer</em> to a pair of glasses. The person gently moves their head to direct the laser beam onto letters or words on a chart. However, they could be handheld, or attached to the body in another way.</p>
+</div>
+<div class="paragraph">
+<p>To avoid damage to eyes, make sure you choose an ‘eye-safe’ laser. You can view a video of someone using a <em>laser pointer</em> to access an <em>alphabet chart</em> with whole words here <a href="https://youtube.com/watch?v=AooDQOzdOyE" class="bare">youtube.com/watch?v=AooDQOzdOyE</a>.</p>
+</div>
+</div>
+</div>
+<div class="sect3">
+<h4 id="_eye_pointing"><a class="anchor" href="#_eye_pointing"></a><a class="link" href="#_eye_pointing">Eye-pointing</a></h4>
+<div class="paragraph">
+<p>When pointing directly to letters is difficult, another option is to point to letters with your eyes. Although people can feel a bit worried about it, and feel scared that they won’t be able to ‘read’ someone’s eye movements, it’s often easier than you think. It can also be surprisingly quick.</p>
+</div>
+<div class="paragraph">
+<p><em>Eye pointing</em> to letters is probably most often done using an E-tran frame with <a href="#encoding">encoding</a> as it minimises the number of different eye movements that the <em>communication partner</em> has to interpret. There are different ways of <em>encoding</em>, and you can read more about these here <a href="#_encoded_layout">Encoded Layout</a>. The examples in this section make use of colour <em>encoding</em>.</p>
+</div>
+<div class="paragraph">
+<p>However, there is another way of <em>eye pointing</em> to letters that is perhaps less well known and used, but can be highly successful for some. This is a strategy where you eye point directly to letters arranged on a transparent sheet known as an <a href="#eyelink">Eyelink</a> communication chart.</p>
+</div>
+<div class="sect4">
+<h5 id="_eyelink_communication_chart"><a class="anchor" href="#_eyelink_communication_chart"></a><a class="link" href="#_eyelink_communication_chart">EyeLink Communication Chart</a></h5>
+<div class="paragraph">
+<p>This is a photograph of a personalised <em>EyeLink</em> communication chart.</p>
+</div>
+<div class="sidebarblock">
+<div class="content">
+<div class="title">Gallery 2.4 An example of an EyeLink chart</div>
+<div class="imageblock">
+<div class="content">
+<a class="image" href="Media/images/Screen-Shot-2016-01-25-at-17.22.06.jpg"><img src="Media/images/Screen-Shot-2016-01-25-at-17.22.06-thumb.jpg" alt="Screen Shot 2016 01 25 at 17.22.06 thumb"></a>
+</div>
+<div class="title">Figure 18. Lisa uses a personalised EyeLink chart to communicate.</div>
+</div>
+<div class="imageblock">
+<div class="content">
+<a class="image" href="Media/images/perspex-board.jpg"><img src="Media/images/perspex-board-thumb.jpg" alt="perspex board thumb"></a>
+</div>
+<div class="title">Figure 19. This side is in alphabetical order.</div>
+</div>
+<div class="imageblock">
+<div class="content">
+<a class="image" href="Media/images/eye-gaze-alphabet-mirror-image-copy.jpg"><img src="Media/images/eye-gaze-alphabet-mirror-image-copy-thumb.jpg" alt="eye gaze alphabet mirror image copy thumb"></a>
+</div>
+<div class="title">Figure 20. The other side shows the mirror image to make communition easier.</div>
+</div>
+</div>
+</div>
+<div class="paragraph">
+<p>The <em>EyeLink</em> chart is designed to be held between two people. Because the chart is transparent, the <em>communication partner</em> can see which letter the individual is <em>eye pointing</em> to.</p>
+</div>
+<div class="paragraph">
+<p>An <em>EyeLink</em> communication chart can be made by placing individually cut up letters into a glossy laminate pocket and running it through a laminator. Alternatively, the alphabet could be printed onto an acetate sheet. For a more robust chart, you could have the letters printed onto transparent plastic, or even attach letters onto a Perspex® board.</p>
+</div>
+<div class="paragraph">
+<p>To use the chart, the <em>communication partner</em> holds it between themselves and the individual. Typically, the ‘correct’ layout of letters faces the communicator, and the <em>communication partner</em> sees the mirror image. This does not have to be the case, however. In the video of Lisa using her own <em>EyeLink</em> style chart below, we see that she does things the other way round. Here it is Lisa who uses the mirror image while her PA sees the ‘correct’ (alphabetically arranged) layout. This may help unfamiliar <em>communication partners</em> use this method of communication.</p>
+</div>
+<div class="paragraph">
+<p>To use an <em>EyeLink</em> chart, the individual looks at the letter they wish to select. The <em>communication partner</em> moves the chart in response to where the individual is looking, until they end up both looking at the same letter. The <em>communication partner</em> speaks aloud the letter and the individual can indicate if a mistake has been made. You can view an instructional video of this <em>access method</em> at <a href="https://vimeo.com/53036535" class="bare">vimeo.com/53036535</a>.</p>
+</div>
+<div class="paragraph">
+<p>In this video of Lisa and her PA, she explains how she uses the <em>EyeLink</em> chart. Lisa’s PA is able to predict many of the words she is saying after the first letter or two. If she makes a mistake, Lisa simply shakes her head and carries on spelling the word.</p>
+</div>
+<div class="videoblock">
+<div class="title"><strong>Movie 2.1</strong> Using an Eyelink style communication chart</div>
+<div class="content">
+<iframe width="300" height="180" src="https://www.youtube.com/embed/78qCTjL30R8?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+</div>
+<div class="paragraph">
+<p>Lisa explains how she uses her chart to communicate.</p>
+</div>
+<div class="paragraph">
+<p>This method tends to be used with an <a href="#_abc_alphabetical_layout">ABC / Alphabetical Layout</a> but there is no reason why a <a href="#_qwerty_layout">QWERTY layout￼</a>, or even a <a href="#_frequency_layout">[_frequency_layout]</a>, could not be used if preferred.</p>
+</div>
+<div class="paragraph">
+<p>The busy display can make it hard for unfamiliar <em>communication partners</em> to use. However, for those who are able to use their eyes clearly and purposefully, there is no doubt that this can be a quick and effective way of accessing the alphabet. It is also a strategy that some individuals actively prefer to use.</p>
+</div>
+</div>
+<div class="sect4">
+<h5 id="e-tran-frames"><a class="anchor" href="#e-tran-frames"></a><a class="link" href="#e-tran-frames">E-Tran Frames and Other Similar Options</a></h5>
+<div class="paragraph">
+<p>In order to help make <em>eye pointing</em> easier to read, an <a href="#e-tran-frame">E-tran frame</a> (or <a href="#eye-transfer-frame">eye transfer frame</a>) can be used.  An <em>E-tran frame</em> is a perspex rectangle with a central window removed.  The idea is that the <em>communication partner</em> holds the frame between themselves and the communicator, making eye contact through the central window.  The central window can make it easier for the <em>communication partner</em> to read the communicator’s eye movements.  A mirror image of what is shown on the <em>E-tran frame</em> tends to be placed on the <em>communication partner’s</em> side to make it easier for them to follow what is being communicated.</p>
+</div>
+<div class="paragraph">
+<p>The Frenchay <em>E-tran frame</em> is a well known commercially available <em>E-tran frame</em>.  It is available from a number of suppliers e.g. <a href="http://www.liberator.co.uk" class="bare">www.liberator.co.uk</a>.</p>
+</div>
+<div class="paragraph">
+<p>Another commercially available encoded alphabetical <em>E-tran frame</em> is available from <a href="http://www.cec-ltd.co.uk" class="bare">www.cec-ltd.co.uk</a>.</p>
+</div>
+<div class="paragraph">
+<p>You could purchase a blank <em>E-tran frame</em> (e.g. from <a href="http://www.liberator.co.uk" class="bare">www.liberator.co.uk</a>) and attach your own letters.  Alternatively you could approach a glass supplier and see if they would cut some Perspex to size for you (don’t forget to ask them to round the corners!).  Some online companies also offer a cut-to-size option for perspex or acrylic sheets.</p>
+</div>
+<div class="sidebarblock">
+<div class="content">
+<div class="title">Gallery 2.5 The Frenchay E-tran frame</div>
+<div class="imageblock">
+<div class="content">
+<a class="image" href="Media/images/Frenchay-etran.jpg"><img src="Media/images/Frenchay-etran-thumb.jpg" alt="Frenchay etran thumb"></a>
+</div>
+<div class="title">Figure 21. This shows the commercially available Frenchay E-tran frame in action. The man is the communication partner, and is holding the frame so that the lady can eye point to letters.</div>
+</div>
+<div class="imageblock">
+<div class="content">
+<a class="image" href="Media/images/mirror-image-of-frenchay.jpg"><img src="Media/images/mirror-image-of-frenchay-thumb.jpg" alt="mirror image of frenchay thumb"></a>
+</div>
+<div class="title">Figure 22. This is the mirror image that is seen by the communication partner (the man in the previous picture).</div>
+</div>
+</div>
+</div>
+<div class="paragraph">
+<p>If you’ve got access to a laminator, a cheap way of producing an <em>E-tran frame</em> is to make use of a piece of <em>gloss</em> laminate. It’s not as robust as a Perspex® frame, but it can work well. Simply pop the letters (ideally with the mirror image on the back) into the laminate pouch and run it through the laminator. Although we often recommend <em>matt</em> laminate, for this purpose, gloss laminate works a bit better as it is more transparent. Gloss laminate is what <a href="#_tiago">Tiago</a> chooses to use.</p>
+</div>
+<div class="paragraph">
+<p>Alternatively, you could create something that looks a little more like an <em>E-tran frame</em> using a combination of paper and laminate. In this case, <em>matt</em> laminate works best.</p>
+</div>
+<div class="sidebarblock">
+<div class="content">
+<div class="title">Gallery 2.6 Alternative laminate and paper E-tran</div>
+<div class="imageblock">
+<div class="content">
+<a class="image" href="Media/images/alph-etran-laminate.jpg"><img src="Media/images/alph-etran-laminate-thumb.jpg" alt="alph etran laminate thumb"></a>
+</div>
+<div class="title">Figure 23. This side is used by the person who is eye pointing to the letters.</div>
+</div>
+<div class="imageblock">
+<div class="content">
+<a class="image" href="Media/images/alpha-etran-mirror.jpg"><img src="Media/images/alpha-etran-mirror-thumb.jpg" alt="alpha etran mirror thumb"></a>
+</div>
+<div class="title">Figure 24. This side is the mirror image, and allows the communication partner to follow what is being said.</div>
+</div>
+</div>
+</div>
+<div class="paragraph">
+<p>Less cutting is required, as you don’t need to cut round each block of letters and the dots, but it does give you less of a ‘window’ on the individual’s eyes.</p>
+</div>
+<div class="paragraph">
+<p>The Speakbook is a freely available communication book that offers access to whole words and useful phrases alongside an encoded <em>alphabet chart</em>. It is designed to be held like an Etran frame. You can read more about it at <a href="http://speakbook.org" class="bare">speakbook.org</a>.</p>
+</div>
+<div class="imageblock">
+<div class="content">
+<a class="image" href="Media/images/upKi6eG.jpg"><img src="Media/images/upKi6eG-thumb.jpg" alt="speakbook" width="300"></a>
+</div>
+</div>
+<div class="paragraph">
+<p>Another way of presenting an <em>alphabet chart</em> for <em>eye pointing</em> is to display it in an easel file / binder. Although it can be harder to read, some people manage <em>eye pointing</em> to paper that is held upright by the file very successfully. Easel files are available from some of the large office stationery suppliers (e.g. Viking Direct, Staples, etc.) Alternatively, alongside their Look2Talk Guide, ACE Centre produces a more robust easel file that can be purchased as a standalone item – see <a href="http://acecentre.org.uk" class="bare">acecentre.org.uk</a>.</p>
+</div>
+<div class="imageblock">
+<div class="content">
+<a class="image" href="Media/images/e44HHCX.png"><img src="Media/images/e44HHCX-thumb.png" alt="A5 Chart" width="300"></a>
+</div>
+</div>
+<div class="paragraph">
+<p>While the assumption is often that ‘bigger is better’, some people prefer to use a chart that is more discrete. Some of <a href="#_tiago">Tiago</a>'s charts, for example, are A5 size - and charts can be made smaller still.</p>
+</div>
+<div class="paragraph">
+<p>Below is an example of a very small encoded chart. The arrows show the eye movements involved in communicating the letters to be selected.</p>
+</div>
+<div class="paragraph">
+<p>It is probably fair to say that if the chart is very small, the person using their eyes is going to have to work extra hard to ensure their <em>eye pointing</em> is clear, and may need to exaggerate their eye movements when communicating with people who are less familiar with communicating with them.</p>
+</div>
+<div class="sidebarblock">
+<div class="content">
+<div class="title">Gallery 2.7 Bigger isn&#8217;t always better</div>
+<div class="imageblock">
+<div class="content">
+<a class="image" href="Media/images/sm-etran.jpg"><img src="Media/images/sm-etran-thumb.jpg" alt="sm etran thumb"></a>
+</div>
+<div class="title">Figure 25. This tiny alphabet chart is designed to be accessed by eye pointing. The pen is included to give a sense of scale.</div>
+</div>
+<div class="imageblock">
+<div class="content">
+<a class="image" href="Media/images/sm-etran-in-use.jpg"><img src="Media/images/sm-etran-in-use-thumb.jpg" alt="sm etran in use thumb"></a>
+</div>
+<div class="title">Figure 26. This picture shows how small the chart is in relation to someone&#8217;s face.</div>
+</div>
+<div class="imageblock">
+<div class="content">
+<a class="image" href="Media/images/Encoded-alphabet-chart-arrows.jpg"><img src="Media/images/Encoded-alphabet-chart-arrows-thumb.jpg" alt="Encoded alphabet chart arrows thumb"></a>
+</div>
+<div class="title">Figure 27. The arrows show the eye movements involved in communicating the letters to be selected. With an unfamiliar communication partner, these may need to be quite exaggerated. However, with someone familiar, the movements can be quite subtle.</div>
+</div>
+</div>
+</div>
+<div class="paragraph">
+<p>The examples above have tended to show six blocks of letters arranged in a landscape layout. However, some people find it easier to eye point to different layouts. Letters could be arranged in the shape of a cross for example, so that the communicator uses up / down and left / right eye movements (this is how the second selection is made with Vocal Eyes described below in <a href="#_encoding_using_position">Encoding (using position)</a>, or they could be placed in more of a ‘zig zag’ configuration. It’s all about working together to find out what is easiest for the individual you are communicating with.</p>
+</div>
+</div>
+<div class="sect4">
+<h5 id="_selecting_letters_on_an_e_tran_frame"><a class="anchor" href="#_selecting_letters_on_an_e_tran_frame"></a><a class="link" href="#_selecting_letters_on_an_e_tran_frame">Selecting Letters on an E-tran Frame</a></h5>
+<div class="paragraph">
+<p>One of the challenges of using <em>eye pointing</em> with an <em>E-tran frame</em> or similar is differentiating between a ‘searching’ look and a ‘choosing’ look. In other words, how does the <em>communication partner</em> know whether the communicator is still searching for the right letter, or actually looking at the letter they want?</p>
+</div>
+<div class="paragraph">
+<p>One strategy that can work is the, ‘Look back at me’ strategy. Here, the <em>communication partner</em> encourages the communicator to look through the various letters, then look purposefully at the desired letter when they find it (briefly holding their gaze on it), and finally looking back at the <em>communication partner</em> to confirm that a choice has been made.</p>
+</div>
+<div class="videoblock">
+<div class="title"><strong>Movie 2.2</strong> Selecting letters on an E-tran frame</div>
+<div class="content">
+<iframe width="300" height="180" src="https://www.youtube.com/embed/Ww55-H7Ruz8?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+</div>
+<div class="paragraph">
+<p>Angus demonstrates the 'Look back at me' strategy by spelling out his name.</p>
+</div>
+<div class="paragraph">
+<p>Others prefer a strategy of looking around, making eye contact with the <em>communication partner</em> to signal that they are ready to make a choice, and then fixing their gaze on the target letter.</p>
+</div>
+<div class="paragraph">
+<p>Tiago has become so familiar with communicating using his eyes that he simply holds his gaze on the target very briefly to communicate his choice.</p>
+</div>
+<div class="videoblock">
+<div class="title"><strong>Movie 2.3</strong> Tiago</div>
+<div class="content">
+<iframe width="300" height="180" src="https://www.youtube.com/embed/TWVb0flgDJg?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+</div>
+<div class="paragraph">
+<p>Another clip of Tiago and Katharine chatting using his laminated alphabetical E-tran frame. Tiago fixes his eyes on a target to make a selection. If Katharine doesn’t pick up on this quickly enough, he smiles or nods to reinforce his selection.</p>
+</div>
+<div class="paragraph">
+<p>Whichever strategy is chosen, the important thing is to make sure that all who work with the individual know and understand it.</p>
+</div>
+</div>
+<div class="sect4">
+<h5 id="_tips_for_communication_partners"><a class="anchor" href="#_tips_for_communication_partners"></a><a class="link" href="#_tips_for_communication_partners">Tips for Communication Partners</a></h5>
+<div class="paragraph">
+<p>In the early stages, a <em>communication partner</em> may need to double check whether they have correctly ‘read’ the <em>eye pointing</em>. Beware of falling into the trap of asking someone to indicate ‘yes’ or ‘no’ to every letter they have selected all of the time, however, as it is really frustrating to be asked to ‘repeat’ yourself, and can slow communication down. Often it is quicker to rely upon the communicator to let you know when you’ve got it wrong - for example by pulling a face, or looking away completely. Rather than asking questions, try making statements. For example, instead of asking, “Are you looking at ‘e’?”, try stating, “You are looking at ‘e’.” The individual can still respond to the statement and make it clear that you are wrong, but the statement form stops the communicator from feeling that you are ‘double checking’ or questioning their every utterance.</p>
+</div>
+<div class="paragraph">
+<p>A pen and paper can be an incredibly useful piece of equipment for a struggling <em>communication partner</em>! If you are engaged in a long conversation using an <em>eye pointing</em> <em>alphabet chart</em>, it is easy to lose your way, or forget where you have got to within a word. If you write down the letters as they are spelled out, this can really help you keep track of things.</p>
+</div>
+</div>
+<div class="sect4">
+<h5 id="_learning_eye_pointing"><a class="anchor" href="#_learning_eye_pointing"></a><a class="link" href="#_learning_eye_pointing">Learning Eye Pointing</a></h5>
+<div class="paragraph">
+<p>Learning to make a selection using <em>eye pointing</em> involves lots of different skills, and is not necessarily something that everyone will be able to do immediately. You can still get started with <em>eye pointing</em> by using it within fun games or play activities, particularly with a child, and responding to where you think the person is looking. This can provide an opportunity within which to ‘teach’ <em>eye pointing</em> skills in a fun and motivating way.</p>
+</div>
+<div class="paragraph">
+<p>If using eye-pointing to purposefully communicate messages is proving too difficult for an individual for whatever reason, it may be worth thinking about another <em>access method</em>, such as <a href="#_listener_mediated_scanning">Listener Mediated Scanning</a>.</p>
+</div>
+</div>
+</div>
+<div class="sect3">
+<h4 id="_listener_mediated_scanning"><a class="anchor" href="#_listener_mediated_scanning"></a><a class="link" href="#_listener_mediated_scanning">Listener Mediated Scanning</a></h4>
+<div class="paragraph">
+<p><em>Listener mediated scanning</em> is the term used to describe the <em>access method</em> whereby a <em>communication partner</em> delivers the options that are available. They might do this by pointing to letters (<a href="#visual-scanning">visual scanning</a>), speaking aloud the letters (<a href="#auditory-scanning">auditory scanning</a>), or both (<a href="#visual-and-auditory-scanning">visual and auditory scanning</a>). The individual indicates ‘yes’ when the <em>communication partner</em> has reached the desired option. <em>Listener mediated scanning</em> is also known as <em>partner assisted scanning</em>.</p>
+</div>
+<div class="paragraph">
+<p><em>Listener mediated scanning</em> may be someone’s primary access method to an <em>alphabet chart</em>. Alternatively it may be used by someone who uses direct access some of the time, and <em>listener mediated scanning</em> when they are fatigued / ill.</p>
+</div>
+<div class="sect4">
+<h5 id="_how_it_works"><a class="anchor" href="#_how_it_works"></a><a class="link" href="#_how_it_works">How it Works</a></h5>
+<div class="paragraph">
+<p>The simplest way of scanning through the alphabet is to offer each letter in turn. However, this can be time consuming. For example, to get to the letter ‘t’, you have to first speak aloud and / or point to, nineteen other letters. To speed up the process of communication, you may want to divide the alphabet into groups in some way. Grouping really does increase the speed at which letters can be accessed.</p>
+</div>
+<div class="paragraph">
+<p>This ABC keyboard has been organised so that the vowels appear at the beginning of each row of letters. This can be a very neat way of dividing up the alphabet.</p>
+</div>
+<div class="imageblock">
+<div class="content">
+<a class="image" href="Media/images/0EWaRXs.png"><img src="Media/images/0EWaRXs-thumb.png" alt="ABC Keyboard" width="300"></a>
+</div>
+</div>
+<div class="paragraph">
+<p>In this example, the <em>communication partner</em> would read aloud and / or point to each vowel in turn. This makes it much quicker than working through the whole alphabet letter-byletter. If the individual wanted the letter ‘G’, they would indicate “yes” once they heard and / or saw the letter ‘E’. The <em>communication partner</em> would then say / point to the letters 24 in that row until the individual indicated “yes” i.e. ‘E’, ‘F’, ‘G’ – “yes”.</p>
+</div>
+<div class="videoblock">
+<div class="title"><strong>Movie 2.4</strong> Auditory and <em>visual scanning</em> using an ABC <em>alphabet chart</em>.</div>
+<div class="content">
+<iframe width="300" height="180" src="https://www.youtube.com/embed/lMf2rsusOVY?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+</div>
+<div class="paragraph">
+<p>The chart is offered row-by-row, then once a row has been selected, letter-by-letter within the chosen row.</p>
+</div>
+<div class="paragraph">
+<p>Others choose to divide up the alphabet differently. For example, some people divide the alphabet in half, offering ‘A’ or ‘N’ as a start. In this example, if someone wanted to say the letter ‘R’, they would indicate “yes” once they heard the letter ‘N’ offered. The <em>communication partner</em> would then say / point to the letters from ‘N’. Once they got to the letter ‘R’, the individual would indicate “yes” i.e. ‘N’, ‘O’, ‘P’, ‘Q’, ‘R’ – “yes”.</p>
+</div>
+<div class="videoblock">
+<div class="title"><strong>Movie 2.5</strong> Auditory scanning without a chart</div>
+<div class="content">
+<iframe width="300" height="180" src="https://www.youtube.com/embed/olBN9NdyeXk?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+</div>
+<div class="paragraph">
+<p>The alphabet is divided in half to speed access to the letters. The communication partner first offers ‘A’ or ‘N’, then the letters following either ‘A’ or ‘N’, depending upon the choice.</p>
+</div>
+<div class="paragraph">
+<p><a href="#frequency-alphabet-charts">Frequency alphabet charts</a> can also be a valuable tool to support listener mediated scanning. Indeed, Jean-Dominique Bauby ‘dictated’ his famous memoir, <em>The Diving Bell and the Butterfly</em>, using listener mediated scanning with an alphabet chart that was organised according to the frequency of use of letters in the French alphabet.</p>
+</div>
+<div class="paragraph">
+<p>This English frequency alphabet chart has been designed to be used with listener mediated scanning. The communication partner first establishes the row and then the individual letter or number that is desired. The most frequently used letters are close to the top left hand corner so that they can be selected the most quickly using this method.</p>
+</div>
+<div class="imageblock">
+<div class="content">
+<a class="image" href="Media/images/35U7zRo.png"><img src="Media/images/35U7zRo-thumb.png" alt="frequency chart" width="300"></a>
+</div>
+</div>
+<div class="paragraph">
+<p>If someone wanted to communicate the letter ‘S’, for example, the <em>communication partner</em> would offer ‘space’, ‘e’, ‘a’ – “yes”. The <em>communication partner</em> would then offer the letters within the chosen row ‘a’, ‘s’ – “yes”. Alternatively, they could simply offer the chart row by row, and then speak aloud the letters within the chosen row. The video should make this a little clearer!</p>
+</div>
+<div class="videoblock">
+<div class="title"><strong>Movie 2.6</strong> Auditory and <em>visual scanning</em> using a frequency layout.</div>
+<div class="content">
+<iframe width="300" height="180" src="https://www.youtube.com/embed/VzBTdU_E6ls?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+</div>
+<div class="paragraph">
+<p>In this example, the <em>communication partner</em> is offering each row in turn without speaking aloud the first letter. This is down to personal choice. The main thing is to ensure that, once a strategy has been agreed, this information is shared so that everyone does the same thing!</p>
+</div>
+</div>
+<div class="sect4">
+<h5 id="_making_a_selection"><a class="anchor" href="#_making_a_selection"></a><a class="link" href="#_making_a_selection">Making a Selection</a></h5>
+<div class="paragraph">
+<p><em>Listener mediated scanning</em> is easiest to use when an individual is able to communicate both ‘yes’ and ‘no’. However, so long as the individual has a way of communicating ‘yes’, then <em>listener mediated scanning</em> is viable.</p>
+</div>
+<div class="paragraph">
+<p>There are two ways of making selections:</p>
+</div>
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p>The individual waits until they see and / or hear the desired option and then indicates ‘yes that’s the one I want’ by an agreed movement or vocalisation.</p>
+</li>
+</ol>
+</div>
+<div class="paragraph">
+<p><em>or</em></p>
+</div>
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p>The individual communicates ‘no’ after each option offered (by an agreed movement or vocalisation) until they see and / or hear the desired option and then indicates ‘yes that’s the one I want’ by an agreed movement or vocalisation.</p>
+</li>
+</ol>
+</div>
+<div class="paragraph">
+<p>The advantage of the first method is that it is quicker and less effortful for the individual using the system to communicate. Effectively they can sit back and relax until the desired option is seen and / or heard. However, it can mean that a desired option is missed, particularly by a listener / <em>communication partner</em> who is not experienced and rushes through the options or misses the agreed affirmative signal.</p>
+</div>
+<div class="paragraph">
+<p>The advantage of the second method is that it can be more reliable as the <em>communication partner</em> / listener does not move onto the next option until they have established that the individual does not want the option offered. The disadvantage is that this can make the whole process much slower and more effortful for the individual.</p>
+</div>
+<div class="paragraph">
+<p>In practise, where an individual does have a reliable way of indicating ‘yes’ and ‘no’, people often choose to get started using the second method, moving to the first method as both the individual and the <em>communication partner</em> gain confidence in this <em>access method</em>.</p>
+</div>
+<div class="paragraph">
+<p>The method by which an individual indicates acceptance of an option should be clearly documented on the alphabet chart and in the <a href="#_chapter_6_communication_passports_drawing_it_all_together">communication passport</a> if present.</p>
+</div>
+</div>
+<div class="sect4">
+<h5 id="_delivering_the_list"><a class="anchor" href="#_delivering_the_list"></a><a class="link" href="#_delivering_the_list">Delivering the List</a></h5>
+<div class="paragraph">
+<p>If you are using <em>auditory scanning</em> or combined auditory and <em>visual scanning</em>, try to read through the options using a neutral voice. Keep expression to a minimum, and use as low a volume as is appropriate to the individual and setting. When the individual has spelled out a word, you can then say that aloud in a more natural / social voice. If you listen again to the three videos in this section, you should hear the difference in tone.</p>
+</div>
+<div class="paragraph">
+<p>When speaking aloud the letters, remember to pause long enough between each letter to give the individual time to respond. It can be helpful to document how long to leave between each letter to ensure that the chart is delivered in a consistent way by all <em>communication partners</em>.</p>
+</div>
+</div>
+<div class="sect4">
+<h5 id="_smart_partner"><a class="anchor" href="#_smart_partner"></a><a class="link" href="#_smart_partner">Smart Partner</a></h5>
+<div class="paragraph">
+<p>The joy of a <em>low tech</em> scanning system (i.e. one that is operated by a person rather than a computer) is that you are so much cleverer than a computer! If you are reading through letters and there is a sudden noisy distraction, you know to pause and allow time for that to pass. If the individual is tired that day, you know to read through the options more slowly. You may also be able to spot a ‘yes’ response that is being initiated, even if it is not quite on target due to fatigue or illness.</p>
+</div>
+<div class="paragraph">
+<p>But sometimes partners aren’t so smart! With scanning systems it is incredibly important to ensure that individual partners understand how to use the system and use it consistently. It is also important to ensure that all <em>communication partners</em> use the system in the same way. Written instructions are essential. Given the complexities, a short video may also be useful for new <em>communication partners</em>. A  <a href="#_chapter_6_communication_passports_drawing_it_all_together"><em>communication passport</em></a> can be very helpful too.</p>
+</div>
+<div class="paragraph">
+<p>It is also important to establish whether the individual is happy for you to guess what they are spelling out.</p>
+</div>
+<div class="paragraph">
+<p>You can see a video about a gentleman who has <a href="#motor-neurone-disease"><em>Motor Neurone Disease</em></a> (known as <a href="#als"><em>ALS</em></a> in America) who uses an <em>alphabet chart</em> with <em>partner assisted scanning</em> here <a href="http://youtube.com/watch?v=pLb6-Oi3uR0" class="bare">youtube.com/watch?v=pLb6-Oi3uR0</a></p>
+</div>
+</div>
+</div>
+<div class="sect3">
+<h4 id="_combination_access"><a class="anchor" href="#_combination_access"></a><a class="link" href="#_combination_access">Combination Access</a></h4>
+<div class="paragraph">
+<p><em>Combination access</em> means using more than one <em>access method</em> within a system.</p>
+</div>
+<div class="paragraph">
+<p>In the example below, someone might point to a group of letters, then rely upon <em>listener mediated scanning</em> to identify the precise letter within that group.
+￼</p>
+</div>
+<div class="imageblock">
+<div class="content">
+<a class="image" href="Media/images/GX0yoTl.jpg"><img src="Media/images/GX0yoTl-thumb.jpg" alt="combination access" width="300"></a>
+</div>
+</div>
+<div class="videoblock">
+<div class="title"><strong>Movie 2.7</strong> A demonstration of <em>combination access</em></div>
+<div class="content">
+<iframe width="300" height="180" src="https://www.youtube.com/embed/TLsfGWs3Fhc?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+</div>
+<div class="paragraph">
+<p>In this example, the individual eye points to one of the four blocks. The <em>communication partner</em> then uses <em>listener mediated scanning</em> to offer the letters within that block.</p>
+</div>
+<div class="paragraph">
+<p>It is also important to remember that <em>access methods</em> are not set in stone.</p>
+</div>
+<div class="paragraph">
+<p>Some people use a combination of different <em>access methods</em> depending upon mood / energy levels / well-being. For example, someone might point directly to an <em>alphabet chart</em> during the day, but move to <em>listener mediated scanning</em> in the evening when they are fatigued.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="_facilitated_communication"><a class="anchor" href="#_facilitated_communication"></a><a class="link" href="#_facilitated_communication">Facilitated Communication</a></h4>
+<div class="paragraph">
+<p><a href="#facilitated-communication"><strong>“Facilitated communication (FC)</strong></a>  or <em>Facilitated Communication</em> Training (FCT) as described by Rosemary Crossley who is credited with being the originator, is a technique in which physical, communication, and emotional support is provided by a facilitator to an individual with a communication disorder (communicator). With assistance, the communicator points to symbols such as letters, pictures and/or objects.”  American Speech-Language Hearing Association (ASHA). The assistance often consists of providing backward resistance for the communicator to push against creating a steadying effect so that they can accurately point to their target.</p>
+</div>
+<div class="paragraph">
+<p>For more information about <em>Facilitated Communication</em> see <a href="http://www.candleaac.com/a_brief_guide_to_fct.htm" class="bare">www.candleaac.com/a_brief_guide_to_fct.htm</a>.</p>
+</div>
+<div class="paragraph">
+<p>Because of the physical input of another person into the construction of the message, there have been anxieties around the integrity of this <em>access method</em>.  ISAAC (The International Society for <em>Augmentative and Alternative Communication</em>) released a position statement in July 2014 that states that they do not support FC as a valid form of <em>AAC</em> or a valid <em>access method</em>. This position statement was produced after a committee of researchers carried out a literature review of research that examined authorship and the discussions of the committee were confined to this aspect of FC/FCT.</p>
+</div>
+<div class="paragraph">
+<p>CandLE is a national <em>AAC</em> organisation that has a lot of expertise in this area.  CandLE has developed an alternative approach called Motor Planning Training (MPT).  No claims are made in relation to authorship, which are the grounds upon which ISAAC dismissed the FC/FCT approach.  You can find out more at <a href="http://www.candleaac.com" class="bare">www.candleaac.com</a>.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_chapter_3_arranging_letters_on_an_alphabet_chart"><a class="anchor" href="#_chapter_3_arranging_letters_on_an_alphabet_chart"></a><a class="link" href="#_chapter_3_arranging_letters_on_an_alphabet_chart">Chapter 3: Arranging Letters on an Alphabet Chart</a></h2>
+<div class="sectionbody">
+<div class="sidebarblock">
+<div class="content">
+<div class="title">In this chapter:</div>
+<div class="paragraph">
+<p>How to arrange letters on an alphabet chart, and why you might consider each option:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>QWERTY</p>
+</li>
+<li>
+<p>ABC</p>
+</li>
+<li>
+<p>Frequency</p>
+</li>
+<li>
+<p>Encoding</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="paragraph">
+<p><em>Alphabet charts</em> can be laid out in different ways. There are advantages and disadvantages to each method, and some suit different <em>access methods</em> better than others. At the end of the day, the choice will come down to personal preference and what seems to work best for an individual and their <em>communication partner</em>(s). You may also want to think about how an individual uses the alphabet when writing and accessing a computer. Sometimes there are good reasons for having different layouts across different tools, but it’s often a good idea to be as consistent as possible.</p>
+</div>
+<div class="sect3">
+<h4 id="_qwerty_layout"><a class="anchor" href="#_qwerty_layout"></a><a class="link" href="#_qwerty_layout">QWERTY layout￼</a></h4>
+<div class="paragraph">
+<p>Many people are now familiar with a QWERTY keyboard, as this is the arrangement of letters that you find on computers and typewriters. For those who know the layout well, or who will be using a standard computer keyboard regularly, this may be the best option to go for as they may already know the location of the letters and consequently won’t have to ‘hunt around’ for them.</p>
+</div>
+<div class="paragraph">
+<p>This is an example of an <em>alphabet chart</em> made using a QWERTY layout. It has been designed to be accessed directly.</p>
+</div>
+<div class="imageblock">
+<div class="content">
+<a class="image" href="Media/images/G6paEeQ.jpg"><img src="Media/images/G6paEeQ-thumb.jpg" alt="qwerty" width="300"></a>
+</div>
+</div>
+<div class="paragraph">
+<p>QWERTY layouts can work well for people accessing charts by <em>direct touch</em> but for those using alternative <em>access methods</em> such as <em>eye pointing</em> and <em>listener mediated scanning</em>, it may be worth thinking about a different layout.</p>
+</div>
+<div class="paragraph">
+<p>However, even for those accessing by <em>direct touch</em>, it may be worth thinking carefully about why a QWERTY layout is being used. The QWERTY keyboard layout was devised in the late 1800s for use on a manual typewriter to reduce the jams that could occur when typing neighbouring letters consecutively. In other words, it is not a layout that was designed to speed up letter selection. Also, it is worth noting that the QWERTY layout was designed to be used with ten fingers. For someone using one finger or some sort of <em>pointing tool</em>, the QWERTY layout will necessitate a lot of movement around the keyboard, and if movement is difficult or fatiguing, this may not be ideal. For someone who is not familiar with the QWERTY layout, or who finds the process of selecting letters slow or laborious, it may be worth considering an alternative layout.</p>
+</div>
+<div class="sect4">
+<h5 id="_in_summary_qwerty"><a class="anchor" href="#_in_summary_qwerty"></a><a class="link" href="#_in_summary_qwerty">In Summary - QWERTY</a></h5>
+<div class="sidebarblock">
+<div class="content">
+<div class="paragraph">
+<p><strong>Why consider QWERTY?</strong></p>
+</div>
+<div class="paragraph">
+<p>QWERTY is a keyboard layout that is familiar for people who have used computer keyboards, or may become familiar to a child who is going to be using a computer keyboard</p>
+</div>
+<div class="paragraph">
+<p><strong>What <em>access methods</em> does it support?</strong></p>
+</div>
+<div class="paragraph">
+<p>QWERTY is best suited to access by direct touch</p>
+</div>
+<div class="paragraph">
+<p><strong>What are the disadvantages?</strong></p>
+</div>
+<div class="paragraph">
+<p>For someone who is not familiar with a computer keyboard, it may take extra time to learn where to find the letters.</p>
+</div>
+<div class="paragraph">
+<p>The QWERTY layout was not designed to meet the needs of someone who is pointing with one finger / body part, or who is using an alternative <em>access method</em>.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sect3">
+<h4 id="_abc_alphabetical_layout"><a class="anchor" href="#_abc_alphabetical_layout"></a><a class="link" href="#_abc_alphabetical_layout">ABC / Alphabetical Layout</a></h4>
+<div class="paragraph">
+<p>Most people learn letters in alphabetical order, so providing an ABC keyboard arrangement should tap into that familiarity. However, for someone used to using a QWERTY keyboard, it can be difficult to make the transition.</p>
+</div>
+<div class="paragraph">
+<p>This is an example of a simple ABC layout <em>alphabet chart</em>:</p>
+</div>
+<div class="imageblock">
+<div class="content">
+<a class="image" href="Media/images/n0PCUcO.jpg"><img src="Media/images/n0PCUcO-thumb.jpg" alt="alphabetical layout" width="300"></a>
+</div>
+</div>
+<div class="paragraph">
+<p>￼Arranging letters in alphabetical order has the advantage of minimising the time needed to learn where the letters are, as the layout should feel familiar. As with the QWERTY layout, however, a potential disadvantage is the ABC layout has not been designed to meet the needs of someone spelling using one finger / body part. This means that someone may be making more movements around the chart than if they were using a <a href="#frequency-alphabet-charts">frequency layout</a>.</p>
+</div>
+<div class="paragraph">
+<p>Due to people’s familiarity with alphabetical order, an ABC keyboard can work particularly well for someone using <a href="#_listener_mediated_scanning">Listener Mediated Scanning</a> as the individual doesn’t have to watch or listen quite so intently.</p>
+</div>
+<div class="sect4">
+<h5 id="_in_summary_abc"><a class="anchor" href="#_in_summary_abc"></a><a class="link" href="#_in_summary_abc">In Summary - ABC</a></h5>
+<div class="sidebarblock">
+<div class="content">
+<div class="paragraph">
+<p><strong>Why consider ABC?</strong></p>
+</div>
+<div class="paragraph">
+<p>ABC is a keyboard layout that should feel familiar to everyone as it taps into our knowledge of the alphabet. This can help both the person using the chart and the communication partner.</p>
+</div>
+<div class="paragraph">
+<p><strong>What <em>access methods</em> does it support?</strong></p>
+</div>
+<div class="paragraph">
+<p>ABC can work well with direct access and listener mediated scanning.</p>
+</div>
+<div class="paragraph">
+<p><strong>What are the disadvantages?</strong></p>
+</div>
+<div class="paragraph">
+<p>The ABC layout can be confusing for someone who is highly familiar with a QWERTY keyboard.</p>
+</div>
+<div class="paragraph">
+<p>Like the QWERTY layout, the ABC layout has not been optimised to meet the needs of someone who is pointing with one finger / body part, or who is using an alternative <em>access method</em>.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sect3">
+<h4 id="frequency-alphabet-charts"><a class="anchor" href="#frequency-alphabet-charts"></a><a class="link" href="#frequency-alphabet-charts">Frequency Layout</a></h4>
+<div class="paragraph">
+<p>Frequency layout describes an approach where letters are arranged so that the most frequently used letters in a word (e.g. ‘e’ and ‘t’) can be accessed more quickly or easily than letters that are used infrequently (such as ‘q’ and ‘z’). Unlike QWERTY and ABC, there is no, one ‘standard’ frequency layout. Instead, there are a variety of frequency layouts that have been designed and suggested.</p>
+</div>
+<div class="paragraph">
+<p>The design of a frequency layout will be affected by the <em>access method</em> being used. A frequency layout for someone using <em>direct touch</em> will look very different from a frequency layout for someone using <em>listener mediated scanning</em>. If letters are being read aloud to an individual, a frequency layout would ensure that the most frequently used letters were at the beginning of the list. However, if the letters are being selected by an individual directly using a single finger or a <em>pointing tool</em>, it may be better to place the most frequently used letters in the centre of the page to minimise movement.</p>
+</div>
+<div class="paragraph">
+<p>If someone is using an onscreen keyboard arranged according to frequency of use to write on a computer, you may want to copy this layout for their communication chart. Otherwise, it could be confusing to learn and use two similar but subtly different keyboard layouts.</p>
+</div>
+<div class="paragraph">
+<p>The FITALY keyboard is one example of a frequency layout designed for one finger <em>direct selection</em>. See <a href="http://fitaly.com/fitaly/ofkey.htm" class="bare">fitaly.com/fitaly/ofkey.htm</a> for more information. This layout has been designed to minimise the amount of movement required when spelling words using a single finger. The most frequently used letters are towards the centre of the chart, whilst less frequently used letters are around the edges. Although invented and patented by Jean Ichbiah for use with a computer or handheld device, the keyboard layout could also work well as a <em>low tech</em> <em>alphabet chart</em>.</p>
+</div>
+<div class="imageblock">
+<div class="content">
+<a class="image" href="Media/images/avIkNm4.png"><img src="Media/images/avIkNm4-thumb.png" alt="frequency layout" width="300"></a>
+</div>
+</div>
+<div class="paragraph">
+<p>The chart below is an example of a frequency layout that has been optimised for use with <em>listener mediated scanning</em>. The <em>communication partner</em> first establishes the row and then the individual letter or number that is desired. The most frequently used letters are close to the top left hand corner so that they can be selected the most quickly using this method.</p>
+</div>
+<div class="imageblock">
+<div class="content">
+<a class="image" href="Media/images/35U7zRo.png"><img src="Media/images/35U7zRo-thumb.png" alt="frequency layout 2" width="300"></a>
+</div>
+</div>
+<div class="paragraph">
+<p>As described in Chapter 2, if someone wanted to communicate the letter ‘s’, for example, the <em>communication partner</em> would offer ‘space’, ‘e’, ‘a’ – “yes”. The <em>communication partner</em> would then offer ‘a’, ‘s’ – “yes”. This can be seen in action <a href="#e-tran-frames">here</a>.</p>
+</div>
+<div class="sect4">
+<h5 id="_in_summary_frequency"><a class="anchor" href="#_in_summary_frequency"></a><a class="link" href="#_in_summary_frequency">In Summary - Frequency</a></h5>
+<div class="sidebarblock">
+<div class="content">
+<div class="paragraph">
+<p><strong>Why consider a frequency layout?</strong></p>
+</div>
+<div class="paragraph">
+<p>A frequency layout has been designed to speed up communication.</p>
+</div>
+<div class="paragraph">
+<p><strong>What <em>access methods</em> does it support?</strong></p>
+</div>
+<div class="paragraph">
+<p>A frequency layout can work well with direct access and listener mediated scanning, so long as the chart has been designed with the particular method in mind.</p>
+</div>
+<div class="paragraph">
+<p><strong>What are the disadvantages?</strong></p>
+</div>
+<div class="paragraph">
+<p>There is no standard frequency layout keyboard, so you will need to design your own or copy one of the examples in this section.</p>
+</div>
+<div class="paragraph">
+<p>A frequency layout has to be learned by an individual and their communication partners as it is probably not something they will have encountered previously.</p>
+</div>
+<div class="paragraph">
+<p>There are a variety of means of grouping letters often used to either make physical access easier or to speed up the process of using spelling to form messages.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sect3">
+<h4 id="_encoded_layout"><a class="anchor" href="#_encoded_layout"></a><a class="link" href="#_encoded_layout">Encoded Layout</a></h4>
+<div class="paragraph">
+<p>There are a variety of means of grouping letters often used to either make physical access easier or to speed up the process of using spelling to form messages.</p>
+</div>
+<div class="sect4">
+<h5 id="_encoding_using_colour"><a class="anchor" href="#_encoding_using_colour"></a><a class="link" href="#_encoding_using_colour">Encoding (using colour)</a></h5>
+<div class="paragraph">
+<p><em>Encoding</em> is a way of helping someone to use direct access where they aren’t able to point to the 26 individual letters of the alphabet on an <em>alphabet chart</em>. <em>Encoding</em> groups letters together, reducing the number of target areas on a page. This means that someone who is pointing using a fist for example, simply needs to indicate a group of letters, rather than trying to isolate an individual letter. They then clarify which letter they wish to communicate using a second movement.</p>
+</div>
+<div class="paragraph">
+<p>This is an example of an <em>alphabet chart</em> that has been encoded using colour for an individual using <em>direct touch</em> e.g. pointing with their fist.</p>
+</div>
+<div class="imageblock">
+<div class="content">
+<a class="image" href="Media/images/Qq5mxet.png"><img src="Media/images/Qq5mxet-thumb.png" alt="frequency layout" width="300"></a>
+</div>
+</div>
+<div class="paragraph">
+<p>To select the letter ‘b’, you would first select the block containing the characters ‘a’,‘b’, ‘c’, ‘1’, ‘2’ and ‘3’. Then, to clarify that it was the letter ‘b’ you were targeting (rather than a, c, 1, 2 or 3), you would then select the gold dot because ‘b’ is coloured gold in this example. Similarly, to select the number ‘8’, you would first select the block containing the characters ‘g’, ‘h’, ‘i’, ‘7’, ‘8’ and ‘9’. Then, to clarify that it was the number ‘8’ you wanted, you would then select the black dot because ‘8’ is coloured black in this example. With just six movements, you are able to select from thirty-six different characters.</p>
+</div>
+<div class="videoblock">
+<div class="title"><strong>Movie 3.1</strong> Colour <em>Encoding</em> - with direct access</div>
+<div class="content">
+<iframe width="300" height="180" src="https://www.youtube.com/embed/Nnh13Cajn_w?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+</div>
+<div class="paragraph">
+<p>This video demonstrates how the colour encoded chart works.</p>
+</div>
+<div class="paragraph">
+<p>Some people prefer to use a thick border rather than dots, but the principle is exactly the same. Note that this example also makes use of upper case rather than lower case letters, which again is a matter of personal preference.</p>
+</div>
+<div class="imageblock">
+<div class="content">
+<a class="image" href="Media/images/UqWWmLM.png"><img src="Media/images/UqWWmLM-thumb.png" alt="colour encoding" width="300"></a>
+</div>
+</div>
+<div class="paragraph">
+<p>Although used with direct <em>access methods</em>, <em>encoding</em> is most commonly associated with <a href="#_eye_pointing">Eye-pointing</a>.</p>
+</div>
+</div>
+<div class="sect4">
+<h5 id="_encoding_using_numbers"><a class="anchor" href="#_encoding_using_numbers"></a><a class="link" href="#_encoding_using_numbers">Encoding (using numbers)</a></h5>
+<div class="paragraph">
+<p><em>Encoding</em> is often associated with the use of colour. However, for those who are colour blind, or who simply do not like using colour in this way, it is possible to encode in other ways.</p>
+</div>
+<div class="paragraph">
+<p>This example shows how you might design an encoded <em>alphabet chart</em> using numbers. To avoid confusion, it is probably best not to have numerals alongside the letters on the chart itself.</p>
+</div>
+<div class="imageblock">
+<div class="content">
+<a class="image" href="Media/images/Q3TjtJh.jpg"><img src="Media/images/Q3TjtJh-thumb.jpg" alt="number encoding" width="300"></a>
+</div>
+</div>
+<div class="videoblock">
+<div class="title"><strong>Movie 3.2</strong> Numerical <em>Encoding</em> - with direct access</div>
+<div class="content">
+<iframe width="300" height="180" src="https://www.youtube.com/embed/eDCa4sy8NM0?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+</div>
+</div>
+<div class="sect4">
+<h5 id="_encoding_using_position"><a class="anchor" href="#_encoding_using_position"></a><a class="link" href="#_encoding_using_position">Encoding (using position)</a></h5>
+<div class="paragraph">
+<p>Jason Becker uses a specially designed encoded <em>alphabet chart</em> to support his communication.  His <em>alphabet chart</em> is similar to the examples above, but just uses position rather than number or colours.  He accesses this chart using eye movements.  You can see him in action here: <a href="http://jasonbeckerguitar.com/eye_communication.html" class="bare">jasonbeckerguitar.com/eye_communication.html</a></p>
+</div>
+<div class="imageblock">
+<div class="content">
+<a class="image" href="Media/images/tg6CI2v.png"><img src="Media/images/tg6CI2v-thumb.png" alt="vocal eyes" width="300"></a>
+</div>
+</div>
+<div class="paragraph">
+<p>Jason first looks to the block that contains his target letter. He then uses and up, down, left or right eye movement to clarify which of the four letters he is communicating.</p>
+</div>
+<div class="paragraph">
+<p>You can <a href="http://jasonbecker.com/VocalEyesCommunicate.pdf">download the Vocal Eyes alphabet chart free of charge from this website</a>.</p>
+</div>
+</div>
+<div class="sect4">
+<h5 id="_in_summary_encoding"><a class="anchor" href="#_in_summary_encoding"></a><a class="link" href="#_in_summary_encoding">In Summary - Encoding</a></h5>
+<div class="sidebarblock">
+<div class="content">
+<div class="paragraph">
+<p><strong>Why consider encoding?</strong>
+Encoding can open up direct access to someone who is not able to refine their movements enough to point to 26 discrete letters.</p>
+</div>
+<div class="paragraph">
+<p>Encoding can make it easier to read eye pointing.</p>
+</div>
+<div class="paragraph">
+<p><strong>What access methods does it support?</strong></p>
+</div>
+<div class="paragraph">
+<p>Direct access and eye pointing.</p>
+</div>
+<div class="paragraph">
+<p><strong>What are the disadvantages?</strong></p>
+</div>
+<div class="paragraph">
+<p>Encoding takes time to learn, both for the individual and their communication partner(s).</p>
+</div>
+<div class="paragraph">
+<p>Each letter requires two selections / movements.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sect3">
+<h4 id="_coded_layout"><a class="anchor" href="#_coded_layout"></a><a class="link" href="#_coded_layout">Coded Layout</a></h4>
+<div class="paragraph">
+<p>Coded layouts effectively make use of a grid reference system. Letters and words / phrases are given a grid reference that the individual communicates. It requires two separate charts to communicate. One chart contains your letters (and words / phrases), the other allows you to communicate the location of the letter / word / phrase you wish to communicate. It’s a bit like using a map – you look up the location of a road in your street atlas and it tells you the grid reference on the page.</p>
+</div>
+<div class="paragraph">
+<p><em>Coded access</em> is not straightforward, and it is essential that the system is well documented, perhaps in a <a href="#_chapter_6_communication_passports_drawing_it_all_together">communication passport</a>.</p>
+</div>
+<div class="paragraph">
+<p>In this example, the first chart shows the letters on offer. The second smaller chart is accessed by the individual to indicate the code, thus identifying the target letter.</p>
+</div>
+<div class="paragraph">
+<p>To communicate the letter ‘P’, the individual would first select the number 3, as ‘P’ is in the third row. They would then select the colour blue as ‘P’ is in the blue column. This example set up might be used by someone who is able to indicate small targets accurately, but would find the range of movement required to access a full <em>alphabet chart</em> too difficult.</p>
+</div>
+<div class="sidebarblock">
+<div class="content">
+<div class="title">Gallery 3.1 One Example of a Coded Layout</div>
+<div class="imageblock">
+<div class="content">
+<a class="image" href="Media/images/coded-abc-1.jpg"><img src="Media/images/coded-abc-1-thumb.jpg" alt="coded abc 1 thumb"></a>
+</div>
+<div class="title">Figure 28. This is the first chart. it shows the letters on offer.</div>
+</div>
+<div class="imageblock">
+<div class="content">
+<a class="image" href="Media/images/coded-abc-2.jpg"><img src="Media/images/coded-abc-2-thumb.jpg" alt="coded abc 2 thumb"></a>
+</div>
+<div class="title">Figure 29. This second, much smaller, chart is accessed by the individual to indicate the code that corresponds to the target letter on the first chart.</div>
+</div>
+</div>
+</div>
+<div class="paragraph">
+<p>Coded charts can be set up and accessed in lots of different ways.</p>
+</div>
+<div class="videoblock">
+<div class="title"><strong>Movie 3.3</strong> a demonstration of <em>coded access</em></div>
+<div class="content">
+<iframe width="300" height="180" src="https://www.youtube.com/embed/pl1EQHvRQcc?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+</div>
+<div class="paragraph">
+<p>This video demonstrates how the two example charts can be used to communicate a message.</p>
+</div>
+<div class="paragraph">
+<p><em>Coded access</em> tends to be used when direct access is difficult. Someone might find it easier to point to a small set of codes rather than a full <em>alphabet chart</em>, either because they find it hard to refine a point sufficiently to point to 26 separate letters plus additional words / phrases, or because they are unable to move their hand around a full chart and need a smaller set of options. The codes can also be presented on an <em>E-tran frame</em> and accessed using <em>eye pointing</em>, or presented using <em>listener mediated scanning</em>.</p>
+</div>
+<div class="paragraph">
+<p><em>Coded access</em> charts tend to be highly customised to the needs of a particular individual, and they can be very complex. The downside of such charts is that often the individual themselves can use it extremely well, but unfamiliar <em>communication partners</em> can feel lost or scared by it. Someone who is confident with a complex coded chart may also require a more straightforward communication chart to deal with such situations.</p>
+</div>
+<div class="paragraph">
+<p>Although <em>coded access</em> tends to involve the use of two charts (one containing the target letters, the other containing the codes), this example shows how it is possible to combine them all onto one chart. This chart was developed by a Speech and Language Therapist called Susan Stayte for a young man with excellent <em>eye pointing</em> skills who wanted to be able to communicate a lot of things very quickly.</p>
+</div>
+<div class="paragraph">
+<p>The chart is shown here to raise awareness of the possibilities of chart design for people who are literate and want fast access to complex language. The alphabet is accessed using standard <a href="#_encoded_layout">Encoded Layout</a>. The individual first looks at the group of six letters, then clarifies their choice by looking to the corresponding coloured border. However, the key words are accessed using a code. The individual first looks at the block containing their target word, and then communicates the numerical code associated with that word.</p>
+</div>
+<div class="sidebarblock">
+<div class="content">
+<div class="title">Gallery 3.2 A complex coded and encoded chart developed by Susan Stayle</div>
+<div class="imageblock">
+<div class="content">
+<a class="image" href="Media/images/coded-etran-1.jpg"><img src="Media/images/coded-etran-1-thumb.jpg" alt="coded etran 1 thumb"></a>
+</div>
+<div class="title">Figure 30. This chart is designed to be accessed using eye pointing. Eye contact is made through the 'window' of the laminate E-tran frame. The alphabet is communicated using standard colour encoding. However, the key words are accessed using a code. The individual first looks to the block containing their target word. They then eye point to the 'coordinates' that identify the location of their target word.</div>
+</div>
+<div class="imageblock">
+<div class="content">
+<a class="image" href="Media/images/coded-etran-mirror.jpg"><img src="Media/images/coded-etran-mirror-thumb.jpg" alt="coded etran mirror thumb"></a>
+</div>
+<div class="title">Figure 31. This is the mirror image of the chart that is seen by the communication partner.</div>
+</div>
+</div>
+</div>
+<div class="sect4">
+<h5 id="_in_summary_coded_access"><a class="anchor" href="#_in_summary_coded_access"></a><a class="link" href="#_in_summary_coded_access">In Summary - Coded Access</a></h5>
+<div class="sidebarblock">
+<div class="content">
+<div class="paragraph">
+<p><strong>Why consider coded access?</strong></p>
+</div>
+<div class="paragraph">
+<p>Coded access can help when pointing to all the letters on an alphabet chart is difficult.</p>
+</div>
+<div class="paragraph">
+<p><strong>What <em>access methods</em> does it support?</strong></p>
+</div>
+<div class="paragraph">
+<p>Coded access can be used with direct access, eye pointing, or listener mediated scanning.</p>
+</div>
+<div class="paragraph">
+<p><strong>What are the disadvantages?</strong></p>
+</div>
+<div class="paragraph">
+<p>There are two charts to position.</p>
+</div>
+<div class="paragraph">
+<p>Coded access can feel confusing initially, and takes time for an individual and their communication partner(s) to learn.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_chapter_4_chart_design"><a class="anchor" href="#_chapter_4_chart_design"></a><a class="link" href="#_chapter_4_chart_design">Chapter 4: Chart design</a></h2>
+<div class="sectionbody">
+<div class="sidebarblock">
+<div class="content">
+<div class="title">In this chapter:</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Consider design issues like size, colour and font</p>
+</li>
+<li>
+<p>Consider the role of words and phrases on an alphabet chart</p>
+</li>
+<li>
+<p>Explore personalising a chart for an individual</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="paragraph">
+<p>There is no such thing as a one size fits all <em>alphabet chart</em>. This chapter explores issues you may want to consider when designing an <em>alphabet chart</em> to meet the needs of an individual.</p>
+</div>
+<div class="sect3">
+<h4 id="_design_issues"><a class="anchor" href="#_design_issues"></a><a class="link" href="#_design_issues">Design Issues</a></h4>
+<div class="paragraph">
+<p>When designing and using a communication chart, you will need to take someone’s physical and visual skills into account, both in terms of design and placement of the chart. There are a number of things you may want to bear in mind:</p>
+</div>
+<div class="sect4">
+<h5 id="_upper_or_lower_case"><a class="anchor" href="#_upper_or_lower_case"></a><a class="link" href="#_upper_or_lower_case">Upper or Lower Case</a></h5>
+<div class="paragraph">
+<p>You may want to give someone the choice of what case (upper or lower) they would prefer to have their <em>alphabet chart</em> produced in. Note that younger children in the UK are often more familiar with lower case letters, and may find a chart made using lower case letters more accessible. Having said that, exposure to both cases is an important part of literacy development.</p>
+</div>
+</div>
+<div class="sect4">
+<h5 id="_size_colour_and_font"><a class="anchor" href="#_size_colour_and_font"></a><a class="link" href="#_size_colour_and_font">Size, Colour and Font</a></h5>
+<div class="paragraph">
+<p>When making an <em>alphabet chart</em>, you will need to consider how big to make it, and what size and style of font to use. This decision will be affected by someone’s visual skills. They need to be able to see what is written clearly and easily.</p>
+</div>
+<div class="paragraph">
+<p>The decision about size may also be affected by someone’s physical skills, particularly if they are accessing the chart by <em>direct touch</em>. For someone with a limited range of movement, a little chart may be easier. For someone with less refined movements, a larger chart may be easier.</p>
+</div>
+<div class="paragraph">
+<p>In addition to the overall size of the chart, you may want to think about how much space to leave between letters and individual words. The amount of space between items can affect how well someone can see what is written, and also the accuracy with which they can point to items.</p>
+</div>
+<div class="paragraph">
+<p>It is worth checking whether any vision assessments have been carried out as the information within such a report can be very helpful when personalising a chart. A child in school may have support from an advisory teacher for vision impairment (e.g. QTVI, Qualified Teacher of learners with Visual Impairment) – ask their advice on how best to present information. If someone wears glasses but doesn’t always remember, or choose, to wear them, you may want to consider designing the chart so that the font is easily visible to them, even when without their glasses. In practice, chart design for someone with a visual difficulty is likely to involve a bit of trial and error along the way!</p>
+</div>
+<div class="paragraph">
+<p>Sometimes a chart can be made easier to see by experimenting with the use of colour. Visual accessibility can be increased by using a high level of contrast between the background and foreground colours. Commonly used high contrast combinations include yellow and black, and yellow and blue. Think about contrast, but also glare. For example, a large expanse of bright yellow background might generate a lot of glare that could make it difficult for an individual to use the chart.</p>
+</div>
+<div class="paragraph">
+<p>In the example below, the black page background may help the yellow cells containing the yellow letters to stand out.</p>
+</div>
+<div class="imageblock">
+<div class="content">
+<a class="image" href="Media/images/s3tU5uo.png"><img src="Media/images/s3tU5uo-thumb.png" alt="high contrast charts" width="300"></a>
+</div>
+</div>
+<div class="paragraph">
+<p>It is often advisable to avoid gloss laminate, which can reflect overhead lighting and cause distortion and glare - and rely instead on matt laminate. Alternatively you could print the chart on so-called ‘indestructible’, tear-proof or waterproof printer paper.</p>
+</div>
+<div class="paragraph">
+<p>In addition to the person’s own visual skills, you may also want to consider the visual skills of any key <em>communication partners</em>, as they need to be able to see and easily read what is spelled out.</p>
+</div>
+</div>
+<div class="sect4">
+<h5 id="_placement_2"><a class="anchor" href="#_placement_2"></a><a class="link" href="#_placement_2">Placement</a></h5>
+<div class="paragraph">
+<p>Visual and physical skills can also affect both where letters are placed on a chart, and where the chart itself is placed in relation to the individual. For example, if someone finds it easier to reach or see letters in one area than another, you may want to put high frequency or commonly used letters in the easier to reach area, and lower frequency letters like ‘q’ and ‘z’ in the harder to reach area. For another example, if someone is just using their right hand to access a chart, it may be helpful to place the chart slightly to the right.</p>
+</div>
+<div class="paragraph">
+<p>The following chart was designed to be used by someone who is unable to move their eyes up and down, and can only look straight ahead. It is accessed by <a href="#_listener_mediated_scanning">Listener Mediated Scanning</a>. The letters of the alphabet are presented in horizontal rows, one row at a time. The yellow on black helped this particular individual to perceive the letters more clearly.</p>
+</div>
+<div class="sidebarblock">
+<div class="content">
+<div class="title">Gallery 4.1 An example of a customised alphabet chart</div>
+<div class="imageblock">
+<div class="content">
+<a class="image" href="Media/images/horizontal-1.jpg"><img src="Media/images/horizontal-1-thumb.jpg" alt="horizontal 1 thumb"></a>
+</div>
+<div class="title">Figure 32. The individual is presented with a strip of letters. If the strip contains their target letter, they indicate 'yes'. The communication partner then offers each letter in turn.</div>
+</div>
+<div class="imageblock">
+<div class="content">
+<a class="image" href="Media/images/horizontal-2.jpg"><img src="Media/images/horizontal-2-thumb.jpg" alt="horizontal 2 thumb"></a>
+</div>
+</div>
+<div class="imageblock">
+<div class="content">
+<a class="image" href="Media/images/horizontal-3.jpg"><img src="Media/images/horizontal-3-thumb.jpg" alt="horizontal 3 thumb"></a>
+</div>
+</div>
+<div class="imageblock">
+<div class="content">
+<a class="image" href="Media/images/horizontal-4.jpg"><img src="Media/images/horizontal-4-thumb.jpg" alt="horizontal 4 thumb"></a>
+</div>
+</div>
+<div class="imageblock">
+<div class="content">
+<a class="image" href="Media/images/horizontal-5.jpg"><img src="Media/images/horizontal-5-thumb.jpg" alt="horizontal 5 thumb"></a>
+</div>
+</div>
+<div class="imageblock">
+<div class="content">
+<a class="image" href="Media/images/abc-standard.jpg"><img src="Media/images/abc-standard-thumb.jpg" alt="abc standard thumb"></a>
+</div>
+<div class="title">Figure 33. This is the original chart that was too difficult to see.</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sect3">
+<h4 id="_tactile_charts"><a class="anchor" href="#_tactile_charts"></a><a class="link" href="#_tactile_charts">Tactile Charts</a></h4>
+<div class="paragraph">
+<p>For people who have a significant visual impairment, but are able to point directly to letters, <em>alphabet charts</em> can also be constructed using either alphabet based tactile codes like Moon or Braille.</p>
+</div>
+<div class="paragraph">
+<p>Braille is a tactile alphabet system that is made up of raised dots. You can find out more on the RNIB website – <a href="http://rnib.org.uk" class="bare">rnib.org.uk</a>.</p>
+</div>
+<div class="paragraph">
+<p>Moon is a system of raised curves and lines, with one shape corresponding to each letter. More than half of the shapes resemble the print equivalent of the letter. Moon is much less widely known and supported. You can find out more at <a href="http://moonliteracy.org.uk" class="bare">moonliteracy.org.uk</a>.</p>
+</div>
+<div class="paragraph">
+<p>When constructing a tactile <em>alphabet chart</em>, it is important to show the corresponding print letter alongside the raised letter to assist the <em>communication partner</em> in interpreting the message.</p>
+</div>
+<div class="paragraph">
+<p>An <em>alphabet chart</em> could be constructed using braille keyboard stickers. These stickers are available from www.a2i.co.uk (<a href="http://acecent.re/1EURCGg" class="bare">acecent.re/1EURCGg</a>). Alternatively, you could produce braille letters using the 6dot™ Braille Label Maker™ which is available from Logan Technologies <a href="http://logantechnologies" class="bare">logantechnologies</a>. co.uk/braille-label-maker</p>
+</div>
+<div class="sidebarblock">
+<div class="content">
+<div class="title">Gallery 4.2 An example of an alphabet chart made using braille keyboard stickers</div>
+<div class="imageblock">
+<div class="content">
+<a class="image" href="Media/images/Braille-chart.jpg"><img src="Media/images/Braille-chart-thumb.jpg" alt="Braille chart thumb"></a>
+</div>
+<div class="title">Figure 34. This shows the full chart.</div>
+</div>
+<div class="imageblock">
+<div class="content">
+<a class="image" href="Media/images/Braille-chart-zoom.jpg"><img src="Media/images/Braille-chart-zoom-thumb.jpg" alt="Braille chart zoom thumb"></a>
+</div>
+<div class="title">Figure 35. It is easier to see the raised braille dots on this zoomed in photograph of an area of the chart.</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sect3">
+<h4 id="_words_and_phrases_punctuation_and_numbers"><a class="anchor" href="#_words_and_phrases_punctuation_and_numbers"></a><a class="link" href="#_words_and_phrases_punctuation_and_numbers">Words and Phrases, Punctuation and Numbers</a></h4>
+<div class="sect4">
+<h5 id="_words_and_phrases"><a class="anchor" href="#_words_and_phrases"></a><a class="link" href="#_words_and_phrases">Words and Phrases</a></h5>
+<div class="paragraph">
+<p>In addition to letters on an <em>alphabet chart</em>, you may want to consider providing easy access to commonly spoken words and phrases. This may be to support someone who is able to read well, but finds spelling what they want to say more tricky. Young children may be developing their reading skills nicely, and find that they need the support of whole words and phrases, or even symbols, alongside an <em>alphabet chart</em> while they are learning to write and spell.</p>
+</div>
+<div class="paragraph">
+<p>Whole words and phrases are not just for those who are not confident spellers, however. Someone who can spell well may still find it quicker to point to words and phrases that are commonly spoken rather than having to spell them letter-byletter each time.</p>
+</div>
+<div class="paragraph">
+<p>When creating a chart or book based around whole words alongside an <em>alphabet chart</em>, many of the considerations in the symbol based <em>AAC</em> resource around design, content and support will be relevant. You may want to consult the Getting Started with <em>AAC</em>: Using <em>low tech</em> symbol based systems with children resource.</p>
+</div>
+<div class="paragraph">
+<p>For some, just a few words or phrases will be enough. However, for individuals who are able to point to small targets fairly accurately, you may want to consider providing a large number of words and phrases alongside the <em>alphabet chart</em>.</p>
+</div>
+<div class="paragraph">
+<p>See <a href="http://en.wikipedia.org/wiki/Most_common_words_in_English" class="bare">en.wikipedia.org/wiki/Most_common_words_in_English</a> for one example of a list of commonly used words in English. It’s amazing how often we use the same words in our speech. It could be a great help to the individual not to have to spell each one out every time. We can also be quite repetitive in the phrases we use in our conversation. For example, “How are you?”, “How was your day?”, etc! Again, it can be helpful to have these written down so that you simply have to point to the phrase rather than spelling it out each time.</p>
+</div>
+<div class="paragraph">
+<p>Alongside, or indeed instead of, commonly spoken words or phrases, you may want to include useful problem solving phrases like “mistake”, “start over”, “I don’t understand”, “you decide please”, “It’s not here”, “can you add a phrase for me”, etc.</p>
+</div>
+<div class="paragraph">
+<p>Some individuals may benefit from the inclusion of consonant blends on their <em>alphabet chart</em>. This can be particularly useful for those who find selecting letters slow as it means that two or more are selected at one time. The most obvious one to include is ‘QU’ as the letter ‘Q’ rarely occurs in isolation in English. However, other blends to consider alongside the alphabet include ‘SH’, ‘CH’, ‘TH’, and common word endings like ‘-ING’ and ‘-ED’.</p>
+</div>
+<div class="sidebarblock">
+<div class="content">
+<div class="title">Gallery 4.3 Examples of alphabet charts incorporating whole words</div>
+<div class="imageblock">
+<div class="content">
+<a class="image" href="Media/images/qwerty-with-words.jpg"><img src="Media/images/qwerty-with-words-thumb.jpg" alt="qwerty with words thumb"></a>
+</div>
+<div class="title">Figure 36. This is an example of a QWERTY alphabet chart presented with an extensive list of words. Most of the words are high frequency, but the bottom two rows contain some personalised phrases, names and interests. This particular chart has been designed for use by somone who is comfortable with spelling and reading, but likes the convenience of being able to point to commonly used words.</div>
+</div>
+<div class="imageblock">
+<div class="content">
+<a class="image" href="Media/images/coded-etran-1-1.jpg"><img src="Media/images/coded-etran-1-thumb-1.jpg" alt="coded etran 1 thumb 1"></a>
+</div>
+<div class="title">Figure 37. You can find a fuller discussion around this chart in the coded access section. This chart was designed for a young man who communicates by eye pointing. He is a confident speller but likes the quick access to whole words that this chart provides.</div>
+</div>
+</div>
+</div>
+<div class="paragraph">
+<p>A ‘space’ or ‘word end’ option can be invaluable to make word endings clear. Some people also find punctuation useful, particularly full stops and question marks.</p>
+</div>
+</div>
+<div class="sect4">
+<h5 id="_punctuation"><a class="anchor" href="#_punctuation"></a><a class="link" href="#_punctuation">Punctuation</a></h5>
+<div class="paragraph">
+<p>Some people like to have punctuation on their <em>alphabet chart</em> to further clarify their message. Full stops are a particularly useful way of indicating that a message is complete. Without them there is a risk that the <em>communication partner</em> will think a message is finished when there is actually more to say.</p>
+</div>
+<div class="paragraph">
+<p>Other punctuation can be useful too. Use of an exclamation mark can change the perspective on the message, although some prefer to clarify this using body language or vocalisation. Similarly, some people find a question mark to be helpful. Again, it’s really down to the individual.</p>
+</div>
+</div>
+<div class="sect4">
+<h5 id="_numbers"><a class="anchor" href="#_numbers"></a><a class="link" href="#_numbers">Numbers</a></h5>
+<div class="paragraph">
+<p>As in some of the examples above, some people find the inclusion of numbers on an <em>alphabet chart</em> useful. If you can afford the space on the chart, it does save someone from having to spell out the numerals. Useful characters alongside numbers that you might want include are ‘£’, ‘:’ for when talking about time, and ‘%’.</p>
+</div>
+<div class="paragraph">
+<p>Alternatively, some people find it helpful to have a separate numbers chart, alongside their <em>alphabet chart</em>, or even printed on the reverse.</p>
+</div>
+</div>
+</div>
+<div class="sect3">
+<h4 id="_personalising_a_chart"><a class="anchor" href="#_personalising_a_chart"></a><a class="link" href="#_personalising_a_chart">Personalising a Chart</a></h4>
+<div class="paragraph">
+<p>Personalising an <em>alphabet chart</em> can increase motivation to use it. It can also provide a great talking point! Google images can provide a wealth of resources to support this. You could include the logo of a favourite sports team, or you could add pictures of characters from a favourite TV show, photographs of family or friends, or anything that is of particular interest. You may be able to download wallpapers of favourite teams, pop groups etc. from the internet and place these behind the chart too.</p>
+</div>
+<div class="paragraph">
+<p>Sometimes simply making the chart using someone’s favourite colours can add interest and appeal.</p>
+</div>
+<div class="sidebarblock">
+<div class="content">
+<div class="title">Gallery 4.4 Some examples of personalised charts</div>
+<div class="imageblock">
+<div class="content">
+<a class="image" href="Media/images/stfc.jpg"><img src="Media/images/stfc-thumb.jpg" alt="stfc thumb"></a>
+</div>
+<div class="title">Figure 38. A chart designed for a fan of Swindon town football club</div>
+</div>
+<div class="imageblock">
+<div class="content">
+<a class="image" href="Media/images/QWERTY-personalised.jpg"><img src="Media/images/QWERTY-personalised-thumb.jpg" alt="QWERTY personalised thumb"></a>
+</div>
+<div class="title">Figure 39. A chart that was designed for a child who loves farm animals.</div>
+</div>
+<div class="imageblock">
+<div class="content">
+<a class="image" href="Media/images/qwerty-a4-blue.jpg"><img src="Media/images/qwerty-a4-blue-thumb.jpg" alt="qwerty a4 blue thumb"></a>
+</div>
+<div class="title">Figure 40. A chart made with someone&#8217;s favourite colour.</div>
+</div>
+<div class="imageblock">
+<div class="content">
+<a class="image" href="Media/images/abc-a4-pink.jpg"><img src="Media/images/abc-a4-pink-thumb.jpg" alt="abc a4 pink thumb"></a>
+</div>
+<div class="title">Figure 41. Another chart made using a favourite colour.</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_chapter_5_communication_partner_skills"><a class="anchor" href="#_chapter_5_communication_partner_skills"></a><a class="link" href="#_chapter_5_communication_partner_skills">Chapter 5: Communication Partner skills</a></h2>
+<div class="sectionbody">
+<div class="sidebarblock">
+<div class="content">
+<div class="title">In this chapter</div>
+<div class="ulist">
+<ul>
+<li>
+<p>How to be a good communication partner</p>
+</li>
+<li>
+<p>The importance of pen and paper</p>
+</li>
+<li>
+<p>Guessing</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="paragraph">
+<p>When we talk about a <em>communication partner</em> we mean ‘you’! A <em>communication partner</em> is a person with whom the person who uses <em>AAC</em> communicates.</p>
+</div>
+<div class="paragraph">
+<p>Communication is a two way process, and requires skills from both parties – hence the importance of <em>communication partner</em> skills.</p>
+</div>
+<div class="paragraph">
+<p>Communication does go wrong sometimes, even when speech is involved! Don’t panic – just acknowledge the problem and see if you can work round it.</p>
+</div>
+<div class="sect3">
+<h4 id="_good_communication_partner_skills"><a class="anchor" href="#_good_communication_partner_skills"></a><a class="link" href="#_good_communication_partner_skills">Good Communication Partner Skills</a></h4>
+<div class="paragraph">
+<p>If you can, choose a quiet place to talk with as few background distractions as possible. Try to face the person you are talking to, as this will help you read their body language and facial expressions. Note though that sometimes people with a visual difficulty will find it easier if you stand on one side or another.</p>
+</div>
+<div class="paragraph">
+<p>As the <em>communication partner</em>, try to give the person using <em>AAC</em> time to construct their message. Conversation can quickly become very confused if you rush in to fill the silence with another question or observation, as it can become unclear which question or observation the person using <em>AAC</em> is then responding to. It can feel strange at first, but try to relax during the silence. Let the person using AAC finish what they are saying before rushing onto the next part of the conversation.</p>
+</div>
+<div class="paragraph">
+<p>Keep your own language simple, but don’t fall into the trap of only asking questions that someone can answer ‘yes’ or ‘no’ to as this makes for a rather boring conversation for both parties! Try to just introduce one topic of conversation at a time.</p>
+</div>
+<div class="paragraph">
+<p>Misunderstandings can happen in all conversations, but do tend to occur more frequently in conversations involving <em>AAC</em>. Don’t worry about it. If one or both of you seems confused say so, and try to get to the bottom of it. If you are really lost, you could try using the following questions to help get things back on track:
+1. Who are we talking about?
+2. What situation are we talking about?
+3. Is it something that happened in the present, the past or
+has yet to take place?</p>
+</div>
+<div class="paragraph">
+<p>Alternatively, you could ask to start again and have another go at understanding the message. If that doesn’t work, do acknowledge the problem rather than pretending it hasn’t happened. You could always offer to come back to it another time.</p>
+</div>
+<div class="paragraph">
+<p>Module Four of the freely available online learning resources on <a href="http://aacscotland.org.uk" class="bare">aacscotland.org.uk</a> provides more detailed information about being a good <em>communication partner</em>, and offers some excellent downloadable resources.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="_pen_and_paper"><a class="anchor" href="#_pen_and_paper"></a><a class="link" href="#_pen_and_paper">Pen and Paper</a></h4>
+<div class="paragraph">
+<p>When a person frequently uses a <em>low tech</em> <em>alphabet chart</em> to communicate it can be helpful for the <em>communication partner</em> to have a notebook and pen. This can help them to keep track of a long or complex message being spelled out.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="_guessing"><a class="anchor" href="#_guessing"></a><a class="link" href="#_guessing">Guessing</a></h4>
+<div class="paragraph">
+<p>Some individuals find it very helpful if their <em>communication partner</em> attempts to guess a word before they have finished spelling it out. <em>Communication partners</em> can be very good at it and surprisingly accurate, particularly when context is known. For example, if you are discussing holiday destinations and someone starts spelling a word with ‘F’, you may quickly guess that they are planning a holiday to France. This can significantly speed up a conversation.</p>
+</div>
+<div class="paragraph">
+<p>However, other individuals dislike someone guessing their message. They may find it intrusive or annoying.</p>
+</div>
+<div class="paragraph">
+<p>It is therefore helpful to establish whether or not guessing is permitted in advance. Some individuals may choose to record their preferences in a <a href="#_chapter_6_communication_passports_drawing_it_all_together">communication passport</a>. Others may choose to have instructions to the <em>communication partner</em> written directly onto their <em>alphabet chart</em>, as shown in the following example.</p>
+</div>
+<div class="imageblock">
+<div class="content">
+<a class="image" href="Media/images/sU5y6XD.png"><img src="Media/images/sU5y6XD-thumb.png" alt="alphabet chart with instructions" width="300"></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_chapter_6_communication_passports_drawing_it_all_together"><a class="anchor" href="#_chapter_6_communication_passports_drawing_it_all_together"></a><a class="link" href="#_chapter_6_communication_passports_drawing_it_all_together">Chapter 6: Communication Passports - Drawing it all Together</a></h2>
+<div class="sectionbody">
+<div class="sidebarblock">
+<div class="content">
+<div class="title">In this chapter</div>
+<div class="ulist">
+<ul>
+<li>
+<p>All about communication passports</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="paragraph">
+<p><em>Communication passports</em> are a way of drawing together and sharing information about how a person communicates. A <em>communication passport</em> can give information both about a person’s understanding and how they express themselves. They are a really helpful tool to have alongside any form of <em>AAC</em>.</p>
+</div>
+<div class="paragraph">
+<p>A <em>communication passport</em> is often a printed document. However, some people also find it helpful to have a video passport alongside the printed version. It is sometimes much easier to show someone’s ‘yes’ and ‘no’ response, and how it might vary with fatigue, for example, rather than trying to describe it in words. You may also find <em>communication passports</em> made as a powerpoint presentation. If someone uses a <em>high tech communication</em> aid, it may be worth keeping a copy of the <em>communication passport</em> on the device itself.</p>
+</div>
+<div class="paragraph">
+<p>When developing a <em>communication passport</em>, it is essential to involve the person in its development as much as possible. The individual needs to have ownership of their <em>communication passport</em>, particularly if it is written in ‘their’ voice. Person-centred planning approaches has a useful role to play here.</p>
+</div>
+<div class="paragraph">
+<p>This is Tiago’s <em>communication passport</em>. It is printed and laminated, and attached to his wheelchair. It is kept alongside one of his encoded <em>eye pointing</em> <em>alphabet charts</em>.</p>
+</div>
+<div class="sidebarblock">
+<div class="content">
+<div class="title">Gallery 6.1 An example of a communication passport</div>
+<div class="imageblock">
+<div class="content">
+<a class="image" href="Media/images/Tiago_1.jpg"><img src="Media/images/Tiago_1_thumb.jpg" alt="Tiago 1 thumb"></a>
+</div>
+<div class="title">Figure 42. This communication passport belongs to Tiago.</div>
+</div>
+<div class="imageblock">
+<div class="content">
+<a class="image" href="Media/images/Tiago_2.jpg"><img src="Media/images/Tiago_2_thumb.jpg" alt="Tiago 2 thumb"></a>
+</div>
+</div>
+<div class="imageblock">
+<div class="content">
+<a class="image" href="Media/images/Tiago_3.jpg"><img src="Media/images/Tiago_3_thumb.jpg" alt="Tiago 3 thumb"></a>
+</div>
+</div>
+<div class="imageblock">
+<div class="content">
+<a class="image" href="Media/images/Tiago_4.jpg"><img src="Media/images/Tiago_4_thumb.jpg" alt="Tiago 4 thumb"></a>
+</div>
+</div>
+<div class="imageblock">
+<div class="content">
+<a class="image" href="Media/images/Tiago_5.jpg"><img src="Media/images/Tiago_5_thumb.jpg" alt="Tiago 5 thumb"></a>
+</div>
+</div>
+<div class="imageblock">
+<div class="content">
+<a class="image" href="Media/images/Tiago_6.jpg"><img src="Media/images/Tiago_6_thumb.jpg" alt="Tiago 6 thumb"></a>
+</div>
+</div>
+</div>
+</div>
+<div class="paragraph">
+<p>There are lots of great resources available to help produce a <em>communication passport</em>. See <a href="http://communicationpassports.org.uk" class="bare">communicationpassports.org.uk</a> for more information.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_chapter_7_sourcing_and_making_alphabet_charts"><a class="anchor" href="#_chapter_7_sourcing_and_making_alphabet_charts"></a><a class="link" href="#_chapter_7_sourcing_and_making_alphabet_charts">Chapter 7: Sourcing and Making Alphabet Charts</a></h2>
+<div class="sectionbody">
+<div class="sidebarblock">
+<div class="content">
+<div class="title">In this chapter</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Information about alphabet charts that are available free of charge</p>
+</li>
+<li>
+<p>Software that can help with alphabet chart design</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_alphabet_charts_noted_in_this_book"><a class="anchor" href="#_alphabet_charts_noted_in_this_book"></a><a class="link" href="#_alphabet_charts_noted_in_this_book">Alphabet charts noted in this book</a></h3>
+
+</div>
+<div class="sect2">
+<h3 id="_freely_available_alphabet_charts"><a class="anchor" href="#_freely_available_alphabet_charts"></a><a class="link" href="#_freely_available_alphabet_charts">Freely Available Alphabet Charts</a></h3>
+<div class="paragraph">
+<p>There are a wide range of simple <em>alphabet charts</em> available to download from the internet.</p>
+</div>
+<div class="paragraph">
+<p>You will find many of the <em>alphabet charts</em> shown within this resource available to download  above</p>
+</div>
+<div class="paragraph">
+<p><em>AAC</em> Scotland also offer some alphabet and qwerty boards for download – see <a href="http://aacscotland.org.uk/Right-to-Speak/Communication-Boards/" class="bare">aacscotland.org.uk/Right-to-Speak/Communication-Boards/</a></p>
+</div>
+<div class="paragraph">
+<p>CandLE offer a number of QWERTY keyboards on their website. The dot at the bottom is to help people with perserveration to bring themselves back to a point before going to the next selection. This provides support for motor planning. <a href="http://contactcandle.co.uk/files/grey_spelling_board_qwerty.pdf" class="bare">contactcandle.co.uk/files/grey_spelling_board_qwerty.pdf</a> and
+<a href="http://www.contactcandle.co.uk/files/grey_spelling_board_qwerty_capitals.pdf" class="bare">www.contactcandle.co.uk/files/grey_spelling_board_qwerty_capitals.pdf</a></p>
+</div>
+<div class="paragraph">
+<p>Speakbook have developed a freely available resource that is intended to be accessed via <em>eye pointing</em>. It uses an encoded keyboard layout, and also provides access to useful words and phrases. This can be downloaded here <a href="http://speakbook.org/downloads/" class="bare">speakbook.org/downloads/</a></p>
+</div>
+<div class="paragraph">
+<p>Spectronics have upper and lower case alphabetical and qwerty keyboards available for free download on their website <a href="http://spectronics.com.au" class="bare">spectronics.com.au</a> - see <a href="http://acecent.re/1Esuuwo" class="bare">acecent.re/1Esuuwo</a>. These are designed for <em>direct selection</em>.</p>
+</div>
+<div class="paragraph">
+<p>As discussed above, Jason Becker has developed a system based on <em>encoding</em> that has been designed to be accessed via <em>eye pointing</em>. You can download a pdf of his vocaleyes chart here <a href="http://jasonbeckerguitar.com/eye_communication.html" class="bare">jasonbeckerguitar.com/eye_communication.html</a></p>
+</div>
+<div class="sect3">
+<h4 id="_making_an_alphabet_chart"><a class="anchor" href="#_making_an_alphabet_chart"></a><a class="link" href="#_making_an_alphabet_chart">Making an Alphabet  Chart</a></h4>
+<div class="paragraph">
+<p>Sometimes you will need to be able to make and customise your own <em>alphabet chart</em>, as none of the off-the-shelf solutions will do.</p>
+</div>
+<div class="paragraph">
+<p>The simplest way of doing this is to make a table within word processing software. However, if you have access to specially designed resource making software, you may find this offers a bit more flexibility. Some also include templates of <em>alphabet charts</em>. Examples of such software in the UK includes:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Boardmaker Plus! V6 or Boardmaker Studio e.g. available from <a href="http://toby-churchill.com" class="bare">toby-churchill.com</a></p>
+</li>
+<li>
+<p>Communicate in Print 2 e.g. available from http:// widgit.com</p>
+</li>
+<li>
+<p>Matrix Maker Plus e.g. available from <a href="http://inclusive.co.uk" class="bare">inclusive.co.uk</a> Sometimes you can access such software through your local Speech and Language Therapy service or through a child’s educational environment. There are also a few counties that offer access to such software through their library service. You could contact your local library service to find out if this is available in your area. Some charities / non-profit organisations also offer access to software.</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_chapter_8_further_sources_of_help_and_reading"><a class="anchor" href="#_chapter_8_further_sources_of_help_and_reading"></a><a class="link" href="#_chapter_8_further_sources_of_help_and_reading">Chapter 8: Further Sources of Help and Reading</a></h2>
+<div class="sectionbody">
+<div class="sidebarblock">
+<div class="content">
+<div class="title">In this chapter:</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Find out about other sources of information</p>
+</li>
+<li>
+<p>Discover organisations that can help you on your journey</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_resources"><a class="anchor" href="#_resources"></a><a class="link" href="#_resources">Resources</a></h3>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="http://aacscotland.org.uk" class="bare">aacscotland.org.uk</a> is full of practical resources and information around AAC. It also offers five free online learning modules about AAC.</p>
+</li>
+<li>
+<p><a href="http://nowhearme.co.uk" class="bare">nowhearme.co.uk</a> is another Scottish website that has been set up as part of the ‘Now hear me: It’s my right to speak’ campaign. The site is a gateway of information for people who use AAC, family members and professionals.</p>
+</li>
+<li>
+<p>Australian Speech Pathologist, Jane Farrall writes a fantastic blog about AAC at <a href="http://janefarrall.com" class="bare">janefarrall.com</a>. It’s full of ideas and information and is regularly updated.</p>
+</li>
+<li>
+<p><a href="http://PrAActicalAAC.org" class="bare">PrAActicalAAC.org</a> is another brilliant blog that is full of useful information, ideas and support. It is updated by Carole Zangari, a professor of speech-language pathology. Its mission is to improve the level of AAC services available to individuals with significant communication challenges by supporting speech-language pathologists and other interested stakeholders.</p>
+</li>
+<li>
+<p>Back issues of Communication Matters journals are available to read online. These practical journals are published and distributed to members of Communication Matters (see below) three times a year. The back issues contain a wealth of information and can be downloaded here <a href="http://communicationmatters.org.uk/page/cm-journaldownload" class="bare">communicationmatters.org.uk/page/cm-journaldownload</a></p>
+</li>
+<li>
+<p>You can also see links to huge amounts of information about AAC on the Internet through ACE Centre’s public library <a href="https://diigo.com/user/acecentre" class="bare">diigo.com/user/acecentre</a>. This is where they keep a record of anything they stumble across on the Internet that seems interesting! They can also keep you up to date via their monthly newsletter <a href="http://aacinfo.email/" class="bare">aacinfo.email/</a></p>
+</li>
+<li>
+<p>Talking Point is a website that has a range of information about speech, language and communication development and ways to support children and young people, including information on AAC. See <a href="http://talkingpoint.org.uk" class="bare">talkingpoint.org.uk</a></p>
+</li>
+<li>
+<p>YAACK can be found at <a href="http://cehs.unl.edu/documents/" class="bare">cehs.unl.edu/documents/</a> secd/aac/YAACK.pdf Augmentative and Alternative Communication (AAC) Connecting Young Kids (YAACK) was a website that covered issues related to AAC and young children. All the information has now been put into a .pdf document.</p>
+</li>
+<li>
+<p>You Matter is a course designed to help develop the communication skills of parents, carers and support workers of children who use AAC. The recently revised course is designed to be delivered by a Speech and Language Therapist, and is available from ACE Centre <a href="http://acecentre.org.uk/you-matter1" class="bare">acecentre.org.uk/you-matter1</a>.</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_books"><a class="anchor" href="#_books"></a><a class="link" href="#_books">Books</a></h3>
+<div class="paragraph">
+<p>There are a wide range of text books on AAC available. For example:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><em>Augmentative &amp; Alternative Communication: Management of Severe Communication Disorders in Children and Adults</em> (Fourth Revised Edition) by David Beukelman and Pat Mirenda (2012). Published by Brookes Publishing Co.</p>
+</li>
+<li>
+<p><em>Teaching Communication Skills to Students with Severe Disabilities</em> (Second Edition) by June Downing (2005). Published by Paul H. Brookes.</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>This book by Marion Stanton provides an insider’s guide to using AAC. It is written from the perspective of a teenager with cerebral-palsy who uses AAC. It is aimed at children, parents and professionals:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><em>Can I tell you about Cerebral-Palsy? A guide for friends, family and professionals</em> by Marion Stanton (2014). Published by Jessica Kingsley pub.</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>From the New York Times bestseller’s list, is Martin Pistorius’s book, <em>Ghost Boy</em>. He describes his experience of becoming locked in to his body following a mystery virus, and how he eventually became able to communicate again:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><em>Ghost Boy</em> by Martin Pistorius (2011). Published by Simon &amp; Schuster Ltd.</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>A well-known book written by someone using AAC is Jean- Dominique Bauby’s, <em>The Diving Bell and the Butterfly</em>. Bauby was a journalist, author and editor of French Elle magazine. He suffered a massive stroke in 1995 and dictated this book using movement in his left eyelid. He passed away in 1997. The book was made into a film in 2007:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><em>The Diving Bell and the Butterfly</em> by Jean-Dominique Bauby (2008). Published by Harper Perrenial.</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_organisations"><a class="anchor" href="#_organisations"></a><a class="link" href="#_organisations">Organisations</a></h3>
+<div class="paragraph">
+<p>For support with communication, a great place to start is your local Speech and Language Therapy department. You will find details of this on your local NHS trust website. Every local authority now has a ‘local offer’ website which should set out what is available in the local area. This website will provide information about provision they expect to be available in their area for children and young people with SEN. It will also include information about relevant provision outside the area, including national specialist provision.</p>
+</div>
+<div class="paragraph">
+<p>Other organisations to consider include:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="http://1voice.info">1Voice</a> offer a network of support and information for children and young people who use communication aids and their families. 1Voice organise events to bring together families who have children with communication needs and offer support and advice. For more information see <a href="http://1voice.info" class="bare">1voice.info</a> or call 0845 330 7862.</p>
+</li>
+<li>
+<p><a href="http://acecentre.org.uk">ACE Centre</a> provide help and expertise with AAC and assistive technology. They also offer free information and advice services. For more information see http:// acecentre.org.uk or call their free telephone advice line on 0800 080 3115.</p>
+</li>
+<li>
+<p><a href="http://communicationmatters.org.uk">Communication Matters</a> is a charitable organisation which covers the whole of the UK. They work to achieve a world where all individuals have a right to a 'voice' through the provision of AAC equipment and services. Communication Matters value people who use any form of communication and promote the individual’s right to participate in all aspects of life by using their most appropriate means of communication to express their thoughts, feelings, needs and desires. Communication Matters achieve their aims through activities such as training events, a research programme, a range of resources and publications and website. The website is an up to date source of information for anyone wanting to learn more about AAC. The organisation is managed by a Board of Trustees elected by its Associate Members. For more information see <a href="http://communicationmatters.org.uk" class="bare">communicationmatters.org.uk</a> or call 0845 456 8211. Communication Matters is the UK branch of the International Society for Augmentative and Alternative Communication(ISAAC). See <a href="http://isaac-online.org" class="bare">isaac-online.org</a>.</p>
+</li>
+<li>
+<p>Local and National AAC Services. You can locate your local AAC assessment centre using the Communication Matters website <a href="http://communicationmatters.org.uk/page/resources/aacassessment-" class="bare">communicationmatters.org.uk/page/resources/aacassessment-</a> services. You will also find information about national AAC services, and a wealth of other supporting information.</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_chapter_9_references"><a class="anchor" href="#_chapter_9_references"></a><a class="link" href="#_chapter_9_references">Chapter 9: References</a></h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Bauby, J-D. (2008) The Diving Bell and the butterfly. Harper Perrenial.</p>
+</div>
+<div class="paragraph">
+<p>Beukelman, D. &amp; Mirenda, P. (2012) <em>Augmentative and Alternative Communication</em>: Management of Severe Communication Disorders in Children and Adults (Fourth Revised Edition). Brookes Publishing Co.</p>
+</div>
+<div class="paragraph">
+<p>Downing, J. (2005) Teaching Communication Skills to Students with Severe Disabilities (Second Edition). Paul H. Brookes.</p>
+</div>
+<div class="paragraph">
+<p>Light, J. &amp; McNaughton, D. (2013) Putting People First: Re- Thinking the Role of Technology. In <em>Augmentative and Alternative Communication</em> Intervention. December 2013, Vol. 29, No. 4 , Pages 299-309.</p>
+</div>
+<div class="paragraph">
+<p>Pistorius, M. (2011) Ghost Boy. Simon &amp; Schuster Ltd.</p>
+</div>
+<div class="paragraph">
+<p>Stanton, M. (2014) Can I tell you about Cerebral-Palsy? A guide for friends, family and professionals. Jessica Kingsley.</p>
+</div>
+<div class="paragraph">
+<p><a href="http://aacscotland.org.uk/Online-Learning-Modules/" class="bare">aacscotland.org.uk/Online-Learning-Modules/</a> [accessed 5/11/2015]</p>
+</div>
+<div class="paragraph">
+<p><a href="http://alsmndalliance.org/wp-content/uploads/2010/12/008-Study-of-3-Low-Tech-Communication-Methods-for-People-with-Only-Eye-Movement-A-Roman.pdf" class="bare">alsmndalliance.org/wp-content/uploads/2010/12/008-Study-of-3-Low-Tech-Communication-Methods-for-People-with-Only-Eye-Movement-A-Roman.pdf</a> [accessed 10/12/2015]</p>
+</div>
+<div class="paragraph">
+<p><a href="http://candleaac.com/a_brief_guide_to_fct.htm" class="bare">candleaac.com/a_brief_guide_to_fct.htm</a> [accessed 5/11/2015]</p>
+</div>
+<div class="paragraph">
+<p><a href="http://communicationpassports.org.uk/Home/" class="bare">communicationpassports.org.uk/Home/</a> [accessed 5/11/2015]</p>
+</div>
+<div class="paragraph">
+<p><a href="http://en.wikipedia.org/wiki/QWERTY#History_and_purposes" class="bare">en.wikipedia.org/wiki/QWERTY#History_and_purposes</a> [accessed 11/11/2013]</p>
+</div>
+<div class="paragraph">
+<p><a href="http://en.wikipedia.org/wiki/Most_common_words_in_English" class="bare">en.wikipedia.org/wiki/Most_common_words_in_English</a> [accessed 11/11/13]</p>
+</div>
+<div class="paragraph">
+<p><a href="http://jasonbeckerguitar.com/eye_communication.html" class="bare">jasonbeckerguitar.com/eye_communication.html</a> [accessed 11/05/15]</p>
+</div>
+<div class="paragraph">
+<p><a href="http://asha.org/policy/TR1994-00139.htm" class="bare">asha.org/policy/TR1994-00139.htm</a> [Accessed 02/12/2013]</p>
+</div>
+<div class="paragraph">
+<p><a href="http://communicationmatters.org.uk/sites/default/files/downloads/focuson/Speaking_with_someone_who_uses_AAC_A4.pdf" class="bare">communicationmatters.org.uk/sites/default/files/downloads/focuson/Speaking_with_someone_who_uses_AAC_A4.pdf</a> [accessed on 17/04/2015]</p>
+</div>
+<div class="paragraph">
+<p><a href="http://fitaly.com" class="bare">fitaly.com</a> [accessed 11/05/15]</p>
+</div>
+<div class="paragraph">
+<p><a href="https://isaac-online.org/english/members-only/positionstatement-on-facilitated-communication/" class="bare">isaac-online.org/english/members-only/positionstatement-on-facilitated-communication/</a> [Accessed 17/04/2015]</p>
+</div>
+<div class="paragraph">
+<p><a href="http://lighthouse.org/accessibility/design/accessible-printdesign/effective-color-contrast" class="bare">lighthouse.org/accessibility/design/accessible-printdesign/effective-color-contrast</a> [accessed 10/4/2015]</p>
+</div>
+<div class="paragraph">
+<p><a href="http://moonliteracy.org.uk" class="bare">moonliteracy.org.uk</a> [accessed 5/11/2015]</p>
+</div>
+<div class="paragraph">
+<p><a href="http://rnib.org.uk/braille-and-moon-tactile-codes" class="bare">rnib.org.uk/braille-and-moon-tactile-codes</a> [accessed 5/11/2015]</p>
+</div>
+<div class="paragraph">
+<p><a href="https://vimeo.com/53036535" class="bare">vimeo.com/53036535</a> [accessed 10/12/2015]</p>
+</div>
+<div class="paragraph">
+<p><a href="https://youtube.com/watch?v=AooDQOzdOyE" class="bare">youtube.com/watch?v=AooDQOzdOyE</a> [accessed 5/11/2015]</p>
+</div>
+<div class="paragraph">
+<p><a href="http://youtube.com/watch?v=pLb6-Oi3uR0" class="bare">youtube.com/watch?v=pLb6-Oi3uR0</a> [accessed 5/11/2015]</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_glossary"><a class="anchor" href="#_glossary"></a><a class="link" href="#_glossary">Glossary</a></h2>
+<div class="sectionbody">
+<div class="dlist bibliography">
+<dl>
+<dt><a id="aac"></a> AAC (Augmentative and Alternative Communication)</dt>
+<dd>
+<p>The term used to describe various methods of communication that can be used as an alternative or as an ‘add-on’ to speech where speech is not sufficient to enable successful communication in all situations all of the time. AAC includes simples systems such as pictures, gestures and pointing, as well as more complex techniques involving powerful computer technology.</p>
+</dd>
+<dt><a id="access-method"></a> Access method</dt>
+<dd>
+<p>Refers to the method by which an individual accesses their communication system. Also known as the selection method.</p>
+</dd>
+<dt><a id="access-methods"></a> Access method</dt>
+<dd>
+<p>Refers to the method by which an individual accesses their communication system. Also known as the selection method.</p>
+</dd>
+<dt><a id="aided-aac"></a> Aided AAC</dt>
+<dd>
+<p>Describes any type of AAC that uses some sort of equipment. Equipment to support communication could be simply a pencil and paper, or it could be a complex voice output communication aid.</p>
+</dd>
+<dt><a id="automaticity"></a> Automaticity</dt>
+<dd>
+<p>Describes motor activities that can be undertaken without much thought. For example, when first learning to drive, changing gear requires a lot of conscious thought. However,for an experienced driver, their body will just change the gear of the car without them having to think about what their foot is doing with the clutch or their hand is doing with the gear stick. Automaticity is acquired through repetition and practice.</p>
+</dd>
+<dt><a id="unaided-aac"></a> Unaided AAC</dt>
+<dd>
+<p>Describes AAC that does not make use of any equipment. Encompasses signing, gesture, vocalisation, etc.</p>
+</dd>
+<dt><a id="alphabet-chart"></a> Alphabet chart</dt>
+<dd>
+<p>An alphabet chart is a tool for communication. The alphabet is displayed so that an individual can select letters to support their face-to-face communication. It is a form of low tech AAC.</p>
+</dd>
+<dt><a id="als"></a> ALS</dt>
+<dd>
+<p>Amyotrophic Lateral Sclerosis (ALS) is also known as Lou Gehrig’s disease. It is more commonly called Motor Neurone Disease (MND) in the UK. It is a progressive neurodegenerative disease. The motor neurons degenerate and there is muscle wasting.</p>
+</dd>
+<dt><a id="auditory-scanning"></a> Auditory Scanning</dt>
+<dd>
+<p>An access method that is a form of listener mediated scanning. The options are read aloud and the individual indicates when they have heard the target option</p>
+</dd>
+<dt><a id="basic-high-tech"></a> Basic high tech</dt>
+<dd>
+<p>An alternative term for light tech communication.</p>
+</dd>
+<dt><a id="cell"></a> Cell</dt>
+<dd>
+<p>A defined shape on a symbol chart that contains a symbol and / or label. It is often square or rectangular in shape.</p>
+</dd>
+<dt><a id="cerebral-palsy"></a> Cerebral palsy</dt>
+<dd>
+<p>The name given to a number of conditions affecting the area of the brain controlling muscle movement that are acquired around the time of birth.</p>
+</dd>
+<dt><a id="coded-access"></a> Coded access</dt>
+<dd>
+<p>An access method where symbols are effectively given a grid reference that the individual then communicates. It requires two separate charts to communicate. One chart contains your symbols, the other allows you to communicate the location of the symbol you wish to communicate.</p>
+</dd>
+<dt><a id="core"></a> Core vocabulary</dt>
+<dd>
+<p>Words that are useful across lots of topics of conversation and are frequently used. For example, 'more', 'stop', 'help'. Core vocabulary is identified in empirical research or clinical reports that measure vocabulary use patterns across many individuals. Often used in contrast to term fringe vocabulary.</p>
+</dd>
+<dt><a id="cortical-visual-impairment"></a> Cortical visual impairment</dt>
+<dd>
+<p>A visual impairment that is related to the way the brain processes visual information rather than to the structure or function of the eye itself.</p>
+</dd>
+<dt><a id="combination-access"></a> Combination access</dt>
+<dd>
+<p>An access method that involves a combination of two or more standard access methods.</p>
+</dd>
+<dt><a id="communication-partner"></a> Communication partner</dt>
+<dd>
+<p>A communication partner is anyone that a person using AAC communicates with.</p>
+</dd>
+<dt><a id="direct-selection"></a> Direct selection</dt>
+<dd>
+<p>An access method where an individual makes a selection by touching it. Also known as direct touch.</p>
+</dd>
+<dt><a id="direct-touch"></a> Direct touch</dt>
+<dd>
+<p>An access method where an individual makes a selection by touching it. Also known as direct selection.</p>
+</dd>
+<dt><a id="e-tran-frame"></a> E-tran frame</dt>
+<dd>
+<p>An E-tran frame (or <em>eye-transfer frame</em>) is a low tech communication tool. It usually comprises a clear Perspex® frame to which symbols or letters are added, although it may be made of other materials such as laminate. There is often a central window or hole in the frame through which eye contact can be made. The frame is held up in front of the individual who then eye-points to the appropriate letter or symbol to communicate a message.</p>
+</dd>
+<dt><a id="encoding"></a> Encoding</dt>
+<dd>
+<p>Encoding describes the grouping of letters or symbols together to facilitate access. It is often associated with eye-pointing, but can also be used to facilitate direct access. It tends to be found in low tech communication systems.</p>
+</dd>
+<dt><a id="eye-gaze"></a> Eye gaze</dt>
+<dd>
+<p>Eye gaze systems can allow people with severe physical disabilities to access a communication aid or computer using their eyes. These devices have an inbuilt camera which tracks where you are looking and allows an individual to select something by blinking, dwelling (staring) or clicking a switch.</p>
+</dd>
+<dt><a id="eye-pointing"></a> Eye pointing</dt>
+<dd>
+<p>Eye pointing is an access method whereby an individual points with their eyes to a letter, word, symbol or object to communicate a message.</p>
+</dd>
+<dt><a id="eye-transfer-frame"></a> Eye-transfer frame</dt>
+<dd>
+<p>An eye-transfer frame (or e-tran frame) is a low tech communication tool. It usually comprises a clear Perspex® frame to which symbols or letters are added, although it may be made of other materials such as laminate. There is often a central window or hole in the frame through which eye contact can be made. The frame is held up in front of the individual who then eye-points to the appropriate letter or symbol to communicate a message.</p>
+</dd>
+<dt><a id="eyelink"></a> EyeLink</dt>
+<dd>
+<p>A communication chart where letters are printed or placed on a transparent material. This is held up between an individual and their communication partner, and the individual looks directly at the letter they wish to communicate. The communication partner moves the chart until they are looking at the same letter, and speaks aloud the letter to confirm the selection.</p>
+</dd>
+<dt><a id="facilitated-communication"></a> Facilitated communication (FC)</dt>
+<dd>
+<p>“&#8230;&#8203;or Facilitated Communication Training (FCT) as described by Rosemary Crossley who is credited with being the originator, is a technique in which physical, communication, and emotional support is provided by a facilitator to an individual with a communication disorder (communicator). With assistance, the communicator points to symbols such as letters, pictures and/or objects.” American Speech- Language Hearing Association (ASHA)</p>
+</dd>
+<dt><a id="fitzgerald-key"></a> Fitzgerald key</dt>
+<dd>
+<p>Developed by Edith Fitzgerald in the 1920s to help teach grammar to individuals with a hearing impairment.  The key assigns a colour to different parts of speech.  The modified Fitzgerald Key has been used in the AAC community to highlight the grammatical function of a symbol e.g. verb (green), noun (orange), adjective (blue), etc.</p>
+</dd>
+<dt><a id="fringe"></a> Fringe</dt>
+<dd>
+<p>Vocabulary that is specific to an individual, or to a certain topic of conversation or situation. Often used in contrast to the term core vocabulary.</p>
+</dd>
+<dt><a id="high-tech-communication"></a> High tech communication</dt>
+<dd>
+<p>High tech refers to a communication system that involves a battery or is computerbased. The term is often used in contrast to low tech communication. It is a form of Augmentative and Alternative Communication (AAC).</p>
+</dd>
+<dt><a id="keyguard"></a> Keyguard</dt>
+<dd>
+<p>A cover that fits over a keyboard or computer screen that contains holes through which keys or areas of the screen can be selected. It is designed to help with direct touch.</p>
+</dd>
+<dt><a id="laser-pointer"></a> Laser pointer</dt>
+<dd>
+<p>A small piece of equipment that is used to highlight an item using a narrow laser beam.</p>
+</dd>
+<dt><a id="light-tech-communication"></a> Light tech communication</dt>
+<dd>
+<p>Light tech refers to a simple communication system that involves a battery, and is a form of Augmentative and Alternative Communication (AAC). Light tech devices tend to make use of pre-recorded speech, rather than a synthesised voice. Light tech communication is sometimes subsumed within the label High tech communication.</p>
+</dd>
+<dt><a id="listener-mediated-scanning"></a> Listener mediated scanning</dt>
+<dd>
+<p>This is an access method whereby the communication partner delivers the options available to an individual. The individual then indicates when they have seen and / or heard the desired option, thereby communicating a message. The options may be delivered by speech alone (auditory scanning), by simply pointing the options available (visual scanning) or by speaking aloud the options whilst pointing to them (visual and auditory scanning). Also known as partner assisted scanning.</p>
+</dd>
+<dt><a id="low-tech-communication"></a> Low Tech Communication</dt>
+<dd>
+<p>A communication system that does not require a battery. This includes tools such as a paper alphabet chart , a symbol chart or book, an E-tran frame, pen and paper, etc. It is a form of augmentative and alternative communication (AAC). The term may be
+used in contrast to high tech communication.</p>
+</dd>
+<dt><a id="motor-neurone-disease"></a> Motor Neurone Disease</dt>
+<dd>
+<p>Motor Neurone Disease (MND) is a progressive neurodegenerative disease. The motor neurones degenerate and there is muscle wasting. It is also known as Amyotrophic Lateral Sclerosis (ALS) and Lou Gehrig’s disease.</p>
+</dd>
+<dt><a id="no-fail-activities"></a> No fail activities</dt>
+<dd>
+<p>Describes games and activities where there is no obviously 'wrong' answer.</p>
+</dd>
+<dt><a id="objects-of-reference"></a> Objects of reference</dt>
+<dd>
+<p>A form of Low tech AAC.  Objects of reference are objects or things that are used to represent concepts e.g. a plastic cup might be used to represent the concept of having a drink.  Objects of reference may be used to help someone remember something, to help them understand something, or to help them anticipate something that is going to happen.   An object of reference may also be used by an individual to express themselves.</p>
+</dd>
+<dt><a id="partner-assisted-scanning"></a> Partner assisted scanning</dt>
+<dd>
+<p>This is an access method whereby the communication partner delivers the options available to an individual. The individual then indicates when they have seen and / or heard the desired option, thereby communicating a message. The options may be delivered by speech alone (auditory scanning), by simply pointing the options available (visual scanning) or by speaking aloud the options whilst pointing to them (<em>visual and auditory scanning</em>). Also known as listener mediated scanning.</p>
+</dd>
+<dt><a id="pecs"></a> PECS</dt>
+<dd>
+<p>PECS or Picture Exchange Communication System is a scheme which teaches people on the autistic spectrum the purpose of communication by requiring them to physically exchange a symbol with a communication partner. <a href="http://www.pecs-unitedkingdom.com/" class="bare">www.pecs-unitedkingdom.com/</a></p>
+</dd>
+<dt><a id="point-taking"></a> Point-talking</dt>
+<dd>
+<p>Also known as modelling or aided language stimulation. The communication partner points to symbols whilst talking to the person who uses AAC. The communication partner is demonstrating how to use the communication system.</p>
+</dd>
+<dt><a id="pointing-tool"></a> Pointing tool</dt>
+<dd>
+<p>These are tools designed to help people with a disability to point or select keys on a keyboard more accurately. Also known as a typing aid, a keyboard aid, a touch enabling device, a dibber, a universal cuff and more!</p>
+</dd>
+<dt><a id="pre-recorded-speech"></a> Pre-recorded speech</dt>
+<dd>
+<p>Also known as digitised speech. Speech that is recorded in advance for use on a light or high tech communication aid. Usually recorded directly onto a device using a built in microphone ba a communication partner.</p>
+</dd>
+<dt><a id="selection-method"></a> Selection method</dt>
+<dd>
+<p>Refers to the method by which an individual accesses their communication system. Also known as the access method.</p>
+</dd>
+<dt><a id="signing"></a> Signing</dt>
+<dd>
+<p>Signing is a method of communication that uses recognised hand and body gestures.</p>
+</dd>
+<dt><a id="smart-partner"></a> Smart Partner</dt>
+<dd>
+<p>A smart partner is a communication partner who is able to adapt to the environment or the needs of the individual and modify their behaviour or expectations of behaviour from a person using AAC accordingly. For example, a smart partner might know that an individual using AAC is unwell and realise that the way they communicate ‘yes‘ might be affected. The term is often used in contrast to a computer based communication system which is not able to adapt to the environment in the same way.</p>
+</dd>
+<dt><a id="switch"></a> Switch</dt>
+<dd>
+<p>A switch is a button that can be pressed to enable someone with a physical disability to access a wide range of technology, from a simple light or fan through to a voice output communication aid or computer. They come in a wide variety of sizes and designs and can be accessed using different body parts. In order to control the technology, a switch interface of some sort is sometimes required.</p>
+</dd>
+<dt><a id="symbol-chart"></a> Symbol chart</dt>
+<dd>
+<p>A communication chart made using symbols or pictures.</p>
+</dd>
+<dt><a id="symbols"></a> Symbols</dt>
+<dd>
+<p>Special pictures that are used to represent concepts e.g. a drawing of a person drinking out of a cup is used to represent the concept of having a drink. They are used both to support understanding and to help someone express themselves.</p>
+</dd>
+<dt><a id="symbol-set"></a> Symbol set</dt>
+<dd>
+<p>A group of pictorial symbols with a common design theme. There are a number of different symbol sets available.</p>
+</dd>
+<dt><a id="synthesised-speech"></a> Synthesised speech</dt>
+<dd>
+<p>The artificial production of human speech by a computer or communication aid. This is usually done via text to speech (TTS) software. A variety of voices are available from different suppliers.</p>
+</dd>
+<dt><a id="talking-button"></a> Talking button</dt>
+<dd>
+<p>This is an informal name for a voice output communication aid which can deliver a single pre-recorded message. They come in a variety of shapes and sizes, but are usually operated by pressing a button.</p>
+</dd>
+<dt><a id="tangible-symbols"></a> Tangible symbols</dt>
+<dd>
+<p>Tangible symbols are symbols that can be felt with the hands or body.  Sometimes used as another word for objects of reference.  Also used to describe more abstract symbols created using different shapes and textures.  In the latter context, also known as tactile symbols.</p>
+</dd>
+<dt><a id="text-based-low-tech-aac"></a> Text based low tech AAC</dt>
+<dd>
+<p>A form of low tech Augmentative and Alternative Communication (AAC) that is made using words and / or individual letters.</p>
+</dd>
+<dt><a id="visual-and-auditory-scanning"></a> Visual and auditory scanning</dt>
+<dd>
+<p>An access method that is a form of listener mediated scanning. The communication partner points to the options whilst reading them aloud, and the individual indicates when they have seen and heard the target option.</p>
+</dd>
+<dt><a id="visual-scanning"></a> Visual scanning</dt>
+<dd>
+<p>An access method that is a form of listener mediated scanning. The communication partner points to the options available, and the individual indicates when the communication partner is pointing to the target option.</p>
+</dd>
+<dt><a id="voice-output-communication-aid"></a> Voice output communication aid</dt>
+<dd>
+<p>See AAC.</p>
+</dd>
+<dt><a id="writing-slope"></a> Writing slope</dt>
+<dd>
+<p>A piece of equipment designed to help someone write on paper at an optimum angle.</p>
+</dd>
+<dt><a id="zyfuse-heater"></a> Zyfuse heater</dt>
+<dd>
+<p>This equipment is a little like a printer.  When used with Zytex2 paper, it can produce tactile diagrams.  The Zyfuse Heater causes the ink on the special paper to swell, resulting in a raised diagram.</p>
+</dd>
+</dl>
+</div>
+</div>
+</div>
+</div>
+<div id="footer">
+<div id="footer-text">
+Version 1.1<br>
+Last updated 2017-01-05 16:49:53 UTC
+</div>
+</div>
+</body>
+</html>

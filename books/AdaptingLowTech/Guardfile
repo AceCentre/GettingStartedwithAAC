@@ -1,0 +1,13 @@
+require 'asciidoctor'
+require 'erb'
+
+interactor :off
+logger device: 'guard.log'
+
+guard 'shell', daemon: true do
+  watch(/^Main\.adoc$/) {|m|
+    Asciidoctor.convert_file('Main.adoc', :in_place => true, safe: :unsafe)
+    `cp Main.html /srv/ibooks.speechbubble.org.uk/AdaptingLowTech/Main.html`
+    `cp -r Media /srv/ibooks.speechbubble.org.uk/AdaptingLowTech/`
+  }
+end
