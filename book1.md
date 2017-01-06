@@ -4,9 +4,8 @@ title: Book 1
 permalink: /book1/
 ---
 
+<img src="assets/images/CoverAccessToLowTechSymbol.png" alt="cover image" style="width: 150px; float: right; margin: 0px 3px 2px 0px;"/>
 ## Getting Started with AAC: Access to low tech symbol based resources when pointing is difficult
-
-<img src="assets/images/CoverAccessToLowTechSymbol.png" alt="cover image" style="width: 150px; float: left; margin: 0px 3px 2px 0px;"/>
 
 [Read Online here](/books/AdaptingLowTech/) or
 
