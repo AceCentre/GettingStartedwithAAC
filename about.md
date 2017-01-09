@@ -4,7 +4,7 @@ title: About
 permalink: /
 ---
 
-Three books have been designed to help families and professionals alike to get started with Augmentative and Alternative Communication (AAC). 
+Three books have been designed to help families and professionals alike to get started with Augmentative and Alternative Communication (AAC). These have been edited by the [ACE Centre](http://acecentre.org.uk), a UK charity providing information, advice and support for individuals who require technology to communicate. 
 
 * [Book 1 - "Getting Started with AAC: Designing and using alphabet charts"](book1/) discusses how to develop an alphabet chart, with videos and examples of how to use them. You can download examples online from our site here.  
 * [Book 2 - "Getting Started with AAC: Using low tech symbol based systems with children"](book2/) introduces low tech symbol based AAC to support individuals who can’t rely on speech to communicate to the best of their ability.  A range of sample symbolised boards for you to use can be downloaded separately here. 
