@@ -10,8 +10,8 @@ Three books have been designed to help families and professionals alike to get s
 * [Book 2 - "Getting Started with AAC: Using low tech symbol based systems with children"](book2/) introduces low tech symbol based AAC to support individuals who can’t rely on speech to communicate to the best of their ability.  A range of sample symbolised boards for you to use can be downloaded separately here. 
 * [Book 3 - "Getting Started with AAC: Access to low tech symbol based resources when pointing is difficult"](book3/) explores alternate ways of accessing low tech symbol based AAC where a child/young person/adult has physical or visual difficulties that make standard resources hard to use.  This book is aimed at people who are familiar with low tech AAC and want to find out more about how to adjust and adapt the resources to meet individual needs.
 
-These resources were developed through grant funding from the Department for Education National Prospectus Grants Programme 2013-2015.  This project involved a consortium of ACE Centre, Communication Matters and 1Voice.
-A big thank you to the people who allowed us to share their stories within these resources.  We also would like to thank Ruth McMorran, Deborah Pugh and Marion Stanton for carefully reviewing the resources and their thoughtful comments.  
+These resources were developed through grant funding from the Department for Education National Prospectus Grants Programme 2013-2015.  This project involved a consortium of [ACE Centre](http://acecentre.org.uk), [Communication Matters](http://www.communicationmatters.org.uk) and [1Voice](http://www.1voice.info).
+A big thank you to the people who allowed us to share their stories within these resources.  We also would like to thank Ruth McMorran, Deborah Pugh and [Marion Stanton](http://candleaac.com) for carefully reviewing the resources and their thoughtful comments.  
 
-We really hope they are useful. Please do share information on these resources and let us know of any comments/improvements.
+We really hope they are useful. Please do share information on these resources and [let us know](http://acecentre.org.uk/contact-us) of any comments/improvements.
 
