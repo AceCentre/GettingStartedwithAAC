@@ -1801,353 +1801,598 @@ Similarly, peers such as school friends, play mates etc., can be enthusiastic an
 <tbody>
 <row>
 <entry align="left" valign="top"><simpara>Arts &amp; Crafts 54</simpara></entry>
-<entry align="left" valign="top"><simpara>image::Resources/arts_and_crafts_54-thumb.png</simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/arts_and_crafts_54_PCS.pdf">PCS - PDF</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/arts_and_crafts_54_SS.pdf">SymbolStix - PDF</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/arts_and_crafts_54_Widgit.pdf">Widgit - PDF</link></simpara></entry>
+<entry align="left" valign="top"><informalfigure>
+<mediaobject>
+<imageobject>
+<imagedata fileref="Media/images/Resources/arts_and_crafts_54_pcs-thumb.png"/>
+</imageobject>
+<textobject><phrase>arts and crafts 54 pcs thumb</phrase></textobject>
+</mediaobject>
+</informalfigure></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/arts_and_crafts_54_pcs.pdf">PCS - PDF</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/arts_and_crafts_54_ss.pdf">SymbolStix - PDF</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/arts_and_crafts_54_widgit.pdf">Widgit - PDF</link></simpara></entry>
 <entry align="left" valign="top"><simpara><link xl:href="Resources/arts_and_crafts_54.bm2">Boardmaker</link></simpara></entry>
 <entry align="left" valign="top"><simpara><link xl:href="Resources/arts_and_crafts_54_w.cip">Communicate in Print</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/arts_and_crafts_54.smd">SMD</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/arts_and_crafts_54.smd">SymbolMate</link></simpara></entry>
 </row>
 <row>
 <entry align="left" valign="top"><simpara>Balloons 8</simpara></entry>
-<entry align="left" valign="top"><simpara>image::Resources/balloons_8-thumb.png</simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/balloons_8_PCS.pdf">PCS - PDF</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/balloons_8_SS.pdf">SymbolStix - PDF</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/balloons_8_Widgit.pdf">Widgit - PDF</link></simpara></entry>
+<entry align="left" valign="top"><informalfigure>
+<mediaobject>
+<imageobject>
+<imagedata fileref="Media/images/Resources/balloons_8_pcs-thumb.png"/>
+</imageobject>
+<textobject><phrase>balloons 8 pcs thumb</phrase></textobject>
+</mediaobject>
+</informalfigure></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/balloons_8_pcs.pdf">PCS - PDF</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/balloons_8_ss.pdf">SymbolStix - PDF</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/balloons_8_widgit.pdf">Widgit - PDF</link></simpara></entry>
 <entry align="left" valign="top"><simpara><link xl:href="Resources/balloons_8.bm2">Boardmaker</link></simpara></entry>
 <entry align="left" valign="top"><simpara><link xl:href="Resources/balloons_8_w.cip">Communicate in Print</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/balloons_8.smd">SMD</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/balloons_8.smd">SymbolMate</link></simpara></entry>
 </row>
 <row>
 <entry align="left" valign="top"><simpara>Bath 15</simpara></entry>
-<entry align="left" valign="top"><simpara>image::Resources/bath_15-thumb.png</simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/bath_15_PCS.pdf">PCS - PDF</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/bath_15_SS.pdf">SymbolStix - PDF</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/bath_15_Widgit.pdf">Widgit - PDF</link></simpara></entry>
+<entry align="left" valign="top"><informalfigure>
+<mediaobject>
+<imageobject>
+<imagedata fileref="Media/images/Resources/bath_15_pcs-thumb.png"/>
+</imageobject>
+<textobject><phrase>bath 15 pcs thumb</phrase></textobject>
+</mediaobject>
+</informalfigure></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/bath_15_pcs.pdf">PCS - PDF</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/bath_15_ss.pdf">SymbolStix - PDF</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/bath_15_widgit.pdf">Widgit - PDF</link></simpara></entry>
 <entry align="left" valign="top"><simpara><link xl:href="Resources/bath_15.bm2">Boardmaker</link></simpara></entry>
 <entry align="left" valign="top"><simpara><link xl:href="Resources/bath_15_w.cip">Communicate in Print</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/bath_15.smd">SMD</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/bath_15.smd">SymbolMate</link></simpara></entry>
 </row>
 <row>
 <entry align="left" valign="top"><simpara>Blocks 24</simpara></entry>
-<entry align="left" valign="top"><simpara>image::Resources/blocks_24-thumb.png</simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/blocks_24_PCS.pdf">PCS - PDF</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/blocks_24_SS.pdf">SymbolStix - PDF</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/blocks_24_Widgit.pdf">Widgit - PDF</link></simpara></entry>
+<entry align="left" valign="top"><informalfigure>
+<mediaobject>
+<imageobject>
+<imagedata fileref="Media/images/Resources/blocks_24_pcs-thumb.png"/>
+</imageobject>
+<textobject><phrase>blocks 24 pcs thumb</phrase></textobject>
+</mediaobject>
+</informalfigure></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/blocks_24_pcs.pdf">PCS - PDF</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/blocks_24_ss.pdf">SymbolStix - PDF</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/blocks_24_widgit.pdf">Widgit - PDF</link></simpara></entry>
 <entry align="left" valign="top"><simpara><link xl:href="Resources/blocks_24.bm2">Boardmaker</link></simpara></entry>
 <entry align="left" valign="top"><simpara><link xl:href="Resources/blocks_24_w.cip">Communicate in Print</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/blocks_24.smd">SMD</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/blocks_24.smd">SymbolMate</link></simpara></entry>
 </row>
 <row>
 <entry align="left" valign="top"><simpara>Blocks 8</simpara></entry>
-<entry align="left" valign="top"><simpara>image::Resources/blocks_8-thumb.png</simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/blocks_8_PCS.pdf">PCS - PDF</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/blocks_8_SS.pdf">SymbolStix - PDF</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/blocks_8_Widgit.pdf">Widgit - PDF</link></simpara></entry>
+<entry align="left" valign="top"><informalfigure>
+<mediaobject>
+<imageobject>
+<imagedata fileref="Media/images/Resources/blocks_8_pcs-thumb.png"/>
+</imageobject>
+<textobject><phrase>blocks 8 pcs thumb</phrase></textobject>
+</mediaobject>
+</informalfigure></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/blocks_8_pcs.pdf">PCS - PDF</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/blocks_8_ss.pdf">SymbolStix - PDF</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/blocks_8_widgit.pdf">Widgit - PDF</link></simpara></entry>
 <entry align="left" valign="top"><simpara><link xl:href="Resources/blocks_8.bm2">Boardmaker</link></simpara></entry>
 <entry align="left" valign="top"><simpara><link xl:href="Resources/blocks_8_w.cip">Communicate in Print</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/blocks_8.smd">SMD</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/blocks_8.smd">SymbolMate</link></simpara></entry>
 </row>
 <row>
 <entry align="left" valign="top"><simpara>Bubbles 20</simpara></entry>
-<entry align="left" valign="top"><simpara>image::Resources/bubbles_20-thumb.png</simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/bubbles_20_PCS.pdf">PCS - PDF</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/bubbles_20_SS.pdf">SymbolStix - PDF</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/bubbles_20_Widgit.pdf">Widgit - PDF</link></simpara></entry>
+<entry align="left" valign="top"><informalfigure>
+<mediaobject>
+<imageobject>
+<imagedata fileref="Media/images/Resources/bubbles_20_pcs-thumb.png"/>
+</imageobject>
+<textobject><phrase>bubbles 20 pcs thumb</phrase></textobject>
+</mediaobject>
+</informalfigure></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/bubbles_20_pcs.pdf">PCS - PDF</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/bubbles_20_ss.pdf">SymbolStix - PDF</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/bubbles_20_widgit.pdf">Widgit - PDF</link></simpara></entry>
 <entry align="left" valign="top"><simpara><link xl:href="Resources/bubbles_20.bm2">Boardmaker</link></simpara></entry>
 <entry align="left" valign="top"><simpara><link xl:href="Resources/bubbles_20_w.cip">Communicate in Print</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/bubbles_20.smd">SMD</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/bubbles_20.smd">SymbolMate</link></simpara></entry>
 </row>
 <row>
 <entry align="left" valign="top"><simpara>Bubbles 8</simpara></entry>
-<entry align="left" valign="top"><simpara>image::Resources/bubbles_8-thumb.png</simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/bubbles_8_PCS.pdf">PCS - PDF</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/bubbles_8_SS.pdf">SymbolStix - PDF</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/bubbles_8_Widgit.pdf">Widgit - PDF</link></simpara></entry>
+<entry align="left" valign="top"><informalfigure>
+<mediaobject>
+<imageobject>
+<imagedata fileref="Media/images/Resources/bubbles_8_pcs-thumb.png"/>
+</imageobject>
+<textobject><phrase>bubbles 8 pcs thumb</phrase></textobject>
+</mediaobject>
+</informalfigure></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/bubbles_8_pcs.pdf">PCS - PDF</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/bubbles_8_ss.pdf">SymbolStix - PDF</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/bubbles_8_widgit.pdf">Widgit - PDF</link></simpara></entry>
 <entry align="left" valign="top"><simpara><link xl:href="Resources/bubbles_8.bm2">Boardmaker</link></simpara></entry>
 <entry align="left" valign="top"><simpara><link xl:href="Resources/bubbles_8_w.cip">Communicate in Print</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/bubbles_8.smd">SMD</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/bubbles_8.smd">SymbolMate</link></simpara></entry>
 </row>
 <row>
 <entry align="left" valign="top"><simpara>Chat About Tv 15</simpara></entry>
-<entry align="left" valign="top"><simpara>image::Resources/chat_about_tv_15-thumb.png</simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/chat_about_tv_15_PCS.pdf">PCS - PDF</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/chat_about_tv_15_SS.pdf">SymbolStix - PDF</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/chat_about_tv_15_Widgit.pdf">Widgit - PDF</link></simpara></entry>
+<entry align="left" valign="top"><informalfigure>
+<mediaobject>
+<imageobject>
+<imagedata fileref="Media/images/Resources/chat_about_tv_15_pcs-thumb.png"/>
+</imageobject>
+<textobject><phrase>chat about tv 15 pcs thumb</phrase></textobject>
+</mediaobject>
+</informalfigure></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/chat_about_tv_15_pcs.pdf">PCS - PDF</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/chat_about_tv_15_ss.pdf">SymbolStix - PDF</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/chat_about_tv_15_widgit.pdf">Widgit - PDF</link></simpara></entry>
 <entry align="left" valign="top"><simpara><link xl:href="Resources/chat_about_tv_15.bm2">Boardmaker</link></simpara></entry>
 <entry align="left" valign="top"><simpara><link xl:href="Resources/chat_about_tv_15_w.cip">Communicate in Print</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/chat_about_tv_15.smd">SMD</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/chat_about_tv_15.smd">SymbolMate</link></simpara></entry>
 </row>
 <row>
 <entry align="left" valign="top"><simpara>Colours 8</simpara></entry>
-<entry align="left" valign="top"><simpara>image::Resources/colours_8-thumb.png</simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/colours_8_PCS.pdf">PCS - PDF</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/colours_8_SS.pdf">SymbolStix - PDF</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/colours_8_Widgit.pdf">Widgit - PDF</link></simpara></entry>
+<entry align="left" valign="top"><informalfigure>
+<mediaobject>
+<imageobject>
+<imagedata fileref="Media/images/Resources/colours_8_pcs-thumb.png"/>
+</imageobject>
+<textobject><phrase>colours 8 pcs thumb</phrase></textobject>
+</mediaobject>
+</informalfigure></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/colours_8_pcs.pdf">PCS - PDF</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/colours_8_ss.pdf">SymbolStix - PDF</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/colours_8_widgit.pdf">Widgit - PDF</link></simpara></entry>
 <entry align="left" valign="top"><simpara><link xl:href="Resources/colours_8.bm2">Boardmaker</link></simpara></entry>
 <entry align="left" valign="top"><simpara><link xl:href="Resources/colours_8_w.cip">Communicate in Print</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/colours_8.smd">SMD</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/colours_8.smd">SymbolMate</link></simpara></entry>
 </row>
 <row>
 <entry align="left" valign="top"><simpara>Core 15</simpara></entry>
-<entry align="left" valign="top"><simpara>image::Resources/core_15-thumb.png</simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/core_15_PCS.pdf">PCS - PDF</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/core_15_SS.pdf">SymbolStix - PDF</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/core_15_Widgit.pdf">Widgit - PDF</link></simpara></entry>
+<entry align="left" valign="top"><informalfigure>
+<mediaobject>
+<imageobject>
+<imagedata fileref="Media/images/Resources/core_15_pcs-thumb.png"/>
+</imageobject>
+<textobject><phrase>core 15 pcs thumb</phrase></textobject>
+</mediaobject>
+</informalfigure></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/core_15_pcs.pdf">PCS - PDF</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/core_15_ss.pdf">SymbolStix - PDF</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/core_15_widgit.pdf">Widgit - PDF</link></simpara></entry>
 <entry align="left" valign="top"><simpara><link xl:href="Resources/core_15.bm2">Boardmaker</link></simpara></entry>
 <entry align="left" valign="top"><simpara><link xl:href="Resources/core_15_w.cip">Communicate in Print</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/core_15.smd">SMD</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/core_15.smd">SymbolMate</link></simpara></entry>
 </row>
 <row>
 <entry align="left" valign="top"><simpara>Core 2</simpara></entry>
-<entry align="left" valign="top"><simpara>image::Resources/core_2-thumb.png</simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/core_2_PCS.pdf">PCS - PDF</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/core_2_SS.pdf">SymbolStix - PDF</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/core_2_Widgit.pdf">Widgit - PDF</link></simpara></entry>
+<entry align="left" valign="top"><informalfigure>
+<mediaobject>
+<imageobject>
+<imagedata fileref="Media/images/Resources/core_2_pcs-thumb.png"/>
+</imageobject>
+<textobject><phrase>core 2 pcs thumb</phrase></textobject>
+</mediaobject>
+</informalfigure></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/core_2_pcs.pdf">PCS - PDF</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/core_2_ss.pdf">SymbolStix - PDF</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/core_2_widgit.pdf">Widgit - PDF</link></simpara></entry>
 <entry align="left" valign="top"><simpara><link xl:href="Resources/core_2.bm2">Boardmaker</link></simpara></entry>
 <entry align="left" valign="top"><simpara><link xl:href="Resources/core_2_w.cip">Communicate in Print</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/core_2.smd">SMD</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/core_2.smd">SymbolMate</link></simpara></entry>
 </row>
 <row>
 <entry align="left" valign="top"><simpara>Core 28</simpara></entry>
-<entry align="left" valign="top"><simpara>image::Resources/core_28-thumb.png</simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/core_28_PCS.pdf">PCS - PDF</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/core_28_SS.pdf">SymbolStix - PDF</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/core_28_Widgit.pdf">Widgit - PDF</link></simpara></entry>
+<entry align="left" valign="top"><informalfigure>
+<mediaobject>
+<imageobject>
+<imagedata fileref="Media/images/Resources/core_28_pcs-thumb.png"/>
+</imageobject>
+<textobject><phrase>core 28 pcs thumb</phrase></textobject>
+</mediaobject>
+</informalfigure></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/core_28_pcs.pdf">PCS - PDF</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/core_28_ss.pdf">SymbolStix - PDF</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/core_28_widgit.pdf">Widgit - PDF</link></simpara></entry>
 <entry align="left" valign="top"><simpara><link xl:href="Resources/core_28.bm2">Boardmaker</link></simpara></entry>
 <entry align="left" valign="top"><simpara><link xl:href="Resources/core_28_w.cip">Communicate in Print</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/core_28.smd">SMD</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/core_28.smd">SymbolMate</link></simpara></entry>
 </row>
 <row>
 <entry align="left" valign="top"><simpara>Core 8</simpara></entry>
-<entry align="left" valign="top"><simpara>image::Resources/core_8-thumb.png</simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/core_8_PCS.pdf">PCS - PDF</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/core_8_SS.pdf">SymbolStix - PDF</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/core_8_Widgit.pdf">Widgit - PDF</link></simpara></entry>
+<entry align="left" valign="top"><informalfigure>
+<mediaobject>
+<imageobject>
+<imagedata fileref="Media/images/Resources/core_8_pcs-thumb.png"/>
+</imageobject>
+<textobject><phrase>core 8 pcs thumb</phrase></textobject>
+</mediaobject>
+</informalfigure></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/core_8_pcs.pdf">PCS - PDF</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/core_8_ss.pdf">SymbolStix - PDF</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/core_8_widgit.pdf">Widgit - PDF</link></simpara></entry>
 <entry align="left" valign="top"><simpara><link xl:href="Resources/core_8.bm2">Boardmaker</link></simpara></entry>
 <entry align="left" valign="top"><simpara><link xl:href="Resources/core_8_w.cip">Communicate in Print</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/core_8.smd">SMD</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/core_8.smd">SymbolMate</link></simpara></entry>
 </row>
 <row>
 <entry align="left" valign="top"><simpara>Creating Stories 30</simpara></entry>
-<entry align="left" valign="top"><simpara>image::Resources/creating_stories_30-thumb.png</simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/creating_stories_30_PCS.pdf">PCS - PDF</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/creating_stories_30_SS.pdf">SymbolStix - PDF</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/creating_stories_30_Widgit.pdf">Widgit - PDF</link></simpara></entry>
+<entry align="left" valign="top"><informalfigure>
+<mediaobject>
+<imageobject>
+<imagedata fileref="Media/images/Resources/creating_stories_30_pcs-thumb.png"/>
+</imageobject>
+<textobject><phrase>creating stories 30 pcs thumb</phrase></textobject>
+</mediaobject>
+</informalfigure></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/creating_stories_30_pcs.pdf">PCS - PDF</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/creating_stories_30_ss.pdf">SymbolStix - PDF</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/creating_stories_30_widgit.pdf">Widgit - PDF</link></simpara></entry>
 <entry align="left" valign="top"><simpara><link xl:href="Resources/creating_stories_30.bm2">Boardmaker</link></simpara></entry>
 <entry align="left" valign="top"><simpara><link xl:href="Resources/creating_stories_30_w.cip">Communicate in Print</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/creating_stories_30.smd">SMD</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/creating_stories_30.smd">SymbolMate</link></simpara></entry>
 </row>
 <row>
 <entry align="left" valign="top"><simpara>Dolly 15</simpara></entry>
-<entry align="left" valign="top"><simpara>image::Resources/dolly_15-thumb.png</simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/dolly_15_PCS.pdf">PCS - PDF</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/dolly_15_SS.pdf">SymbolStix - PDF</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/dolly_15_Widgit.pdf">Widgit - PDF</link></simpara></entry>
+<entry align="left" valign="top"><informalfigure>
+<mediaobject>
+<imageobject>
+<imagedata fileref="Media/images/Resources/dolly_15_pcs-thumb.png"/>
+</imageobject>
+<textobject><phrase>dolly 15 pcs thumb</phrase></textobject>
+</mediaobject>
+</informalfigure></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/dolly_15_pcs.pdf">PCS - PDF</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/dolly_15_ss.pdf">SymbolStix - PDF</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/dolly_15_widgit.pdf">Widgit - PDF</link></simpara></entry>
 <entry align="left" valign="top"><simpara><link xl:href="Resources/dolly_15.bm2">Boardmaker</link></simpara></entry>
 <entry align="left" valign="top"><simpara><link xl:href="Resources/dolly_15_w.cip">Communicate in Print</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/dolly_15.smd">SMD</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/dolly_15.smd">SymbolMate</link></simpara></entry>
 </row>
 <row>
 <entry align="left" valign="top"><simpara>Dolly 8</simpara></entry>
-<entry align="left" valign="top"><simpara>image::Resources/dolly_8-thumb.png</simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/dolly_8_PCS.pdf">PCS - PDF</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/dolly_8_SS.pdf">SymbolStix - PDF</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/dolly_8_Widgit.pdf">Widgit - PDF</link></simpara></entry>
+<entry align="left" valign="top"><informalfigure>
+<mediaobject>
+<imageobject>
+<imagedata fileref="Media/images/Resources/dolly_8_pcs-thumb.png"/>
+</imageobject>
+<textobject><phrase>dolly 8 pcs thumb</phrase></textobject>
+</mediaobject>
+</informalfigure></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/dolly_8_pcs.pdf">PCS - PDF</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/dolly_8_ss.pdf">SymbolStix - PDF</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/dolly_8_widgit.pdf">Widgit - PDF</link></simpara></entry>
 <entry align="left" valign="top"><simpara><link xl:href="Resources/dolly_8.bm2">Boardmaker</link></simpara></entry>
 <entry align="left" valign="top"><simpara><link xl:href="Resources/dolly_8_w.cip">Communicate in Print</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/dolly_8.smd">SMD</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/dolly_8.smd">SymbolMate</link></simpara></entry>
 </row>
 <row>
 <entry align="left" valign="top"><simpara>Dressing Up As Princess 30</simpara></entry>
-<entry align="left" valign="top"><simpara>image::Resources/dressing_up_as_princess_30-thumb.png</simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/dressing_up_as_princess_30_PCS.pdf">PCS - PDF</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/dressing_up_as_princess_30_SS.pdf">SymbolStix - PDF</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/dressing_up_as_princess_30_Widgit.pdf">Widgit - PDF</link></simpara></entry>
+<entry align="left" valign="top"><informalfigure>
+<mediaobject>
+<imageobject>
+<imagedata fileref="Media/images/Resources/dressing_up_as_princess_30_pcs-thumb.png"/>
+</imageobject>
+<textobject><phrase>dressing up as princess 30 pcs thumb</phrase></textobject>
+</mediaobject>
+</informalfigure></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/dressing_up_as_princess_30_pcs.pdf">PCS - PDF</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/dressing_up_as_princess_30_ss.pdf">SymbolStix - PDF</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/dressing_up_as_princess_30_widgit.pdf">Widgit - PDF</link></simpara></entry>
 <entry align="left" valign="top"><simpara><link xl:href="Resources/dressing_up_as_princess_30.bm2">Boardmaker</link></simpara></entry>
 <entry align="left" valign="top"><simpara><link xl:href="Resources/dressing_up_as_princess_30_w.cip">Communicate in Print</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/dressing_up_as_princess_30.smd">SMD</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/dressing_up_as_princess_30.smd">SymbolMate</link></simpara></entry>
 </row>
 <row>
 <entry align="left" valign="top"><simpara>Dressing Up As Princess 8</simpara></entry>
-<entry align="left" valign="top"><simpara>image::Resources/dressing_up_as_princess_8-thumb.png</simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/dressing_up_as_princess_8_PCS.pdf">PCS - PDF</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/dressing_up_as_princess_8_SS.pdf">SymbolStix - PDF</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/dressing_up_as_princess_8_Widgit.pdf">Widgit - PDF</link></simpara></entry>
+<entry align="left" valign="top"><informalfigure>
+<mediaobject>
+<imageobject>
+<imagedata fileref="Media/images/Resources/dressing_up_as_princess_8_pcs-thumb.png"/>
+</imageobject>
+<textobject><phrase>dressing up as princess 8 pcs thumb</phrase></textobject>
+</mediaobject>
+</informalfigure></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/dressing_up_as_princess_8_pcs.pdf">PCS - PDF</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/dressing_up_as_princess_8_ss.pdf">SymbolStix - PDF</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/dressing_up_as_princess_8_widgit.pdf">Widgit - PDF</link></simpara></entry>
 <entry align="left" valign="top"><simpara><link xl:href="Resources/dressing_up_as_princess_8.bm2">Boardmaker</link></simpara></entry>
 <entry align="left" valign="top"><simpara><link xl:href="Resources/dressing_up_as_princess_8_w.cip">Communicate in Print</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/dressing_up_as_princess_8.smd">SMD</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/dressing_up_as_princess_8.smd">SymbolMate</link></simpara></entry>
 </row>
 <row>
 <entry align="left" valign="top"><simpara>Kerplunk 24</simpara></entry>
-<entry align="left" valign="top"><simpara>image::Resources/kerplunk_24-thumb.png</simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/kerplunk_24_PCS.pdf">PCS - PDF</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/kerplunk_24_SS.pdf">SymbolStix - PDF</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/kerplunk_24_Widgit.pdf">Widgit - PDF</link></simpara></entry>
+<entry align="left" valign="top"><informalfigure>
+<mediaobject>
+<imageobject>
+<imagedata fileref="Media/images/Resources/kerplunk_24_pcs-thumb.png"/>
+</imageobject>
+<textobject><phrase>kerplunk 24 pcs thumb</phrase></textobject>
+</mediaobject>
+</informalfigure></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/kerplunk_24_pcs.pdf">PCS - PDF</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/kerplunk_24_ss.pdf">SymbolStix - PDF</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/kerplunk_24_widgit.pdf">Widgit - PDF</link></simpara></entry>
 <entry align="left" valign="top"><simpara><link xl:href="Resources/kerplunk_24.bm2">Boardmaker</link></simpara></entry>
 <entry align="left" valign="top"><simpara><link xl:href="Resources/kerplunk_24_w.cip">Communicate in Print</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/kerplunk_24.smd">SMD</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/kerplunk_24.smd">SymbolMate</link></simpara></entry>
 </row>
 <row>
 <entry align="left" valign="top"><simpara>Look At Photos 8</simpara></entry>
-<entry align="left" valign="top"><simpara>image::Resources/look_at_photos_8-thumb.png</simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/look_at_photos_8_PCS.pdf">PCS - PDF</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/look_at_photos_8_SS.pdf">SymbolStix - PDF</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/look_at_photos_8_Widgit.pdf">Widgit - PDF</link></simpara></entry>
+<entry align="left" valign="top"><informalfigure>
+<mediaobject>
+<imageobject>
+<imagedata fileref="Media/images/Resources/look_at_photos_8_pcs-thumb.png"/>
+</imageobject>
+<textobject><phrase>look at photos 8 pcs thumb</phrase></textobject>
+</mediaobject>
+</informalfigure></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/look_at_photos_8_pcs.pdf">PCS - PDF</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/look_at_photos_8_ss.pdf">SymbolStix - PDF</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/look_at_photos_8_widgit.pdf">Widgit - PDF</link></simpara></entry>
 <entry align="left" valign="top"><simpara><link xl:href="Resources/look_at_photos_8.bm2">Boardmaker</link></simpara></entry>
 <entry align="left" valign="top"><simpara><link xl:href="Resources/look_at_photos_8_w.cip">Communicate in Print</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/look_at_photos_8.smd">SMD</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/look_at_photos_8.smd">SymbolMate</link></simpara></entry>
 </row>
 <row>
 <entry align="left" valign="top"><simpara>Make Up 30</simpara></entry>
-<entry align="left" valign="top"><simpara>image::Resources/make_up_30-thumb.png</simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/make_up_30_PCS.pdf">PCS - PDF</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/make_up_30_SS.pdf">SymbolStix - PDF</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/make_up_30_Widgit.pdf">Widgit - PDF</link></simpara></entry>
+<entry align="left" valign="top"><informalfigure>
+<mediaobject>
+<imageobject>
+<imagedata fileref="Media/images/Resources/make_up_30_pcs-thumb.png"/>
+</imageobject>
+<textobject><phrase>make up 30 pcs thumb</phrase></textobject>
+</mediaobject>
+</informalfigure></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/make_up_30_pcs.pdf">PCS - PDF</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/make_up_30_ss.pdf">SymbolStix - PDF</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/make_up_30_widgit.pdf">Widgit - PDF</link></simpara></entry>
 <entry align="left" valign="top"><simpara><link xl:href="Resources/make_up_30.bm2">Boardmaker</link></simpara></entry>
 <entry align="left" valign="top"><simpara><link xl:href="Resources/make_up_30_w.cip">Communicate in Print</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/make_up_30.smd">SMD</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/make_up_30.smd">SymbolMate</link></simpara></entry>
 </row>
 <row>
 <entry align="left" valign="top"><simpara>Medical Kit 30</simpara></entry>
-<entry align="left" valign="top"><simpara>image::Resources/medical_kit_30-thumb.png</simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/medical_kit_30_PCS.pdf">PCS - PDF</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/medical_kit_30_SS.pdf">SymbolStix - PDF</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/medical_kit_30_Widgit.pdf">Widgit - PDF</link></simpara></entry>
+<entry align="left" valign="top"><informalfigure>
+<mediaobject>
+<imageobject>
+<imagedata fileref="Media/images/Resources/medical_kit_30_pcs-thumb.png"/>
+</imageobject>
+<textobject><phrase>medical kit 30 pcs thumb</phrase></textobject>
+</mediaobject>
+</informalfigure></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/medical_kit_30_pcs.pdf">PCS - PDF</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/medical_kit_30_ss.pdf">SymbolStix - PDF</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/medical_kit_30_widgit.pdf">Widgit - PDF</link></simpara></entry>
 <entry align="left" valign="top"><simpara><link xl:href="Resources/medical_kit_30.bm2">Boardmaker</link></simpara></entry>
 <entry align="left" valign="top"><simpara><link xl:href="Resources/medical_kit_30_w.cip">Communicate in Print</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/medical_kit_30.smd">SMD</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/medical_kit_30.smd">SymbolMate</link></simpara></entry>
 </row>
 <row>
 <entry align="left" valign="top"><simpara>Mr Potato Head 30</simpara></entry>
-<entry align="left" valign="top"><simpara>image::Resources/mr_potato_head_30-thumb.png</simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/mr_potato_head_30_PCS.pdf">PCS - PDF</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/mr_potato_head_30_SS.pdf">SymbolStix - PDF</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/mr_potato_head_30_Widgit.pdf">Widgit - PDF</link></simpara></entry>
+<entry align="left" valign="top"><informalfigure>
+<mediaobject>
+<imageobject>
+<imagedata fileref="Media/images/Resources/mr_potato_head_30_pcs-thumb.png"/>
+</imageobject>
+<textobject><phrase>mr potato head 30 pcs thumb</phrase></textobject>
+</mediaobject>
+</informalfigure></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/mr_potato_head_30_pcs.pdf">PCS - PDF</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/mr_potato_head_30_ss.pdf">SymbolStix - PDF</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/mr_potato_head_30_widgit.pdf">Widgit - PDF</link></simpara></entry>
 <entry align="left" valign="top"><simpara><link xl:href="Resources/mr_potato_head_30.bm2">Boardmaker</link></simpara></entry>
 <entry align="left" valign="top"><simpara><link xl:href="Resources/mr_potato_head_30_w.cip">Communicate in Print</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/mr_potato_head_30.smd">SMD</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/mr_potato_head_30.smd">SymbolMate</link></simpara></entry>
 </row>
 <row>
 <entry align="left" valign="top"><simpara>Peppa 15</simpara></entry>
-<entry align="left" valign="top"><simpara>image::Resources/peppa_15-thumb.png</simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/peppa_15_PCS.pdf">PCS - PDF</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/peppa_15_SS.pdf">SymbolStix - PDF</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/peppa_15_Widgit.pdf">Widgit - PDF</link></simpara></entry>
+<entry align="left" valign="top"><informalfigure>
+<mediaobject>
+<imageobject>
+<imagedata fileref="Media/images/Resources/peppa_15_pcs-thumb.png"/>
+</imageobject>
+<textobject><phrase>peppa 15 pcs thumb</phrase></textobject>
+</mediaobject>
+</informalfigure></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/peppa_15_pcs.pdf">PCS - PDF</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/peppa_15_ss.pdf">SymbolStix - PDF</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/peppa_15_widgit.pdf">Widgit - PDF</link></simpara></entry>
 <entry align="left" valign="top"><simpara><link xl:href="Resources/peppa_15.bm2">Boardmaker</link></simpara></entry>
 <entry align="left" valign="top"><simpara><link xl:href="Resources/peppa_15_w.cip">Communicate in Print</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/peppa_15.smd">SMD</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/peppa_15.smd">SymbolMate</link></simpara></entry>
 </row>
 <row>
 <entry align="left" valign="top"><simpara>Read Dear Zoo 30</simpara></entry>
-<entry align="left" valign="top"><simpara>image::Resources/read_dear_zoo_30-thumb.png</simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/read_dear_zoo_30_PCS.pdf">PCS - PDF</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/read_dear_zoo_30_SS.pdf">SymbolStix - PDF</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/read_dear_zoo_30_Widgit.pdf">Widgit - PDF</link></simpara></entry>
+<entry align="left" valign="top"><informalfigure>
+<mediaobject>
+<imageobject>
+<imagedata fileref="Media/images/Resources/read_dear_zoo_30_pcs-thumb.png"/>
+</imageobject>
+<textobject><phrase>read dear zoo 30 pcs thumb</phrase></textobject>
+</mediaobject>
+</informalfigure></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/read_dear_zoo_30_pcs.pdf">PCS - PDF</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/read_dear_zoo_30_ss.pdf">SymbolStix - PDF</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/read_dear_zoo_30_widgit.pdf">Widgit - PDF</link></simpara></entry>
 <entry align="left" valign="top"><simpara><link xl:href="Resources/read_dear_zoo_30.bm2">Boardmaker</link></simpara></entry>
 <entry align="left" valign="top"><simpara><link xl:href="Resources/read_dear_zoo_30_w.cip">Communicate in Print</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/read_dear_zoo_30.smd">SMD</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/read_dear_zoo_30.smd">SymbolMate</link></simpara></entry>
 </row>
 <row>
 <entry align="left" valign="top"><simpara>Reading 15</simpara></entry>
-<entry align="left" valign="top"><simpara>image::Resources/reading_15-thumb.png</simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/reading_15_PCS.pdf">PCS - PDF</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/reading_15_SS.pdf">SymbolStix - PDF</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/reading_15_Widgit.pdf">Widgit - PDF</link></simpara></entry>
+<entry align="left" valign="top"><informalfigure>
+<mediaobject>
+<imageobject>
+<imagedata fileref="Media/images/Resources/reading_15_pcs-thumb.png"/>
+</imageobject>
+<textobject><phrase>reading 15 pcs thumb</phrase></textobject>
+</mediaobject>
+</informalfigure></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/reading_15_pcs.pdf">PCS - PDF</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/reading_15_ss.pdf">SymbolStix - PDF</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/reading_15_widgit.pdf">Widgit - PDF</link></simpara></entry>
 <entry align="left" valign="top"><simpara><link xl:href="Resources/reading_15.bm2">Boardmaker</link></simpara></entry>
 <entry align="left" valign="top"><simpara><link xl:href="Resources/reading_15_w.cip">Communicate in Print</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/reading_15.smd">SMD</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/reading_15.smd">SymbolMate</link></simpara></entry>
 </row>
 <row>
 <entry align="left" valign="top"><simpara>Simon Says 8</simpara></entry>
-<entry align="left" valign="top"><simpara>image::Resources/simon_says_8-thumb.png</simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/simon_says_8_PCS.pdf">PCS - PDF</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/simon_says_8_SS.pdf">SymbolStix - PDF</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/simon_says_8_Widgit.pdf">Widgit - PDF</link></simpara></entry>
+<entry align="left" valign="top"><informalfigure>
+<mediaobject>
+<imageobject>
+<imagedata fileref="Media/images/Resources/simon_says_8_pcs-thumb.png"/>
+</imageobject>
+<textobject><phrase>simon says 8 pcs thumb</phrase></textobject>
+</mediaobject>
+</informalfigure></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/simon_says_8_pcs.pdf">PCS - PDF</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/simon_says_8_ss.pdf">SymbolStix - PDF</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/simon_says_8_widgit.pdf">Widgit - PDF</link></simpara></entry>
 <entry align="left" valign="top"><simpara><link xl:href="Resources/simon_says_8.bm2">Boardmaker</link></simpara></entry>
 <entry align="left" valign="top"><simpara><link xl:href="Resources/simon_says_8_w.cip">Communicate in Print</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/simon_says_8.smd">SMD</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/simon_says_8.smd">SymbolMate</link></simpara></entry>
 </row>
 <row>
 <entry align="left" valign="top"><simpara>Sing Old Macdonald 8</simpara></entry>
-<entry align="left" valign="top"><simpara>image::Resources/sing_old_macdonald_8-thumb.png</simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/sing_old_macdonald_8_PCS.pdf">PCS - PDF</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/sing_old_macdonald_8_SS.pdf">SymbolStix - PDF</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/sing_old_macdonald_8_Widgit.pdf">Widgit - PDF</link></simpara></entry>
+<entry align="left" valign="top"><informalfigure>
+<mediaobject>
+<imageobject>
+<imagedata fileref="Media/images/Resources/sing_old_macdonald_8_pcs-thumb.png"/>
+</imageobject>
+<textobject><phrase>sing old macdonald 8 pcs thumb</phrase></textobject>
+</mediaobject>
+</informalfigure></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/sing_old_macdonald_8_pcs.pdf">PCS - PDF</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/sing_old_macdonald_8_ss.pdf">SymbolStix - PDF</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/sing_old_macdonald_8_widgit.pdf">Widgit - PDF</link></simpara></entry>
 <entry align="left" valign="top"><simpara><link xl:href="Resources/sing_old_macdonald_8.bm2">Boardmaker</link></simpara></entry>
 <entry align="left" valign="top"><simpara><link xl:href="Resources/sing_old_macdonald_8_w.cip">Communicate in Print</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/sing_old_macdonald_8.smd">SMD</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/sing_old_macdonald_8.smd">SymbolMate</link></simpara></entry>
 </row>
 <row>
-<entry align="left" valign="top"><simpara>Sing Heels On The Bus 8</simpara></entry>
-<entry align="left" valign="top"><simpara>image::Resources/singheels_on_the_bus_8-thumb.png</simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/singheels_on_the_bus_8_PCS.pdf">PCS - PDF</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/singheels_on_the_bus_8_SS.pdf">SymbolStix - PDF</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/singheels_on_the_bus_8_Widgit.pdf">Widgit - PDF</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/singheels_on_the_bus_8.bm2">Boardmaker</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/singheels_on_the_bus_8_w.cip">Communicate in Print</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/singheels_on_the_bus_8.smd">SMD</link></simpara></entry>
+<entry align="left" valign="top"><simpara>Sing Wheels On The Bus 8</simpara></entry>
+<entry align="left" valign="top"><informalfigure>
+<mediaobject>
+<imageobject>
+<imagedata fileref="Media/images/Resources/sing_wheels_on_the_bus_8_pcs-thumb.png"/>
+</imageobject>
+<textobject><phrase>sing wheels on the bus 8 pcs thumb</phrase></textobject>
+</mediaobject>
+</informalfigure></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/sing_wheels_on_the_bus_8_pcs.pdf">PCS - PDF</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/sing_wheels_on_the_bus_8_ss.pdf">SymbolStix - PDF</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/sing_wheels_on_the_bus_8_widgit.pdf">Widgit - PDF</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/sing_wheels_on_the_bus_8.bm2">Boardmaker</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/sing_wheels_on_the_bus_8_w.cip">Communicate in Print</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/sing_wheels_on_the_bus_8.smd">SymbolMate</link></simpara></entry>
 </row>
 <row>
 <entry align="left" valign="top"><simpara>Singing 8</simpara></entry>
-<entry align="left" valign="top"><simpara>image::Resources/singing_8-thumb.png</simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/singing_8_PCS.pdf">PCS - PDF</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/singing_8_SS.pdf">SymbolStix - PDF</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/singing_8_Widgit.pdf">Widgit - PDF</link></simpara></entry>
+<entry align="left" valign="top"><informalfigure>
+<mediaobject>
+<imageobject>
+<imagedata fileref="Media/images/Resources/singing_8_pcs-thumb.png"/>
+</imageobject>
+<textobject><phrase>singing 8 pcs thumb</phrase></textobject>
+</mediaobject>
+</informalfigure></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/singing_8_pcs.pdf">PCS - PDF</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/singing_8_ss.pdf">SymbolStix - PDF</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/singing_8_widgit.pdf">Widgit - PDF</link></simpara></entry>
 <entry align="left" valign="top"><simpara><link xl:href="Resources/singing_8.bm2">Boardmaker</link></simpara></entry>
 <entry align="left" valign="top"><simpara><link xl:href="Resources/singing_8_w.cip">Communicate in Print</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/singing_8.smd">SMD</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/singing_8.smd">SymbolMate</link></simpara></entry>
 </row>
 <row>
 <entry align="left" valign="top"><simpara>Snakes And Ladders 40</simpara></entry>
-<entry align="left" valign="top"><simpara>image::Resources/snakes_and_ladders_40-thumb.png</simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/snakes_and_ladders_40_PCS.pdf">PCS - PDF</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/snakes_and_ladders_40_SS.pdf">SymbolStix - PDF</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/snakes_and_ladders_40_Widgit.pdf">Widgit - PDF</link></simpara></entry>
+<entry align="left" valign="top"><informalfigure>
+<mediaobject>
+<imageobject>
+<imagedata fileref="Media/images/Resources/snakes_and_ladders_40_pcs-thumb.png"/>
+</imageobject>
+<textobject><phrase>snakes and ladders 40 pcs thumb</phrase></textobject>
+</mediaobject>
+</informalfigure></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/snakes_and_ladders_40_pcs.pdf">PCS - PDF</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/snakes_and_ladders_40_ss.pdf">SymbolStix - PDF</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/snakes_and_ladders_40_widgit.pdf">Widgit - PDF</link></simpara></entry>
 <entry align="left" valign="top"><simpara><link xl:href="Resources/snakes_and_ladders_40.bm2">Boardmaker</link></simpara></entry>
 <entry align="left" valign="top"><simpara><link xl:href="Resources/snakes_and_ladders_40_w.cip">Communicate in Print</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/snakes_and_ladders_40.smd">SMD</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/snakes_and_ladders_40.smd">SymbolMate</link></simpara></entry>
 </row>
 <row>
 <entry align="left" valign="top"><simpara>Tea Party 12</simpara></entry>
-<entry align="left" valign="top"><simpara>image::Resources/tea_party_12-thumb.png</simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/tea_party_12_PCS.pdf">PCS - PDF</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/tea_party_12_SS.pdf">SymbolStix - PDF</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/tea_party_12_Widgit.pdf">Widgit - PDF</link></simpara></entry>
+<entry align="left" valign="top"><informalfigure>
+<mediaobject>
+<imageobject>
+<imagedata fileref="Media/images/Resources/tea_party_12_pcs-thumb.png"/>
+</imageobject>
+<textobject><phrase>tea party 12 pcs thumb</phrase></textobject>
+</mediaobject>
+</informalfigure></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/tea_party_12_pcs.pdf">PCS - PDF</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/tea_party_12_ss.pdf">SymbolStix - PDF</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/tea_party_12_widgit.pdf">Widgit - PDF</link></simpara></entry>
 <entry align="left" valign="top"><simpara><link xl:href="Resources/tea_party_12.bm2">Boardmaker</link></simpara></entry>
 <entry align="left" valign="top"><simpara><link xl:href="Resources/tea_party_12_w.cip">Communicate in Print</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/tea_party_12.smd">SMD</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/tea_party_12.smd">SymbolMate</link></simpara></entry>
 </row>
 <row>
 <entry align="left" valign="top"><simpara>Tea Party 24</simpara></entry>
-<entry align="left" valign="top"><simpara>image::Resources/tea_party_24-thumb.png</simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/tea_party_24_PCS.pdf">PCS - PDF</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/tea_party_24_SS.pdf">SymbolStix - PDF</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/tea_party_24_Widgit.pdf">Widgit - PDF</link></simpara></entry>
+<entry align="left" valign="top"><informalfigure>
+<mediaobject>
+<imageobject>
+<imagedata fileref="Media/images/Resources/tea_party_24_pcs-thumb.png"/>
+</imageobject>
+<textobject><phrase>tea party 24 pcs thumb</phrase></textobject>
+</mediaobject>
+</informalfigure></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/tea_party_24_pcs.pdf">PCS - PDF</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/tea_party_24_ss.pdf">SymbolStix - PDF</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/tea_party_24_widgit.pdf">Widgit - PDF</link></simpara></entry>
 <entry align="left" valign="top"><simpara><link xl:href="Resources/tea_party_24.bm2">Boardmaker</link></simpara></entry>
 <entry align="left" valign="top"><simpara><link xl:href="Resources/tea_party_24_w.cip">Communicate in Print</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/tea_party_24.smd">SMD</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/tea_party_24.smd">SymbolMate</link></simpara></entry>
 </row>
 <row>
 <entry align="left" valign="top"><simpara>Train Play 20</simpara></entry>
-<entry align="left" valign="top"><simpara>image::Resources/train_play_20-thumb.png</simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/train_play_20_PCS.pdf">PCS - PDF</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/train_play_20_SS.pdf">SymbolStix - PDF</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/train_play_20_Widgit.pdf">Widgit - PDF</link></simpara></entry>
+<entry align="left" valign="top"><informalfigure>
+<mediaobject>
+<imageobject>
+<imagedata fileref="Media/images/Resources/train_play_20_pcs-thumb.png"/>
+</imageobject>
+<textobject><phrase>train play 20 pcs thumb</phrase></textobject>
+</mediaobject>
+</informalfigure></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/train_play_20_pcs.pdf">PCS - PDF</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/train_play_20_ss.pdf">SymbolStix - PDF</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/train_play_20_widgit.pdf">Widgit - PDF</link></simpara></entry>
 <entry align="left" valign="top"><simpara><link xl:href="Resources/train_play_20.bm2">Boardmaker</link></simpara></entry>
 <entry align="left" valign="top"><simpara><link xl:href="Resources/train_play_20_w.cip">Communicate in Print</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/train_play_20.smd">SMD</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/train_play_20.smd">SymbolMate</link></simpara></entry>
 </row>
 <row>
 <entry align="left" valign="top"><simpara>Turn Taking 4</simpara></entry>
-<entry align="left" valign="top"><simpara>image::Resources/turn_taking_4-thumb.png</simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/turn_taking_4_PCS.pdf">PCS - PDF</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/turn_taking_4_SS.pdf">SymbolStix - PDF</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/turn_taking_4_Widgit.pdf">Widgit - PDF</link></simpara></entry>
+<entry align="left" valign="top"><informalfigure>
+<mediaobject>
+<imageobject>
+<imagedata fileref="Media/images/Resources/turn_taking_4_pcs-thumb.png"/>
+</imageobject>
+<textobject><phrase>turn taking 4 pcs thumb</phrase></textobject>
+</mediaobject>
+</informalfigure></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/turn_taking_4_pcs.pdf">PCS - PDF</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/turn_taking_4_ss.pdf">SymbolStix - PDF</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/turn_taking_4_widgit.pdf">Widgit - PDF</link></simpara></entry>
 <entry align="left" valign="top"><simpara><link xl:href="Resources/turn_taking_4.bm2">Boardmaker</link></simpara></entry>
 <entry align="left" valign="top"><simpara><link xl:href="Resources/turn_taking_4_w.cip">Communicate in Print</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/turn_taking_4.smd">SMD</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/turn_taking_4.smd">SymbolMate</link></simpara></entry>
 </row>
 </tbody>
 </tgroup>

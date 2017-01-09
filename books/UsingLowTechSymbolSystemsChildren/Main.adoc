@@ -1241,8 +1241,6 @@ image::cakes-thumb.jpg[title="My birthday cakes were teddy bears. They were very
 image::chocolate-face-thumb.jpg[title="I love eating chocolate!!!",link="Media/images/chocolate-face.jpg"]
 --
 
-
-
 This is an example of a short photostory about a child’s birthday.
 
 The photographs immediately provide a focus for conversation. You can then extend the conversation using the child’s own words or symbols if appropriate. The photographs engage the communication partner in a way that a simple written note saying that someone had a birthday picnic at the weekend could not.
@@ -1279,17 +1277,14 @@ image::Tiago_5_thumb.jpg[title="",link="Media/images/Tiago_5.jpg"]
 image::Tiago_6_thumb.jpg[title="",link="Media/images/Tiago_6.jpg"]
 --
 
-
-
 There are lots of great resources available to help produce a communication passport. See http://www.communicationpassports.org.uk for more information.
 
 == Chapter 11: Downloadable resources 
 
-[format="csv"]
+[format="csv",cols="8*a"]
 |===
 include::AsciiDoctorTableofSymbols.csv[]
 |===
-
 
 == Chapter 12: Further Sources of Help and Reading Resources
 
