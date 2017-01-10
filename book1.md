@@ -14,4 +14,4 @@ Please note that this resource is not suggesting that low tech is ‘best’, or
 
 [Read Online here](/books/DevUsingAlphabetCharts/) or
 
-<a href="https://geo.itunes.apple.com/gb/book/getting-started-aac-access/id1090919031?mt=11" style="display:inline-block;overflow:hidden;background:url(//linkmaker.itunes.apple.com/assets/shared/badges/en-us/ibooks-lrg.svg) no-repeat;width:110px;height:40px;background-size:contain;"></a>
+<a href="https://geo.itunes.apple.com/gb/book/getting-started-aac-designing/id1090937118?mt=11" style="display:inline-block;overflow:hidden;background:url(//linkmaker.itunes.apple.com/assets/shared/badges/en-gb/ibooks-lrg.svg) no-repeat;width:110px;height:40px;background-size:contain;"></a>
