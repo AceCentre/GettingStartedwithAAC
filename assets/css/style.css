@@ -64,7 +64,7 @@ p{ margin:0; padding:0; }
 
 #content .rightbar { margin:0; padding:0 0 150px 0;  }
 #content .rightbar h1 { font-size:30px; line-height:32px; color:#3e314d; margin:0; padding:0 0 18px 0; font-weight:normal; font-family: 'comfortaaregular'; }
-#content .rightbar h2 { font-size:24px; line-height:24px; color:#3e314d; margin:0; padding:0 0 18px 0; font-weight:normal; font-family: 'comfortaaregular'; }
+#content .rightbar h2 { font-size:24px; line-height: inherit; color:#3e314d; margin:0; padding:0 0 18px 0; font-weight:normal; font-family: 'comfortaaregular'; }
 #content .rightbar .top_c { margin:0 0 25px 0; padding:0; border-bottom:1px dotted #a3a3a6; }
 #content .rightbar .top_c  p { font-size:16px; line-height:24px; color:#3e314d; margin:0; padding:0 0 20px 0; font-weight:normal;   text-align: center;}
 #content .rightbar .top_c  h1,
@@ -254,4 +254,4 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3f324e', end
     content: '\25BC';
 }
 
-.top_c ul, li{ list-style:disc; }
+.top_c ul, .top_c li { list-style:disc; }
