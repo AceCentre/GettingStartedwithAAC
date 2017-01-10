@@ -4,9 +4,9 @@ title: Credits
 permalink: /credits/
 ---
 
-This resource was developed through grant funding from the Department for Education National Prospectus Grants Programme 2013-2015. This project involved a consortium of ACE Centre, Communication Matters and 1Voice.
+These resources were developed through grant funding from the Department for Education National Prospectus Grants Programme 2013-2015.  This project involved a consortium of [ACE Centre](http://acecentre.org.uk), [Communication Matters](http://www.communicationmatters.org.uk) and [1Voice](http://www.1voice.info).
 
-Thank you to the people who allowed us to share their stories within this resource. We also would like to thank Ruth McMorran and Marion Stanton of Communication Matters and Deborah Pugh for carefully reviewing the resources and their thoughtful comments.
+A big thank you to the people who allowed us to share their stories within these resources.  We also would like to thank Ruth McMorran, Deborah Pugh and [Marion Stanton](http://candleaac.com) for carefully reviewing the resources and their thoughtful comments.  
 
 (c) Crown copyright 2015
 
