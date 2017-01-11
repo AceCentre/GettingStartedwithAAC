@@ -23,6 +23,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
+foot_text:          'Copyright © 2014 ACE Centre. ACE Centre is a registered charity in England and Wales (charity number 1089313) and a company limited by guarantee (company number 04268143). Registered office: ACE Centre, Hollinwood Business Centre, Albert Street, Oldham, OL8 3QL. VAT registration number 785728278'
+google_analytics_key: 'UA-4785216-6'
 
 # Build settings
 markdown: kramdown
