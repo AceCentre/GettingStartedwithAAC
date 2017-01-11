@@ -8,10 +8,10 @@ These resources were developed through grant funding from the Department for Edu
 
 A big thank you to the people who allowed us to share their stories within these resources.  We also would like to thank Ruth McMorran, Deborah Pugh and [Marion Stanton](http://candleaac.com) for carefully reviewing the resources and their thoughtful comments.  
 
-(c) Crown copyright 2015
+&copy; Crown copyright 2015
 
-The Picture Communication Symbols (c) 1981-2015 Dynavox Mayer-Johnson are used under contractual agreement. All rights reserved worldwide. SymbolStix Symbols (c) SymbolStix 2015 LLC
+The Picture Communication Symbols &copy; 1981-2015 Dynavox Mayer-Johnson are used under contractual agreement. All rights reserved worldwide. SymbolStix Symbols &copy; SymbolStix 2015 LLC
 
-Widgit Symbols (c) Widgit Software 2002-2015 widgit.com
+Widgit Symbols &copy; Widgit Software 2002-2015 widgit.com
 
-Any enquiries regarding the use and re-use of this information resource should be sent to enquiries@acecentre.org.uk
+Any enquiries regarding the use and re-use of this information resource should be sent to [http://acecentre.org.uk/contact-us](http://acecentre.org.uk/contact-us)
