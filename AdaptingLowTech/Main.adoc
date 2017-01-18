@@ -64,16 +64,16 @@ Objects of reference in a nursery classroom.
 --
 image::OoR1-thumb.jpg[title="Objects of reference in a nursery classroom.", link="Media/images/OoR1.jpg"]
 image::object2-thumb.jpg[title="An object of reference used alongside a symbol to identify the sensory room in a school.",link="Media/images/object2.jpg"]
-image::Photos-thumb.jpg[title="Objects of reference in a nursery classroom.", link="Media/images/Photos.jpg"]
-image::comchart-thumb.jpg[title="An object of reference used alongside a symbol to identify the sensory room in a school.",link="Media/images/comchart.jpg"]
-image::SDC10217-thumb.jpg[title="Objects of reference in a nursery classroom.", link="Media/images/SDC10217.jpg"]
-image::combook-thumb.jpg[title="An object of reference used alongside a symbol to identify the sensory room in a school.",link="Media/images/combook.jpg"]
-image::etranonstand-thumb.jpg[title="An object of reference used alongside a symbol to identify the sensory room in a school.",link="Media/images/etranonstand.jpg"]
-image::eyepointingcombook-thumb.jpg[title="Objects of reference in a nursery classroom.", link="Media/images/eyepointingcombook.jpg"]
-image::alphachartuse-thumb.jpg[title="An object of reference used alongside a symbol to identify the sensory room in a school.",link="Media/images/alphachartuse.jpg"]
-image::tiagoandk-thumb.jpg[title="Objects of reference in a nursery classroom.", link="Media/images/tiagoandk.jpg"]
-image::Activity_AudScan-thumb.jpg[title="An object of reference used alongside a symbol to identify the sensory room in a school.",link="Media/images/Activity_AudScan.jpg"]
-image::aud1-thumb.jpg[title="An object of reference used alongside a symbol to identify the sensory room in a school.",link="Media/images/aud1.jpg"]
+image::Photos-thumb.jpg[title="A set of photographs kept on a lanyard by a staff member to help an individual understand what is happening next", link="Media/images/Photos.jpg"]
+image::comchart-thumb.jpg[title="A simple symbol based communication chart used to chat about watching television.",link="Media/images/comchart.jpg"]
+image::SDC10217-thumb.jpg[title="An example of a symbol based communication book.", link="Media/images/SDC10217.jpg"]
+image::combook-thumb.jpg[title="An example of a more complex symbol based communication book",link="Media/images/combook.jpg"]
+image::etranonstand-thumb.jpg[title="Eye pointing to photographs on an E-tran frame to choose what toy to play with next.",link="Media/images/etranonstand.jpg"]
+image::eyepointingcombook-thumb.jpg[title="An example of a symbol based communication book to be accessed using eye pointing.", link="Media/images/eyepointingcombook.jpg"]
+image::alphachartuse-thumb.jpg[title="Spelling out a word on an alphabet chart.",link="Media/images/alphachartuse.jpg"]
+image::tiagoandk-thumb.jpg[title="Chatting using an alphabet chart that is accessed by eye pointing.", link="Media/images/tiagoandk.jpg"]
+image::Activity_AudScan-thumb.jpg[title="An example of a simple communication book that is designed to be accessed using auditory scanning.",link="Media/images/Activity_AudScan.jpg"]
+image::aud1-thumb.jpg[title="An example of a more complex communication book that is designed to be accessed using auditory scanning.",link="Media/images/aud1.jpg"]
 --
 
 A better term for low tech AAC might be ‘no tech’! Low tech AAC comes in many shapes and forms. However, broadly speaking you will find low tech AAC based around objects of reference, symbols, whole words and letters. The focus of this resource is on access to symbol based low tech AAC. In other words, low tech AAC that is aimed at people whose literacy levels are not sufficient to enable them to rely upon the printed word to support their face-to-face communication.
