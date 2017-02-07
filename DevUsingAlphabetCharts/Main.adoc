@@ -270,7 +270,7 @@ video::78qCTjL30R8[youtube, width=300, height=180]
 
 Lisa explains how she uses her chart to communicate.
 
-This method tends to be used with an <<_abc_alphabetical_layout>> but there is no reason why a <<_qwerty_layout>>, or even a <<_frequency_layout>>, could not be used if preferred.
+This method tends to be used with an <<_abc_alphabetical_layout>> but there is no reason why a <<_qwerty_layout>>, or even a <<frequency-alphabet-charts>>, could not be used if preferred.
 
 The busy display can make it hard for unfamiliar _communication partners_ to use. However, for those who are able to use their eyes clearly and purposefully, there is no doubt that this can be a quick and effective way of accessing the alphabet. It is also a strategy that some individuals actively prefer to use.
 
