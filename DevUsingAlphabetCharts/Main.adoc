@@ -45,13 +45,13 @@ Alphabet charts are one form of <<aac, Augmentative and Alternative Communicatio
 
 The term _Augmentative and Alternative Communication_ includes both strategies and equipment that supports or replaces speech.  It might involve using your body, e.g. <<signing, signing>>, facial expression, gesture, or using equipment, e.g. an <<alphabet-chart, alphabet chart>>, a <<symbol-chart, symbol chart>>, a simple <<talking-button, talking button>>, a more complex <<voice-output-communication-aid, voice output communication aid>>, etc.
 
-The reason it is _Augmentative and Alternative Communication_ rather than just Alternative Communication (two ‘A’s’ instead of 1) is to emphasise that _AAC_ is not just for people who cannot speak at all, and need an alternative. AAC is also for people who have speech but whose speech is not sufficient or clear enough for everyone to understand them all of the time. In other words, AAC can augment or support someone’s speech as well as provide an alternative to speech where there is none.
+The reason it is _Augmentative and Alternative Communication_ rather than just Alternative Communication (two ‘A’s’ instead of 1) is to emphasise that AAC is not just for people who cannot speak at all, and need an alternative. AAC is also for people who have speech but whose speech is not sufficient or clear enough for everyone to understand them all of the time. In other words, AAC can augment or support someone’s speech as well as provide an alternative to speech where there is none.
 
-_AAC_ is often subdivided into _low tech_ and <<high-tech-communication, high tech>> sub-categories. High tech _AAC_ is _AAC_ that involves equipment that has a battery or a screen.  _Low tech_ _AAC_ is essentially everything else!
+AAC is often subdivided into low tech and <<high-tech-communication, high tech>> sub-categories. High tech AAC is AAC that involves equipment that has a battery or a screen.  Low tech AAC is essentially everything else!
 
-This resource is all about using _text based low tech AAC_ <<text-based-low-tech-aac, text based low tech AAC>>, or _alphabet charts_.  It takes a close look at how to get started, and how to support those who are unable to spell what they want to say. To find out more about low tech _AAC_ that is designed around pictures and symbols, see _Getting Started with AAC: Using low tech symbol based systems with children._
+This resource is all about using <<text-based-low-tech-aac, text based low tech AAC>>, or alphabet charts.  It takes a close look at how to get started, and how to support those who are unable to spell what they want to say. To find out more about low tech AAC that is designed around pictures and symbols, see _Getting Started with AAC: Using low tech symbol based systems with children._
 
-While some people choose to rely predominantly upon an _alphabet chart_ to support their face-to-face communication, typically someone will use an _alphabet chart_ alongside a host of other communication strategies, including gesture, _signing_, vocalisation and sometimes high tech _AAC_. We all communicate in different ways with different people and in different situations.
+While some people choose to rely predominantly upon an alphabet chart to support their face-to-face communication, typically someone will use an alphabet chart alongside a host of other communication strategies, including gesture, signing, vocalisation and sometimes high tech AAC. We all communicate in different ways with different people and in different situations.
 
 Beth conveys this message powerfully in this video she produced some years ago.
 
@@ -60,34 +60,34 @@ Beth conveys this message powerfully in this video she produced some years ago.
 video::ieeREOclfPE[youtube, width=300, height=180]
 
 
-Using an _alphabet chart_ is complementary to other forms of _AAC_.  It is in no sense a ‘prerequisite’ to using a voice output communication aid.  However, if someone does have a very sophisticated communication aid that they rely on most of the time, it is still important to maintain other ways of communicating, and an _alphabet chart_ can be an essential back up.  Sophisticated communication aids are much more prone to running out of battery and going wrong occasionally than paper-based tools.  There are also situations where they can be impractical, for example, in the middle of the night, or whilst bathing.
+Using an alphabet chart is complementary to other forms of AAC.  It is in no sense a ‘prerequisite’ to using a voice output communication aid.  However, if someone does have a very sophisticated communication aid that they rely on most of the time, it is still important to maintain other ways of communicating, and an alphabet chart can be an essential back up.  Sophisticated communication aids are much more prone to running out of battery and going wrong occasionally than paper-based tools.  There are also situations where they can be impractical, for example, in the middle of the night, or whilst bathing.
 
-While _alphabet charts_ are an obvious tool for those who are literate, they are also highly recommended to be used alongside a symbol based communication book for those at the very earliest stages of literacy.  _Alphabet Charts_ can be a great way to support early exploration of speech sounds and spelling, particularly for those who find holding a pencil more difficult.  If you are interested in finding out more about this, Karen Erickson and David Koppenhaver at the Center for Literacy and Disability Studies in North Carolina have done a lot of work in this area - see http://med.unc.edu/ahs/clds.
+While alphabet charts are an obvious tool for those who are literate, they are also highly recommended to be used alongside a symbol based communication book for those at the very earliest stages of literacy.  Alphabet charts can be a great way to support early exploration of speech sounds and spelling, particularly for those who find holding a pencil more difficult.  If you are interested in finding out more about this, Karen Erickson and David Koppenhaver at the Center for Literacy and Disability Studies in North Carolina have done a lot of work in this area - see http://med.unc.edu/ahs/clds.
 
 ==== Meet some individuals who use alphabet charts
 ===== Anjali
 
 image::j4Zjf5V-thumb.jpg[title="Anjali", alt="Anjali", width="300", link="Media/images/j4Zjf5V.jpg"]
 
-Anjali is sixteen years old.  She has cerebral palsy, autism and epilepsy.  She is able to verbalise a range of sounds, but cannot speak any recognisable words.  The fact that speech is difficult, however, doesn’t mean that her literacy skills aren’t good.  Indeed, Anjali can read and spell well, and she uses an alphabetically organised _alphabet chart_ to support her communication.
+Anjali is sixteen years old.  She has cerebral palsy, autism and epilepsy.  She is able to verbalise a range of sounds, but cannot speak any recognisable words.  The fact that speech is difficult, however, doesn’t mean that her literacy skills aren’t good.  Indeed, Anjali can read and spell well, and she uses an alphabetically organised alphabet chart to support her communication.
 
 
 .*Movie 1.2* Anjali
 video::Xmuxm_JqGaE[youtube, width=300, height=180]
 Anjali chats to Suzanne with the help of her alphabet
 
-Anjali uses her chart with everyone!!! She is very proficient at pointing to letters and loves to ask questions such, “which supermarket do you shop at?” Anjali is also exploring whether a _voice output communication aid_ might be useful to her, alongside this chart.
+Anjali uses her chart with everyone!!! She is very proficient at pointing to letters and loves to ask questions such, “which supermarket do you shop at?” Anjali is also exploring whether a voice output communication aid might be useful to her, alongside this chart.
 
 ===== Tiago
 
-Tiago is eight years old. He has cerebral palsy and finds it difficult to use his hands. He can communicate using speech with people who know him very well, but even then things sometimes go a bit wrong. He uses an _alphabet chart_ that has been specially adapted for use with eye movements. Copies are all round his house so that one can be reached quickly in the event of a problem. There are copies tucked down the side of the sofa, in the bathroom, in the kitchen, in his bedroom - all over the place! There’s also a copy of the _alphabet chart_
+Tiago is eight years old. He has cerebral palsy and finds it difficult to use his hands. He can communicate using speech with people who know him very well, but even then things sometimes go a bit wrong. He uses an alphabet chart that has been specially adapted for use with eye movements. Copies are all round his house so that one can be reached quickly in the event of a problem. There are copies tucked down the side of the sofa, in the bathroom, in the kitchen, in his bedroom - all over the place! There’s also a copy of the alphabet chart
 permanently attached to his wheelchair.
 
-Tiago uses his eye movements to select letters from the special _alphabet chart_. The chart is an <<_encoded_layout>>.
+Tiago uses his eye movements to select letters from the special alphabet chart. The chart is an <<_encoded_layout>>.
 
 Tiago also has a sophisticated computer to support his communication that he controls using eye movements. He is a great reader and speller, and can use an onscreen keyboard to spell out and then speak what he wants to say. However,
-there are times when computers just aren’t up to the job. Recently he was travelling in the back of the car with his stepsister, and she just couldn’t work out what he was saying. Frustration all round! The computer was in the boot, but couldn’t be used in the back seat of the car anyway. Luckily,
-Mum was in the front seat and had an _alphabet chart_ to hand - she passed it back to them, and the problem was easily resolved.
+there are times when computers just aren’t up to the job. Recently he was travelling in the back of the car with his step-sister, and she just couldn’t work out what he was saying. Frustration all round! The computer was in the boot, but couldn’t be used in the back seat of the car anyway. Luckily,
+Mum was in the front seat and had an alphabet chart to hand - she passed it back to them, and the problem was easily resolved.
 
 .*Movie 1.3* Tiago using his encoded alphabet chart
 video::07tqVhPo-Pw[youtube, width=300, height=180]
@@ -113,9 +113,9 @@ Ethan looks up to communicate ‘yes’, and looks to his right to communicate �
 
 Ethan is exploring voice output communication options that he might access using <<eye-gaze, eye gaze>> or a <<switch, switch>>, but for now his communication book is working best for him.
 
-Alongside his communication book, Ethan has an _alphabet chart_ that he uses to explore letter sounds. This gives him experience of selecting letters and combining them. He is learning to use the chart to spell his name, a great early literacy skill.
+Alongside his communication book, Ethan has an alphabet chart that he uses to explore letter sounds. This gives him experience of selecting letters and combining them. He is learning to use the chart to spell his name, a great early literacy skill.
 
-.*Movie 1.4* Ethan and alli explore writing together
+.*Movie 1.4* Ethan and Alli explore writing together
 video::pmjfuDU4XIk[youtube, width=300, height=180]
 Ethan and Alli explore writing together
 
@@ -127,19 +127,19 @@ Ethan is learning how to spell his name.  He makes a great start at picking out 
 ****
 * How to use an alphabet chart if pointing directly to letters is difficult
 * Consider alternative <<access-methods, access methods>>, including:
-* eye pointing to letters
-* listener mediated scanning
-* combination access
-* facilitated communication
+** eye pointing to letters
+** listener mediated scanning
+** combination access
+** facilitated communication
 ****
 
-The term <<direct-touch, direct touch>> or <<direct-selection, direct selection>> describes the way someone points to letters or words on a chart using a bit of their body. People most often point using a finger, but sometimes use a fist, elbow, toe, or whatever works best for them. They may also use a <<pointing-tool, pointing tool>> to facilitate direct touch. You can never generalise when it comes to _AAC_(!), but typically, if someone can access a chart directly, this tends to be the preferred way of selecting letters (the <<selection-method, selection method>>).
+The term <<direct-touch, direct touch>> or <<direct-selection, direct selection>> describes the way someone points to letters or words on a chart using a bit of their body. People most often point using a finger, but sometimes use a fist, elbow, toe, or whatever works best for them. They may also use a <<pointing-tool, pointing tool>> to facilitate direct touch. You can never generalise when it comes to AAC(!), but typically, if someone can access a chart directly, this tends to be the preferred way of selecting letters (the <<selection-method, selection method>>).
 
 When pointing is difficult, there are different options that can be considered. One option is to consider ways to support direct access. Another option is to look at alternative access methods, including <<eye-pointing, eye pointing>> to letters, <<listener-mediated-scanning, listener mediated scanning>> (sometimes called <<partner-assisted-scanning, partner assisted scanning>>), and <<combination-access, combination access>>.
 
 === Direct Touch
 
-Conventional _alphabet charts_ are designed to be accessed using an index finger. The letters are neatly laid out in alphabetical or qwerty order, and the individual points to letters to spell out words and phrases.
+Conventional alphabet charts are designed to be accessed using an index finger. The letters are neatly laid out in alphabetical or qwerty order, and the individual points to letters to spell out words and phrases.
 
 Pointing to letters in this way can be difficult for some, however, and this section considers tools and strategies that can make direct access more successful.
 
@@ -147,13 +147,13 @@ Pointing to letters in this way can be difficult for some, however, and this sec
 
 Where possible, a one-finger point is beneficial, as it helps the <<communication-partner, communication partner>> to follow what is being spelled out.
 
-Sometimes an individual may need help to learn that one particular finger is in charge of ‘pointing’. As a temporary teaching tool, a sticker or some nail varnish on the fingernail of the pointing finger can help to signal to the individual (and _communication partner_) what to pay attention to. Alternatively, for people who are happy to wear a glove, you could try cutting off the end of the glove’s pointing finger.
+Sometimes an individual may need help to learn that one particular finger is in charge of ‘pointing’. As a temporary teaching tool, a sticker or some nail varnish on the fingernail of the pointing finger can help to signal to the individual (and communication partner) what to pay attention to. Alternatively, for people who are happy to wear a glove, you could try cutting off the end of the glove’s pointing finger.
 
 [sidebar]
 .Gallery 2.1 Examples of conventional alphabet charts.
 --
 image::abc-anjali-thumb.jpg[title="This 'abc' alphabet chart is similar to the one used by Anjali.", link="Media/images/abc-anjali.jpg"]
-image::abc-thumb.jpg[title="Another example of an 'abc'alphabet chart.",link="Media/images/alphabetical-layout_alphabet.jpg"]
+image::abc-thumb.jpg[title="Another example of an 'abc' alphabet chart.",link="Media/images/alphabetical-layout_alphabet.jpg"]
 image::alpha-chart-use-thumb.jpg[title="Another example of an 'abc'alphabet chart.", link="Media/images/alpha-chart-use.jpg"]
 image::qwerty-thumb.jpg[title="A simple 'qwerty' layout alphabet chart.",link="Media/images/qwerty.jpg"]
 --
@@ -164,7 +164,7 @@ When learning new skills, it can be good to try to avoid the pressure of attempt
 
 ===== Placement
 
-A person’s visual and physical skills should influence where the chart itself is placed in relation to that individual. Simply placing the _alphabet chart_ in an area that is easier to reach can make a difference. For example, if someone uses only their right hand to access a chart, it may be helpful to place the chart slightly to their right. Small changes can sometimes make a big difference.
+A person’s visual and physical skills should influence where the chart itself is placed in relation to that individual. Simply placing the alphabet chart in an area that is easier to reach can make a difference. For example, if someone uses only their right hand to access a chart, it may be helpful to place the chart slightly to their right. Small changes can sometimes make a big difference.
 
 ===== Keyboard Layout
 
@@ -176,21 +176,21 @@ Alternatively, you may want to design your own layout based around the individua
 
 ===== Size and Use of Space
 
-Try using different sizes of _alphabet charts_. For some people a smaller chart may be easier to use, whilst for others a larger chart may be required. You may also want to experiment with how much space there is between each letter on the _alphabet chart_.
+Try using different sizes of alphabet charts. For some people a smaller chart may be easier to use, whilst for others a larger chart may be required. You may also want to experiment with how much space there is between each letter on the alphabet chart.
 
 ===== Writing Slope / Wedge
 
 Charts are often presented flat on a table or on a wheelchair tray. However, some people find that angling the chart slightly by placing it on a <<writing-slope, writing slope>> or wedge can make a big difference to their ease of access. The ideal slope is normally between 30 and 45 degrees.
 
-This is a junior _writing slope_ produced by Posturite - see http://posturite.co.uk.
+This is a junior writing slope produced by Posturite - see http://posturite.co.uk.
 
 image::fVYxjNb-thumb.jpg[title="Writing Slope", alt="Writing Slope", width="300", link="Media/images/fVYxjNb.jpg"]
 
 ===== Non-Slip Material
 
-If a chart is slipping around on a tray or table, this can make it more difficult to access. Sometimes fixing it in place with a sticky material like Blu-Tack or Velcro can make an enormous difference. Some people find using non-slip materials like Dycem or Tenura underneath a chart can help too.
+If a chart is slipping around on a tray or table, this can make it more difficult to access. Sometimes fixing it in place with a sticky material like Blu-Tack or Velcro™  can make an enormous difference. Some people find using non-slip materials like Dycem or Tenura underneath a chart can help too.
 
-A magnetic _writing slope_ can help with both the angle and the slipping issue, by presenting material at an adjustable angle and allowing it to be fixed in place with a magnet.
+A magnetic writing slope can help with both the angle and the slipping issue, by presenting material at an adjustable angle and allowing it to be fixed in place with a magnet.
 
 ===== Keyguard
 
@@ -199,22 +199,22 @@ A <<keyguard, keyguard>> is a cover that fits over a keyboard or computer screen
 [sidebar]
 .Gallery 2.2 Examples of commercially alphabet charts with keyguards.
 --
-image::FAB-ABC-thumb.jpg[title="A FAB^TM ABC layout keyboard.", link="Media/images/FAB-ABC.jpg"]
-image::FAB-QWERTY-thumb.jpg[title="A FAB^TM QWERTY layout keyboard.",link="Media/images/FAB-QWERTY.jpg"]
+image::FAB-ABC-thumb.jpg[title="A FAB™ ABC layout keyboard.", link="Media/images/FAB-ABC.jpg"]
+image::FAB-QWERTY-thumb.jpg[title="A FAB™ QWERTY layout keyboard.",link="Media/images/FAB-QWERTY.jpg"]
 image::candle_board_thumb.jpg[title="The CandLE letterboard.", link="Media/images/candle_board.jpg"]
 --
 
-Although _keyguards_ are most commonly used with computer keyboards or touchscreen devices, it is possible to make a _keyguard_ for an _alphabet chart_.
+Although keyguards are most commonly used with computer keyboards or touchscreen devices, it is possible to make a keyguard for an alphabet chart.
 
-A _keyguard_ could be made from Perspex®, wood or even cardboard. There are a couple of commercially available options. FAB™ – see http://fab.uk.com/ - is available in both QWERTY and ABC layouts, and in a range of sizes.
+A keyguard could be made from Perspex®, wood or even cardboard. There are a couple of commercially available options. FAB™ – see http://fab.uk.com/ - is available in both QWERTY and ABC layouts, and in a range of sizes.
 
-Another commercially available QWERTY chart with _keyguard_ is an A5 wooden letterboard sold in the UK by CandLE http://candleaac.com/products_software.htm.
+Another commercially available QWERTY chart with keyguard is an A5 wooden letterboard sold in the UK by CandLE http://candleaac.com/products_software.htm.
 
-Logan Technologies (http://logan-technologies.co.uk/) may be able to design a _keyguard_ to fit your own customised _alphabet chart_.
+Logan Technologies (http://logan-technologies.co.uk/) may be able to design a keyguard to fit your own customised alphabet chart.
 
 ===== Pointing Tools
 
-_Pointing tools_ are often designed to help people with disabilities type more accurately, but they can also help some people point more accurately to an _alphabet chart_. They come in many different shapes and sizes. They are known by different names, including ‘typing aid’, ‘keyboard aid’, ‘touch enabling device’, ‘dibber’, ‘universal cuff’, ‘accessible stylus’ and more. Not everyone likes to wear them, however, and some find it inconvenient to have another piece of equipment involved in communicating.
+Pointing tools are often designed to help people with disabilities type more accurately, but they can also help some people point more accurately to an alphabet chart. They come in many different shapes and sizes. They are known by different names, including ‘typing aid’, ‘keyboard aid’, ‘touch enabling device’, ‘dibber’, ‘universal cuff’, ‘accessible stylus’ and more. Not everyone likes to wear them, however, and some find it inconvenient to have another piece of equipment involved in communicating.
 
 [sidebar]
 .Gallery 2.3 Examples of pointing tools
@@ -229,23 +229,23 @@ image::DZkbbbz-thumb.png[name="headpointer", alt="headpointer", width=300, link=
 
 ===== Laser Pointer
 
-Another way of ‘pointing’ to a chart is to use a <<laser-pointer, laser pointer>>. These tend to be designed to help presenters indicate key points on their PowerPoint presentations. However, some people choose to use them to point to letters on an _alphabet chart_.
+Another way of ‘pointing’ to a chart is to use a <<laser-pointer, laser pointer>>. These tend to be designed to help presenters indicate key points on their PowerPoint presentations. However, some people choose to use them to point to letters on an alphabet chart.
 
-The easiest way to do this is to attach a small _laser pointer_ to a pair of glasses. The person gently moves their head to direct the laser beam onto letters or words on a chart. However, they could be handheld, or attached to the body in another way.
+The easiest way to do this is to attach a small laser pointer to a pair of glasses. The person gently moves their head to direct the laser beam onto letters or words on a chart. However, they could be handheld, or attached to the body in another way.
 
-To avoid damage to eyes, make sure you choose an ‘eye-safe’ laser. You can view a video of someone using a _laser pointer_ to access an _alphabet chart_ with whole words here https://youtube.com/watch?v=AooDQOzdOyE.
+To avoid damage to eyes, make sure you choose an ‘eye-safe’ laser. You can view a video of someone using a laser pointer to access an alphabet chart with whole words here https://youtube.com/watch?v=AooDQOzdOyE.
 
 ==== Eye-pointing
 
 When pointing directly to letters is difficult, another option is to point to letters with your eyes. Although people can feel a bit worried about it, and feel scared that they won’t be able to ‘read’ someone’s eye movements, it’s often easier than you think. It can also be surprisingly quick.
 
-_Eye pointing_ to letters is probably most often done using an E-tran frame with <<encoding, encoding>> as it minimises the number of different eye movements that the _communication partner_ has to interpret. There are different ways of _encoding_, and you can read more about these here <<_encoded_layout>>. The examples in this section make use of colour _encoding_.
+Eye pointing to letters is probably most often done using an E-tran frame with <<encoding, encoding>> as it minimises the number of different eye movements that the communication partner has to interpret. There are different ways of encoding, and you can read more about these here <<_encoded_layout>>. The examples in this section make use of colour encoding.
 
-However, there is another way of _eye pointing_ to letters that is perhaps less well known and used, but can be highly successful for some. This is a strategy where you eye point directly to letters arranged on a transparent sheet known as an <<eyelink, Eyelink>> communication chart.
+However, there is another way of eye pointing to letters that is perhaps less well known and used, but can be highly successful for some. This is a strategy where you eye point directly to letters arranged on a transparent sheet known as an <<eyelink, Eyelink>> communication chart.
 
 ===== EyeLink Communication Chart
 
-This is a photograph of a personalised _EyeLink_ communication chart.
+This is a photograph of a personalised EyeLink communication chart.
 
 [sidebar]
 .Gallery 2.4 An example of an EyeLink chart
@@ -254,15 +254,15 @@ image::Screen-Shot-2016-01-25-at-17.22.06-thumb.jpg[title="Lisa uses a personali
 image::perspex-board-thumb.jpg[title="This side is in alphabetical order.",link="Media/images/perspex-board.jpg"]
 image::eye-gaze-alphabet-mirror-image-copy-thumb.jpg[title="The other side shows the mirror image to make communition easier.", link="Media/images/eye-gaze-alphabet-mirror-image-copy.jpg"]
 --
-The _EyeLink_ chart is designed to be held between two people. Because the chart is transparent, the _communication partner_ can see which letter the individual is _eye pointing_ to.
+The EyeLink chart is designed to be held between two people. Because the chart is transparent, the communication partner can see which letter the individual is eye pointing to.
 
-An _EyeLink_ communication chart can be made by placing individually cut up letters into a glossy laminate pocket and running it through a laminator. Alternatively, the alphabet could be printed onto an acetate sheet. For a more robust chart, you could have the letters printed onto transparent plastic, or even attach letters onto a Perspex® board.
+An EyeLink communication chart can be made by placing individually cut up letters into a glossy laminate pocket and running it through a laminator. Alternatively, the alphabet could be printed onto an acetate sheet. For a more robust chart, you could have the letters printed onto transparent plastic, or even attach letters onto a Perspex® board.
 
-To use the chart, the _communication partner_ holds it between themselves and the individual. Typically, the ‘correct’ layout of letters faces the communicator, and the _communication partner_ sees the mirror image. This does not have to be the case, however. In the video of Lisa using her own _EyeLink_ style chart below, we see that she does things the other way round. Here it is Lisa who uses the mirror image while her PA sees the ‘correct’ (alphabetically arranged) layout. This may help unfamiliar _communication partners_ use this method of communication.
+To use the chart, the communication partner holds it between themselves and the individual. Typically, the ‘correct’ layout of letters faces the communicator, and the communication partner sees the mirror image. This does not have to be the case, however. In the video of Lisa using her own EyeLink style chart below, we see that she does things the other way round. Here it is Lisa who uses the mirror image while her PA sees the ‘correct’ (alphabetically arranged) layout. This may help unfamiliar communication partners use this method of communication.
 
-To use an _EyeLink_ chart, the individual looks at the letter they wish to select. The _communication partner_ moves the chart in response to where the individual is looking, until they end up both looking at the same letter. The _communication partner_ speaks aloud the letter and the individual can indicate if a mistake has been made. You can view an instructional video of this _access method_ at https://vimeo.com/53036535.
+To use an EyeLink chart, the individual looks at the letter they wish to select. The communication partner moves the chart in response to where the individual is looking, until they end up both looking at the same letter. The communication partner speaks aloud the letter and the individual can indicate if a mistake has been made. You can view an instructional video of this access method at https://vimeo.com/53036535.
 
-In this video of Lisa and her PA, she explains how she uses the _EyeLink_ chart. Lisa’s PA is able to predict many of the words she is saying after the first letter or two. If she makes a mistake, Lisa simply shakes her head and carries on spelling the word.
+In this video of Lisa and her PA, she explains how she uses the EyeLink chart. Lisa’s PA is able to predict many of the words she is saying after the first letter or two. If she makes a mistake, Lisa simply shakes her head and carries on spelling the word.
 
 .*Movie 2.1* Using an Eyelink style communication chart
 
@@ -272,18 +272,18 @@ Lisa explains how she uses her chart to communicate.
 
 This method tends to be used with an <<_abc_alphabetical_layout>> but there is no reason why a <<_qwerty_layout>>, or even a <<frequency-alphabet-charts>>, could not be used if preferred.
 
-The busy display can make it hard for unfamiliar _communication partners_ to use. However, for those who are able to use their eyes clearly and purposefully, there is no doubt that this can be a quick and effective way of accessing the alphabet. It is also a strategy that some individuals actively prefer to use.
+The busy display can make it hard for unfamiliar communication partners to use. However, for those who are able to use their eyes clearly and purposefully, there is no doubt that this can be a quick and effective way of accessing the alphabet. It is also a strategy that some individuals actively prefer to use.
 
 [[e-tran-frames]]
 ===== E-Tran Frames and Other Similar Options
 
-In order to help make _eye pointing_ easier to read, an <<e-tran-frame, E-tran frame>> (or <<eye-transfer-frame, eye transfer frame>>) can be used.  An _E-tran frame_ is a perspex rectangle with a central window removed.  The idea is that the _communication partner_ holds the frame between themselves and the communicator, making eye contact through the central window.  The central window can make it easier for the _communication partner_ to read the communicator’s eye movements.  A mirror image of what is shown on the _E-tran frame_ tends to be placed on the _communication partner’s_ side to make it easier for them to follow what is being communicated.
+In order to help make eye pointing easier to read, an <<e-tran-frame, E-tran frame>> (or <<eye-transfer-frame, eye transfer frame>>) can be used.  An E-tran frame is a perspex rectangle with a central window removed.  The idea is that the communication partner holds the frame between themselves and the communicator, making eye contact through the central window.  The central window can make it easier for the communication partner to read the communicator’s eye movements.  A mirror image of what is shown on the E-tran frame tends to be placed on the communication partner’s side to make it easier for them to follow what is being communicated.
 
-The Frenchay _E-tran frame_ is a well known commercially available _E-tran frame_.  It is available from a number of suppliers e.g. http://www.liberator.co.uk.
+The Frenchay E-tran frame is a well known commercially available E-tran frame.  It is available from a number of suppliers e.g. http://www.liberator.co.uk.
 
-Another commercially available encoded alphabetical _E-tran frame_ is available from http://www.cec-ltd.co.uk.
+Another commercially available encoded alphabetical E-tran frame is available from http://www.cec-ltd.co.uk.
 
-You could purchase a blank _E-tran frame_ (e.g. from http://www.liberator.co.uk) and attach your own letters.  Alternatively you could approach a glass supplier and see if they would cut some Perspex to size for you (don’t forget to ask them to round the corners!).  Some online companies also offer a cut-to-size option for perspex or acrylic sheets.
+You could purchase a blank E-tran frame (e.g. from http://www.liberator.co.uk) and attach your own letters.  Alternatively you could approach a glass supplier and see if they would cut some Perspex to size for you (don’t forget to ask them to round the corners!).  Some online companies also offer a cut-to-size option for perspex or acrylic sheets.
 
 [sidebar]
 .Gallery 2.5 The Frenchay E-tran frame
