@@ -1,6 +1,6 @@
 = Getting Started with AAC: Using Low Tech Symbol Based Systems with Children
 Katharine Buckley
-v1.1, 2016-01-01
+v1.2, 2017-15-03
 :toc: right
 :toclevels: 3
 :page-layout: docs
@@ -1279,7 +1279,7 @@ image::Tiago_6_thumb.jpg[title="",link="Media/images/Tiago_6.jpg"]
 
 There are lots of great resources available to help produce a communication passport. See http://www.communicationpassports.org.uk for more information.
 
-== Chapter 11: Downloadable resources 
+== Chapter 11: Downloadable resources
 
 [format="csv",cols="8*a"]
 |===
