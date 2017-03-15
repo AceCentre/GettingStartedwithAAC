@@ -53,7 +53,7 @@ Communication involves more than just speech. We all use gesture, body language,
 
 AAC stands for Augmentative and Alternative Communication. AAC includes strategies (e.g. signing, gesture, etc.) and equipment (e.g. a symbol chart, an alphabet chart, a simple talking button, a more complex computer based voice output communication aid, etc.) that support or replace speech.
 
-The reason that it is Augmentative and Alternative Communication, rather than just Alternative Communication (two ‘A’s’ in AAC, rather than one) is to emphasise that AAC is not just for people who cannot speak at all and need an alternative. AAC is also for people who have speech, but whose speech is not sufficient or clear enough for everyone to understand them all of the time. In other words, AAC can augment or support someone’s speech as well as provide an alternative to speech where there is none.
+The reason that it is Augmentative and Alternative Communication, rather than just Alternative Communication (two A’s in AAC, rather than one) is to emphasise that AAC is not just for people who cannot speak at all and need an alternative. AAC is also for people who have speech, but whose speech is not sufficient or clear enough for everyone to understand them all of the time. In other words, AAC can augment or support someone’s speech as well as provide an alternative to speech where there is none.
 
 Low tech AAC is AAC that uses some sort of simple equipment that doesn’t involve a battery. In a way it is defined by what it it is not, which is light or high tech AAC. It is often, although not always, made using paper. Examples of low tech AAC include objects of reference, symbol charts and books, alphabet charts, E-tran frames, etc.
 
@@ -431,7 +431,7 @@ If using eye pointing to purposefully communicate messages is proving too diffic
 
 ==== E-tran Frame
 
-One way of presenting information when communicating through eye gaze is to use an E-tran frame. An E-tran (or eyetransfer) frame is a Per5.2spex® rectangle with a central window removed. The idea is that the communication partner holds the frame between themselves and the communicator, making eye contact through the central window.
+One way of presenting information when communicating through eye gaze is to use an E-tran frame. An E-tran (or eyetransfer) frame is a Perspex® rectangle with a central window removed. The idea is that the communication partner holds the frame between themselves and the communicator, making eye contact through the central window.
 
 The central window can make it easier for the communication partner to see and follow the communicator’s eye movements. Symbols (or photographs, real objects or letters) are placed around the E-tran frame, often held on by Blu-Tack or similar.
 
