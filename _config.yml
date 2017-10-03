@@ -10,7 +10,7 @@ favicon_180: icon/ace-icon-180x180.png
 favicon_270: icon/ace-icon-270x270.png
 
 # Analytics
-google_analytics_key:
+google_analytics_key: UA-4785216-6
 
 # Header
 link_title: Ace Centre
