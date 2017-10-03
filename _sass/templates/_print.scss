@@ -1,0 +1,69 @@
+html, body {
+	width: 210mm;
+	height: 297mm;
+}
+
+a[href]:after {
+	display: none;
+}
+
+header {
+	.title-bar {
+		display: block;
+		text-align: center;
+		.menu-icon {
+			display: none;
+		}
+	}
+}
+
+.top-top-bar,
+.top-bar,
+.header-right,
+.breadcrumbs,
+.sidebar,
+.frm_rootline_group,
+#footer-container {
+	display: none !important;
+}
+
+.sidebar-content .content {
+	@include grid-column;
+	@include grid-column-unposition;
+}
+
+.acc-content {
+	display: block !important;
+}
+
+.highlights-template {
+	.highlight-boxes {
+		.highlight {
+			padding: 0.5rem;
+			margin-right: 1rem;
+			margin-bottom: 1rem;
+			a {
+				display: inline;
+				padding: 0;
+				h2 {
+					font-size: rem-calc(20);
+				}
+				&:after {
+					display: none;
+				}
+			}
+		}
+	}
+}
+
+.desktop-header {
+	justify-content: center;
+}
+
+h1, h2, h3, h4, h5, h6, p, ul, ol, li, blockquote, q, a, figure, table, fieldset {
+	page-break-inside: avoid;
+}
+
+h1, h2, h3, h4, h5, h6, thead, header {
+	page-break-after: avoid;
+}

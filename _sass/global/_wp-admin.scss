@@ -1,0 +1,24 @@
+// Fix the issue where the WP admin-bar overlaps the mobile menu
+#wpadminbar {
+	position: fixed !important;
+}
+
+// Make sure that the WP admin-bar does not overlap the sticky top bar
+body.admin-bar.f-topbar-fixed {
+	.sticky.fixed,
+	.off-canvas {
+		margin-top: rem-calc(46);
+		@include breakpoint(782) {
+			margin-top: rem-calc(32);
+		}
+	}
+}
+
+body.admin-bar {
+	.off-canvas {
+		margin-top: rem-calc(46);
+		@include breakpoint(782) {
+			margin-top: rem-calc(32);
+		}
+	}
+}

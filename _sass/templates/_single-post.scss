@@ -1,0 +1,12 @@
+.project-content .content {
+	@include grid-column;
+	@include breakpoint(tablet) {
+		@include grid-column(10);
+		@include grid-column-end;
+	}
+	@include breakpoint(medium) {
+		@include grid-column-offset(1);
+		@include grid-column(8);
+		@include grid-column-end;
+	}
+}

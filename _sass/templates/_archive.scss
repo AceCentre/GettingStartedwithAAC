@@ -1,0 +1,66 @@
+.post-list {
+	list-style-type: none;
+	margin-left: 0;
+	.post-item {
+		padding-bottom: 2rem;
+		border-bottom: 1px solid $ace-orange;
+		padding-right: map-get($grid-column-gutter, small);
+		padding-left: map-get($grid-column-gutter, small);
+		@include breakpoint(medium) {
+			padding-right: map-get($grid-column-gutter, medium);
+			padding-left: map-get($grid-column-gutter, medium);
+		}
+		.post-title {
+			font-size: rem-calc(24);
+			font-weight: bold;
+			a {
+				color: $ace-navy;
+			}
+		}
+		.post-excerpt {
+			p:last-of-type {
+				margin-bottom: 0;
+			}
+		}
+		&:not(:first-of-type) {
+			padding-top: 2rem;
+		}
+	}
+}
+
+.ace-story {
+	@include clearfix;
+}
+
+.story-author {
+	font-weight: bold;
+	color: $ace-navy;
+	font-size: rem-calc(20);
+	@include breakpoint(tablet) {
+		font-size: rem-calc(24);
+	}
+}
+
+.submit-story {
+	text-align: right;
+	margin-top: 3rem;
+	margin-bottom: 2rem;
+	@include breakpoint(tablet) {
+		margin-top: 4rem;
+	}
+}
+
+// .tribe-events-pg-template {
+// 	@include breakpoint(tablet) {
+// 		@include grid-column(9);
+// 		@include grid-column-position(center);
+// 	}
+// }
+
+.tribe-events-notices {
+	background: $ace-blue;
+	border: 1px solid $ace-blue-h;
+	color: $white;
+	text-shadow: none;
+	font-weight: bold;
+}

@@ -1,0 +1,156 @@
+.highlights-template {
+	.top-content,
+	.bottom-content {
+		.wrapper .content {
+			@include grid-column;
+			text-align: center;
+			font-size: rem-calc(18);
+			@include breakpoint(tablet) {
+				@include grid-column(11);
+				@include grid-column-position(center);
+				font-size: rem-calc(20);
+			}
+			@include breakpoint(large) {
+				@include grid-column(10);
+				@include grid-column-position(center);
+			}
+		}
+	}
+	.top-content {
+		margin-bottom: 1rem;
+	}
+	.highlight-boxes-wrapper{
+
+	}
+	.highlight-boxes {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: center;
+		@include grid-layout(1, '.highlight', $grid-column-gutter);
+		margin-bottom: map-get($grid-column-gutter, small)*0.8;
+		.highlight {
+			max-width: 100%;
+		}
+		@include breakpoint(tablet) {
+			@include grid-layout(3, '.highlight', $grid-column-gutter);
+			margin-bottom: map-get($grid-column-gutter, medium)*0.8;
+			.highlight {
+				max-width: percentage(1/3);
+			}
+		}
+		.highlight {
+			display: flex;
+			flex-direction: column;
+			flex: 1 1 auto;
+			margin-bottom: map-get($grid-column-gutter, small)*0.8;
+			@include breakpoint(medium) {
+				margin-bottom: map-get($grid-column-gutter, medium)*0.8;
+			}
+			a {
+				background: $ace-blue;
+				&:hover, &:focus {
+					background: $ace-blue-h;
+				}
+			}
+
+			$highlight-colors: (
+				1: (
+					name: "lime",
+					color: $ace-lime,
+					hover: $ace-lime-h
+				),
+				2: (
+					name: "blue",
+					color: $ace-blue,
+					hover: $ace-blue-h
+				),
+				3: (
+					name: "orange",
+					color: $ace-orange,
+					hover: $ace-orange-h
+				),
+				4: (
+					name: "pink",
+					color: $ace-pink,
+					hover: $ace-pink-h
+				),
+				5: (
+					name: "gold",
+					color: $ace-gold,
+					hover: $ace-gold-h
+				),
+				6: (
+					name: "teal",
+					color: $ace-teal,
+					hover: $ace-teal-h
+				)
+			);
+
+			@each $i, $c-g in $highlight-colors {
+
+				$n: map-get($c-g, name);
+				$c: map-get($c-g, color);
+				$c-h: map-get($c-g, hover);
+
+				&.highlight-default:nth-of-type(6n + #{$i}) a {
+					background: $c;
+					&:hover, &:focus {
+						background: $c-h;
+					}
+				}
+
+				&.highlight-#{$n} a {
+					background: $c;
+					&:hover, &:focus {
+						background: $c-h;
+					}
+				}
+			}
+		}
+		a {
+			display: flex;
+			flex: 1 0 auto;
+			flex-direction: column;
+			position: relative;
+			text-align: center;
+			border-radius: 16px;
+			color: $white;
+			padding: rem-calc(24 24 32);
+			@include breakpoint(tablet) {
+				padding: rem-calc(30 30 40);
+			}
+			h2 {
+				display: flex;
+				flex-direction: column;
+				align-content: center;
+				justify-content: center;
+				flex: 1 0 auto;
+				font-size: rem-calc(24);
+				font-weight: 300;
+				margin: 0;
+				line-height: 1.05;
+				color: $white;
+				@include breakpoint(tablet) {
+					font-size: rem-calc(30);
+				}
+			}
+			&:after {
+				content: '';
+				display: block;
+				position: absolute;
+				right: 0;
+				bottom: 8px;
+				left: 0;
+				height: 20px;
+				width: 20px;
+				margin: auto;
+				background: url('data:image/svg+xml;charset=utf-8,%3Csvg%20id%3D%22Layer_1%22%20data-name%3D%22Layer%201%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20xmlns%3Axlink%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%22%20viewBox%3D%220%200%2020%2020%22%20height%3D%2220%22%20width%3D%2220%22%3E%3Cdefs%3E%3Cstyle%3E.cls-1%2C.cls-3%7Bfill%3Anone%3B%7D.cls-2%7Bclip-path%3Aurl(%23clip-path)%3B%7D.cls-3%7Bstroke%3A%23fff%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bstroke-width%3A3.39px%3B%7D%3C%2Fstyle%3E%3CclipPath%20id%3D%22clip-path%22%3E%3Crect%20class%3D%22cls-1%22%20x%3D%220.63%22%20y%3D%224.47%22%20width%3D%2218.75%22%20height%3D%2211.07%22%2F%3E%3C%2FclipPath%3E%3C%2Fdefs%3E%3Ctitle%3Edown-chevron%3C%2Ftitle%3E%3Cg%20class%3D%22cls-2%22%3E%3Cpolyline%20class%3D%22cls-3%22%20points%3D%222.32%206.16%2010%2013.84%2017.68%206.16%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E');
+				background-position: center center;
+				background-repeat: no-repeat;
+				@include breakpoint(tablet) {
+					bottom: 12px;
+				}
+			}
+		}
+	}
+}

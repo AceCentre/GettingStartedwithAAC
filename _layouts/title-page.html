@@ -1,0 +1,22 @@
+{% include header.html %}
+
+	<main class="inner-container title-page">
+
+		<header class="title">
+			<div class="wrapper">
+				<div class="content">
+					<h1>{{ page.title }}</h1>
+				</div>
+			</div>
+		</header>
+
+		<div class="full-width-content">
+			<div class="wrapper">
+				<div class="content text-content{% for style in page.styles %} {{ style }}{% endfor %}">
+					{% include parts/content.html %}
+				</div>
+			</div>
+		</div>
+	</main>
+
+{% include footer.html %}

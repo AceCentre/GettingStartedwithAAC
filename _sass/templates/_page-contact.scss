@@ -1,0 +1,33 @@
+.contact-content {
+	.wrapper {
+		margin-bottom: 2rem;
+	}
+	.contact-information,
+	.contact-form {
+		@include grid-column;
+		@include breakpoint(tablet) {
+			@include grid-column(6);
+		}
+	}
+	.contact-form {
+		.frm_forms.frm_style_ace-style {
+			margin-bottom: 0;
+		}
+	}
+	.contact-address-wrapper {
+		margin-top: 1rem;
+		margin-bottom: 2rem;
+	}
+	.contact-address,
+	.contact-address-map {
+		padding: 1rem;
+	}
+	.contact-address {
+		border-left: 2px solid $ace-blue;
+		border-radius: 16px;
+	}
+}
+
+iframe {
+	max-width: 100%;
+}

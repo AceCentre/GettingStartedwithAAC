@@ -1,0 +1,100 @@
+%button {
+	position: relative;
+	border: none;
+	box-shadow: none;
+	vertical-align: middle;
+	border-radius: $global-radius;
+	background: $ace-navy;
+	color: $white;
+	font-size: rem-calc(16);
+	margin-bottom: 0;
+	line-height: 1;
+	padding: rem-calc(8 30 8 8);
+	@include breakpoint(tablet) {
+		padding: rem-calc(12 40 12 12);
+	}
+	&:not(.loading):after {
+		content: '';
+		display: block;
+		position: absolute;
+		top: 0;
+		right: rem-calc(8);
+		bottom: 0;
+		height: rem-calc(15);
+		width: rem-calc(8);
+		margin: auto;
+		background-image: url('data:image/svg+xml;charset=utf-8,%3Csvg%20id%3D%22Chevron%22%20data-name%3D%22Layer%201%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20xmlns%3Axlink%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%22%20viewBox%3D%220%200%2012%2020%22%3E%3Cdefs%3E%3Cstyle%3E.cls-1%2C.cls-3%7Bfill%3Anone%3B%7D.cls-2%7Bclip-path%3Aurl(%23clip-path)%3B%7D.cls-3%7Bstroke%3A%2398c21f%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bstroke-width%3A3.38px%3B%7D%3C%2Fstyle%3E%3CclipPath%20id%3D%22clip-path%22%3E%3Crect%20class%3D%22cls-1%22%20x%3D%220.5%22%20y%3D%221%22%20width%3D%2211%22%20height%3D%2218%22%2F%3E%3C%2FclipPath%3E%3C%2Fdefs%3E%3Ctitle%3EChevron%3C%2Ftitle%3E%3Cg%20class%3D%22cls-2%22%3E%3Cpolyline%20class%3D%22cls-3%22%20points%3D%222.19%2017.37%209.81%2010%202.19%202.63%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E');
+		background-position: center center;
+		background-repeat: no-repeat;
+		background-size: contain;
+		@include breakpoint(tablet) {
+			right: rem-calc(12);
+			height: rem-calc(20);
+			width: rem-calc(12);
+		}
+	}
+	&:hover, &:focus {
+		background: $ace-navy-h;
+		color: $white;
+	}
+	&.button-white {
+		background: $white;
+		color: $ace-navy;
+		&:hover, &:focus {
+			background: $light-gray;
+		}
+	}
+	&.button-large {
+		margin-top: 0.5rem;
+		margin-bottom: 0.5rem;
+		font-size: rem-calc(20);
+		@include breakpoint(medium) {
+			margin-top: 1rem;
+			margin-bottom: 1rem;
+			font-size: rem-calc(24);
+		}
+	}
+}
+
+.button {
+	@extend %button;
+}
+
+.donate-button {
+	a {
+		display: inline-block;
+		position: relative;
+		background: linear-gradient(#bd8e9f, #9f5976);
+		font-size: rem-calc(26);
+		color: $white;
+		text-transform: uppercase;
+		line-height: 1.2;
+		padding: rem-calc(12 16 5);
+		border-bottom-right-radius: 8px;
+		border-bottom-left-radius: 8px;
+		overflow: hidden;
+		span {
+			position: relative;
+			display: block;
+			text-align: center;
+			z-index: 2;
+		}
+		&:not(.loading):after {
+			content: '';
+			display: block;
+			position: absolute;
+			top: 0;
+			right: 0;
+			bottom: 0;
+			left: 0;
+			background: linear-gradient(#cc98ab, $ace-pink);
+			opacity: 1;
+			z-index: 1;
+		}
+		&:hover, &:focus {
+			&:not(.loading):after {
+				opacity: 0;
+			}
+		}
+	}
+}

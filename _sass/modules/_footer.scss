@@ -1,0 +1,115 @@
+#footer-container {
+	margin-top: rem-calc(20);
+	@include breakpoint(medium) {
+		margin-top: rem-calc(40);
+	}
+	.footer-top,
+	.footer-bottom {
+		.wrapper {
+			@include grid-row;
+		}
+	}
+	.charity-information {
+		color: $ace-navy;
+		position: relative;
+		font-size: 12px;
+		p:last-of-type {
+			margin-bottom: 0;
+		}
+	}
+
+	.footer-top {
+		padding-top: 125px;
+		margin-top: -125px;
+		padding-bottom: 35px;
+		background-image: linear-gradient($white, #c5c5c6);
+		background-position: bottom center;
+		background-size: 100% 100%;
+		@include breakpoint(tablet) {
+			.wrapper {
+				display: flex;
+				// flex-direction: row-reverse;
+				align-items: flex-end;
+				.footer-logo {
+					flex: 0 0 auto;
+				}
+				.footer-information {
+					flex: 1 1 auto;
+				}
+			}
+		}
+		.footer-logo,
+		.footer-information {
+			@include grid-column;
+		}
+		.footer-logo {
+			@include breakpoint(tablet) {
+				@include grid-column(4);
+				@include grid-column-position(8);
+			}
+			@include breakpoint(large) {
+				@include grid-column(3);
+				@include grid-column-position(9);
+			}
+		}
+		.footer-information {
+			@include breakpoint(tablet) {
+				@include grid-column(8);
+				@include grid-column-position(-4);
+			}
+			@include breakpoint(large) {
+				@include grid-column(9);
+				@include grid-column-position(-3);
+			}
+		}
+		.footer-menu {
+			margin-bottom: 1rem;
+		}
+	}
+
+	.footer-bottom {
+		background: $ace-navy;
+		color: $white;
+		padding-top: 0.5rem;
+		padding-bottom: 0.5rem;
+		.wrapper {
+			display: flex;
+			align-items: center;
+			.footer-copyright {
+				flex: 1 1 auto;
+			}
+			.footer-fig {
+				flex: 0 0 auto;
+			}
+		}
+		.footer-copyright {
+			float: left;
+			@include grid-column-gutter;
+			p {
+				margin: 0;
+			}
+		}
+		.footer-fig {
+			float: right;
+			text-align: right;
+			@include grid-column-gutter;
+			a {
+				display: inline-block;
+				padding: rem-calc(4 8 4 0);
+				line-height: 0;
+				svg {
+					width: 100%;
+					max-width: rem-calc(40);
+					.a {
+						fill: tint($ace-navy, 60%);
+					}
+				}
+				&:hover, &:focus {
+					svg .a {
+						fill: $ace-orange;
+					}
+				}
+			}
+		}
+	}
+}

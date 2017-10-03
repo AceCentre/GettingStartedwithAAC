@@ -1,0 +1,50 @@
+
+
+	</section>
+	<footer id="footer-container">
+		<div class="footer-top">
+			<div class="wrapper">
+				<div class="footer-logo">
+					<img src="{{ 'assets/images/' | absolute_url }}{{ site.data.footer.image_location }}" alt="{{ site.data.footer.image_alt }}">
+				</div>
+				<div class="footer-information">
+					<div class="footer-menu">
+						<div class="social-media">
+							<ul class="social-links">
+								{% include parts/social-media.html %}
+								<li class="menu-item">
+									<a href="{{ site.baseurl }}/privacy/">Your privacy matters</a>
+								</li>
+							</ul>
+						</div>
+					</div>
+					<div class="charity-information">
+						<p>{{ site.data.footer.footer_text }}</p>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="footer-bottom">
+			<div class="wrapper">
+				<div class="footer-copyright">
+					<p>Copyright &copy;{{ 'now' | date: "%Y" }} Ace Centre</p>
+				</div>
+				<div class="footer-fig">
+					<a href="https://fig.agency/" target="_blank" rel="nofollow" title="Visit FIG">
+						<svg xmlns="http://www.w3.org/2000/svg" width="49" height="63" viewBox="0 0 35 45">
+							<title>Built by FIG</title>
+							<path d="M33.7 13.7c-2-3.3-4.7-5-8-5-1.3 0-2.7 0.3-4.1 1-3.3 2-4.9 4.6-4.9 7.9 0 1.5 0.4 3 1.1 4.5 2 3 4.6 4.6 7.6 4.6l0 0c2.1 0 4.6-0.4 5.9-2v4.3c0 3.5-1.4 6.6-3.7 8.9-2.3 2.3-5.4 3.7-8.9 3.7-3.5 0-6.6-1.4-8.9-3.7-2.3-2.3-3.7-4.7-3.7-8.2 0-0.9-0.7-1.6-1.6-1.6-0.9 0-1.6 0.7-1.6 1.6 0 8.8 7.1 15.1 15.9 15.1 8.8 0 15.9-7.1 15.9-15.9v-3.9-3.4-2.9-0.9C34.6 16.5 34.3 15.1 33.7 13.7zM31.2 17.9c0 0.8-0.2 1.6-0.7 2.5-1.2 1.9-2.8 2.8-4.6 2.8h-0.5c-0.6 0-1.2-0.1-1.9-0.4-2.3-1.1-3.4-2.8-3.4-5.1V17.6c0-0.5 0.1-1.1 0.3-1.9 1.2-2.4 2.9-3.6 5.2-3.6h0.1c0.8 0 1.6 0.2 2.3 0.5 2.2 1.2 3.2 2.8 3.2 5V17.9z" class="a"/>
+							<path d="M12.8 26.6c-0.5 0-0.9-0.2-1.2-0.5l0 0c-0.3-0.3-0.5-0.8-0.5-1.3l0 0V13.6c0-0.5 0.2-1 0.5-1.3l0 0c0.3-0.3 0.7-0.5 1.2-0.5l0 0c0.5 0 0.9 0.2 1.2 0.5l0 0c0.3 0.3 0.5 0.8 0.5 1.3l0 0v11.2c0 0.5-0.2 1-0.5 1.3l0 0c-0.3 0.3-0.7 0.5-1.2 0.5l0 0C12.8 26.6 12.8 26.6 12.8 26.6L12.8 26.6z" class="a"/>
+							<path d="M12.8 7.2c0.8 0 1.5 0.7 1.5 1.5 0 0.8-0.7 1.5-1.5 1.5-0.8 0-1.5-0.7-1.5-1.5C11.3 7.9 12 7.2 12.8 7.2z" class="a"/>
+							<path d="M12.8 7c0.9 0 1.7 0.8 1.7 1.7l0 0c0 0.9-0.8 1.7-1.7 1.7l0 0c-0.9 0-1.7-0.8-1.7-1.7l0 0C11.1 7.8 11.9 7 12.8 7L12.8 7" class="a"/>
+							<path d="M11.9 0C8.6 0 5.9 1.6 4 4.9 3.4 6.1 3.2 7.3 3.1 8.5H1.7c-0.5 0-1 0.1-1.3 0.4C0.1 9.1 0 9.5 0 10c0 0.4 0.1 0.8 0.4 1.1 0.3 0.3 0.7 0.4 1.3 0.4h1v13.3c0 0.5 0.2 1 0.5 1.3 0.3 0.3 0.7 0.5 1.2 0.5h0c0.5 0 0.9-0.2 1.2-0.5 0.3-0.3 0.5-0.8 0.5-1.3V11.5h1.7c0.5 0 1-0.1 1.3-0.4 0.3-0.3 0.4-0.6 0.4-1.1 0-0.4-0.1-0.8-0.4-1.1-0.3-0.3-0.7-0.4-1.2-0.4h-1.4c0.1-2 1.1-3.6 3.2-4.6 0.7-0.3 1.5-0.5 2.3-0.5h0.1c0 0 1-0.1 1-1.6C12.9 0.3 11.9 0 11.9 0z" class="a"/>
+						</svg>
+					</a>
+				</div>
+			</div>
+		</div>
+	</footer>
+
+	<script type="text/javascript" src="{{ "assets/javascript/scripts.js" | absolute_url }}"></script>
+</body>
+</html>

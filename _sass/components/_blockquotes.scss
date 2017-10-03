@@ -1,0 +1,62 @@
+blockquote {
+	position: relative;
+	font-weight: 300;
+	line-height: 1.2;
+	quotes: "\201C""\201D""\2018""\2019";
+	font-size: rem-calc(18);
+	font-style: italic;
+	margin-top: 2rem;
+	margin-bottom: 2rem;
+	border: none;
+	min-height: 75px;
+	@include breakpoint(medium) {
+		font-size: rem-calc(20);
+	}
+	&:after {
+		content: '';
+		display: block;
+		position: absolute;
+		top: 0;
+		right: 0;
+		bottom: 0;
+		width: 20%;
+		max-width: 110px;
+		background-image: url('data:image/svg+xml;charset=utf-8,%3Csvg%20id%3D%22Layer_1%22%20data-name%3D%22Layer%201%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20xmlns%3Axlink%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%22%20viewBox%3D%220%200%20110%2075%22%20width%3D%22110%22%20height%3D%2275%22%3E%3Cdefs%3E%3Cstyle%3E.cls-1%7Bfill%3Anone%3B%7D.cls-2%7Bclip-path%3Aurl(%23clip-path)%3B%7D.cls-3%7Bfill%3A%23e8d0da%3B%7D%3C%2Fstyle%3E%3CclipPath%20id%3D%22clip-path%22%3E%3Crect%20class%3D%22cls-1%22%20x%3D%224%22%20y%3D%221.5%22%20width%3D%22102%22%20height%3D%2272%22%2F%3E%3C%2FclipPath%3E%3C%2Fdefs%3E%3Ctitle%3Equote-mark%3C%2Ftitle%3E%3Cg%20class%3D%22cls-2%22%3E%3Cpath%20class%3D%22cls-3%22%20d%3D%22M4%2C73.5H23.34L44%2C42.27c4-6.07%2C6.59-11.71%2C6.59-18.65C50.6%2C9.74%2C40.93%2C1.5%2C29.5%2C1.5%2C17.63%2C1.5%2C8.84%2C10.61%2C8.84%2C23.19c0%2C7.81%2C3.08%2C14.75%2C9.67%2C18.65Zm55.4%2C0H78.74L99.41%2C42.27c4-6.07%2C6.59-11.71%2C6.59-18.65C106%2C9.74%2C96.33%2C1.5%2C84.9%2C1.5%2C73%2C1.5%2C64.23%2C10.61%2C64.23%2C23.19c0%2C7.81%2C3.08%2C14.75%2C9.67%2C18.65Z%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E');
+		background-position: top right;
+		background-repeat: no-repeat;
+		background-size: contain;
+	}
+	> p {
+		line-height: inherit;
+		&:last-child {
+			margin-bottom: 0;
+		}
+		&:first-of-type:before {
+			content: open-quote;
+		}
+		&:last-of-type:after {
+			content: close-quote;
+		}
+	}
+	footer.citation {
+		margin-top: 1rem;
+		cite {
+			margin: 0;
+		}
+	}
+	cite {
+		margin-top: 1.5rem;
+		font-style: normal;
+		font-weight: bold;
+		&:before {
+			display: none;
+		}
+		strong, b {
+			font-weight: normal;
+		}
+	}
+}
+
+q {
+	quotes: "\201C""\201D""\2018""\2019";
+}

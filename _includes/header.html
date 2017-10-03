@@ -1,0 +1,46 @@
+<!doctype html>
+<html class="no-js" lang="en-GB" prefix="og: http://ogp.me/ns#" >
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<meta name="robots" content="noindex,follow,noodp">
+	{% if page.seo-title %}
+		<title>{{ page.seo-title }}</title>
+	{% else %}
+		<title>{{ page.title }} | {{ site.title }} }}</title>
+	{% endif %}{% if site.favicon_32 %}
+		<link rel="icon" href="{{ 'assets/images/' | absolute_url }}{{ site.favicon_32 }}" sizes="32x32" />
+	{% endif %}{% if site.favicon_192 %}
+		<link rel="icon" href="{{ 'assets/images/' | absolute_url }}{{ site.favicon_192 }}" sizes="192x192" />
+	{% endif %}{% if site.favicon_180 %}
+		<link rel="apple-touch-icon-precomposed" href="{{ 'assets/images/' | absolute_url }}{{ site.favicon_180 }}" />
+	{% endif %}{% if site.favicon_270 %}
+		<meta name="msapplication-TileImage" content="{{ 'assets/images/' | absolute_url }}{{ site.favicon_270 }}" />
+	{% endif %}{% if page.description %}
+		<meta name="description" content="{{ page.description }}"/>
+	{% endif %}
+	<link rel="stylesheet" type="text/css" href="{{ "/assets/css/style.css" | absolute_url }}">
+	<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
+    {% include theme-analytics.html %}
+</head>
+<body>
+	<header id="masthead" class="site-header">
+		<div class="top-bar">
+			<div class="site-link">
+				<a href="{{ site.data.header.link_url }}" target="_blank">{{ site.data.header.link_title }}</a>
+			</div>
+			<div class="social-media">
+				<ul class="social-links">
+					{% include parts/social-media.html %}
+				</ul>
+			</div>
+		</div>
+		<div class="main-logo">
+			<a href="{{ site.baseurl }}" rel="home">
+				<img src="{{ 'assets/images/' | absolute_url }}{{ site.data.header.image_location }}" alt="{{ site.data.header.image_alt }}">
+			</a>
+		</div>
+		{% include theme-menu.html %}
+	</header>
+
+	<section>
