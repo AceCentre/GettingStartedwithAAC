@@ -1,0 +1,83 @@
+// Apply outline styles only when input method is keyboard
+// remove :focus style via What Input using progressive enhancement
+// so :focus isn't left broken if JavaScript fails
+
+[data-whatinput="mouse"],
+[data-whatinput="touch"] {
+	a:focus, button:focus, input:focus,
+	a:active, button:active, input:active {
+		&, & * {
+			&, &:before, &:after {
+				outline: none;
+			}
+		}
+	}
+}
+
+a, button, input {
+	&, & * {
+		&, &:before, &:after {
+			// transition-property: color, background, background-blend-mode, border, bottom, box-shadow, filter, fill, height, left, margin, margin-top, margin-right, margin-bottom, margin-left, min-height, min-width, opacity, right, top, transform, width;
+			transition-property: all;
+			transition-duration: 200ms;
+			transition-timing-function: ease-in-out;
+		}
+	}
+}
+
+h1, h2, h3, h4, h5, h6 {
+	a {
+		font-weight: 400;
+		color: $ace-orange;
+		&:hover, &:focus {
+			color: $ace-orange-h;
+		}
+	}
+}
+
+#popup-wrapper {
+	display: flex;
+	opacity: 1;
+	position: fixed;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	background: rgba($black,0.5);
+	align-items: center;
+	justify-content: center;
+	transition: 200ms opacity ease-in-out;
+	z-index: 200;
+	.popup-content {
+		flex: 0 1 auto;
+		width: 90%;
+		max-width: 550px;
+		max-height: 100%;
+		overflow-y: auto;
+		position: relative;
+		z-index: 250;
+		// .frm_style_ace-style.with_frm_style {
+		// 	margin-bottom: 0;
+		// 	label.frm_primary_label {
+		// 		color: $white;
+		// 	}
+		// 	.description,
+		// 	.frm_description,
+		// 	.frm_error {
+		// 		color: $light-gray;
+		// 	}
+		// 	.button,
+		// 	input[type="submit"],
+		// 	button {
+		// 		background: $ace-orange;
+		// 		&:hover, &:focus {
+		// 			background: $ace-orange-h;
+		// 		}
+		// 	}
+		// }
+	}
+	&.no-show {
+		display: none;
+		opacity: 0;
+	}
+}

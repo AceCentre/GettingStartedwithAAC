@@ -1,0 +1,165 @@
+.dotted {
+	border-style: dashed;
+	margin: 2rem 0;
+}
+
+.divider {
+	@include grid-column-gutter(auto);
+}
+
+table {
+	max-width: 100%;
+	border-collapse: collapse;
+	margin-bottom: 2rem;
+	&:not(:first-child) {
+		margin-top: 2rem;
+	}
+	thead, tfoot {
+		background: $ace-blue;
+		color: $white;
+		td, th {
+			border-right: 1px solid $white;
+			border-left: 1px solid $white;
+			line-height: $subheader-lineheight;
+			&:first-child {
+				border-left: none;
+			}
+			&:last-child {
+				border-right: none;
+			}
+		}
+	}
+	tbody {
+		td, th {
+			border: 1px solid $ace-blue;
+			line-height: $global-lineheight;
+		}
+		td {
+			word-break: break-word;
+		}
+	}
+}
+
+.nested-table {
+	.tablepress-wrapper {
+		margin: 0;
+	}
+	> tbody {
+		thead {
+			th {
+				background: $ace-lime;
+				border-color: $ace-lime;
+				text-align: center;
+			}
+		}
+		> tr {
+			> th, > td {
+				padding: 0;
+			}
+		}
+	}
+}
+
+table.tablepress {
+	thead,
+	tfoot {
+		th {
+			background: $ace-blue;
+		}
+	}
+	thead,
+	tbody,
+	tfoot {
+		border-color: $ace-navy;
+	}
+	thead tr:last-of-type {
+		th {
+			border-bottom: 0;
+		}
+	}
+	tbody {
+		td, th {
+			border: 1px solid $ace-blue;
+			&:first-child {
+				border-left: none;
+			}
+			&:last-child {
+				border-right: none;
+			}
+		}
+		tr:last-child {
+			td, th {
+				border-bottom: none;
+			}
+		}
+		@for $n from 1 through 20 {
+			tr:nth-last-child(#{$n}) {
+				td[rowspan="#{$n}"],
+				th[rowspan="#{$n}"] {
+					border-bottom: none;
+				}
+			}
+		}
+	}
+	caption {
+		display: none;
+	}
+}
+
+.tablepress-wrapper {
+	@include breakpoint(400px down) {
+		overflow-x: auto;
+	}
+	@include breakpoint(small only) {
+		table {
+			table-layout: fixed;
+			width: 100%;
+			word-break: break-word;
+		}
+	}
+	max-width: 100%;
+	margin-bottom: 2rem;
+	&:not(:first-child) {
+		margin-top: 2rem;
+	}
+	table {
+		margin-top: 0;
+		margin-bottom: 0;
+	}
+	@for $i from 1 through 6 {
+		.center-#{$i} {
+			td, th {
+				&[colspan="#{$i}"] {
+					text-align: center;
+					font-weight: bold;
+					color: $white;
+					background: $ace-navy;
+				}
+			}
+		}
+	}
+}
+
+.tablepress-table-name {
+	font-size: rem-calc(24);
+	margin-bottom: 1rem;
+}
+
+.tablepress-table-description {
+	display: block;
+	font-size: 0.8rem;
+	margin-top: 0.5rem;
+	margin-bottom: $global-margin;
+	text-align: right;
+	p {
+		margin-bottom: 0.8rem;
+	}
+}
+
+.tablepress-id-1 {
+	tbody {
+		.column-2 {
+			vertical-align: middle;
+		}
+	}
+}

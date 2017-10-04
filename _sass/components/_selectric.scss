@@ -1,0 +1,200 @@
+$selectric-main-color:      $ace-blue !default;                                              // Color used in border
+$selectric-secondary-color: $ace-navy !default;                                              // Color used in button
+$selectric-text-color:      $white !default;                                              // Color used in label
+$selectric-bg-color:        $ace-blue !default;                                           // Background color
+$selectric-height:          40px !default;                                              // Outer height
+$selectric-spacing:         0px !default;                                              // Label left padding
+$selectric-border-width:    1px !default;                                               // Outer border width
+$selectric-inner-height:    $selectric-height - ($selectric-border-width * 2) !default; // Inner height
+
+.selectric-wrapper {
+	position: relative;
+	cursor: pointer;
+}
+
+.selectric-responsive {
+	width: 100%;
+}
+
+.selectric {
+	border: $selectric-border-width solid $selectric-main-color;
+	background: $selectric-bg-color;
+	position: relative;
+
+	.label {
+		display: block;
+		white-space: nowrap;
+		background: none;
+		overflow: hidden;
+		text-overflow: ellipsis;
+		margin: 0;
+		padding: 0.5rem 3rem 0.5rem 1rem;
+		font-size: 20px;
+		font-weight: bold;
+		color: $selectric-text-color;
+		cursor: pointer;
+		user-select: none;
+		position: relative;
+		&:after {
+			content: '';
+			display: inline-block;
+			position: absolute;
+			right: 0.5em;
+			top: 0;
+			bottom: 0;
+			margin: auto 0.5em auto 0;
+			width: 0.6em;
+			height: 0.6em;
+			transform: rotate(-45deg);
+			border: none;
+			border-bottom: solid 0.2em $white;
+			border-left: solid 0.2em $white;
+		}
+	}
+}
+
+.selectric-focus .selectric {
+	border-color: darken($selectric-main-color, 20%);
+}
+
+.selectric-hover .selectric {
+	border-color: darken($selectric-main-color, 10%);
+
+	.button {
+		color: darken($selectric-secondary-color, 10%);
+
+		&:after {
+			border-top-color: darken($selectric-secondary-color, 10%);
+		}
+	}
+}
+
+.selectric-open {
+	z-index: 9999;
+
+	.selectric {
+		border-color: darken($selectric-main-color, 10%);
+	}
+
+	.selectric-items {
+		display: block;
+	}
+}
+
+.selectric-disabled {
+	filter: alpha(opacity=50);
+	opacity: 0.5;
+	cursor: default;
+	user-select: none;
+}
+
+.selectric-hide-select {
+	position: relative;
+	overflow: hidden;
+	width: 0;
+	height: 0;
+
+	select {
+		position: absolute;
+		left: -100%;
+		display: none;
+	}
+}
+
+.selectric-input {
+	position: absolute !important;
+	top: 0 !important;
+	left: 0 !important;
+	right: 0 !important;
+	overflow: hidden !important;
+	clip: rect(0, 0, 0, 0) !important;
+	margin: 0 !important;
+	padding: 0 !important;
+	width: 1px !important;
+	height: 1px !important;
+	outline: none !important;
+	border: none !important;
+	*font: 0/0 a !important;
+	background: none !important;
+}
+
+.selectric-temp-show {
+	position: absolute !important;
+	visibility: hidden !important;
+	display: block !important;
+}
+
+/* Items box */
+.selectric-items {
+	display: none;
+	position: absolute;
+	top: 100%;
+	left: 0;
+	background: $selectric-bg-color;
+	border-bottom: 1px solid $selectric-main-color;
+	z-index: -1;
+	box-shadow: 0 0 10px -6px;
+
+	.selectric-scroll {
+		height: 100%;
+		overflow: auto;
+	}
+
+	.selectric-above & {
+		top: auto;
+		bottom: 100%;
+	}
+
+	ul, li {
+		list-style: none;
+		padding: 0;
+		margin: 0;
+		font-size: 18px;
+	}
+
+	li {
+		display: block;
+		padding: 0.5rem 1rem;
+		background: $selectric-secondary-color;
+		margin: 0 1px 1px;
+		color: $white;
+		cursor: pointer;
+
+		&[data-index="0"] {
+			display: none;
+		}
+
+		&:last-of-type {
+			margin-bottom: 0;
+		}
+
+		&.selected, &:hover, &:focus {
+			background: $ace-navy-h;
+			color: $white;
+		}
+	}
+
+	.disabled {
+		display: none;
+	}
+
+	.selectric-group {
+		.selectric-group-label {
+			font-weight: bold;
+			padding-left: 10px;
+			cursor: default;
+			user-select: none;
+			background: none;
+			color: #444;
+		}
+
+		&.disabled li {
+			filter: alpha(opacity=100);
+			opacity: 1;
+		}
+
+		li {
+			padding-left: 25px;
+		}
+	}
+}

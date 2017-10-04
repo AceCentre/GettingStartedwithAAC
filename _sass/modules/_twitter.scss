@@ -1,0 +1,58 @@
+.twitter-module {
+	.inner {
+		// background: $white;
+		// border-radius: $global-radius;
+		// $twitter-padding: map-get($grid-column-gutter, small);
+		// padding: $twitter-padding - 10 $twitter-padding $twitter-padding;
+		// @include breakpoint(medium) {
+		// 	$twitter-padding: map-get($grid-column-gutter, medium);
+		// 	padding: $twitter-padding - 10 $twitter-padding $twitter-padding;
+		// }
+	}
+	.twitter-list {
+		list-style-type: none;
+		margin: 0;
+		font-size: rem-calc(16);
+	}
+	.twitter-tweet {
+		padding: rem-calc(20 0);
+		&:first-of-type {
+			padding-top: 0;
+		}
+		&:last-of-type {
+			padding-bottom: 0;
+		}
+		p:last-child {
+			margin-bottom: 0;
+		}
+		a {
+			color: $ace-blue;
+			word-break: break-all;
+			&:hover, &:focus {
+				color: $ace-blue;
+			}
+		}
+	}
+	.tweet-meta {
+		color: $black;
+		font-size: rem-calc(20);
+		margin-bottom: 0.5rem;
+		.tweet-title {
+			display: block;
+			font-weight: 600;
+		}
+		a {
+			color: $ace-blue;
+			&:hover, &:focus {
+				color: $ace-orange;
+			}
+		}
+		.meta-separator,
+		.tweet-date {
+			display: none;
+		}
+	}
+	img {
+		display: none;
+	}
+}

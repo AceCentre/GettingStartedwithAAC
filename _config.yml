@@ -1,0 +1,25 @@
+# Details
+# theme: ace-theme
+title: AAC Books
+description: Theme for AAC Info
+
+# Favicon
+favicon_32: icon/ace-icon-32x32.png
+favicon_192: icon/ace-icon-192x192.png
+favicon_180: icon/ace-icon-180x180.png
+favicon_270: icon/ace-icon-270x270.png
+
+# Analytics
+google_analytics_key: UA-4785216-6
+
+# Header
+link_title: Ace Centre
+link_url: https://acecentre.org.uk/
+
+image_location: getting-started-with-aac.png
+image_alt: Getting Started with AAC
+image_title:
+
+# Settings
+sass:
+  sass_dir: _sass

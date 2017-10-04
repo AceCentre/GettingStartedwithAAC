@@ -1,0 +1,28 @@
+{% for p in site.data.navigation %}
+
+	{% if forloop.first %}
+	<nav class="main-menu top-bar">
+		<ul id="menu-main-menu" class="dropdown menu desktop-menu" data-dropdown-menu role="menubar">
+	{% endif %}
+
+		<li class="menu-item menu-item-has-children {% if p.subnav %}is-dropdown-submenu-parent opens-right{% endif %}">
+			<a {% if p.url == page.url %}class="active"{% endif %} href="{{ p.url | absolute_url }}">{{ p.title }}</a>
+			{% for s in p.subnav %}
+				{% if forloop.first %}
+					<ul class="dropdown menu vertical" data-toggle>
+				{% endif %}
+					<li>
+						<a {% if s.url == page.url %}class="active"{% endif %} href="{{ s.url | absolute_url }}">{{ s.title }}</a>
+					</li>
+				{% if forloop.last %}
+					</ul>
+				{% endif %}
+			{% endfor %}
+		</li>
+
+	{% if forloop.last %}
+		</ul>
+	</nav>
+	{% endif %}
+
+{% endfor %}

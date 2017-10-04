@@ -1,0 +1,6 @@
+{{ content }}
+{% if page.main-image.location %}
+	<div class="main-image">
+		<img src="{{ 'assets/images/' | absolute_url }}{{ page.main-image.location }}" alt="{{ page.main-image.alt }}">
+	</div>
+{% endif %}

@@ -1,0 +1,66 @@
+.sidebar {
+	#sidebar-navigation {
+		@include show-for(tablet);
+	}
+}
+.sidebar-title {
+	font-size: rem-calc(22);
+	font-weight: bold;
+}
+.sidebar .menu,
+.woocommerce-MyAccount-navigation > ul {
+	> li > a {
+		position: relative;
+		padding: 0.7rem 1rem;
+		font-size: 1rem;
+		color: $ace-blue;
+		line-height: 1.2;
+		.category-count {
+			color: $ace-navy;
+		}
+		&:hover, &:focus {
+			color: $ace-blue-h;
+			.category-count {
+				color: $ace-navy;
+			}
+		}
+	}
+	.active,
+	.is-active {
+		> a {
+			color: $ace-navy;
+			&:before {
+				content: '';
+				display: block;
+				position: absolute;
+				top: 1rem;
+				left: 0.1rem;
+				width: 0.5rem;
+				height: 0.5rem;
+				border-radius: 50%;
+				font-size: 2em;
+				background: $ace-lime;
+			}
+			&:hover, &:focus {
+				color: $ace-navy-h;
+				&:before {
+					background: $ace-lime-h;
+				}
+			}
+		}
+	}
+}
+.woocommerce-MyAccount-navigation > ul {
+	margin: 0 0 1.5rem;
+	list-style-type: none;
+	@include clearfix;
+	> li {
+		@include breakpoint(768 down) {
+			float: left;
+		}
+		display: block;
+		> a {
+			display: inline-block;
+		}
+	}
+}

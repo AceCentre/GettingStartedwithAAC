@@ -1,0 +1,11 @@
+.full-width-content > .wrapper > .content {
+	@include grid-column;
+	@include breakpoint(medium) {
+		@include grid-column(11);
+		@include grid-column-position(center);
+	}
+	@include breakpoint(large) {
+		@include grid-column(10);
+		@include grid-column-position(center);
+	}
+}
