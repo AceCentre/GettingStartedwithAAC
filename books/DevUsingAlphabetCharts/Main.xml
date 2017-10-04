@@ -594,7 +594,7 @@ Mum was in the front seat and had an alphabet chart to hand - she passed it back
 <simpara>The joy of a low tech scanning system (i.e. one that is operated by a person rather than a computer) is that you are so much cleverer than a computer! If you are reading through letters and there is a sudden noisy distraction, you know to pause and allow time for that to pass. If the individual is tired that day, you know to read through the options more slowly. You may also be able to spot a ‘yes’ response that is being initiated, even if it is not quite on target due to fatigue or illness.</simpara>
 <simpara>But sometimes partners aren’t so smart! With scanning systems it is incredibly important to ensure that individual partners understand how to use the system and use it consistently. It is also important to ensure that all communication partners use the system in the same way. Written instructions are essential. Given the complexities, a short video may also be useful for new communication partners. A  <link linkend="_chapter_6_communication_passports_drawing_it_all_together"><emphasis>communication passport</emphasis></link> can be very helpful too.</simpara>
 <simpara>It is also important to establish whether the individual is happy for you to guess what they are spelling out.</simpara>
-<simpara>You can see a video about a gentleman who has <link linkend="motor-neurone-disease"><emphasis>Motor Neurone Disease</emphasis></link> (known as <link linkend="als"><emphasis>ALS</emphasis></link> in America) who uses an alphabet chart with partner assisted scanning here <link xl:href="http://youtube.com/watch?v=pLb6-Oi3uR0">youtube.com/watch?v=pLb6-Oi3uR0</link></simpara>
+<simpara>You can see a video about a gentleman who has <link linkend="motor-neurone-disease"><emphasis>Motor Neurone Disease</emphasis></link> (known as <link linkend="als"><emphasis>ALS</emphasis> </link> in America) who uses an alphabet chart with partner assisted scanning here <link xl:href="http://youtube.com/watch?v=pLb6-Oi3uR0">youtube.com/watch?v=pLb6-Oi3uR0</link></simpara>
 </section>
 </section>
 <section xml:id="_combination_access">
@@ -935,38 +935,42 @@ Encoding can open up direct access to someone who is not able to refine their mo
 <textobject><phrase>horizontal 1 thumb</phrase></textobject>
 </mediaobject>
 </figure>
-<informalfigure>
+<figure>
+<title></title>
 <mediaobject>
 <imageobject>
 <imagedata fileref="Media/images/horizontal-2-thumb.jpg"/>
 </imageobject>
 <textobject><phrase>horizontal 2 thumb</phrase></textobject>
 </mediaobject>
-</informalfigure>
-<informalfigure>
+</figure>
+<figure>
+<title></title>
 <mediaobject>
 <imageobject>
 <imagedata fileref="Media/images/horizontal-3-thumb.jpg"/>
 </imageobject>
 <textobject><phrase>horizontal 3 thumb</phrase></textobject>
 </mediaobject>
-</informalfigure>
-<informalfigure>
+</figure>
+<figure>
+<title></title>
 <mediaobject>
 <imageobject>
 <imagedata fileref="Media/images/horizontal-4-thumb.jpg"/>
 </imageobject>
 <textobject><phrase>horizontal 4 thumb</phrase></textobject>
 </mediaobject>
-</informalfigure>
-<informalfigure>
+</figure>
+<figure>
+<title></title>
 <mediaobject>
 <imageobject>
 <imagedata fileref="Media/images/horizontal-5-thumb.jpg"/>
 </imageobject>
 <textobject><phrase>horizontal 5 thumb</phrase></textobject>
 </mediaobject>
-</informalfigure>
+</figure>
 <figure>
 <title>This is the original chart that was too difficult to see.</title>
 <mediaobject>
@@ -1174,46 +1178,51 @@ has yet to take place?</simpara>
 <textobject><phrase>Tiago 1 thumb</phrase></textobject>
 </mediaobject>
 </figure>
-<informalfigure>
+<figure>
+<title></title>
 <mediaobject>
 <imageobject>
 <imagedata fileref="Media/images/Tiago_2_thumb.jpg"/>
 </imageobject>
 <textobject><phrase>Tiago 2 thumb</phrase></textobject>
 </mediaobject>
-</informalfigure>
-<informalfigure>
+</figure>
+<figure>
+<title></title>
 <mediaobject>
 <imageobject>
 <imagedata fileref="Media/images/Tiago_3_thumb.jpg"/>
 </imageobject>
 <textobject><phrase>Tiago 3 thumb</phrase></textobject>
 </mediaobject>
-</informalfigure>
-<informalfigure>
+</figure>
+<figure>
+<title></title>
 <mediaobject>
 <imageobject>
 <imagedata fileref="Media/images/Tiago_4_thumb.jpg"/>
 </imageobject>
 <textobject><phrase>Tiago 4 thumb</phrase></textobject>
 </mediaobject>
-</informalfigure>
-<informalfigure>
+</figure>
+<figure>
+<title></title>
 <mediaobject>
 <imageobject>
 <imagedata fileref="Media/images/Tiago_5_thumb.jpg"/>
 </imageobject>
 <textobject><phrase>Tiago 5 thumb</phrase></textobject>
 </mediaobject>
-</informalfigure>
-<informalfigure>
+</figure>
+<figure>
+<title></title>
 <mediaobject>
 <imageobject>
 <imagedata fileref="Media/images/Tiago_6_thumb.jpg"/>
 </imageobject>
 <textobject><phrase>Tiago 6 thumb</phrase></textobject>
 </mediaobject>
-</informalfigure>
+</figure>
 </sidebar>
 <simpara>There are lots of great resources available to help produce a communication passport. See <link xl:href="http://communicationpassports.org.uk">communicationpassports.org.uk</link> for more information.</simpara>
 </chapter>
