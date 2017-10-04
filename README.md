@@ -1,4 +1,4 @@
-#Getting Started with AAC books
+# Getting Started with AAC books
 
 This repository is the home of the source code of the books that create the "Getting Started with AAC" published by the ACE Centre.
 
@@ -20,6 +20,6 @@ There are 3 "branches".
 * Site: This is the branch that the website aacbooks.net is created from. Its a Jekyll site that is built ontop of [this jekyll theme](https://github.com/ACECentre/aac-theme). 
 * gh-pages: This is where the compiled site is stored. Note if either site or master changes then [codeship](https://codeship.com) will build the site here from both branches. 
 
-##Licence:
+## Licence:
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Getting Started with AAC</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://acecentre.org.uk" property="cc:attributionName" rel="cc:attributionURL">ACE Centre</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="http://aacbooks.net" rel="dct:source">http://aacbooks.net</a>.
