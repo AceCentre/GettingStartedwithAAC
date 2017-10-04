@@ -13,17 +13,18 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+
+# Details
 title: Getting Started with AAC
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
-foot_text:          'Copyright © 2014 ACE Centre. ACE Centre is a registered charity in England and Wales (charity number 1089313) and a company limited by guarantee (company number 04268143). Registered office: ACE Centre, Hollinwood Business Centre, Albert Street, Oldham, OL8 3QL. VAT registration number 785728278'
+description: Theme for AAC Info
+
+# Favicon
+favicon_32: icon/ace-icon-32x32.png
+favicon_192: icon/ace-icon-192x192.png
+favicon_180: icon/ace-icon-180x180.png
+favicon_270: icon/ace-icon-270x270.png
+
+# Analytics
 google_analytics_key: 'UA-4785216-6'
 
 # Build settings
@@ -34,3 +35,7 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+
+# Settings
+sass:
+  sass_dir: _sass

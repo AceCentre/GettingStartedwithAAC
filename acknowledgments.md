@@ -1,12 +1,16 @@
 ---
-layout: theme
-title: Credits
+title: Using Low Tech Symbol Based Systems with Children
 permalink: /credits/
+seo-title: Using Low Tech Symbol Based Systems with Children | Getting started with AAC
+description: Introducing you to low tech symbol based AAC to enable you to support children who can’t rely on speech to communicate
+layout: theme
+styles:
+  - text-center
 ---
 
 These resources were developed through grant funding from the Department for Education National Prospectus Grants Programme 2013-2015.  This project involved a consortium of [ACE Centre](http://acecentre.org.uk), [Communication Matters](http://www.communicationmatters.org.uk) and [1Voice](http://www.1voice.info).
 
-A big thank you to the people who allowed us to share their stories within these resources.  We also would like to thank Ruth McMorran, Deborah Pugh and [Marion Stanton](http://candleaac.com) for carefully reviewing the resources and their thoughtful comments.  
+A big thank you to the people who allowed us to share their stories within these resources.  We also would like to thank Ruth McMorran, Deborah Pugh and [Marion Stanton](http://candleaac.com) for carefully reviewing the resources and their thoughtful comments.
 
 &copy; Crown copyright 2015
 
