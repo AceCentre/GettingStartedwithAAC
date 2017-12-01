@@ -1294,7 +1294,7 @@ has yet to take place?</simpara>
 <entry align="left" valign="top"><simpara><link xl:href="Resources/ABC_spelling_boards/abc_some_phrases_cream_landscape.pdf">Cream</link></simpara></entry>
 </row>
 <row>
-<entry align="left" valign="top"><simpara>ABC with symbols A4 portrrait</simpara></entry>
+<entry align="left" valign="top"><simpara>ABC with symbols A4 portrait</simpara></entry>
 <entry align="left" valign="top"><informalfigure>
 <mediaobject>
 <imageobject>
@@ -1308,7 +1308,7 @@ has yet to take place?</simpara>
 <entry align="left" valign="top"></entry>
 </row>
 <row>
-<entry align="left" valign="top"><simpara>AEIOU for row/column listener mediated scanning</simpara></entry>
+<entry align="left" valign="top"><simpara>AEIOU for row/ column listener mediated scanning</simpara></entry>
 <entry align="left" valign="top"><informalfigure>
 <mediaobject>
 <imageobject>
@@ -1356,26 +1356,58 @@ has yet to take place?</simpara>
 <section xml:id="_encoded_layout_spelling_boards">
 <title>Encoded layout spelling boards</title>
 <informaltable frame="all" rowsep="1" colsep="1">
-<tgroup cols="5">
-<colspec colname="col_1" colwidth="20*"/>
-<colspec colname="col_2" colwidth="20*"/>
-<colspec colname="col_3" colwidth="20*"/>
-<colspec colname="col_4" colwidth="20*"/>
-<colspec colname="col_5" colwidth="20*"/>
+<tgroup cols="3">
+<colspec colname="col_1" colwidth="33.3333*"/>
+<colspec colname="col_2" colwidth="33.3333*"/>
+<colspec colname="col_3" colwidth="33.3334*"/>
 <tbody>
 <row>
 <entry align="left" valign="top"><simpara>Alphabetical etran mirror image</simpara></entry>
-<entry align="left" valign="top"><simpara>image::Resources/Alphabetical_etran_mirror_image-thumb.png</simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/Alphabetical_etran_mirror_image.pdf">download</link></simpara></entry>
-<entry align="left" valign="top"><simpara>Alphabetical etran user side</simpara></entry>
-<entry align="left" valign="top"><simpara>image::Resources/Alphabetical_etran_user_side-thumb.png</simpara></entry>
+<entry align="left" valign="top"><informalfigure>
+<mediaobject>
+<imageobject>
+<imagedata fileref="Media/images/Resources/etran_frames/Alphabetical_etran_mirror_image-thumb.png"/>
+</imageobject>
+<textobject><phrase>Alphabetical etran mirror image thumb</phrase></textobject>
+</mediaobject>
+</informalfigure></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/etran_frames/Alphabetical_etran_mirror_image.pdf">download</link></simpara></entry>
 </row>
 <row>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/Alphabetical_etran_user_side.pdf">download</link></simpara></entry>
+<entry align="left" valign="top"><simpara>Alphabetical etran user side</simpara></entry>
+<entry align="left" valign="top"><informalfigure>
+<mediaobject>
+<imageobject>
+<imagedata fileref="Media/images/Resources/etran_frames/Alphabetical_etran_user_side-thumb.png"/>
+</imageobject>
+<textobject><phrase>Alphabetical etran user side thumb</phrase></textobject>
+</mediaobject>
+</informalfigure></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/etran_frames/Alphabetical_etran_user_side.pdf">download</link></simpara></entry>
+</row>
+<row>
 <entry align="left" valign="top"><simpara>Encoded coloured borders etran mirror image</simpara></entry>
-<entry align="left" valign="top"><simpara>image::Resources/encoded_coloured_borders_etran_mirror_image-thumb.png</simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/encoded_coloured_borders_etran_mirror_image-thumb.pdf">download</link></simpara></entry>
+<entry align="left" valign="top"><informalfigure>
+<mediaobject>
+<imageobject>
+<imagedata fileref="Media/images/Resources/etran_frames/encoded_coloured_borders_etran_mirror_image-thumb.png"/>
+</imageobject>
+<textobject><phrase>encoded coloured borders etran mirror image thumb</phrase></textobject>
+</mediaobject>
+</informalfigure></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/etran_frames/encoded_coloured_borders_etran_mirror_image-thumb.pdf">download</link></simpara></entry>
+</row>
+<row>
 <entry align="left" valign="top"><simpara>Encoded coloured borders etran user side</simpara></entry>
+<entry align="left" valign="top"><informalfigure>
+<mediaobject>
+<imageobject>
+<imagedata fileref="Media/images/Resources/etran_frames/encoded_coloured_borders_etran_user_side-thumb.png"/>
+</imageobject>
+<textobject><phrase>encoded coloured borders etran user side thumb</phrase></textobject>
+</mediaobject>
+</informalfigure></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/etran_frames/encoded_coloured_borders_etran_user_side-thumb.pdf">download</link></simpara></entry>
 </row>
 </tbody>
 </tgroup>
@@ -1393,10 +1425,17 @@ has yet to take place?</simpara>
 <tbody>
 <row>
 <entry align="left" valign="top"><simpara>Frequency and numbers for listener mediated scanning</simpara></entry>
-<entry align="left" valign="top"><simpara>image::Resources/frequency_and_numbers_for_listener_mediated_scanning_blue_landscape-thumb.png</simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resourcesfrequency_and_numbers_for_listener_mediated_scanning_blue_landscape.pdf">Blue</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/frequency_and_numbers_for_listener_mediated_scanning_cream_landscape.pdf">Cream</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/frequency_and_numbers_for_listener_mediated_scanning_pink_landscape.pdf">Pink</link></simpara></entry>
+<entry align="left" valign="top"><informalfigure>
+<mediaobject>
+<imageobject>
+<imagedata fileref="Media/images/Resources/Frequency_layout_spelling_boards/frequency_and_numbers_for_listener_mediated_scanning_blue_landscape-thumb.png"/>
+</imageobject>
+<textobject><phrase>frequency and numbers for listener mediated scanning blue landscape thumb</phrase></textobject>
+</mediaobject>
+</informalfigure></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/Frequency_layout_spelling_boards/frequency_and_numbers_for_listener_mediated_scanning_blue_landscape.pdf">Blue</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/Frequency_layout_spelling_boards/frequency_and_numbers_for_listener_mediated_scanning_cream_landscape.pdf">Cream</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/Frequency_layout_spelling_boards/frequency_and_numbers_for_listener_mediated_scanning_pink_landscape.pdf">Pink</link></simpara></entry>
 </row>
 </tbody>
 </tgroup>
@@ -1405,26 +1444,50 @@ has yet to take place?</simpara>
 <section xml:id="_high_contrast_spelling_boards">
 <title>High contrast spelling boards</title>
 <informaltable frame="all" rowsep="1" colsep="1">
-<tgroup cols="5">
-<colspec colname="col_1" colwidth="20*"/>
-<colspec colname="col_2" colwidth="20*"/>
-<colspec colname="col_3" colwidth="20*"/>
-<colspec colname="col_4" colwidth="20*"/>
-<colspec colname="col_5" colwidth="20*"/>
+<tgroup cols="4">
+<colspec colname="col_1" colwidth="25*"/>
+<colspec colname="col_2" colwidth="25*"/>
+<colspec colname="col_3" colwidth="25*"/>
+<colspec colname="col_4" colwidth="25*"/>
 <tbody>
 <row>
 <entry align="left" valign="top"><simpara>ABC yellow on black</simpara></entry>
-<entry align="left" valign="top"><simpara>image::Resources/abc_yellow_on_black-thumb.png</simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/abc_yellow_on_black.pdf">download</link></simpara></entry>
+<entry align="left" valign="top"><informalfigure>
+<mediaobject>
+<imageobject>
+<imagedata fileref="Media/images/Resources/high_contrast_spelling_boards/abc_yellow_on_black-thumb.png"/>
+</imageobject>
+<textobject><phrase>abc yellow on black thumb</phrase></textobject>
+</mediaobject>
+</informalfigure></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/high_contrast_spelling_boards/abc_yellow_on_black.pdf">download</link></simpara></entry>
 <entry align="left" valign="top"></entry>
-<entry align="left" valign="top"><simpara>AEIOU</simpara></entry>
 </row>
 <row>
-<entry align="left" valign="top"><simpara>image::Resources/aeiou_black_on_yellow-thumb.png</simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/aeiou_black_on_yellow.pdf">black_on_yellow</link></simpara></entry>
+<entry align="left" valign="top"><simpara>AEIOU</simpara></entry>
+<entry align="left" valign="top"><informalfigure>
+<mediaobject>
+<imageobject>
+<imagedata fileref="Media/images/Resources/high_contrast_spelling_boards/aeiou_black_on_yellow-thumb.png"/>
+</imageobject>
+<textobject><phrase>aeiou black on yellow thumb</phrase></textobject>
+</mediaobject>
+</informalfigure></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/high_contrast_spelling_boards/aeiou_black_on_yellow.pdf">black_on_yellow</link></simpara></entry>
 <entry align="left" valign="top"><simpara><link xl:href="Resources/aeiou_yellow_on_black.pdf">yellow_on_black</link></simpara></entry>
+</row>
+<row>
 <entry align="left" valign="top"><simpara>QWERTY a4 yellow on black</simpara></entry>
-<entry align="left" valign="top"><simpara>image::Resourcesqwerty_a4_yellow_on_black-thumb.png</simpara></entry>
+<entry align="left" valign="top"><informalfigure>
+<mediaobject>
+<imageobject>
+<imagedata fileref="Media/images/Resources/high_contrast_spelling_boards/qwerty_a4_yellow_on_black-thumb.png"/>
+</imageobject>
+<textobject><phrase>qwerty a4 yellow on black thumb</phrase></textobject>
+</mediaobject>
+</informalfigure></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/high_contrast_spelling_boards/qwerty_a4_yellow_on_black.pdf">download</link></simpara></entry>
+<entry align="left" valign="top"></entry>
 </row>
 </tbody>
 </tgroup>
@@ -1442,24 +1505,45 @@ has yet to take place?</simpara>
 <tbody>
 <row>
 <entry align="left" valign="top"><simpara>High frequency words and QWERTY</simpara></entry>
-<entry align="left" valign="top"><simpara>image::Resources/high_frequency_words_and_qwerty-thumb.png</simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/high_frequency_words_and_qwerty.pdf">Download</link></simpara></entry>
+<entry align="left" valign="top"><informalfigure>
+<mediaobject>
+<imageobject>
+<imagedata fileref="Media/images/Resources/QWERTY_spelling_boards/high_frequency_words_and_qwerty-thumb.png"/>
+</imageobject>
+<textobject><phrase>high frequency words and qwerty thumb</phrase></textobject>
+</mediaobject>
+</informalfigure></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/QWERTY_spelling_boards/high_frequency_words_and_qwerty.pdf">Download</link></simpara></entry>
 <entry align="left" valign="top"></entry>
 <entry align="left" valign="top"></entry>
 </row>
 <row>
 <entry align="left" valign="top"><simpara>QWERTY and numbers landscape</simpara></entry>
-<entry align="left" valign="top"><simpara>image::Resources/qwerty_and_numbers_blue_landscape-thumb.png</simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/qwerty_and_numbers_blue_landscape.pdf">Blue</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/qwerty_and_numbers_cream_landscape-thumb.pdf">Cream</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/qwerty_and_numbers_pink_landscape-thumb.pdf">Pink</link></simpara></entry>
+<entry align="left" valign="top"><informalfigure>
+<mediaobject>
+<imageobject>
+<imagedata fileref="Media/images/Resources/QWERTY_spelling_boards/qwerty_and_numbers_blue_landscape-thumb.png"/>
+</imageobject>
+<textobject><phrase>qwerty and numbers blue landscape thumb</phrase></textobject>
+</mediaobject>
+</informalfigure></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/QWERTY_spelling_boards/qwerty_and_numbers_blue_landscape.pdf">Blue</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/QWERTY_spelling_boards/qwerty_and_numbers_cream_landscape-thumb.pdf">Cream</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/QWERTY_spelling_boards/qwerty_and_numbers_pink_landscape-thumb.pdf">Pink</link></simpara></entry>
 </row>
 <row>
-<entry align="left" valign="top"><simpara>QWERTYA4 landscape</simpara></entry>
-<entry align="left" valign="top"><simpara>image::Resources/qwerty_pink_A4_landscape-thumb.png</simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/qwerty_blue_A4_landscape.pdf">Blue</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resourcesqwerty_pink_A4_landscape.pdf">Pink</link></simpara></entry>
-<entry align="left" valign="top"><simpara><link xl:href="Resources/qwerty_white_A4_landscape-thumb.pdf">White</link></simpara></entry>
+<entry align="left" valign="top"><simpara>QWERTY A4 landscape</simpara></entry>
+<entry align="left" valign="top"><informalfigure>
+<mediaobject>
+<imageobject>
+<imagedata fileref="Media/images/Resources/QWERTY_spelling_boards/qwerty_pink_A4_landscape-thumb.png"/>
+</imageobject>
+<textobject><phrase>qwerty pink A4 landscape thumb</phrase></textobject>
+</mediaobject>
+</informalfigure></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/QWERTY_spelling_boards/qwerty_blue_A4_landscape.pdf">Blue</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/QWERTY_spelling_boards/qwerty_pink_A4_landscape.pdf">Pink</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/QWERTY_spelling_boards/qwerty_white_A4_landscape-thumb.pdf">White</link></simpara></entry>
 </row>
 </tbody>
 </tgroup>
@@ -1474,7 +1558,6 @@ has yet to take place?</simpara>
 <simpara>CandLE offer a number of QWERTY keyboards on their website. The dot at the bottom is to help people with perserveration to bring themselves back to a point before going to the next selection. This provides support for motor planning. <link xl:href="http://contactcandle.co.uk/files/grey_spelling_board_qwerty.pdf">contactcandle.co.uk/files/grey_spelling_board_qwerty.pdf</link> and
 <link xl:href="http://www.contactcandle.co.uk/files/grey_spelling_board_qwerty_capitals.pdf">www.contactcandle.co.uk/files/grey_spelling_board_qwerty_capitals.pdf</link></simpara>
 <simpara>Speakbook have developed a freely available resource that is intended to be accessed via eye pointing. It uses an encoded keyboard layout, and also provides access to useful words and phrases. This can be downloaded here <link xl:href="http://speakbook.org/downloads/">speakbook.org/downloads/</link></simpara>
-<simpara>Spectronics have upper and lower case alphabetical and qwerty keyboards available for free download on their website <link xl:href="http://spectronics.com.au">spectronics.com.au</link> - see <link xl:href="http://acecent.re/1Esuuwo">acecent.re/1Esuuwo</link>. These are designed for direct selection.</simpara>
 <simpara>As discussed above, Jason Becker has developed a system based on encoding that has been designed to be accessed via eye pointing. You can download a pdf of his vocaleyes chart here <link xl:href="http://jasonbeckerguitar.com/eye_communication.html">jasonbeckerguitar.com/eye_communication.html</link></simpara>
 <section xml:id="_making_an_alphabet_chart">
 <title>Making an Alphabet Chart</title>
