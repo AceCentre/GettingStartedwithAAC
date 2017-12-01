@@ -916,7 +916,7 @@ include::AsciiDoctorTableofSpellingBoards.csv[]
 
 ==== Encoded layout spelling boards
 
-[format="csv",cols="5*a"]
+[format="csv",cols="3*a"]
 |===
 include::AsciiDoctorTableofEncodedSpelling.csv[]
 |===
@@ -931,7 +931,7 @@ include::AsciiDoctorTableofFreqSpelling.csv[]
 
 ==== High contrast spelling boards
 
-[format="csv",cols="5*a"]
+[format="csv",cols="4*a"]
 |===
 include::AsciiDoctorTableofContrastSpelling.csv[]
 |===
@@ -956,8 +956,6 @@ CandLE offer a number of QWERTY keyboards on their website. The dot at the botto
 http://www.contactcandle.co.uk/files/grey_spelling_board_qwerty_capitals.pdf
 
 Speakbook have developed a freely available resource that is intended to be accessed via eye pointing. It uses an encoded keyboard layout, and also provides access to useful words and phrases. This can be downloaded here http://speakbook.org/downloads/
-
-Spectronics have upper and lower case alphabetical and qwerty keyboards available for free download on their website http://spectronics.com.au - see http://acecent.re/1Esuuwo. These are designed for direct selection.
 
 As discussed above, Jason Becker has developed a system based on encoding that has been designed to be accessed via eye pointing. You can download a pdf of his vocaleyes chart here http://jasonbeckerguitar.com/eye_communication.html
 
