@@ -1243,141 +1243,227 @@ has yet to take place?</simpara>
 <title>Alphabet charts noted in this book</title>
 <section xml:id="_abc_spelling_boards">
 <title>ABC spelling boards</title>
-<itemizedlist>
-<listitem>
-<simpara><link xl:href="http://acecentre.org.uk/Websites/aceoldham/images/Resources/KRB_ibooks/ABC_spelling_boards/abc_and_numbers_blue_A4_landscape.pdf">abc and numbers - blue A4 landscape.pdf</link></simpara>
-</listitem>
-<listitem>
-<simpara><link xl:href="http://acecentre.org.uk/Websites/aceoldham/images/Resources/KRB_ibooks/ABC_spelling_boards/abc_and_numbers_cream_A4_landscape.pdf">abc and numbers - cream A4 landscape.pdf</link></simpara>
-</listitem>
-<listitem>
-<simpara><link xl:href="http://acecentre.org.uk/Websites/aceoldham/images/Resources/KRB_ibooks/ABC_spelling_boards/abc_and_numbers_pink_A4_landscape.pdf">abc and numbers - pink A4 landscape.pdf</link></simpara>
-</listitem>
-<listitem>
-<simpara><link xl:href="http://acecentre.org.uk/Websites/aceoldham/images/Resources/KRB_ibooks/ABC_spelling_boards/abc_blue_landscape.pdf">abc - blue landscape.pdf</link></simpara>
-</listitem>
-<listitem>
-<simpara><link xl:href="http://acecentre.org.uk/Websites/aceoldham/images/Resources/KRB_ibooks/ABC_spelling_boards/abc_pink_landscape.pdf">abc - pink landscape.pdf</link></simpara>
-</listitem>
-<listitem>
-<simpara><link xl:href="http://acecentre.org.uk/Websites/aceoldham/images/Resources/KRB_ibooks/ABC_spelling_boards/abc_some_phrases_blue_landscape.pdf">abc some phrases - blue landscape.pdf</link></simpara>
-</listitem>
-<listitem>
-<simpara><link xl:href="http://acecentre.org.uk/Websites/aceoldham/images/Resources/KRB_ibooks/ABC_spelling_boards/abc_some_phrases_cream_landscape.pdf">abc some phrases - cream landscape.pdf</link></simpara>
-</listitem>
-<listitem>
-<simpara><link xl:href="http://acecentre.org.uk/Websites/aceoldham/images/Resources/KRB_ibooks/ABC_spelling_boards/abc_some_phrases_pink_landscape.pdf">abc some phrases - pink landscape.pdf</link></simpara>
-</listitem>
-<listitem>
-<simpara><link xl:href="http://acecentre.org.uk/Websites/aceoldham/images/Resources/KRB_ibooks/ABC_spelling_boards/abc_white_landscape.pdf">abc - white landscape.pdf</link></simpara>
-</listitem>
-<listitem>
-<simpara><link xl:href="http://acecentre.org.uk/Websites/aceoldham/images/Resources/KRB_ibooks/ABC_spelling_boards/abc_with_symbols_A4_portrait.pdf">abc with symbols A4 portrait.pdf</link></simpara>
-</listitem>
-<listitem>
-<simpara><link xl:href="http://acecentre.org.uk/Websites/aceoldham/images/Resources/KRB_ibooks/ABC_spelling_boards/AEIOU_for_row_column_listener_mediated_scanning.pdf">AEIOU for row column listener mediated scanning.pdf</link></simpara>
-</listitem>
-<listitem>
-<simpara><link xl:href="http://acecentre.org.uk/Websites/aceoldham/images/Resources/KRB_ibooks/ABC_spelling_boards/combination_access_abc.pdf">combination access abc.pdf</link></simpara>
-</listitem>
-<listitem>
-<simpara><link xl:href="http://acecentre.org.uk/Websites/aceoldham/images/Resources/KRB_ibooks/ABC_spelling_boards/encoded_abc_and_numbers_for_direct_access.pdf">encoded abc and numbers for direct access.pdf</link></simpara>
-</listitem>
-<listitem>
-<simpara><link xl:href="http://acecentre.org.uk/Websites/aceoldham/images/Resources/KRB_ibooks/ABC_spelling_boards/encoded_abc_and_numbers_for_direct_access.pdf">encoded abc and numbers for direct access.pdf</link></simpara>
-</listitem>
-</itemizedlist>
+<informaltable frame="all" rowsep="1" colsep="1">
+<tgroup cols="5">
+<colspec colname="col_1" colwidth="20*"/>
+<colspec colname="col_2" colwidth="20*"/>
+<colspec colname="col_3" colwidth="20*"/>
+<colspec colname="col_4" colwidth="20*"/>
+<colspec colname="col_5" colwidth="20*"/>
+<tbody>
+<row>
+<entry align="left" valign="top"><simpara>ABC and Numbers</simpara></entry>
+<entry align="left" valign="top"><informalfigure>
+<mediaobject>
+<imageobject>
+<imagedata fileref="Media/images/Resources/ABC_spelling_boards/abc_and_numbers_pink_A4_landscape-thumb.png"/>
+</imageobject>
+<textobject><phrase>abc and numbers pink A4 landscape thumb</phrase></textobject>
+</mediaobject>
+</informalfigure></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/ABC_spelling_boards/abc_and_numbers_blue_A4_landscape.pdf">Blue</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="ResourcesABC_spelling_boards/abc_and_numbers_pink_A4_landscape.pdf">Pink</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/ABC_spelling_boards/abc_and_numbers_cream_A4_landscape.pdf">Cream</link></simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>ABC landscape</simpara></entry>
+<entry align="left" valign="top"><informalfigure>
+<mediaobject>
+<imageobject>
+<imagedata fileref="Media/images/Resources/ABC_spelling_boards/abc_blue_landscape-thumb.png"/>
+</imageobject>
+<textobject><phrase>abc blue landscape thumb</phrase></textobject>
+</mediaobject>
+</informalfigure></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/ABC_spelling_boards/abc_blue_landscape.pdf">Blue</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/ABC_spelling_boards/abc_pink_landscape.pdf">Pink</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/ABC_spelling_boards/abc_white_landscape.pdf">Cream</link></simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>ABC landscape with some phrases</simpara></entry>
+<entry align="left" valign="top"><informalfigure>
+<mediaobject>
+<imageobject>
+<imagedata fileref="Media/images/Resources/ABC_spelling_boards/abc_some_phrases_cream_landscape-thumb.png"/>
+</imageobject>
+<textobject><phrase>abc some phrases cream landscape thumb</phrase></textobject>
+</mediaobject>
+</informalfigure></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/ABC_spelling_boards/abc_blue_landscape.pdf">Blue</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/ABC_spelling_boards/abc_some_phrases_pink_landscape.pdf">Pink</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/ABC_spelling_boards/abc_some_phrases_cream_landscape.pdf">Cream</link></simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>ABC with symbols A4 portrrait</simpara></entry>
+<entry align="left" valign="top"><informalfigure>
+<mediaobject>
+<imageobject>
+<imagedata fileref="Media/images/Resources/ABC_spelling_boards/abc_with_symbols_A4_portrait-thumb.png"/>
+</imageobject>
+<textobject><phrase>abc with symbols A4 portrait thumb</phrase></textobject>
+</mediaobject>
+</informalfigure></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/ABC_spelling_boards/abc_with_symbols_A4_portrait.pdf">download</link></simpara></entry>
+<entry align="left" valign="top"></entry>
+<entry align="left" valign="top"></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>AEIOU for row/column listener mediated scanning</simpara></entry>
+<entry align="left" valign="top"><informalfigure>
+<mediaobject>
+<imageobject>
+<imagedata fileref="Media/images/Resources/ABC_spelling_boards/AEIOU_for_row_column_listener_mediated_scanning-thumb.png"/>
+</imageobject>
+<textobject><phrase>AEIOU for row column listener mediated scanning thumb</phrase></textobject>
+</mediaobject>
+</informalfigure></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/ABC_spelling_boards/AEIOU_for_row_column_listener_mediated_scanning.pdf">download</link></simpara></entry>
+<entry align="left" valign="top"></entry>
+<entry align="left" valign="top"></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>Combination access ABC</simpara></entry>
+<entry align="left" valign="top"><informalfigure>
+<mediaobject>
+<imageobject>
+<imagedata fileref="Media/images/Resources/ABC_spelling_boards/combination_access_abc-thumb.png"/>
+</imageobject>
+<textobject><phrase>combination access abc thumb</phrase></textobject>
+</mediaobject>
+</informalfigure></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/ABC_spelling_boards/AEIOU_for_row_column_listener_mediated_scanning.pdf">download</link></simpara></entry>
+<entry align="left" valign="top"></entry>
+<entry align="left" valign="top"></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>Encoded ABC and Numbers for direct access</simpara></entry>
+<entry align="left" valign="top"><informalfigure>
+<mediaobject>
+<imageobject>
+<imagedata fileref="Media/images/Resources/ABC_spelling_boards/encoded_abc_and_numbers_for_direct_access-thumb.png"/>
+</imageobject>
+<textobject><phrase>encoded abc and numbers for direct access thumb</phrase></textobject>
+</mediaobject>
+</informalfigure></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/ABC_spelling_boards/encoded_abc_and_numbers_for_direct_access.pdf">download</link></simpara></entry>
+<entry align="left" valign="top"></entry>
+<entry align="left" valign="top"></entry>
+</row>
+</tbody>
+</tgroup>
+</informaltable>
 </section>
 <section xml:id="_encoded_layout_spelling_boards">
 <title>Encoded layout spelling boards</title>
-<itemizedlist>
-<listitem>
-<simpara><link xl:href="http://acecentre.org.uk/Websites/aceoldham/images/Resources/KRB_ibooks/Etran_frames/Alphabetical_etran_mirror_image.pdf">Alphabetical etran mirror image.pdf</link></simpara>
-</listitem>
-<listitem>
-<simpara><link xl:href="http://acecentre.org.uk/Websites/aceoldham/images/Resources/KRB_ibooks/Etran_frames/Alphabetical_etran_user_side.pdf">Alphabetical etran user side.pdf</link></simpara>
-</listitem>
-<listitem>
-<simpara><link xl:href="http://acecentre.org.uk/Websites/aceoldham/images/Resources/KRB_ibooks/Etran_frames/encoded_coloured_borders_etran_mirror_image.pdf">Encoded coloured borders etran mirror image.pdf</link></simpara>
-</listitem>
-<listitem>
-<simpara><link xl:href="http://acecentre.org.uk/Websites/aceoldham/images/Resources/KRB_ibooks/Etran_frames/encoded_coloured_borders_etran_user_side.pdf">Encoded coloured borders etran user side.pdf</link></simpara>
-</listitem>
-</itemizedlist>
+<informaltable frame="all" rowsep="1" colsep="1">
+<tgroup cols="5">
+<colspec colname="col_1" colwidth="20*"/>
+<colspec colname="col_2" colwidth="20*"/>
+<colspec colname="col_3" colwidth="20*"/>
+<colspec colname="col_4" colwidth="20*"/>
+<colspec colname="col_5" colwidth="20*"/>
+<tbody>
+<row>
+<entry align="left" valign="top"><simpara>Alphabetical etran mirror image</simpara></entry>
+<entry align="left" valign="top"><simpara>image::Resources/Alphabetical_etran_mirror_image-thumb.png</simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/Alphabetical_etran_mirror_image.pdf">download</link></simpara></entry>
+<entry align="left" valign="top"><simpara>Alphabetical etran user side</simpara></entry>
+<entry align="left" valign="top"><simpara>image::Resources/Alphabetical_etran_user_side-thumb.png</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/Alphabetical_etran_user_side.pdf">download</link></simpara></entry>
+<entry align="left" valign="top"><simpara>Encoded coloured borders etran mirror image</simpara></entry>
+<entry align="left" valign="top"><simpara>image::Resources/encoded_coloured_borders_etran_mirror_image-thumb.png</simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/encoded_coloured_borders_etran_mirror_image-thumb.pdf">download</link></simpara></entry>
+<entry align="left" valign="top"><simpara>Encoded coloured borders etran user side</simpara></entry>
+</row>
+</tbody>
+</tgroup>
+</informaltable>
 </section>
 <section xml:id="_frequency_layout_spelling_boards">
 <title>Frequency layout spelling boards</title>
-<itemizedlist>
-<listitem>
-<simpara><link xl:href="http://acecentre.org.uk/Websites/aceoldham/images/Resources/KRB_ibooks/Frequency_layout_spelling_boards/frequency_and_numbers_for_listener_mediated_scanning_blue_landscape.pdf">frequency and numbers for listener mediated scanning - blue landscape.pdf</link></simpara>
-</listitem>
-<listitem>
-<simpara><link xl:href="http://acecentre.org.uk/Websites/aceoldham/images/Resources/KRB_ibooks/Frequency_layout_spelling_boards/frequency_and_numbers_for_listener_mediated_scanning_cream_landscape.pdf">frequency and numbers for listener mediated scanning - cream landscape.pdf</link>&nbsp;&nbsp;</simpara>
-</listitem>
-<listitem>
-<simpara><link xl:href="http://acecentre.org.uk/Websites/aceoldham/images/Resources/KRB_ibooks/Frequency_layout_spelling_boards/frequency_and_numbers_for_listener_mediated_scanning_pink_landscape.pdf">frequency and numbers for listener mediated scanning - pink landscape.pdf</link></simpara>
-</listitem>
-</itemizedlist>
+<informaltable frame="all" rowsep="1" colsep="1">
+<tgroup cols="5">
+<colspec colname="col_1" colwidth="20*"/>
+<colspec colname="col_2" colwidth="20*"/>
+<colspec colname="col_3" colwidth="20*"/>
+<colspec colname="col_4" colwidth="20*"/>
+<colspec colname="col_5" colwidth="20*"/>
+<tbody>
+<row>
+<entry align="left" valign="top"><simpara>Frequency and numbers for listener mediated scanning</simpara></entry>
+<entry align="left" valign="top"><simpara>image::Resources/frequency_and_numbers_for_listener_mediated_scanning_blue_landscape-thumb.png</simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resourcesfrequency_and_numbers_for_listener_mediated_scanning_blue_landscape.pdf">Blue</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/frequency_and_numbers_for_listener_mediated_scanning_cream_landscape.pdf">Cream</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/frequency_and_numbers_for_listener_mediated_scanning_pink_landscape.pdf">Pink</link></simpara></entry>
+</row>
+</tbody>
+</tgroup>
+</informaltable>
 </section>
 <section xml:id="_high_contrast_spelling_boards">
 <title>High contrast spelling boards</title>
-<itemizedlist>
-<listitem>
-<simpara><link xl:href="http://acecentre.org.uk/Websites/aceoldham/images/Resources/KRB_ibooks/High_contrast_spelling_boards/abc_yellow_on_black.pdf">abc yellow on black.pdf</link></simpara>
-</listitem>
-<listitem>
-<simpara><link xl:href="http://acecentre.org.uk/Websites/aceoldham/images/Resources/KRB_ibooks/High_contrast_spelling_boards/aeiou_black_on_yellow.pdf">aeiou black on yellow.pdf</link></simpara>
-</listitem>
-<listitem>
-<simpara><link xl:href="http://acecentre.org.uk/Websites/aceoldham/images/Resources/KRB_ibooks/High_contrast_spelling_boards/aeiou_lower.pdf">aeiou yellow on black.pdf</link></simpara>
-</listitem>
-<listitem>
-<simpara><link xl:href="http://acecentre.org.uk/Websites/aceoldham/images/Resources/KRB_ibooks/High_contrast_spelling_boards/qwerty_a4_yellow_on_black.pdf">qwerty yellow on black.pdf</link></simpara>
-</listitem>
-</itemizedlist>
+<informaltable frame="all" rowsep="1" colsep="1">
+<tgroup cols="5">
+<colspec colname="col_1" colwidth="20*"/>
+<colspec colname="col_2" colwidth="20*"/>
+<colspec colname="col_3" colwidth="20*"/>
+<colspec colname="col_4" colwidth="20*"/>
+<colspec colname="col_5" colwidth="20*"/>
+<tbody>
+<row>
+<entry align="left" valign="top"><simpara>ABC yellow on black</simpara></entry>
+<entry align="left" valign="top"><simpara>image::Resources/abc_yellow_on_black-thumb.png</simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/abc_yellow_on_black.pdf">download</link></simpara></entry>
+<entry align="left" valign="top"></entry>
+<entry align="left" valign="top"><simpara>AEIOU</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>image::Resources/aeiou_black_on_yellow-thumb.png</simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/aeiou_black_on_yellow.pdf">black_on_yellow</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/aeiou_yellow_on_black.pdf">yellow_on_black</link></simpara></entry>
+<entry align="left" valign="top"><simpara>QWERTY a4 yellow on black</simpara></entry>
+<entry align="left" valign="top"><simpara>image::Resourcesqwerty_a4_yellow_on_black-thumb.png</simpara></entry>
+</row>
+</tbody>
+</tgroup>
+</informaltable>
 </section>
 <section xml:id="_qwerty_spelling_boards">
 <title>QWERTY spelling boards</title>
-<itemizedlist>
-<listitem>
-<simpara><link xl:href="http://acecentre.org.uk/Websites/aceoldham/images/Resources/KRB_ibooks/QWERTY_spelling_boards/high_frequency_words_and_qwerty.pdf">high frequency words and qwerty.pdf</link></simpara>
-</listitem>
-<listitem>
-<simpara><link xl:href="http://acecentre.org.uk/Websites/aceoldham/images/Resources/KRB_ibooks/QWERTY_spelling_boards/qwerty_and_numbers_blue_landscape.pdf">qwerty and numbers blue landscape.pdf</link></simpara>
-</listitem>
-<listitem>
-<simpara><link xl:href="http://acecentre.org.uk/Websites/aceoldham/images/Resources/KRB_ibooks/QWERTY_spelling_boards/qwerty_and_numbers_cream_landscape.pdf">qwerty and numbers cream landscape.pdf</link></simpara>
-</listitem>
-<listitem>
-<simpara><link xl:href="http://acecentre.org.uk/Websites/aceoldham/images/Resources/KRB_ibooks/QWERTY_spelling_boards/qwerty_and_numbers_pink_landscape.pdf">qwerty and numbers pink landscape.pdf</link></simpara>
-</listitem>
-<listitem>
-<simpara><link xl:href="http://acecentre.org.uk/Websites/aceoldham/images/Resources/KRB_ibooks/QWERTY_spelling_boards/qwerty_blue_A4_landscape.pdf">qwerty blue A4 landscape.pdf</link></simpara>
-</listitem>
-<listitem>
-<simpara><link xl:href="http://acecentre.org.uk/Websites/aceoldham/images/Resources/KRB_ibooks/QWERTY_spelling_boards/qwerty_pink_A4_landscape.pdf">qwerty pink A4 landscape.pdf</link></simpara>
-</listitem>
-<listitem>
-<simpara><link xl:href="http://acecentre.org.uk/Websites/aceoldham/images/Resources/KRB_ibooks/QWERTY_spelling_boards/qwerty_white_A4_landscape.pdf">qwerty white A4 landscape.pdf</link></simpara>
-</listitem>
-</itemizedlist>
-</section>
-<section xml:id="_spelling_boards_with_words_and_phrases">
-<title>Spelling boards with words and phrases</title>
-<itemizedlist>
-<listitem>
-<simpara><link xl:href="http://acecentre.org.uk/Websites/aceoldham/images/Resources/KRB_ibooks/ABC_spelling_boards/abc_some_phrases_blue_landscape.pdf">abc some phrases - blue landscape.pdf</link></simpara>
-</listitem>
-<listitem>
-<simpara><link xl:href="http://acecentre.org.uk/Websites/aceoldham/images/Resources/KRB_ibooks/ABC_spelling_boards/abc_some_phrases_cream_landscape.pdf">abc some phrases - cream landscape.pdf</link></simpara>
-</listitem>
-<listitem>
-<simpara><link xl:href="http://acecentre.org.uk/Websites/aceoldham/images/Resources/KRB_ibooks/ABC_spelling_boards/abc_some_phrases_pink_landscape.pdf">abc some phrases - pink landscape.pdf</link></simpara>
-</listitem>
-<listitem>
-<simpara><link xl:href="http://acecentre.org.uk/Websites/aceoldham/images/Resources/KRB_ibooks/QWERTY_spelling_boards/high_frequency_words_and_qwerty.pdf">high frequency words and qwerty.pdf</link></simpara>
-</listitem>
-</itemizedlist>
+<informaltable frame="all" rowsep="1" colsep="1">
+<tgroup cols="5">
+<colspec colname="col_1" colwidth="20*"/>
+<colspec colname="col_2" colwidth="20*"/>
+<colspec colname="col_3" colwidth="20*"/>
+<colspec colname="col_4" colwidth="20*"/>
+<colspec colname="col_5" colwidth="20*"/>
+<tbody>
+<row>
+<entry align="left" valign="top"><simpara>High frequency words and QWERTY</simpara></entry>
+<entry align="left" valign="top"><simpara>image::Resources/high_frequency_words_and_qwerty-thumb.png</simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/high_frequency_words_and_qwerty.pdf">Download</link></simpara></entry>
+<entry align="left" valign="top"></entry>
+<entry align="left" valign="top"></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>QWERTY and numbers landscape</simpara></entry>
+<entry align="left" valign="top"><simpara>image::Resources/qwerty_and_numbers_blue_landscape-thumb.png</simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/qwerty_and_numbers_blue_landscape.pdf">Blue</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/qwerty_and_numbers_cream_landscape-thumb.pdf">Cream</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/qwerty_and_numbers_pink_landscape-thumb.pdf">Pink</link></simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>QWERTYA4 landscape</simpara></entry>
+<entry align="left" valign="top"><simpara>image::Resources/qwerty_pink_A4_landscape-thumb.png</simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/qwerty_blue_A4_landscape.pdf">Blue</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resourcesqwerty_pink_A4_landscape.pdf">Pink</link></simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="Resources/qwerty_white_A4_landscape-thumb.pdf">White</link></simpara></entry>
+</row>
+</tbody>
+</tgroup>
+</informaltable>
 </section>
 </section>
 <section xml:id="_freely_available_alphabet_charts">
