@@ -908,57 +908,40 @@ There are lots of great resources available to help produce a communication pass
 
 ==== ABC spelling boards
 
-* http://acecentre.org.uk/Websites/aceoldham/images/Resources/KRB_ibooks/ABC_spelling_boards/abc_and_numbers_blue_A4_landscape.pdf[abc and numbers - blue A4 landscape.pdf]
-* http://acecentre.org.uk/Websites/aceoldham/images/Resources/KRB_ibooks/ABC_spelling_boards/abc_and_numbers_cream_A4_landscape.pdf[abc and numbers - cream A4 landscape.pdf]
-* http://acecentre.org.uk/Websites/aceoldham/images/Resources/KRB_ibooks/ABC_spelling_boards/abc_and_numbers_pink_A4_landscape.pdf[abc and numbers - pink A4 landscape.pdf]
-* http://acecentre.org.uk/Websites/aceoldham/images/Resources/KRB_ibooks/ABC_spelling_boards/abc_blue_landscape.pdf[abc - blue landscape.pdf]
-* http://acecentre.org.uk/Websites/aceoldham/images/Resources/KRB_ibooks/ABC_spelling_boards/abc_pink_landscape.pdf[abc - pink landscape.pdf]
-* http://acecentre.org.uk/Websites/aceoldham/images/Resources/KRB_ibooks/ABC_spelling_boards/abc_some_phrases_blue_landscape.pdf[abc some phrases - blue landscape.pdf]
-* http://acecentre.org.uk/Websites/aceoldham/images/Resources/KRB_ibooks/ABC_spelling_boards/abc_some_phrases_cream_landscape.pdf[abc some phrases - cream landscape.pdf]
-* http://acecentre.org.uk/Websites/aceoldham/images/Resources/KRB_ibooks/ABC_spelling_boards/abc_some_phrases_pink_landscape.pdf[abc some phrases - pink landscape.pdf]
-* http://acecentre.org.uk/Websites/aceoldham/images/Resources/KRB_ibooks/ABC_spelling_boards/abc_white_landscape.pdf[abc - white landscape.pdf]
-* http://acecentre.org.uk/Websites/aceoldham/images/Resources/KRB_ibooks/ABC_spelling_boards/abc_with_symbols_A4_portrait.pdf[abc with symbols A4 portrait.pdf]
-* http://acecentre.org.uk/Websites/aceoldham/images/Resources/KRB_ibooks/ABC_spelling_boards/AEIOU_for_row_column_listener_mediated_scanning.pdf[AEIOU for row column listener mediated scanning.pdf]
-* http://acecentre.org.uk/Websites/aceoldham/images/Resources/KRB_ibooks/ABC_spelling_boards/combination_access_abc.pdf[combination access abc.pdf]
-* http://acecentre.org.uk/Websites/aceoldham/images/Resources/KRB_ibooks/ABC_spelling_boards/encoded_abc_and_numbers_for_direct_access.pdf[encoded abc and numbers for direct access.pdf]
-* http://acecentre.org.uk/Websites/aceoldham/images/Resources/KRB_ibooks/ABC_spelling_boards/encoded_abc_and_numbers_for_direct_access.pdf[encoded abc and numbers for direct access.pdf]
+[format="csv",cols="5*a"]
+|===
+include::AsciiDoctorTableofSpellingBoards.csv[]
+|===
+
 
 ==== Encoded layout spelling boards
 
-* http://acecentre.org.uk/Websites/aceoldham/images/Resources/KRB_ibooks/Etran_frames/Alphabetical_etran_mirror_image.pdf[Alphabetical etran mirror image.pdf]
-* http://acecentre.org.uk/Websites/aceoldham/images/Resources/KRB_ibooks/Etran_frames/Alphabetical_etran_user_side.pdf[Alphabetical etran user side.pdf]
-* http://acecentre.org.uk/Websites/aceoldham/images/Resources/KRB_ibooks/Etran_frames/encoded_coloured_borders_etran_mirror_image.pdf[Encoded coloured borders etran mirror image.pdf]
-* http://acecentre.org.uk/Websites/aceoldham/images/Resources/KRB_ibooks/Etran_frames/encoded_coloured_borders_etran_user_side.pdf[Encoded coloured borders etran user side.pdf]
+[format="csv",cols="5*a"]
+|===
+include::AsciiDoctorTableofEncodedSpelling.csv[]
+|===
 
 ==== Frequency layout spelling boards
 
-* http://acecentre.org.uk/Websites/aceoldham/images/Resources/KRB_ibooks/Frequency_layout_spelling_boards/frequency_and_numbers_for_listener_mediated_scanning_blue_landscape.pdf[frequency and numbers for listener mediated scanning - blue landscape.pdf]
-* http://acecentre.org.uk/Websites/aceoldham/images/Resources/KRB_ibooks/Frequency_layout_spelling_boards/frequency_and_numbers_for_listener_mediated_scanning_cream_landscape.pdf[frequency and numbers for listener mediated scanning - cream landscape.pdf]&nbsp;&nbsp;
-* http://acecentre.org.uk/Websites/aceoldham/images/Resources/KRB_ibooks/Frequency_layout_spelling_boards/frequency_and_numbers_for_listener_mediated_scanning_pink_landscape.pdf[frequency and numbers for listener mediated scanning - pink landscape.pdf]
+[format="csv",cols="5*a"]
+|===
+include::AsciiDoctorTableofFreqSpelling.csv[]
+|===
+
 
 ==== High contrast spelling boards
 
-* http://acecentre.org.uk/Websites/aceoldham/images/Resources/KRB_ibooks/High_contrast_spelling_boards/abc_yellow_on_black.pdf[abc yellow on black.pdf]
-* http://acecentre.org.uk/Websites/aceoldham/images/Resources/KRB_ibooks/High_contrast_spelling_boards/aeiou_black_on_yellow.pdf[aeiou black on yellow.pdf]
-* http://acecentre.org.uk/Websites/aceoldham/images/Resources/KRB_ibooks/High_contrast_spelling_boards/aeiou_lower.pdf[aeiou yellow on black.pdf]
-* http://acecentre.org.uk/Websites/aceoldham/images/Resources/KRB_ibooks/High_contrast_spelling_boards/qwerty_a4_yellow_on_black.pdf[qwerty yellow on black.pdf]
+[format="csv",cols="5*a"]
+|===
+include::AsciiDoctorTableofContrastSpelling.csv[]
+|===
 
 ==== QWERTY spelling boards
 
-* http://acecentre.org.uk/Websites/aceoldham/images/Resources/KRB_ibooks/QWERTY_spelling_boards/high_frequency_words_and_qwerty.pdf[high frequency words and qwerty.pdf]
-* http://acecentre.org.uk/Websites/aceoldham/images/Resources/KRB_ibooks/QWERTY_spelling_boards/qwerty_and_numbers_blue_landscape.pdf[qwerty and numbers blue landscape.pdf]
-* http://acecentre.org.uk/Websites/aceoldham/images/Resources/KRB_ibooks/QWERTY_spelling_boards/qwerty_and_numbers_cream_landscape.pdf[qwerty and numbers cream landscape.pdf]
-* http://acecentre.org.uk/Websites/aceoldham/images/Resources/KRB_ibooks/QWERTY_spelling_boards/qwerty_and_numbers_pink_landscape.pdf[qwerty and numbers pink landscape.pdf]
-* http://acecentre.org.uk/Websites/aceoldham/images/Resources/KRB_ibooks/QWERTY_spelling_boards/qwerty_blue_A4_landscape.pdf[qwerty blue A4 landscape.pdf]
-* http://acecentre.org.uk/Websites/aceoldham/images/Resources/KRB_ibooks/QWERTY_spelling_boards/qwerty_pink_A4_landscape.pdf[qwerty pink A4 landscape.pdf]
-* http://acecentre.org.uk/Websites/aceoldham/images/Resources/KRB_ibooks/QWERTY_spelling_boards/qwerty_white_A4_landscape.pdf[qwerty white A4 landscape.pdf]
-
-==== Spelling boards with words and phrases
-
-* http://acecentre.org.uk/Websites/aceoldham/images/Resources/KRB_ibooks/ABC_spelling_boards/abc_some_phrases_blue_landscape.pdf[abc some phrases - blue landscape.pdf]
-* http://acecentre.org.uk/Websites/aceoldham/images/Resources/KRB_ibooks/ABC_spelling_boards/abc_some_phrases_cream_landscape.pdf[abc some phrases - cream landscape.pdf]
-* http://acecentre.org.uk/Websites/aceoldham/images/Resources/KRB_ibooks/ABC_spelling_boards/abc_some_phrases_pink_landscape.pdf[abc some phrases - pink landscape.pdf]
-* http://acecentre.org.uk/Websites/aceoldham/images/Resources/KRB_ibooks/QWERTY_spelling_boards/high_frequency_words_and_qwerty.pdf[high frequency words and qwerty.pdf]
+[format="csv",cols="5*a"]
+|===
+include::AsciiDoctorTableofQwertySpelling.csv[]
+|===
 
 
 === Freely Available Alphabet Charts
