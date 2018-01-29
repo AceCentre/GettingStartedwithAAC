@@ -1,5 +1,5 @@
 = Getting Started with AAC: Designing and using alphabet charts
-Katharine Buckley
+Ace Centre
 v1.1, 2016-01-01
 :toc: right
 :toclevels: 3
@@ -119,7 +119,7 @@ Alongside his communication book, Ethan has an alphabet chart that he uses to ex
 video::pmjfuDU4XIk[youtube, width=300, height=180]
 Ethan and Alli explore writing together
 
-Ethan is learning how to spell his name.  He makes a great start at picking out some of the sounds that are found in his name.  Alli then provides a little mores support to enable him to write his name accurately.
+Ethan is learning how to spell his name.  He makes a great start at picking out some of the sounds that are found in his name.  Alli then provides a little more support to enable him to write his name accurately.
 
 == Chapter 2: Using an Alphabet Chart
 
@@ -197,7 +197,7 @@ A magnetic writing slope can help with both the angle and the slipping issue, by
 A <<keyguard, keyguard>> is a cover that fits over a keyboard or computer screen and contains holes through which keys or areas of the screen can be selected. It allows an individual to rest their hand on the cover and make selections through the holes. For some individuals it can reduce accidental selections. It can also help someone with a tremor to target an area more precisely.
 
 [sidebar]
-.Gallery 2.2 Examples of commercially alphabet charts with keyguards.
+.Gallery 2.2 Examples of commercially available charts with keyguards.
 --
 image::FAB-ABC-thumb.jpg[title="A FAB™ ABC layout keyboard.", link="Media/images/FAB-ABC.jpg"]
 image::FAB-QWERTY-thumb.jpg[title="A FAB™ QWERTY layout keyboard.",link="Media/images/FAB-QWERTY.jpg"]
@@ -279,7 +279,7 @@ The busy display can make it hard for unfamiliar communication partners to use. 
 
 In order to help make eye pointing easier to read, an <<e-tran-frame, E-tran frame>> (or <<eye-transfer-frame, eye transfer frame>>) can be used.  An E-tran frame is a perspex rectangle with a central window removed.  The idea is that the communication partner holds the frame between themselves and the communicator, making eye contact through the central window.  The central window can make it easier for the communication partner to read the communicator’s eye movements.  A mirror image of what is shown on the E-tran frame tends to be placed on the communication partner’s side to make it easier for them to follow what is being communicated.
 
-The Frenchay E-tran frame is a well known commercially available E-tran frame.  It is available from a number of suppliers e.g. http://www.liberator.co.uk.
+The Frenchay E-tran frame is a well known commercially available E-tran frame.  It is available from a number of suppliers e.g. https://www.winslowresources.com.
 
 Another commercially available encoded alphabetical E-tran frame is available from http://www.cec-ltd.co.uk.
 
@@ -575,14 +575,11 @@ There are a variety of means of grouping letters often used to either make physi
 ****
 
 ==== Encoded Layout
+Encoding is a way of helping someone to use direct access (i.e. direct touch with fingers, hands or other body part and eye pointing) when they aren’t able to clearly point to 26 individual letters of the alphabet on an alphabet chart.  Encoding groups letters together, reducing the number of target areas on a page.
 
-There are a variety of means of grouping letters often used to either make physical access easier or to speed up the process of using spelling to form messages.
+For someone who is selecting letters using a fist for example, trying to point clearly and accurately to 26 different letters may be difficult.  With encoding, they just need to indicate with their fist which of 6 groups contains their target letter.  They would then clarify which letter in that group they wish to communicate using a second movement.
 
-===== Encoding (using colour)
-
-Encoding is a way of helping someone to use direct access where they aren’t able to point to the 26 individual letters of the alphabet on an alphabet chart. Encoding groups letters together, reducing the number of target areas on a page. This means that someone who is pointing using a fist for example, simply needs to indicate a group of letters, rather than trying to isolate an individual letter. They then clarify which letter they wish to communicate using a second movement.
-
-This is an example of an alphabet chart that has been encoded using colour for an individual using direct touch e.g. pointing with their fist.
+This is an example of an alphabet chart that has been encoded using colour for an individual using direct touch
 
 image::Qq5mxet-thumb.png[name="frequency layout", alt="frequency layout", width="300", link="Media/images/Qq5mxet.png"]
 
@@ -618,7 +615,7 @@ Jason Becker uses a specially designed encoded alphabet chart to support his com
 
 image::tg6CI2v-thumb.png[name="Vocal eyes", alt="vocal eyes", width="300", link="Media/images/tg6CI2v.png"]
 
-Jason first looks to the block that contains his target letter. He then uses and up, down, left or right eye movement to clarify which of the four letters he is communicating.
+Jason first looks to the block that contains his target letter. He then uses up, down, left or right eye movement to clarify which of the four letters he is communicating.
 
 You can http://jasonbecker.com/VocalEyesCommunicate.pdf[download the Vocal Eyes alphabet chart free of charge from this website].
 
@@ -774,7 +771,7 @@ image::Braille-chart-zoom-thumb.jpg[title="It is easier to see the raised braill
 
 In addition to letters on an alphabet chart, you may want to consider providing easy access to commonly spoken words and phrases. This may be to support someone who is able to read well, but finds spelling what they want to say more tricky. Young children may be developing their reading skills nicely, and find that they need the support of whole words and phrases, or even symbols, alongside an alphabet chart while they are learning to write and spell.
 
-Whole words and phrases are not just for those who are not confident spellers, however. Someone who can spell well may still find it quicker to point to words and phrases that are commonly spoken rather than having to spell them letter-byletter each time.
+Whole words and phrases are not just for those who are not confident spellers, however. Someone who can spell well may still find it quicker to point to words and phrases that are commonly spoken rather than having to spell them letter-by-letter each time.
 
 When creating a chart or book based around whole words alongside an alphabet chart, many of the considerations in the symbol based AAC resource around design, content and support will be relevant. You may want to consult the Getting Started with AAC: Using low tech symbol based systems with children resource.
 
