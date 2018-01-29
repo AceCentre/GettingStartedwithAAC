@@ -8,16 +8,16 @@
 <date>2016-01-01</date>
 <author>
 <personname>
-<firstname>Katharine</firstname>
-<surname>Buckley</surname>
+<firstname>Ace</firstname>
+<surname>Centre</surname>
 </personname>
 </author>
-<authorinitials>KB</authorinitials>
+<authorinitials>AC</authorinitials>
 <revhistory>
 <revision>
 <revnumber>1.1</revnumber>
 <date>2016-01-01</date>
-<authorinitials>KB</authorinitials>
+<authorinitials>AC</authorinitials>
 </revision>
 </revhistory>
 </info>
@@ -151,7 +151,7 @@ Mum was in the front seat and had an alphabet chart to hand - she passed it back
 <simpara>Alongside his communication book, Ethan has an alphabet chart that he uses to explore letter sounds. This gives him experience of selecting letters and combining them. He is learning to use the chart to spell his name, a great early literacy skill.</simpara>
 
 <simpara>Ethan and Alli explore writing together</simpara>
-<simpara>Ethan is learning how to spell his name.  He makes a great start at picking out some of the sounds that are found in his name.  Alli then provides a little mores support to enable him to write his name accurately.</simpara>
+<simpara>Ethan is learning how to spell his name.  He makes a great start at picking out some of the sounds that are found in his name.  Alli then provides a little more support to enable him to write his name accurately.</simpara>
 </section>
 </section>
 </chapter>
@@ -269,7 +269,7 @@ Mum was in the front seat and had an alphabet chart to hand - she passed it back
 <title>Keyguard</title>
 <simpara>A <link linkend="keyguard">keyguard</link> is a cover that fits over a keyboard or computer screen and contains holes through which keys or areas of the screen can be selected. It allows an individual to rest their hand on the cover and make selections through the holes. For some individuals it can reduce accidental selections. It can also help someone with a tremor to target an area more precisely.</simpara>
 <sidebar>
-<title>Gallery 2.2 Examples of commercially alphabet charts with keyguards.</title>
+<title>Gallery 2.2 Examples of commercially available charts with keyguards.</title>
 <figure>
 <title>A FAB™ ABC layout keyboard.</title>
 <mediaobject>
@@ -404,7 +404,7 @@ Mum was in the front seat and had an alphabet chart to hand - she passed it back
 <section xml:id="e-tran-frames">
 <title>E-Tran Frames and Other Similar Options</title>
 <simpara>In order to help make eye pointing easier to read, an <link linkend="e-tran-frame">E-tran frame</link> (or <link linkend="eye-transfer-frame">eye transfer frame</link>) can be used.  An E-tran frame is a perspex rectangle with a central window removed.  The idea is that the communication partner holds the frame between themselves and the communicator, making eye contact through the central window.  The central window can make it easier for the communication partner to read the communicator’s eye movements.  A mirror image of what is shown on the E-tran frame tends to be placed on the communication partner’s side to make it easier for them to follow what is being communicated.</simpara>
-<simpara>The Frenchay E-tran frame is a well known commercially available E-tran frame.  It is available from a number of suppliers e.g. <link xl:href="http://www.liberator.co.uk">www.liberator.co.uk</link>.</simpara>
+<simpara>The Frenchay E-tran frame is a well known commercially available E-tran frame.  It is available from a number of suppliers e.g. <link xl:href="https://www.winslowresources.com">www.winslowresources.com</link>.</simpara>
 <simpara>Another commercially available encoded alphabetical E-tran frame is available from <link xl:href="http://www.cec-ltd.co.uk">www.cec-ltd.co.uk</link>.</simpara>
 <simpara>You could purchase a blank E-tran frame (e.g. from <link xl:href="http://www.liberator.co.uk">www.liberator.co.uk</link>) and attach your own letters.  Alternatively you could approach a glass supplier and see if they would cut some Perspex to size for you (don’t forget to ask them to round the corners!).  Some online companies also offer a cut-to-size option for perspex or acrylic sheets.</simpara>
 <sidebar>
@@ -739,11 +739,9 @@ Mum was in the front seat and had an alphabet chart to hand - she passed it back
 </section>
 <section xml:id="_encoded_layout">
 <title>Encoded Layout</title>
-<simpara>There are a variety of means of grouping letters often used to either make physical access easier or to speed up the process of using spelling to form messages.</simpara>
-<section xml:id="_encoding_using_colour">
-<title>Encoding (using colour)</title>
-<simpara>Encoding is a way of helping someone to use direct access where they aren’t able to point to the 26 individual letters of the alphabet on an alphabet chart. Encoding groups letters together, reducing the number of target areas on a page. This means that someone who is pointing using a fist for example, simply needs to indicate a group of letters, rather than trying to isolate an individual letter. They then clarify which letter they wish to communicate using a second movement.</simpara>
-<simpara>This is an example of an alphabet chart that has been encoded using colour for an individual using direct touch e.g. pointing with their fist.</simpara>
+<simpara>Encoding is a way of helping someone to use direct access (i.e. direct touch with fingers, hands or other body part and eye pointing) when they aren’t able to clearly point to 26 individual letters of the alphabet on an alphabet chart.  Encoding groups letters together, reducing the number of target areas on a page.</simpara>
+<simpara>For someone who is selecting letters using a fist for example, trying to point clearly and accurately to 26 different letters may be difficult.  With encoding, they just need to indicate with their fist which of 6 groups contains their target letter.  They would then clarify which letter in that group they wish to communicate using a second movement.</simpara>
+<simpara>This is an example of an alphabet chart that has been encoded using colour for an individual using direct touch</simpara>
 <informalfigure>
 <mediaobject>
 <imageobject>
@@ -765,7 +763,6 @@ Mum was in the front seat and had an alphabet chart to hand - she passed it back
 </mediaobject>
 </informalfigure>
 <simpara>Although used with direct access methods, encoding is most commonly associated with <xref linkend="_eye_pointing"/>.</simpara>
-</section>
 <section xml:id="_encoding_using_numbers">
 <title>Encoding (using numbers)</title>
 <simpara>Encoding is often associated with the use of colour. However, for those who are colour blind, or who simply do not like using colour in this way, it is possible to encode in other ways.</simpara>
@@ -791,7 +788,7 @@ Mum was in the front seat and had an alphabet chart to hand - she passed it back
 <textobject><phrase>vocal eyes</phrase></textobject>
 </mediaobject>
 </informalfigure>
-<simpara>Jason first looks to the block that contains his target letter. He then uses and up, down, left or right eye movement to clarify which of the four letters he is communicating.</simpara>
+<simpara>Jason first looks to the block that contains his target letter. He then uses up, down, left or right eye movement to clarify which of the four letters he is communicating.</simpara>
 <simpara>You can <link xl:href="http://jasonbecker.com/VocalEyesCommunicate.pdf">download the Vocal Eyes alphabet chart free of charge from this website</link>.</simpara>
 </section>
 <section xml:id="_in_summary_encoding">
@@ -1017,7 +1014,7 @@ Encoding can open up direct access to someone who is not able to refine their mo
 <section xml:id="_words_and_phrases">
 <title>Words and Phrases</title>
 <simpara>In addition to letters on an alphabet chart, you may want to consider providing easy access to commonly spoken words and phrases. This may be to support someone who is able to read well, but finds spelling what they want to say more tricky. Young children may be developing their reading skills nicely, and find that they need the support of whole words and phrases, or even symbols, alongside an alphabet chart while they are learning to write and spell.</simpara>
-<simpara>Whole words and phrases are not just for those who are not confident spellers, however. Someone who can spell well may still find it quicker to point to words and phrases that are commonly spoken rather than having to spell them letter-byletter each time.</simpara>
+<simpara>Whole words and phrases are not just for those who are not confident spellers, however. Someone who can spell well may still find it quicker to point to words and phrases that are commonly spoken rather than having to spell them letter-by-letter each time.</simpara>
 <simpara>When creating a chart or book based around whole words alongside an alphabet chart, many of the considerations in the symbol based AAC resource around design, content and support will be relevant. You may want to consult the Getting Started with AAC: Using low tech symbol based systems with children resource.</simpara>
 <simpara>For some, just a few words or phrases will be enough. However, for individuals who are able to point to small targets fairly accurately, you may want to consider providing a large number of words and phrases alongside the alphabet chart.</simpara>
 <simpara>See <link xl:href="http://en.wikipedia.org/wiki/Most_common_words_in_English">en.wikipedia.org/wiki/Most_common_words_in_English</link> for one example of a list of commonly used words in English. It’s amazing how often we use the same words in our speech. It could be a great help to the individual not to have to spell each one out every time. We can also be quite repetitive in the phrases we use in our conversation. For example, “How are you?”, “How was your day?”, etc! Again, it can be helpful to have these written down so that you simply have to point to the phrase rather than spelling it out each time.</simpara>
