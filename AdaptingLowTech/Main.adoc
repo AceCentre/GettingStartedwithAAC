@@ -1,5 +1,5 @@
 = Getting Started with AAC: Access to low tech symbol based resources when pointing is difficult
-Katharine Buckley
+Ace Centre
 v1.2 2016-10-01
 :toc: right
 :toclevels: 3
@@ -631,7 +631,7 @@ Encoding expands the amount of vocabulary available on one page by grouping voca
 
 Here is a set of symbols that have been encoded using colours. The chart has been designed to be used by someone who is able to select from six different locations, but finds six symbols on a page too limiting for their communication. Encoding means that using six target areas, the communicator can actually say thirty-six different things without turning a page. The page is divided into six blocks of six symbols. Within each block, the symbols have different coloured borders. There are six coloured dots around the edge of the page which match these coloured borders.
 
-image::SoWv41O-thumb.jpg[title="Colour Coded Chart", alt="Colour Coded Chart", width="300", link="Media/images/SoWv41O.jpg"]
+image::SoWv41O-thumb.jpg[title="Colour Coded Chart", alt="Colour Coded Chart", width="300", link="Media/images/adapting_encoding.jpg"]
 
 To communicate the symbol ‘noisy’, for example, the person would first select the block of six symbols containing the symbols ‘animal’, ‘pet’, ‘wild’, ‘sweet’, ‘scary’ and ‘noisy’. To clarify which of those six symbols they wished to communicate, they would then select the pink dot, as the symbol ‘noisy’ is surrounded by a pink border.
 

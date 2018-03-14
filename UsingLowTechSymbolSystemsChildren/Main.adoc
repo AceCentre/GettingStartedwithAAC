@@ -1,5 +1,5 @@
 = Getting Started with AAC: Using Low Tech Symbol Based Systems with Children
-Katharine Buckley
+Ace Centre
 v1.2, 2017-15-03
 :toc: right
 :toclevels: 3
