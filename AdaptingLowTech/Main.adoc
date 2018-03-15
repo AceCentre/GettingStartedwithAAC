@@ -730,7 +730,7 @@ Coded charts can be set up in many different ways, taking into account an indivi
 
 In this more complex example, the first chart contains the target symbols and the second chart is used by the individual to indicate the code. This chart uses a three step code to identify the target symbols. The individual first indicates the quadrant that contains the target symbol by pointing to the corresponding colour, and then identifies the row number of the target and its column colour.
 
-image::adapting_combination-chart-thumb.jpg[title="Complex Target Symbols Chart", alt="Complex Target Symbols Chart", width="300", link="Media/images/adapting_combination-chart.jpg"]
+image::vFxthJj-thumb.jpg[title="Complex Target Symbols Chart", alt="Complex Target Symbols Chart", width="300", link="Media/images/vFxthJj.jpg"]
 
 image::QYVoHyG-thumb.jpg[title="Colour Coded Chart", alt="Colour Coded Chart", width="300", link="Media/images/QYVoHyG.jpg"]
 
@@ -738,7 +738,7 @@ To communicate, ‘different’, the individual would therefore first point to �
 
 [[double-encoded-example]]Again, in the following example, the first chart contains the target symbols and the second chart is accessed by the individual to indicate the code. The chart shown is similar to the previous chart, but here the quadrants are not coloured. In this design, to select a symbol, the individual would first indicate the quadrant containing the target symbol by either eye pointing or fist pointing to the target (in effect therefore, this is an example of <<_chapter_8_combination_access, Combination Access>>. They would then use the second chart to specify which symbol they would like to select from within that quadrant.
 
-image::vFxthJj-thumb.jpg[title="Combination Access Target Symbol Chart", alt="Combination Access Target Symbol Chart", width="300", link="Media/images/vFxthJj.jpg"]
+image::adapting_combination-chart-thumb.jpg[title="Combination Access Target Symbol Chart", alt="Combination Access Target Symbol Chart", width="300", link="Media/images/adapting_combination-chart.jpg"]
 
 image::QYVoHyG-thumb.jpg[title="Colour Coded Chart", alt="Colour Coded Chart", width="300", link="Media/images/QYVoHyG.jpg"]
 
@@ -837,7 +837,7 @@ The simplest way of scanning through options is to offer each option in turn. Ho
 
 This communication chart has been grouped by highlighting rows of symbols. The idea is that you offer each row in turn before offering the individual options along the chosen row.
 
-image::ZKvTEKi-thumb.jpg[title="Chart of grouped symbols", alt="Chart of grouped symbols", width="300", link="Media/images/ZKvTEKi.jpg"]
+image::droppedImage-24-thumb.jpg[title="Chart of grouped symbols", alt="Chart of grouped symbols", width="300", link="Media/images/droppedImage-24.jpg"]
 
 By grouping the symbols, you can communicate options along the bottom row much more quickly than if you simply offered each symbol in turn. Without grouping, you would need to scan through 19 options to get to the symbol ‘slow’. By grouping, you first scan through 4 rows, and then 4 options to get to the symbol ‘slow’. This is a total of 8 options. Grouping really does increase the speed with which symbols can be selected, and therefore the pace of the conversation.
 
