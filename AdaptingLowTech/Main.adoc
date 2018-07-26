@@ -18,16 +18,16 @@ v1.2 2016-10-01
 == Foreword
 The aim of this resource is explore access to low tech symbol based AAC when accessing standard resources is difficult physically or visually. It is aimed at people who are familiar with low tech AAC, but want to find out more about how to adjust and adapt the resources to meet individual needs.
 
-For a more general all round introduction to low tech symbol based AAC, you could see another resource in this AAC Information Series, _Getting Started with AAC: Using low tech symbol based systems with children_.
+For a more general all round introduction to low tech symbol based AAC, you could see another resource in this AAC Information Series, http://aacbooks.net/book2/[Getting Started with AAC: Using low tech symbol based systems with children].
 
-While this resource is all about access to symbol based resources, it is important to also provide individuals with an alphabet chart, to enable them to explore and develop their use of letters. You can find lots more information about how to design and adapt alphabet charts in the resource, _Getting Started with AAC: Designing and using alphabet charts_.
+While this resource is all about access to symbol based resources, it is important to also provide individuals with an alphabet chart, to enable them to explore and develop their use of letters. You can find lots more information about how to design and adapt alphabet charts in the resource, http://aacbooks.net/book1/[Getting Started with AAC: Designing and using alphabet charts].
 
 Please note that this resource is not suggesting that low tech is ‘best’, or that low tech is a prerequisite to a more high tech communication aid. It is simply about valuing the role of paper based communication systems, and sharing lots of ideas and strategies to help develop and support them. You may well find that many of the ideas and strategies are useful when it comes to other forms of communication too.
 
 === Acknowledgements
-This resource was developed through grant funding from the Department for Education National Prospectus Grants Programme 2013-2015. This project involved a consortium of ACE Centre, Communication Matters and 1Voice.
+This resource was developed through grant funding from the Department for Education National Prospectus Grants Programme 2013-2015. This project involved a consortium of Ace Centre, Communication Matters and 1Voice.
 
-Thank you to the people who allowed us to share their stories within this resource. We also would like to thank Ruth McMorran and Marion Stanton of Communication Matters and Deborah Pugh for carefully reviewing the resources and their thoughtful comments.
+Thank you to the people who allowed us to share their stories within this resource. We also would like to thank Ruth McMorran and Marion Stanton of Communication Matters and Deborah Pugh for carefully reviewing the resources and for their thoughtful comments.
 
 (c) Crown copyright 2015
 
@@ -47,7 +47,7 @@ Any enquiries regarding the use and re-use of this information resource should b
 
 === Communication
 
-Communication involves more than just speech. We all use gesture, body language, tone of voice, eye pointing, and so on, to support our communication. A well timed roll of the eyes can sometimes communicate a lot more than a few choice words!!! Augmentative and Alternative Communication simply adds some extra tools into this list of existing skills, supplementing and enhancing skills that are already present.
+Communication involves more than just speech. We all use gesture, body language, tone of voice, eye pointing, and so on, to support our communication. A well timed roll of the eyes can sometimes communicate a lot more than a few choice words! Augmentative and Alternative Communication simply provides some extra tools that can supplement and enhance skills that are already present.
 
 === Low Tech AAC
 
@@ -55,9 +55,7 @@ AAC stands for Augmentative and Alternative Communication. AAC includes strategi
 
 The reason that it is Augmentative and Alternative Communication, rather than just Alternative Communication (two A’s in AAC, rather than one) is to emphasise that AAC is not just for people who cannot speak at all and need an alternative. AAC is also for people who have speech, but whose speech is not sufficient or clear enough for everyone to understand them all of the time. In other words, AAC can augment or support someone’s speech as well as provide an alternative to speech where there is none.
 
-Low tech AAC is AAC that uses some sort of simple equipment that doesn’t involve a battery. In a way it is defined by what it it is not, which is light or high tech AAC. It is often, although not always, made using paper. Examples of low tech AAC include objects of reference, symbol charts and books, alphabet charts, E-tran frames, etc.
-
-Objects of reference in a nursery classroom.
+Low tech AAC is a form of AAC that uses simple materials and doesn’t have voice output.  In a way, it is defined by what it is not – it is not a powered, speaking device.  A better term for low tech AAC would really be ‘no tech’! It is often paper-based, although other materials are sometimes used.   You will find low tech AAC that involves objects of reference, symbols, whole words and letters.  See Gallery 1.1 for some examples of low tech AAC.
 
 [sidebar]
 .Gallery 1.1 Examples of low tech AAC
@@ -76,11 +74,9 @@ image::Activity_AudScan-thumb.jpg[title="An example of a simple communication bo
 image::aud1-thumb.jpg[title="An example of a more complex communication book that is designed to be accessed using auditory scanning.",link="Media/images/aud1.jpg"]
 --
 
-A better term for low tech AAC might be ‘no tech’! Low tech AAC comes in many shapes and forms. However, broadly speaking you will find low tech AAC based around objects of reference, symbols, whole words and letters. The focus of this resource is on access to symbol based low tech AAC. In other words, low tech AAC that is aimed at people whose literacy levels are not sufficient to enable them to rely upon the printed word to support their face-to-face communication.
+The focus of this resource is on access to symbol based low tech AAC. In other words, low tech AAC that is aimed at people whose literacy levels are not sufficient to enable them to rely upon the printed word to support their face-to-face communication.
 
-Light tech AAC (or basic high tech AAC) is AAC that uses simple battery powered equipment. To find out more about what’s available, see SpeechBubble (http://speechbubble.org.uk).
-
-High tech AAC is AAC that uses more complex equipment such as computers, tablets and iPads / iPods. High tech AAC options tend to make use of synthesised speech. To find out more about what’s available, see SpeechBubble (http://speechbubble.org.uk).
+In contrast to low tech AAC, both light tech AAC (or basic high tech AAC) and high tech AAC involve voice output.  Light tech AAC is a term that is used to describe simpler, battery powered devices.  In contrast, the term high tech AAC describes more complex devices like touchscreen computers and tablets.  High tech AAC almost always offers the option of using synthesised (or computer-generated) speech.
 
 While this resource is focused firmly on access to low tech symbol based resources, you may well find that some of the terminology and strategies are useful when considering access to light and high tech AAC as well.
 
@@ -88,9 +84,9 @@ While this resource is focused firmly on access to low tech symbol based resourc
 
 Most of the time symbol based charts and communication books look fairly similar, and are designed to be used by someone who points to symbols to communicate alongside or instead of their speech.
 
-_But what happens if someone can’t simply point to a symbol?_ What if pointing is difficult, or they struggle to see the symbol? This resource is all about how to support access to low tech symbol based AAC when pointing is not easy. For information about supporting access to alphabet charts / text based low tech AAC, see the _Getting Started with AAC: Designing and using alphabet charts resource_.
+But what happens if someone can’t simply point to a symbol? What if pointing is difficult, or they struggle to see the symbol? This resource is all about how to support access to low tech symbol based AAC when pointing is not easy. For information about supporting access to alphabet charts / text based low tech AAC, see the http://aacbooks.net/book1/[Getting Started with AAC: Designing and using alphabet charts] resource.
 
-Of course, by definition, communication involves at least two people! Sometimes the adjustments and adaptations that need to be made to facilitate access are also to do with the needs of regular communication partners, i.e. the people with whom an individual is communicating! For example, if a key communication partner in their life has a visual impairment, you may need to increase the size of font used to enable that person to see what the individual is selecting.
+Of course, by definition, communication involves at least two people. Do bear in mind that sometimes adjustments and adaptations that need to be made to facilitate access to communication may also be affected by the needs of regular communication partners, i.e. the people with whom an individual is communicating. For example, if a key communication partner in their life has a visual impairment, you might need to increase the size of font used to enable that person to easily see what the individual is pointing to.
 
 == Chapter 2: Direct Touch
 
@@ -101,21 +97,19 @@ Of course, by definition, communication involves at least two people! Sometimes 
 * Briefly consider the exchange method
 ****
 
-The term direct touch describes the way someone points to symbols on a chart or page using a bit of their body. It is also known as direct selection and direct access. People most often point using a finger, but sometimes use a fist, elbow, toe, or whatever works best for them. They may also use a pointing tool to facilitate direct touch. You can never generalise when it comes to AAC(!), but on the whole, if someone can access a chart directly, this tends to be the preferred way of selecting letters (the selection method).
+The term direct touch describes an access or selection method whereby someone points to symbols on a chart or page using some part of their body.  People most often point using a finger, but some use a fist, elbow, toe, or whatever works best for them. You can never generalise when it comes to AAC(!), but on the whole, if someone can access a chart or book directly, this tends to be the preferred way of selecting symbols
 
 === Chart Design to Support Direct Touch
 
 When designing a chart or book to meet the needs of someone who uses direct access, you need to take into account their physical and visual skills. This section looks at some of the questions you might ask when considering chart design. As a general rule, try and involve the individual who will be using the chart in its design as much as is possible.
 
-_How are they going to access the chart?_ It could be with a finger, a hand, a fist, an elbow, or some other part of their body altogether. This may affect the size of the chart, the size of the cells in the chart, and / or the amount of space between the items.
+How are they going to access the chart? It could be with a finger, a hand, a fist, an elbow, or some other part of their body altogether. This may affect the size of the chart, the size of the cells in the chart, and / or the amount of space between the items.
 
-This child is using three fingers to clearly indicate their chosen symbol. You can see from this photograph that, while the chart they are using is working well, they would not yet be able to manage any more items on the page, as it would not be clear to a communication partner what was being selected.
+TThe child shown in Figure 13 is using three fingers to clearly indicate their chosen symbol. You can see from this photograph that, while the chart they are using is working well, they would not yet be able to manage any more items on the page, as it would not be clear to a communication partner what was being selected.
 
-image::Jl8UFlB-thumb.jpg[title="Chart Design", alt="Chart Design", width="300", link="Media/images/Jl8UFlB.jpg"]
+image::Jl8UFlB-thumb.jpg[title="Direct Touch using three fingers", alt="Chart Design", width="300", link="Media/images/Jl8UFlB.jpg"]
 
-The use of space is really important in chart design. Here are two versions of the same balloons chart, one with larger symbols, and the other with slightly smaller symbols with more space between them. The changes are subtle, but can make all the difference. Increasing the amount of space between cells can also help make a chart feel less cluttered visually.
-
-A ‘standard’ symbol chart.
+The use of space is really important in chart design. Here are two versions of the same balloons chart, one with larger symbols, and the other with slightly smaller symbols with more space between them. The changes are subtle, but the increased use of space can make a big difference to the communication partner’s ability to work out what symbol is being pointed to. Increasing the amount of space between cells can also help make a chart feel less cluttered visually.
 
 [sidebar]
 .Gallery 2.1 Using space to support direct touch
@@ -126,7 +120,6 @@ image::Balloons_bigger_gaps_copy_2-thumb.jpg[title="The same chart, now with inc
 
 How someone accesses the chart might also affect the shape of the chart itself. While charts are often designed as a rectangular grid, chart design software is now flexible enough to be creative with shapes when needed. For example, here’s a chart that has been designed for someone who likes to rest their hand in the centre of the chart and then make small movements towards each cell.
 
-The hand resting on the chart.
 
 [sidebar]
 .Gallery 2.2 Use of shape to support direct touch
@@ -135,15 +128,13 @@ image::fist_point_1-thumb.jpg[title="The hand resting on the chart",link="Media/
 image::fist-point-2-thumb.jpg[title="Selecting the 'help' symbol",link="Media/images/fist-point-2.jpg"]
 --
 
-_How far can someone reach?_ Is it easier to access items in certain areas? If so, you will need to take this into account with your chart design and in its positioning. For example, if someone is able to access symbols everywhere on a page but finds it a little easier to touch symbols on the left hand side of a chart, you might ensure that the most useful words / symbols are on the left, and the ones that are used less often are placed on the right. Alternatively, if someone finds it easier to select symbols with their right hand, you might want to place the chart or communication book on the right hand side of their wheelchair tray.
+How far can someone reach? Is it easier to access items in certain areas? If so, you will need to take this into account with your chart design and in its positioning. For example, if someone is able to access symbols everywhere on a page but finds it a little easier to touch symbols on the left hand side of a chart, you might ensure that the most useful words / symbols are on the left, and the ones that are used less often are placed on the right. : For example, if someone finds it easier to select symbols with their right hand, you might want to ensure that the chart or communication book is placed on the right hand side of a table or tray.
 
-_How many different areas can someone point to on a page?_ As a general rule, the more vocabulary that is on a single page the better as it reduces the page turns that are required, which can help keep communication flowing. It also gives the communication partner easy access to more vocabulary to use when modelling use of the chart (see _Getting Started with AAC: Using low tech symbol based systems with children_ for more information about communication partner skills).
+How many different areas can someone point to on a page? As a general rule, the more vocabulary that is on a single page the better as it reduces the page turns that are required, which can help keep communication flowing. It also gives the communication partner easy access to more vocabulary to use when modelling use of the chart (see Chapter 8 of https://aacbooks.net/book2/[Getting Started with AAC: Using low tech symbol based systems with children] for more information about communication partner skills).
 
-However, this will need to be balanced against the physical and visual skills of the person accessing the chart. If you cannot place enough vocabulary on a single page to meet their language needs, you will need to design a system that incorporates page turns and provides ways of moving easily between pages.
+However, this will need to be balanced against the physical and visual skills of the person accessing the chart. If you cannot place enough vocabulary on a single page to meet their language needs, you will need to design a system that incorporates page turns and provides ways of moving easily between pages. Alternatively, you might want to think about using <<_chapter_5_encoding,encoding>> to increase the amount of information on a page, or look at another access method such as <<eye-pointing, Eye Pointing>>, <<coded-access, Coded Access>>, <<listener-mediated-scanning, Listener Mediated Scanning>> or <<combination-access, Combination Access>>.
 
-Alternatively, you might want to think about using <<_chapter_5_encoding,encoding>> to increase the amount of information on a page, or look at another access method such as <<eye-pointing, Eye Pointing>>, <<coded-access, Coded Access>>, <<listener-mediated-scanning, Listener Mediated Scanning>> or <<combination-access, Combination Access>>.
-
-_How well can the individual see?_ This will impact on the symbols chosen, the size of the materials presented, the amount of material on a page, the use of colour, and how / where the chart is positioned. See <<_chapter_3_visual_difficulties>> for more information.
+How well can the individual see? This will impact on the symbols chosen, the size of the materials presented, the amount of material on a page, the use of colour, and how / where the chart is positioned. See <<_chapter_3_visual_difficulties>> for more information.
 
 === Tools and Strategies to Support Direct Touch
 
@@ -155,7 +146,7 @@ Sometimes an individual may need help to learn that one particular finger is in 
 
 As a temporary teaching tool, a sticker or some nail varnish on the fingernail of the pointing finger can help to signal to the individual (and their communication partner) what to pay attention to. Alternatively, for someone who is happy to wear a glove, you could try cutting off the end of the glove’s pointing finger.
 
-When learning new skills, it can be a good idea to try to avoid the pressure of attempting to communicate something really important. Instead, you could practise pointing with a playbased communication chart around a game like Simon Says. There is a great reaction to whatever is pointed to, but if there are any mistakes or uncertainties, this will not result in someone being given a snack that they dislike or going on an outing that they didn’t want to go on. Try and feedback to the individual where you think they are pointing to, to further reinforce their learning.
+When learning new skills, it can be a good idea to try to avoid the pressure of attempting to communicate something really important. Instead, you could practise pointing with a play-based communication chart around a game like Simon Says. There is a great reaction to whatever is pointed to, but if there are any mistakes or uncertainties, this will not result in someone being given a snack that they dislike or going on an outing that they didn’t want to go on. Try and feedback to the individual where you think they are pointing to, to further reinforce their learning.
 
 image::wWhd2Yl-thumb.jpg[title="Simon Says Chart", alt="Simon Says Chart", width="300", link="Media/images/wWhd2Yl.jpg"]
 
@@ -165,7 +156,7 @@ Charts and books are often presented flat on a table or on a wheelchair tray. Ho
 
 This is a junior writing slope produced by Posturite - see http://posturite.co.uk.
 
-image::fVYxjNb-thumb.jpg[title="Writing Chart", alt="Writing Chart", width="300", link="Media/images/fVYxjNb.jpg"]
+image::fVYxjNb-thumb.jpg[title="Writing Slope by Posturite", alt="Writing Chart", width="300", link="Media/images/fVYxjNb.jpg"]
 
 ==== Non-Slip Material
 
@@ -179,11 +170,9 @@ A <<keyguard, keyguard>> is a cover that fits over a keyboard or computer screen
 
 Although keyguards are most commonly used with computer keyboards or touchscreen devices, it is possible to make a keyguard for a symbol chart or for use with pages within a book. A keyguard could be made from Perspex®, wood, or even cardboard. The downside is that there are few options commercially available.
 
-This is an example of a keyguard for a low tech communication chart that has been developed by Logan Technologies (http://logan-technologies.co.uk/). They may also be able to design a keyguard to fit your own customised symbol chart.
+image::gLfhgLM-thumb.jpg[title="Custom Keyguard from Logan Technologies", alt="Keyguard", width="300", link="Media/images/gLfhgLM.jpg"]
 
-image::gLfhgLM-thumb.jpg[title="Keyguard", alt="Keyguard", width="300", link="Media/images/gLfhgLM.jpg"]
-
-If ACE Centre becomes aware of other options for customised keyguards for low tech resources in the UK, they have undertaken to share the information on their website - http://acecentre.org.uk.
+Figure 20 shows a keyguard for a low tech communication chart that has been developed by Logan Technologies (logan-technologies.co.uk).  They are able to design custom keyguards for use with symbol charts.  Ace Centre also offers this service (acecentre.org.uk).
 
 ==== Pointing Tools
 
@@ -193,50 +182,47 @@ Pointing tools are often designed to help people with disabilities type or make 
 .Gallery 2.3 Examples of pointing tools
 --
 image::Slip-on-Typing-aid-thumb.jpg[title="This is an example of a typing aid.",link="Media/images/Slip-on-Typing-aid.jpg"]
-image::AliMed-typing-aid-thumb.jpg[title="This is a typing aid that is available in the UK from AliMed (see www.amazon,co.uk).",link="Media/images/AliMed-typing-aid.jpg"]
-image::tbar-thumb.png[title="This T-bar stylus is available from www.dadinashed.com. It has been designed to facilitate access to a tablet screen, but can also be used as a pointing tool to low tech AAC.  ",link="Media/images/tbar.png"]
+image::AliMed-typing-aid-thumb.jpg[title="AliMed typing aid (available in the UK from ketteringsurgical.com) .",link="Media/images/AliMed-typing-aid.jpg"]
+image::tbar-thumb.png[title="This T-bar stylus is one of a range of accessible styli available from dadinashed.com. It has been designed to facilitate access to a tablet screen, but can also be used as a pointing tool to access low tech AAC.",link="Media/images/tbar.png"]
 --
 Occasionally people choose to use a stick mounted to a headband to point to symbols. This one is available from http://dadinashed.com.
 
-image::xfpAOEc-thumb.png[title="Laser Pointer", alt="Laser Pointer", width="300", link="Media/images/xfpAOEc.png"]
+image::xfpAOEc-thumb.png[title="Head Pointer from dadinashed.com", alt="Laser Pointer", width="300", link="Media/images/xfpAOEc.png"]
 
 ==== Laser Pointer
 
-Another way of ‘pointing’ to a chart is to use a <<laser-pointer, Laser Pointer>>. These tend to be designed to help presenters indicate key points on their PowerPoint presentations. However, some people choose to use them to point to symbols on a chart.
-
-The easiest way to do this is to attach a small laser pointer to a pair of glasses. The person gently moves their head to direct the laser beam onto the symbols on a chart. However, the laser pointer could be handheld, or attached to the body in another way.
-
-To avoid damage to eyes, make sure you choose an ‘eye-safe’ laser.
-
-You can view a video of someone using a laser pointer to access an alphabet chart with whole words here http://youtube.com/watch?v=AooDQOzdOyE#t=24.
+Another way of pointing to a chart is to use an eye-safe laser pointer. The laser beam is directed so that it highlights the symbol you wish to select. Eye-safe laser pointers are designed to help presenters highlight key points when delivering presentations and are therefore relatively easy to source.
+An eye-safe laser pointer can simply be held in the hand. However, it can also be used to facilitate selection using head movement, or indeed any other part of the body.  A fairly discreet option is to attach the laser pointer to a pair of glasses or a headband.
+You can view a video of someone using a laser pointer to access an alphabet chart with whole words here youtube.com/watch?v=AooDQOzdOyE#t=24.  You will notice that the alphabet chart in the video is raised up rather than flat.  A simple way to replicate this is to use a recipe book or iPad stand, although other mounting options are possible.
 
 ==== Pick Up and Show
 
 Pick up and show involves someone picking up a symbol and showing it to someone. Just occasionally, someone may find it easier to grab a symbol that is Velcroed™ to a page and pull it off than they do to point to a specific symbol on a page. Pick up and show materials can look similar to PECS® (see <<_exchange, Exchange>>) materials, but are they used quite differently in that there is no requirement to exchange the symbol. The individual merely shows the symbol to the communication partner.
 
-To keep track of symbols, and to assist with motor learning, it is helpful to ensure that the symbols are always put back in the same place. The easiest way to do this is to print two copies of a communication chart. One copy is cut up into the individual symbols, and these are laminated. The other copy is laminated without being cut up. The individual symbols are then Velcroed™ onto their corresponding symbol on the laminated communication chart.
+To keep track of symbols, and to assist with motor learning, it is helpful to ensure that the symbols are always put back in the same place on the chart. The easiest way to achieve this is to print two copies of the communication chart. One copy is cut up into the individual symbols, and these are laminated and cut out. The other copy is laminated without being cut up. The individual symbols are then Velcroed™ onto their corresponding symbol on the full communication chart.  That way, it is simply a case of matching up the symbols when returning them to the chart.
 
 In this example, you can see that the symbol ‘like’ has been picked up. The corresponding ‘like’ symbol on the laminate sheet is just visible.
 
 image::hLQncx3-thumb.jpg[title="Pick Up and Show", alt="Pick Up and Show", width="300", link="Media/images/hLQncx3.jpg"]
 
-As pick up and show resources are developed into a communication book, there can be some issues around managing the materials. It is easy to lose symbols in this system, for example, and communication books can quickly become bulky. See the section on <<_exchange, Exchange>> for more discussion around such issues.
+As pick up and show resources are developed into a communication book, there can be some issues around managing the materials. It is easy to lose symbols in this system, for example, and communication books can quickly become bulky. See the section on <<_exchange, Exchange>> for more discussion around this.
 
 ==== Help with Page Turning
 
-When using a few communication charts or a full communication book, some people who are able to direct access need a bit of extra help to turn the pages. One strategy is to make use of your communication partner, and have an agreed way of indicating to them that you would like them to turn the page – perhaps a special symbol on the page, a gesture, etc. However, some people find putting spacers between each page makes it easier to turn the pages themselves (e.g. self-adhesive foam squares or craft glue dots). Others find that sticking lolly sticks (available in packs from craft shops so you don’t need to eat too many ice lollies – unless you want to!) to the back of each page helps them to flick the pages over. Laminating the pages can also help make them sturdier and easier to turn, although do bear in mind that gloss laminate can make the pages harder to see, so try to use matt pouches if possible. There are some great ideas here http://atclassroom.blogspot.co.uk/2010/07/pagefluffing.html
+When using a few communication charts or a full communication book, some people who are able to direct access need a bit of extra help to turn the pages. One strategy is to make use of your communication partner, and have an agreed way of indicating to them that you would like them to turn the page – perhaps a special symbol on the page, a gesture, etc.
+Another approach is to use page spacers.  For some, a spacer stuck to the back of each page means that they then slide their finger into the space and flick the page over more easily.  Examples of materials that you can use as a page spacer include self-adhesive foam squares, craft glue dots, the soft (female) Velcro™ dots or even the felt dots that are used on the bottom of furniture to protect floors. Others find that sticking lolly sticks (available in packs from craft shops so you don’t need to eat too many ice lollies – unless you want to!) to the back of each page helps them to flick the pages over. Laminating the pages can also help make them sturdier and easier to turn, and is definitely worth doing if you are using spacers or lolly sticks.  As always, matt laminate is recommended as glossy laminate can make the pages harder to see. There are some great ideas around using spacers here  atclassroom.blogspot.co.uk/2010/07/page-fluffing.html.
 
 === Exchange
 
-Exchange is a slightly different form of direct access. Exchange is a method of using low tech AAC which requires the person to hand over a symbol to their communication partner. Typically the symbols will be laminated with Velcro™ on the back, and presented either on a board or within a book. It is particularly useful for individuals who are not able to understand that pointing to symbols can be communicative. Symbols can be pulled out and arranged on a sentence strip.
+Exchange is a slightly different form of direct access. Exchange is a method of using low tech AAC which requires the person to hand over a symbol to their communication partner. Typically the symbols will be laminated with Velcro™ on the back, and presented either on a board or within a book. It is particularly useful for individuals who are not able to understand that pointing to symbols can be communicative. Individual symbols can be handed to a communication partner in return for an item, or as the system develops, a sequence of symbols can be placed on a separate sentence strip which is then handed over.
 
 The most well known form of exchange is PECS® (Picture Exchange Communication System). PECS® is a communication system that has been designed to support people who have autism or who are on the autistic spectrum and need to learn the purpose of communication. It is a six stage process that is widely used in the UK.
 
-You can find out much more about PECS® at http://pecsunitedkingdom.com/.
+You can find out much more about PECS® at http://pecs-unitedkingdom.com/.
 
 This is an example of a PECS® style communication book.
 
-image::F6LL5bs-thumb.jpg[title="PECS style Communication", alt="PECS style Communication", width="300", link="Media/images/F6LL5bs.jpg"]
+image::F6LL5bs-thumb.jpg[title="PECS style communication book with sentence strip", alt="PECS style Communication", width="300", link="Media/images/F6LL5bs.jpg"]
 
 While PECS®, and other exchange systems, can be hugely beneficial for some, there are some [[practical-disadvantages]]practical disadvantages to such systems.
 
@@ -244,7 +230,7 @@ By placing Velcro™ on the back of each symbol, it is inevitable that the commu
 
 As a general rule, the process of picking up the symbol takes more time than simply pointing to it. This can make the communication process slower, particularly if someone finds the act of picking up a symbol physically tricky. It can be further slowed by the additional time taken to construct a sentence and then replace each symbol in the book.
 
-Given these limitations, it is worth thinking carefully before introducing an exchange based communication system. For some, the process of exchange is essential to their becoming a successful communicator. For others, exchange may be a part of their journey towards being able to use a pointing based communication system in the future. For a discussion around moving on from PECS®, have a look at Gresswell and Moore’s article in the Communication Matters journal in April 2006 http://communicationmatters.org.uk/page/cmj-2006.
+Given these limitations, it is worth thinking carefully before introducing an exchange based communication system. For some, the process of exchange is essential to their becoming a successful communicator. For others, exchange may be a part of their journey towards being able to use a pointing based communication system in the future. For a discussion around moving on from PECS®, have a look at Gresswell and Moore’s article in the Communication Matters journal in April 2006 https://communicationmatters.org.uk/sites/default/files/downloads/cmjournals/cmj_vol_20_no_1.pdf.
 
 == Chapter 3: Visual Difficulties
 
@@ -257,15 +243,17 @@ Given these limitations, it is worth thinking carefully before introducing an ex
 
 Visual difficulties can involve problems with the mechanics of seeing (acuity), but also with the processing of visual information.
 
-Visual difficulties can have a big impact on someone’s ability to make use of a symbol based chart or communication book. Symbols and symbol charts can be busy and detailed, and visual skills play a hugely important part in learning what they mean and how to use them.
+Visual difficulties can have a significant impact on someone’s ability to make use of a symbol based chart or communication book. Symbols and symbol charts can be busy and detailed, and visual skills play a hugely important part in learning what they mean and how to use them.
 
 Reports from relevant professionals can be an invaluable source of information. A child in school may have support from an advisory teacher for vision impairment, for example. Do seek their advice on how best to present information. Visual difficulties are often poorly understood. <<cortical-visual-impairment, Cortical Visual Impairment>> can be particularly challenging to understand, as visual skills can fluctuate and change / develop over time. It’s important to document what you think someone is seeing and their visual behaviours to help you, and others, build up a clearer picture of the impact of any visual difficulties. In practice, chart design for someone with a visual difficulty is likely to involve a bit of trial and error along the way!
 
-Christine Roman-Lantzy’s book Cortical Visual Impairment: An Approach to Assessment and Intervention may be a useful resource for anyone seeking to understand more about visual difficulties.
+Christine Roman-Lantzy’s book _Cortical Visual Impairment: An Approach to Assessment and Intervention_ may be a useful resource for anyone seeking to understand more about visual difficulties.
 
 Do bear in mind that some individuals may have undiagnosed colour blindness, particularly since screening for this is no longer standard in the UK. Although predominantly affecting boys, occasionally girls can be affected. If a person is found to be colour blind, this information can be used to adjust the colours used within a communication chart so that it is as visually accessible as possible. See http://colourblindawareness.org for more information.
 
-Finally, it is worth remembering that just because someone wears glasses, does not mean that they don’t have additional visual processing difficulties, so do ask questions. Also bear in mind that someone may have glasses, but choose not to wear them! In such cases it’s worth seeking to understand what that person can see without their glasses on, and then adapting the symbol and font size accordingly.
+It is worth remembering that just because someone wears glasses, does not mean that they don’t have additional visual processing difficulties, so do ask questions. Also bear in mind that someone may have glasses, but choose not to wear them! In such cases it’s worth seeking to understand what that person can see without their glasses on, and then adapting the symbol and font size accordingly.
+
+As discussed above, communication involves at least two people.  You may also need to take the visual abilities of regular communication partners into account, as they need to be able to see what is being selected for communication to succeed.
 
 There are lots of factors that can be varied to accommodate visual difficulties, including size of symbols / text, use of spacing on a page, type of symbol used, use of colour (both within symbols and on the page), shape and positioning of the chart. Ultimately, if visual access to symbols is too difficult, then an alternative strategy such as <<auditory-scanning, auditory scanning>> may be considered.
 
@@ -273,21 +261,17 @@ There are lots of factors that can be varied to accommodate visual difficulties,
 
 ==== Laminate
 
-Communication charts and book pages are often laminated to make them more robust and easier to use. In situations where there is lots of overhead lighting, it’s well worth making use of matt laminate rather than gloss laminate pouches, as the latter reflect the overhead lighting which can cause quite a significant visual distortion.
+Communication charts and book pages are often laminated to make them more robust and easier to use. In situations where there is lots of overhead lighting, it is well worth making use of matt laminate rather than gloss laminate pouches, as the latter reflect the overhead lighting which can cause quite a significant visual distortion.
 
 An alternative is to print the chart or pages on so-called ‘indestructible’, tear-proof or waterproof paper.
 
 ==== Clarity of Photographs
 
-Photographs often have a role to play in a symbol based communication system. Photographs of people, specific places, specific toys and games, etc. can be easier to recognise than a more generic symbol, for example.
+Photographs often have a role to play in a symbol based communication system. Photographs of family and friends, specific places, and specific toys and games, can be easier to recognise than a more generic symbol, for example.
 
 If photographs are being used, it is important to consider how clear they are as a badly taken photograph can actually be far harder to learn and use than a clearly drawn symbol. For example, it is much easier to recognise an object or a person from a photograph if the picture is taken against a clear / plain background as opposed to a ‘busy’ background. This is especially important when using photographs on a communication chart, as they can end up being really quite small.
 
 This simple example highlights the difference in clarity between two photographs of the same game, one taken on a plain background, the other against a ‘busy’ toy shelf.
-
-This photograph is taken with the game against a cluttered
-toy shelf. The game itself is rather lost amongst all the
-other toys.
 
 [sidebar]
 .Gallery 3.1 An illustration of the importance of taking clear photographs
@@ -298,11 +282,14 @@ image::photo-plain-thumb.jpg[title="This photograph is taken with the game place
 
 ==== Colour or Black and White Symbols
 
-Most symbol libraries are in full colour, although the Makaton® library is exclusively black and white. Some resource-making software will enable you to use a black and white version of a symbol. This can make the symbol cleaner, and some individuals may prefer this. For some, the colour in a symbol can be visually distracting, and they may focus on the colour, rather than the picture as a whole. Someone on the autistic spectrum, for example, might have a strong preference for, or dislike of, a specific colour that might get in the way of them using the symbol communicatively.
+While most symbol libraries are drawn in full colour (with the exception of the Makaton® library which is exclusively black and white), it is worth bearing in mind that some of the resource-making software will in fact enable you to produce black and white versions of the symbols.  Whether you use colour or black and white versions really comes down to the needs of the individual.
 
-However, for some, colour is hugely useful in helping them to identify the picture. In the example below, the fact that the juice in the glass and the circular fruit next to it are coloured ‘orange’ may make it easier for someone to understand that the symbol is representing orange juice. The example below shows the colour version of a number of PCS symbols alongside their black and white counterparts.
+image::jAwM4Mz-thumb.jpg[title="Colour vs. Black and White versions of four PCS symbols", alt="Colour and Black and White Symbols", width="300", link="Media/images/jAwM4Mz.jpg"]
 
-image::jAwM4Mz-thumb.jpg[title="Colour and Black and White Symbols", alt="Colour and Black and White Symbols", width="300", link="Media/images/jAwM4Mz.jpg"]
+Colour can of course be very useful in helping to identify the meaning of the symbol.  In Figure 29, the fact that the juice in the glass and the circular fruit next to it are coloured orange make it more immediately obvious that the symbol is representing orange juice.  The use of coloured symbols might also assist in finding individual symbols on a busy array as the colour enhances the differences between them.
+
+However, for some individuals, the colour in the symbol may be visually distracting, and the use of black and white may make the symbol appear cleaner and easier to see.  For someone on the autistic spectrum with a strong preference for or dislike of a specific colour, then use of that colour in the symbol may even get in the way of them using the symbol communicatively.
+
 
 ==== Use of Colour on a Page
 
@@ -310,14 +297,11 @@ Visual accessibility can be increased by using a high level of contrast between 
 
 In the example below, the black page background may help the yellow cells containing the symbols to stand out.
 
-image::gZNXVts-thumb.jpg[title="Colour on a Page", alt="Colour on a Page", width="300", link="Media/images/gZNXVts.jpg"]
+image::gZNXVts-thumb.jpg[title="Use of high contrast Colours on a Page", alt="Colour on a Page", width="300", link="Media/images/gZNXVts.jpg"]
 
 Background colour can also help someone with visual difficulties (or indeed anyone really) navigate through a busy communication book, as they can look out for the ‘blue chat page’, or the ‘yellow people page’, for example.
 
-In this communication book, the core vocabulary on the
-left is always on a pale yellow page background. The topic
-vocabulary is on the right. This example ‘meals page’ has a
-bright yellow background.
+The communication book in Gallery 3.2 uses colour to identify different topic pages.
 
 [sidebar]
 .Gallery 3.2 Background colour to help navigation
@@ -340,7 +324,7 @@ PCS have also produced a set of symbols called PCS High Contrast that were desig
 
 image::qQ0re6q-thumb.jpg[title="PCS High Contrast Symbols", alt="PCS High Contrast Symbols", width="300", link="Media/images/qQ0re6q.jpg"]
 
-See http://mayer-johnson.com/pcs-classic-high-contrast for more information.
+See https://mayer-johnson.com/collections/pcs-collections/products/pcs-high-contrast-vol1-cd-win-mac  for more information.
 
 ==== Chart Design
 
@@ -348,7 +332,7 @@ Alongside the choice of symbols and the use of colour, you will want to give car
 
 ==== Positioning
 
-Here, it is very important to understand how someone sees things. To enable you to position materials so that visual access is optimised, you will need to think about the distance between the person and where the materials are being presented. You may also want to consider where in their visual field they see best, and present the low tech resources accordingly. Once you have determined which position is best to facilitate optimum visual access, this could be documented in <<_chapter_11_communication_passports_drawing_it_all_together, Communication Passports>>.
+To enable you to position materials so that visual access is optimised, you will need to think about the distance between the person and where the materials are being presented. You may also want to consider where in their visual field they see best, and present the low tech resources accordingly. Once you have determined which position is best to facilitate optimum visual access, this could be documented in their <<_chapter_11_communication_passports_drawing_it_all_together, Communication Passport>>.
 
 ==== Consistency
 
@@ -843,7 +827,7 @@ By grouping the symbols, you can communicate options along the bottom row much m
 
 .Video 7.4 Listener mediated scanning of a symbol chart grouped by rows
 video::VuqZdrEHO0s[youtube, width=300, height=180]
-
+video::v=nlwzqXciEo[youtube, width=300, height=180]
 A demonstration of the train play chart shown above.
 
 As with <<_chapter_6_coded_access, Coded access>>, there are lots of different ways of grouping information. You might do it by quadrants, rows, or columns - whatever works best for the individual.
