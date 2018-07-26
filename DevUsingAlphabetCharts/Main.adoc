@@ -457,13 +457,9 @@ Some people use a combination of different access methods depending upon mood / 
 
 ==== Facilitated Communication
 
-<<facilitated-communication, *“Facilitated communication (FC)*>>  or Facilitated Communication Training (FCT) as described by Rosemary Crossley who is credited with being the originator, is a technique in which physical, communication, and emotional support is provided by a facilitator to an individual with a communication disorder (communicator). With assistance, the communicator points to symbols such as letters, pictures and/or objects.”  American Speech-Language Hearing Association (ASHA). The assistance often consists of providing backward resistance for the communicator to push against creating a steadying effect so that they can accurately point to their target.
+<<facilitated-communication, *“Facilitated communication (FC)*>>  or Facilitated Communication Training (FCT) as described by Rosemary Crossley, who is credited with being the originator, is a technique in which physical, communication, and emotional support is provided by a facilitator to an individual with a communication disorder (communicator). With assistance, the communicator points to symbols such as letters, pictures and/or objects.” American Speech-Language Hearing Association (ASHA). The assistance often consists of providing backward resistance for the communicator to push against creating a steadying effect so that they can accurately point to their target.
 
-For more information about Facilitated Communication see http://www.candleaac.com/a_brief_guide_to_fct.htm.
-
-Because of the physical input of another person into the construction of the message, there have been anxieties around the integrity of this access method.  ISAAC (The International Society for Augmentative and Alternative Communication) released a position statement in July 2014 that states that they do not support FC as a valid form of AAC or a valid access method. This position statement was produced after a committee of researchers carried out a literature review of research that examined authorship and the discussions of the committee were confined to this aspect of FC/FCT.
-
-CandLE is a national AAC organisation that has a lot of expertise in this area.  CandLE has developed an alternative approach called Motor Planning Training (MPT).  No claims are made in relation to authorship, which are the grounds upon which ISAAC dismissed the FC/FCT approach.  You can find out more at http://www.candleaac.com.
+Because of the physical input of another person into the construction of the message, there have been anxieties concerning the integrity of this access method. The International Society for Augmentative and Alternative Communication (ISAAC) released a position statement in July 2014 stating that they do not support FC as a valid form of AAC or a valid access method. This position statement was produced after a committee of researchers carried out a literature review of research that examined who was actually composing the message, and the discussions of the committee were confined to this aspect of FC/FCT.
 
 == Chapter 3: Arranging Letters on an Alphabet Chart
 
@@ -622,6 +618,7 @@ You can http://jasonbecker.com/VocalEyesCommunicate.pdf[download the Vocal Eyes 
 ===== In Summary - Encoding
 ****
 *Why consider encoding?*
+
 Encoding can open up direct access to someone who is not able to refine their movements enough to point to 26 discrete letters.
 
 Encoding can make it easier to read eye pointing.
