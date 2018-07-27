@@ -105,7 +105,7 @@ When designing a chart or book to meet the needs of someone who uses direct acce
 
 How are they going to access the chart? It could be with a finger, a hand, a fist, an elbow, or some other part of their body altogether. This may affect the size of the chart, the size of the cells in the chart, and / or the amount of space between the items.
 
-TThe child shown in Figure 13 is using three fingers to clearly indicate their chosen symbol. You can see from this photograph that, while the chart they are using is working well, they would not yet be able to manage any more items on the page, as it would not be clear to a communication partner what was being selected.
+The child shown in Figure 13 is using three fingers to clearly indicate their chosen symbol. You can see from this photograph that, while the chart they are using is working well, they would not yet be able to manage any more items on the page, as it would not be clear to a communication partner what was being selected.
 
 image::Jl8UFlB-thumb.jpg[title="Direct Touch using three fingers", alt="Chart Design", width="300", link="Media/images/Jl8UFlB.jpg"]
 
@@ -119,7 +119,6 @@ image::Balloons_bigger_gaps_copy_2-thumb.jpg[title="The same chart, now with inc
 --
 
 How someone accesses the chart might also affect the shape of the chart itself. While charts are often designed as a rectangular grid, chart design software is now flexible enough to be creative with shapes when needed. For example, here’s a chart that has been designed for someone who likes to rest their hand in the centre of the chart and then make small movements towards each cell.
-
 
 [sidebar]
 .Gallery 2.2 Use of shape to support direct touch
